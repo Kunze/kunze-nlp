@@ -1,0 +1,910 @@
+﻿O_ART chamado_PCP cruzamento_N é_V feito_PCP no_PREP+ART Brasil_NPROP para_PREP unir_V a_ART rusticidade_N do_PREP+ART gado_N nelore_ADJ com_PREP a_ART produtividade_N do_PREP+ART limousin_N ._END
+O_ART objetivo_N é_V melhorar_V a_ART qualidade_N da_PREP+ART carne_N ._END
+Yamin_NPROP vendeu_V o_ART pardo-_N suíço_N no_PREP+ART sistema_N conhecido_PCP como_PREP "_PU feilão_N "_PU ._END
+Nele_PREP+PROPESS ,_PU cada_PROADJ animal_N é_V ofertado_PCP com_PREP um_ART preço_N mínimo_ADJ fixado_PCP pelo_PREP+ART empresário_N ._END
+Quem_PROSUB pagar_V o_ART valor_N solicitado_PCP leva_N o_ART animal_N para_PREP casa_N ._END
+Feilão_NPROP Corona_NPROP de_NPROP Holandês_NPROP :_PU Dia_N 14_N de_PREP maio_N ,_PU na_PREP+ART fazenda_N São_NPROP Judas_NPROP Tadeu_NPROP do_NPROP Chapadão_NPROP ,_PU em_PREP Porto_NPROP Feliz_NPROP (_PU SP_NPROP )_PU ._END
+Remate_NPROP Leilões_NPROP ,_PU tel_N ._END
+(_PU 011_N 872-1722_N ._END
+O_ART motivo_N ,_PU diz_V Lair_NPROP Antônio_NPROP de_NPROP Souza_NPROP ,_PU vice-presidente_N da_PREP+ART comissão_N ,_PU foi_V pedir_V a_ART intermediação_N do_PREP+ART governo_N para_PREP se_PROPESS chegar_V a_PREP um_ART consenso_N com_PREP as_ART indústrias_N na_PREP+ART conversão_N para_PREP URV_NPROP dos_PREP+ART preços_N do_PREP+ART leite_N ._END
+"_PU Dallari_NPROP propôs_V a_ART negociação_N direta_ADJ da_PREP+ART comissão_N com_PREP as_ART indústrias_N ,_PU que_PRO-KS estão_V dando_V atenção_N às_PREP+ART nossas_PROADJ reivindicações_N "_PU ,_PU diz_V Lair_NPROP ._END
+Segundo_PREP ele_PROPESS ,_PU a_ART comissão_N está_V reivindicando_V preço_N de_PREP 0,29_NUM URV_N para_PREP o_ART litro_N tipo_N C_N ._END
+Hoje_ADV ,_PU diz_V Lair_NPROP ,_PU as_ART indústrias_N pagam_V 0,24_NUM URV_N ._END
+"_PU O_ART preço_N de_PREP 0,29_NUM URV_N pedido_PCP é_V baseado_PCP em_PREP planilha_N da_PREP+ART Embrapa_NPROP (_PU Empresa_NPROP Brasileira_NPROP de_NPROP Pesquisa_NPROP Agropecuária_NPROP )_PU "_PU ,_PU afirma_V Lair_NPROP ._END
+Exemplo_N :_PU leite_N entregue_PCP entre_PREP os_ART dias_N 1_N e_KC 30_N de_PREP abril_N seria_V pago_PCP em_PREP 10_N de_PREP maio_N ._END
+Com_PREP US$_CUR 300_NUM mensais_ADJ é_V possível_ADJ manter_V um_ART cavalo_N de_PREP corrida_N na_PREP+ART vila_N hípica_ADJ ._END
+Maringá_NPROP (_PU PR_NPROP )_PU compra_V sementes_N na_PREP+ART Argentina_NPROP e_KC amplia_V plantio_N de_PREP canola_N ._END
+A_ART expansão_N de_PREP 101_NUM %_N da_PREP+ART cultura_N de_PREP amendoim_N nos_PREP+ART últimos_ADJ cinco_NUM anos_N na_PREP+ART região_N de_PREP Ribeirão_NPROP Preto_NPROP ,_PU registrada_PCP pelo_PREP+ART Instituto_NPROP de_NPROP Economia_NPROP Agrícola_NPROP (_PU Iea_NPROP )_PU da_PREP+ART Secretaria_NPROP da_NPROP Agricultura_NPROP de_NPROP São_NPROP Paulo_NPROP ,_PU é_V resultado_PCP do_PREP+ART casamento_N perfeito_ADJ com_PREP a_ART cana_N ._END
+A_PREP cada_PROADJ ciclo_N de_PREP produção_N da_PREP+ART cana_N (_PU cinco_NUM cortes_N )_PU ,_PU o_ART amendoim_N é_V cultivado_PCP para_PREP descompactar_V e_KC nitrogenar_V o_ART solo_N ._END
+Com_PREP a_ART maioria_N dos_PREP+ART produtores_N da_PREP+ART região_N utilizando_V a_ART mesma_PROADJ estrutura_N tecnológica_ADJ da_PREP+ART cana_N (_PU cooperativa_N ,_PU agroindústria_N e_KC pesquisa_N )_PU ,_PU o_ART custo_N médio_ADJ de_PREP produção_N de_PREP uma_NUM saca_N de_PREP amendoim_N caiu_V de_PREP US$_CUR 7_NUM para_PREP cerca_PREP de_PREP US$_CUR 5_NUM ._END
+Os_ART agricultores_N da_PREP+ART região_N que_PRO-KS mais_ADV investem_V em_PREP tecnologia_N devem_V colher_V nesta_PREP+PROADJ safra_N até_PREP 170_NUM sacas_N de_PREP amendoim_N por_PREP hectare_N ,_PU 62_NUM sacas_N a_PROADJ mais_PROADJ que_KS a_ART média_N regional_ADJ ._END
+É_V o_ART caso_N do_PREP+ART agricultor_N Natalino_NPROP Guidi_NPROP ,_PU 58_NUM ,_PU de_PREP Pontal_NPROP (_PU SP_NPROP )_PU ,_PU que_PRO-KS cultiva_V amendoim_N em_PREP seis_NUM sítios_N espalhados_PCP pela_PREP+ART região_N e_KC em_PREP terras_N arrendadas_PCP das_PREP+ART usinas_N Santa_NPROP Elisa_NPROP ,_PU de_PREP Sertãozinho_NPROP (_PU SP_NPROP )_PU ,_PU Bela_NPROP Vista_NPROP e_KC Bazan_NPROP ,_PU de_PREP Pontal_NPROP (_PU SP_NPROP )_PU ._END
+Este_PROADJ ano_N ele_PROPESS prevê_V que_KS sua_PROADJ média_N de_PREP produtividade_N deve_V ficar_V um_ADV pouco_ADV abaixo_PREP de_PREP 93_N (_PU 132_NUM sacas/ha_N )_PU ,_PU devido_PREP à_PREP+ART estiagem_N de_PREP novembro_N e_KC o_ART excesso_N de_PREP chuvas_N em_PREP janeiro_N ._END
+Nas_PREP+ART terras_N da_PREP+ART Santa_NPROP Elisa_NPROP ,_PU porém_KC ,_PU a_ART produção_N deve_V ultrapassar_V 170_NUM sacas/ha_N ._END
+Mesmo_PDEN com_PREP este_PROADJ resultado_N ,_PU seu_PROADJ custo_N de_PREP produção_N se_PROPESS mantém_V em_PREP US$_CUR 6_NUM /_PU saca_N ,_PU porque_KS investe_V "_PU pesado_ADV "_PU em_PREP tecnologia_N ._END
+todos_PROADJ os_ART anos_N ,_PU faz_V análise_N de_PREP solo_N ,_PU corrige_V as_ART deficiências_N ,_PU faz_V cinco_NUM aplicações_N de_PREP fungicidas_N e_KC produz_V parte_N das_PREP+ART sementes_N ._END
+A_ART economia_N que_PRO-KS o_ART armazém_N proporciona_V é_V de_PREP US$_CUR 1,5_NUM /_PU saca_N ._END
+Ele_PROPESS está_V testando_V um_ART secador_N de_PREP amendoim_N no_PREP+ART sítio_N Bom_NPROP Retiro_NPROP ,_PU em_PREP Pontal_NPROP ._END
+O_ART secador_N ,_PU desenvolvido_PCP pelo_PREP+ART Instituto_NPROP Agronômico_NPROP de_NPROP Campinas_NPROP ,_PU tem_V por_PREP objetivo_N manter_V a_ART umidade_N do_PREP+ART amendoim_N abaixo_PREP de_PREP 12_NUM %_N para_PREP garantir_V boa_ADJ estocagem_N e_KC preço_N melhor_ADJ ._END
+O_ART produtor_N iniciou_V a_ART colheita_N ,_PU em_PREP fevereiro_N passado_PCP ,_PU de_PREP 170_NUM hectares_N de_PREP amendoim_N e_KC 240_NUM hectares_N de_PREP soja_N ._END
+Em_PREP 93_N ,_PU ele_PROPESS plantou_V 290_NUM ha_N de_PREP amendoim_N e_KC 97_NUM ha_N de_PREP soja_N ._END
+Com_PREP o_ART dinheiro_N do_PREP+ART amendoim_N Guidi_NPROP conseguiu_V comprar_V duas_NUM camionetes_N e_KC um_NUM trator_N de_PREP 150_NUM Hp_N ,_PU está_V construindo_V uma_NUM casa_N em_PREP Pontal_NPROP e_KC ainda_ADV tem_V para_PREP receber_V US$_CUR 470_NUM mil_NUM referente_ADJ a_PREP a_ART venda_N de_PREP 49,4_NUM mil_NUM sacas_N ._END
+Parte_N desse_PREP+PROADJ dinheiro_N vai_V para_PREP a_ART colheita_N deste_PREP+PROADJ ano_N ._END
+Nos_PREP+ART primeiros_ADJ dez_NUM anos_N ,_PU o_ART lucro_N por_PREP safra_N alcançava_V 40_NUM %_N ._END
+Cana_N ,_PU laranja_N ,_PU soja_N e_KC seringueira_N estão_V expulsando_V o_ART boi_N do_PREP+ART mapa_N de_PREP Ribeirão_NPROP Preto_NPROP ,_PU que_PRO-KS detém_V a_ART maior_ADJ área_N cultivada_PCP do_PREP+ART Estado_N (_PU 3,2_NUM milhões_N de_PREP hectares_N ou_KC 18,5_NUM %_N do_PREP+ART total_N paulista_ADJ )_PU ._END
+Nos_PREP+ART últimos_ADJ 20_NUM anos_N ,_PU segundo_PREP dados_N do_PREP+ART Instituto_NPROP de_NPROP Ecomomia_NPROP Agrícola_NPROP (_PU Iea_NPROP )_PU ,_PU a_ART região_N perdeu_V mais_PREP de_PREP 1_NUM milhão_N de_PREP hectares_N de_PREP pastos_N e_KC ganhou_V 628_NUM mil_NUM hectares_N de_PREP cana_N ,_PU 246_NUM mil_NUM ha_N de_PREP laranja_N ,_PU 220_NUM mil_NUM ha_N de_PREP soja_N ,_PU 7_NUM mil_NUM ha_N de_PREP seringueiras_N ._END
+No_PREP+ART início_N do_PREP+ART século_N ,_PU Ribeirão_NPROP Preto_NPROP era_V o_ART principal_ADJ polo_N cafeeiro_ADJ de_PREP São_NPROP Paulo_NPROP ._END
+Com_PREP a_ART crise_N de_PREP 1929_N ,_PU a_ART agricultura_N regional_ADJ se_PROPESS diversificou_V ._END
+O_ART café_N passou_V a_PREP dividir_V espaço_N com_PREP a_ART pecuária_N (_PU corte_N e_KC leite_N )_PU ,_PU algodão_N ,_PU cana-de-açúcar_N ,_PU milho_N ,_PU citros_N ,_PU soja_N e_KC tomate_N ._END
+Logo_ADV chegaram_V os_ART frigoríficos_N ,_PU indústrias_N de_PREP beneficiamento_N de_PREP algodão_N ,_PU têxteis_N ,_PU usinas_N de_PREP açúcar_N e_KC álcool_N ,_PU latícinios_N e_KC fábricas_N de_PREP suco_N cítricos_ADJ ._END
+Com_PREP a_ART implantação_N do_PREP+ART Proálcool_NPROP ,_PU em_PREP 1975_N ,_PU os_ART canaviais_N mudaram_V a_ART paisagem_N da_PREP+ART região_N ._END
+Em_PREP 20_NUM anos_N ,_PU a_ART área_N da_PREP+ART cana_N cresceu_V 250_NUM %_N e_KC hoje_ADV ocupa_V 27_NUM %_N da_PREP+ART área_N cultivada_PCP (_PU 879_NUM mil_NUM ha_N )_PU ._END
+A_ART expansão_N da_PREP+ART citricultura_N também_PDEN foi_V acelerada_PCP ._END
+"_PU Uma_ART característica_N marcante_ADJ da_PREP+ART região_N é_V a_ART diversificação_N agrícola_ADJ ,_PU com_PREP zonas_N especializadas_PCP ._END
+Bebedouro_NPROP produz_V sucos_N cítricos_ADJ ;_PU a_ART zona_N de_PREP Franca_NPROP ,_PU café_N ;_PU Guaíra_NPROP e_KC Orlândia_NPROP plantam_V grãos_N ;_PU Guariba_NPROP e_KC Sertãozinho_NPROP se_PROPESS destacam_V pelo_PREP+ART açúcar_N e_KC álcool_N ;_PU Descalvado_NPROP pela_PREP+ART avicultura_N "_PU ,_PU explica_V Nelson_NPROP Batista_NPROP Martin_NPROP em_PREP estudo_N sobre_PREP a_ART dinâmica_N da_PREP+ART agricultura_N paulista_ADJ ,_PU publicado_PCP recentemente_ADV pelo_PREP+ART Iea_NPROP ._END
+Responsável_ADJ por_PREP 37_NUM %_N da_PREP+ART produção_N de_PREP cana_N de_PREP São_NPROP Paulo_NPROP ,_PU 60_NUM %_N da_PREP+PROSUB de_PREP soja_N e_KC 46_NUM %_N da_PREP+PROSUB de_PREP laranja_N ,_PU Ribeirão_NPROP apresenta_V alto_ADJ índice_N de_PREP produtividade_N no_PREP+ART campo_N ._END
+Para_PREP Marin_NPROP ,_PU isto_PROSUB se_PROPESS deve_V ,_PU em_PREP grande_ADJ parte_N ,_PU à_PREP+ART presença_N marcante_ADJ da_PREP+ART agroindústria_N e_KC das_PREP+ART cooperativas_N ._END
+O_ART desenvolvimento_N das_PREP+ART economias_N em_PREP todos_PROADJ os_ART quadrantes_N do_PREP+ART planeta_N e_KC a_ART democratização_N crescente_ADJ dos_PREP+ART regimes_N de_PREP governo_N parecem_V constituir_V ,_PU neste_PREP+PROADJ final_N de_PREP século_N ,_PU uma_ART base_N sólida_ADJ para_PREP sustentar_V um_ART processo_N amplo_ADJ e_KC contínuo_ADJ de_PREP globalização_N dos_PREP+ART mercados_N ._END
+Nesse_PREP+PROADJ processo_N ,_PU os_ART benefícios_N decorrem_V basicamente_ADV de_PREP se_PROPESS explorar_V convenientemente_ADV as_ART vantagens_N comparativas_ADJ de_PREP cada_PROADJ país_N ._END
+Quanto_KS mais_ADV cedo_ADV e_KC mais_ADV amplamente_ADV o_ART Brasil_NPROP se_PROPESS incorporar_V às_PREP+ART correntes_N do_PREP+ART mercado_N internacional_ADJ ,_PU maiores_ADJ serão_V as_ART oportunidades_N para_PREP alavancar_V a_ART conquista_N de_PREP novas_ADJ posições_N nesse_PREP+PROADJ mercado_N ._END
+A_ART geografia_N e_KC a_ART história_N do_PREP+ART nosso_PROADJ país_N têm_V nos_PROPESS mostrado_PCP a_ART potencialidade_N dos_PREP+ART nossos_PROADJ recursos_N naturais_ADJ ._END
+Dispomos_V de_PREP amplas_ADJ extensões_N de_PREP terras_N agricultáveis_ADJ e_KC de_PREP condições_N climáticas_ADJ favoráveis_ADJ ._END
+O_PROSUB que_PROSUB é_V mais_ADV grave_ADJ nessa_PREP+PROADJ dependência_N é_V que_KS ela_PROPESS se_PROPESS deve_V muito_ADV menos_ADV à_PREP+ART maior_ADJ competitividade_N dos_PREP+ART agricultores_N estrangeiros_ADJ do_KS que_KS à_PREP+ART ação_N de_PREP alguns_PROADJ países_N desenvolvidos_PCP ._END
+São_V mais_PREP de_PREP US$_CUR 300_NUM milhões_N anuais_ADJ de_PREP subsídios_N utilizados_PCP para_PREP abrir_V espaços_N nos_PREP+ART mercados_N internacionais_ADJ e_KC -_PU com_PREP a_ART complacência_N de_PREP nossas_PROADJ autoridades_N -_PU no_PREP+ART nosso_PROADJ próprio_PROADJ mercado_N interno_ADJ ._END
+Com_PREP a_ART recente_ADJ conclusão_N da_PREP+ART Rodada_NPROP Uruguai_NPROP ,_PU do_PREP+ART GATT_NPROP ,_PU uma_ART luz_N se_PROPESS acendeu_V ,_PU indicando_V que_KS esse_PROADJ túnel_N pode_V ter_V um_ART fim_N ,_PU ainda_KS que_KS distante_ADJ ._END
+Mais_ADV difícil_ADJ tem_V sido_PCP as_ART negociações_N em_PREP torno_PREP de_PREP um_ART acordo_N interno_ADJ ,_PU entre_PREP os_ART Estados_N ,_PU para_PREP que_KS cessem_V sua_PROADJ discriminação_N contra_PREP a_ART agricultura_N ._END
+A_ART maior_ADJ delas_PREP+PROPESS ,_PU gravada_PCP na_PREP+ART atual_ADJ Constituição_N ,_PU é_V a_ART cobrança_N do_PREP+ART ICMS_NPROP (_PU Art_N ._END
+155_N ,_PU parágrafo_N ._END
+2º_N )_PU ,_PU ao_ADV mesmo_ADV tempo_ADV em_PREP que_KS fixa_V como_PREP responsabilidade_N da_PREP+ART União_N compensar_V os_ART Estados_N exportadores_ADJ pela_PREP+ART perda_N dessa_PREP+PROADJ receita_N (_PU Art_N ._END
+Os_ART produtos_N primários_ADJ ,_PU agrícolas_ADJ e_KC minerais_ADJ ,_PU e_KC os_ART semi-elaborados_N ,_PU contudo_KC ,_PU estão_V sujeitos_PCP ao_PREP+ART imposto_N ._END
+Numa_PREP+ART avaliação_N das_PREP+ART 35_NUM emendas_N apresentadas_PCP sobre_PREP o_ART mencionado_PCP dispositivo_N (_PU art_N ._END
+155_N )_PU ,_PU 34_N julgaram_V -no_PROPESS discricionário_ADJ contra_PREP o_ART setor_N agrícola_ADJ e_KC contra_PREP os_ART produtos_N semi-elaborados_PCP ._END
+A_ART única_ADJ exceção_N ,_PU apoiando_V a_ART manutenção_N do_PREP+ART "_PU status_N "_PU atual_ADJ ,_PU foi_V subscrita_PCP por_PREP um_ART parlamentar_N da_PREP+ART região_N norte_NPROP do_PREP+ART país_N ,_PU cujos_PRO-KS Estados_N têm_V no_PREP+ART extrativismo_N e_KC na_PREP+ART exploração_N mineral_ADJ suas_PROADJ principais_ADJ atividades_N ._END
+Dentre_PREP todas_PROSUB ,_PU porém_KC ,_PU o_ART deputado-relator_N Nelson_NPROP Jobim_NPROP deverá_V avaliar_V com_PREP maior_ADJ consideração_N a_ART emenda_N popular_ADJ (_PU uma_PROSUB das_PREP+ART cinco_N que_PRO-KS foram_V encaminhadas_PCP ao_PREP+ART Congresso_NPROP )_PU que_PRO-KS foi_V assinada_PCP por_PREP 15.877_NUM agricultores_N e_KC encaminhada_PCP por_PREP suas_PROADJ entidades_N de_PREP classe_N ._END
+Sabe_V -se_PROPESS que_KS é_V uma_ART tarefa_N difícil_ADJ para_PREP o_ART Congresso_NPROP ,_PU principalmente_ADV o_ART assunto_N se_PROPESS insere_V na_PREP+ART questão_N tributária_ADJ e_KC na_PREP+ART repartição_N da_PREP+ART receita_N entre_PREP as_ART unidades_N ._END
+Contudo_KC ,_PU os_ART avanços_N da_PREP+ART democracia_N brasileira_ADJ nestes_PREP+PROADJ últimos_ADJ anos_N e_KC da_PREP+ART postura_N da_PREP+ART sociedade_N em_PREP relação_PREP às_PREP+ART relações_N econômicas_ADJ com_PREP o_ART resto_N do_PREP+ART mundo_N ,_PU permitem_V acreditar_V que_KS essa_PROADJ conquista_N esteja_V muito_ADV próxima_ADJ ._END
+Ela_PROPESS é_V a_ART maior_ADJ reinvidicação_N do_PREP+ART setor_N ao_PREP+ART Congresso_NPROP Revisional_NPROP ._END
+Amilcar_NPROP Gramacho_NPROP é_V coordenador_ADJ do_PREP+ART departamento_N técnico_ADJ da_PREP+ART Organização_NPROP das_NPROP Cooperativas_NPROP Brasileiras_NPROP (_PU OCB_NPROP )_PU ._END
+A_ART política_N de_PREP retenção_N do_PREP+ART café_N ,_PU que_PRO-KS tem_V por_PREP objetivo_N valorizar_V os_ART preços_N no_PREP+ART mercado_N externo_ADJ ,_PU está_V prejudicando_V a_ART indústria_N de_PREP café_N torrado_PCP e_KC moído_PCP ._END
+"_PU O_ART esforço_N do_PREP+ART governo_N para_PREP elevar_V os_ART preços_N do_PREP+ART café_N cru_ADJ no_PREP+ART mercado_N internacional_ADJ ,_PU se_PROPESS conseguiu_V modificar_V o_ART panorama_N externo_ADJ ,_PU trouxe_V reflexos_N fortes_ADJ no_PREP+ART preço_N interno_ADJ e_KC afetou_V todo_PROADJ o_ART equilíbrio_N do_PREP+ART consumo_N doméstico_ADJ "_PU ,_PU diz_V Américo_NPROP Sato_NPROP ,_PU presidente_N da_PREP+ART Abic_NPROP ._END
+Segundo_PREP a_ART Abic_NPROP ,_PU o_ART consumo_N total_ADJ de_PREP café_N torrado_PCP e_KC moído_PCP no_PREP+ART mercado_N interno_ADJ em_PREP 93_N não_ADV ultrapassou_V 9,3_NUM milhões_N de_PREP sacas_N ,_PU o_ART equivalente_N a_PREP 2,9_NUM quilos_N per_ADJ capita_ADJ ._END
+A_ART empresa_N agroindustrial_ADJ Eldorado_NPROP S/A_NPROP e_KC a_PREP Fundação_NPROP Florestal_NPROP firmaram_V convênio_N de_PREP prestação_N de_PREP serviços_N para_PREP a_ART implantação_N de_PREP projeto_N de_PREP manejo_N de_PREP rendimento_N sustentado_PCP do_PREP+ART palmiteiro_N em_PREP área_N de_PREP 1.500_NUM hectares_N no_PREP+ART Vale_NPROP do_NPROP Ribeira_NPROP ._END
+O_ART objetivo_N é_V valorizar_V o_ART ovo_N como_PREP alimento_N natural_ADJ ._END
+Um_PROSUB dos_PREP+ART instrumentos_N da_PREP+ART campanha_N ,_PU que_PRO-KS tem_V custo_N de_PREP US$_CUR 100_NUM mil_NUM ,_PU é_V o_ART "_PU robovo_N "_PU ,_PU boneco_N equipado_PCP com_PREP um_ART vídeo_N que_PRO-KS passa_V receitas_N à_PREP+ART base_N de_PREP ovo_N ._END
+O_ART Brasil_NPROP deverá_V produzir_V este_PROADJ ano_N 13,3_NUM bilhões_N de_PREP ovos_N ,_PU com_PREP aumento_N de_PREP 5_NUM %_N sobre_PREP 1993_N ._END
+No_PREP+ART ranking_N mundial_ADJ ,_PU o_ART Brasil_NPROP é_V o_ART sétimo_ADJ maior_ADJ produtor_N ._END
+O_ART consumo_N per_ADJ capita_ADJ para_PREP 94_N é_V estimado_PCP em_PREP 94_NUM unidades_N ._END
+O_ART primeiro_ADJ carregamento_N de_PREP cebola_N da_PREP+ART região_N Sul_NPROP exportada_PCP para_PREP a_ART Europa_NPROP foi_V embarcado_PCP em_PREP fevereiro_N em_PREP Santa_NPROP Catarina_NPROP ,_PU com_PREP destino_N a_PREP Hamburgo_NPROP ,_PU Alemanha_NPROP ._END
+A_ART Cooperativa_NPROP Regional_NPROP do_NPROP Alto_NPROP Vale_NPROP do_NPROP Itajaí_NPROP vendeu_V 24_NUM toneladas_N de_PREP cebola_N crioula_ADJ ,_PU de_PREP origem_N nativa_ADJ ,_PU a_PREP US$_CUR 0,15_NUM /_PU quilo_N ._END
+De_PREP acordo_PREP com_PREP o_ART presidente_N da_PREP+ART Associação_NPROP Nacional_NPROP dos_NPROP Produtores_NPROP de_NPROP Cebola_NPROP (_PU Anace_NPROP )_PU ,_PU Edson_NPROP Silva_NPROP ,_PU embora_KS em_PREP fase_N experimental_ADJ ,_PU a_ART exportação_N permite_V aos_PREP+ART produtores_N o_ART acesso_N a_PREP um_ART mercado_N mais_ADV estável_ADJ do_KS que_KS o_ART nacional_N e_KC a_ART incorporação_N de_PREP tecnologia_N para_PREP atender_V o_ART mercado_N europeu_ADJ ,_PU "_PU mais_ADV exigente_ADJ e_KC sofisticado_PCP "_PU ._END
+Para_PREP melhorar_V a_ART qualidade_N da_PREP+ART cebola_N ,_PU a_ART Anace_NPROP deverá_V formalizar_V um_ART acordo_N de_PREP assistência_N técnica_ADJ com_PREP o_ART professor_N Haim_NPROP Rabinowicht_NPROP ,_PU da_PREP+ART Universidade_NPROP Hebraica_NPROP de_NPROP Jerusalém_NPROP (_PU Israel_NPROP )_PU ._END
+Detalhes_N do_PREP+ART convênio_N serão_V discutidos_PCP entre_PREP as_ART partes_N no_PREP+ART Simpósio_NPROP Internacional_NPROP de_NPROP Aliáceas_NPROP (_PU cebola_N e_KC alho_N )_PU Comestíveis_ADJ ,_PU de_PREP 14_N a_PREP 18_N próximos_ADJ ,_PU em_PREP Mendonza_NPROP ,_PU na_PREP+ART Argentina_NPROP ._END
+Santa_NPROP Catarina_NPROP produziu_V 320_NUM mil_NUM toneladas_N de_PREP cebola_N em_PREP 1993_N e_KC ficou_V em_PREP segundo_ADJ lugar_N no_PREP+ART ranking_N nacional_ADJ da_PREP+ART produção_N (_PU o_ART primeiro_N coube_V a_PREP São_NPROP Paulo_NPROP )_PU ._END
+A_ART produção_N brasileira_ADJ varia_V entre_PREP 850_NUM mil_NUM toneladas_N e_KC 900_NUM mil_NUM toneladas/ano_N ._END
+Após_PREP sete_NUM anos_N de_PREP negociações_N ,_PU a_ART rodada_N Uruguai_NPROP do_NPROP Gatt_NPROP (_PU Acordo_NPROP Geral_NPROP de_NPROP Tarifas_NPROP e_NPROP Comércio_NPROP )_PU foi_V afinal_PDEN encerrada_PCP ,_PU em_PREP dezembro_N passado_PCP ,_PU em_PREP Genebra_NPROP ._END
+O_ART acordo_N ,_PU que_PRO-KS será_V assinado_PCP em_PREP abril_N no_PREP+ART Marrocos_NPROP ,_PU traz_V poucas_PROADJ mudanças_N ,_PU consequência_N da_PREP+ART forte_ADJ resistência_N dos_PREP+ART países_N ricos_ADJ em_PREP reduzir_V o_ART protecionismo_N agrícola_ADJ ._END
+Essa_PROADJ guerra_N entre_PREP ricos_N e_KC pobres_N é_V o_ART tema_N de_PREP "_PU Agricultura_NPROP em_NPROP a_NPROP Virada_NPROP do_NPROP Século_NPROP 20_NPROP "_PU ,_PU de_PREP Ney_NPROP Bittencourt_NPROP de_NPROP Araújo_NPROP e_KC Luiz_NPROP Antonio_NPROP Pinazza_NPROP ,_PU que_PRO-KS alerta_V para_PREP as_ART consequências_N do_PREP+ART protecionismo_N agrícola_ADJ praticado_PCP pelas_PREP+ART 24_NUM nações_N mais_ADV ricas_ADJ do_PREP+ART mundo_N ,_PU que_PRO-KS gastam_V anualmente_ADV US$_CUR 320_NUM bilhões_N ._END
+Para_PREP os_ART autores_N ,_PU somente_PDEN com_PREP uma_ART visão_N sistêmica_ADJ do_PREP+ART complexo_N agroindustrial_ADJ ,_PU o_ART Brasil_NPROP poderá_V implementar_V uma_ART política_N de_PREP segurança_N alimentar_ADJ e_KC ,_PU ao_ADV mesmo_ADV tempo_ADV ,_PU ampliar_V sua_PROADJ participação_N no_PREP+ART comércio_N mundial_ADJ ._END
+A_ART batalha_N ,_PU segundo_PREP Ney_NPROP Bittencourt_NPROP de_NPROP Araújo_NPROP ,_PU é_V de_PREP Davi_NPROP contra_PREP Golias_NPROP ._END
+Mas_KC devemos_V manter_V o_ART ânimo_N e_KC a_ART esperança_N ._END
+E_KC também_PDEN o_ART fundamento_N econômico_ADJ ._END
+O_ART custo_N do_PREP+ART protecionismo_N está_V alto_ADJ mesmo_PDEN para_PREP os_ART países_N ricos_ADJ ._END
+Agricultura_NPROP Na_NPROP Virada_NPROP Do_NPROP Século_NPROP 20_NPROP ,_PU de_PREP Luiz_NPROP Antonio_NPROP Pinazza_NPROP e_KC Ney_NPROP Bittencourt_NPROP de_NPROP Araújo_NPROP ,_PU 166_NUM págs_N ,_PU Editora_NPROP Globo_NPROP ._END
+O_ART Centro_NPROP Nacional_NPROP de_NPROP Pesquisa_NPROP da_NPROP Uva_NPROP e_NPROP do_NPROP Vinho_NPROP (_PU CNPUV_NPROP )_PU ,_PU da_PREP+ART Empresa_NPROP Brasileira_NPROP de_NPROP Pesquisa_NPROP Agropecuária_NPROP (_PU Embrapa_NPROP )_PU ,_PU e_KC a_ART Estação_NPROP Experimental_NPROP de_NPROP Caxias_NPROP do_NPROP Sul_NPROP estão_V lançando_V três_NUM novas_N cultivares_N na_PREP+ART Festa_NPROP Nacional_NPROP da_NPROP Uva_NPROP ._END
+A_ART produção_N de_PREP uvas_N no_PREP+ART Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP está_V concentrada_PCP nos_PREP+ART meses_N de_PREP janeiro_N e_KC fevereiro_N ._END
+Segundo_PREP o_ART pesquisador_N Humberto_NPROP Almeida_NPROP Camargo_NPROP ,_PU do_PREP+ART Centro_NPROP Nacional_NPROP de_NPROP Pesquisa_NPROP de_NPROP Uva_NPROP e_NPROP Vinho_NPROP ,_PU com_PREP as_ART variedades_N Vênus_NPROP ,_PU Dona_NPROP Zilá_NPROP e_KC Tardia_NPROP de_NPROP Caxias_NPROP haverá_V a_ART possibilidade_N de_PREP maior_ADJ oferta_N entre_PREP novembro_N e_KC março_N ._END
+Festa_NPROP Nacional_NPROP Da_NPROP Uva_NPROP -_PU De_PREP 25_N de_PREP fevereiro_N a_PREP 13_N de_PREP março_N ,_PU em_PREP Caxias_NPROP do_NPROP Sul_NPROP (_PU RS_NPROP )_PU ._END
+A_ART safra_N brasileira_ADJ de_PREP soja_N 93/94_N deve_V totalizar_V 24,2_NUM milhões_N de_PREP toneladas_N ,_PU o_PRO-KS que_PRO-KS representa_V aumento_N de_PREP 8_NUM %_N em_PREP relação_PREP ao_PREP+ART total_N colhido_PCP na_PREP+ART temporada_N anterior_ADJ (_PU 22,4_NUM milhões_N de_PREP toneladas_N )_PU ._END
+Estes_PROADJ dados_N fazem_V parte_N da_PREP+ART terceira_ADJ estimativa_N de_PREP produção_N de_PREP soja_N da_PREP+ART Agência_NPROP Safras_NPROP &_NPROP Mercado_NPROP ._END
+O_ART aumento_N na_PREP+ART produção_N é_V consequência_N do_PREP+ART crescimento_N na_PREP+ART área_N plantada_PCP ,_PU que_PRO-KS passou_V de_PREP 10,669_NUM milhões_N de_PREP hectares_N em_PREP para_PREP 11,353_NUM milhões_N de_PREP hectares_N este_PROADJ ano_N ,_PU e_KC também_PDEN do_PREP+ART rendimento_N médio_ADJ recorde_ADJ de_PREP 2.136_NUM quilos_N por_PREP hectare_N ._END
+Este_PROADJ ano_N o_ART Brasil_NPROP deve_V combinar_V a_ART maior_ADJ área_N plantada_PCP ,_PU cerca_PREP de_PREP 6_NUM %_N ,_PU com_PREP clima_N regular_ADJ e_KC ganhos_N de_PREP 1_NUM %_N na_PREP+ART produtividade_N média_ADJ ._END
+Caso_KS o_ART clima_N se_PROPESS mantenha_V favorável_ADJ e_KC esta_PROADJ expectativa_N de_PREP colheita_N se_PROPESS confirme_V ,_PU a_ART produção_N brasileira_ADJ deste_PREP+PROADJ ano_N vai_V superar_V a_ART safra_N recorde_ADJ de_PREP 88/89_N (_PU 24,1_NUM milhões_N de_PREP t_N )_PU ._END
+Apenas_PDEN as_ART lavouras_N do_PREP+ART Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP e_KC Mato_NPROP Grosso_NPROP do_NPROP Sul_NPROP foram_V ,_PU até_PREP agora_ADV ,_PU prejudicadas_PCP pelo_PREP+ART clima_N ._END
+A_ART estiagem_N no_PREP+ART início_N de_PREP janeiro_N comprometeu_V o_ART desenvolvimento_N das_PREP+ART lavouras_N ._END
+O_ART rendimento_N médio_ADJ no_PREP+ART Estado_N deve_V cair_V para_PREP 1.930_NUM quilos_N por_PREP hectare_N ,_PU contra_PREP 1.951_NUM quilos_N por_PREP hectare_N em_PREP 1992/93_N ._END
+No_PREP+ART Mato_NPROP Grosso_NPROP do_NPROP Sul_NPROP houve_V atraso_N no_PREP+ART plantio_N e_KC em_PREP alguns_PROADJ casos_N a_ART necessidade_N de_PREP replantio_N ._END
+Essas_PROADJ pequenas_ADJ perdas_N serão_V compensadas_PCP pelo_PREP+ART crescimento_N na_PREP+ART produção_N de_PREP outros_PROADJ Estados_N ._END
+No_PREP+ART Sul_NPROP ,_PU Paraná_NPROP e_KC Santa_NPROP Catarina_NPROP devem_V colher_V excelentes_ADJ safras_N ._END
+No_PREP+ART Centro-Oeste_NPROP ,_PU o_ART comportamento_N do_PREP+ART clima_N também_PDEN foi_V muito_ADV favorável_ADJ ,_PU principalmente_ADV no_PREP+ART Mato_NPROP Grosso_NPROP ,_PU a_ART produção_N deve_V ficar_V em_PREP 4,6_NUM milhões_N de_PREP toneladas_N ,_PU contra_PREP 3,9_NUM milhões_N de_PREP t_N em_PREP 92/93_N ._END
+A_ART confirmação_N destes_PREP+PROADJ resultados_N devem_V trazer_V folga_N para_PREP a_ART composição_N dos_PREP+ART estoques_N do_PREP+ART complexo_N no_PREP+ART ano_N comercial_ADJ (_PU 94/95_N )_PU ,_PU a_PREP exemplo_N ocorreu_V na_PREP+ART temporada_N anterior_ADJ ._END
+O_ART quadro_N mundial_ADJ é_V de_PREP escassez_N ,_PU diante_PREP da_PREP+ART quebra_N da_PREP+ART safra-_N norte_ADJ americana_ADJ ,_PU que_PRO-KS teve_V suas_PROADJ lavouras_N prejudicadas_PCP com_PREP a_ART cheia_N do_PREP+ART rio_N Mississipi_NPROP no_PREP+ART ano_N passado_PCP ._END
+A_ART demanda_N externa_ADJ deve_V compensar_V o_ART crescimento_N de_PREP apenas_PDEN 1_NUM %_N no_PREP+ART consumo_N de_PREP farelo_N e_KC de_PREP 8_NUM %_N no_PREP+ART esmagamento_N do_PREP+ART grão_N ._END
+O_ART país_N deve_V exportar_V 5_NUM milhões_N de_PREP t_N de_PREP grãos_N (_PU 13_NUM %_N a_PROADJ mais_PROADJ do_KS que_KS em_PREP 93_N )_PU ,_PU 10,2_NUM milhões_N de_PREP t_N de_PREP farelo_N (_PU crescimento_N de_PREP 11_NUM %_N )_PU e_KC 1,050_NUM milhão_N de_PREP t_N de_PREP óleo_N (_PU aumento_N de_PREP 39_NUM %_N )_PU ._END
+As_ART perspectivas_N de_PREP comercialização_N são_V positivas_ADJ ._END
+Ainda_KS que_KS os_ART picos_N de_PREP preços_N obtidos_PCP em_PREP julho_N de_PREP 93_N não_ADV se_PROPESS repitam_V ,_PU o_ART agricultor_N deve_V ganhar_V em_PREP termos_PREP de_PREP produtividade_N e_KC conseguir_V preços_N maiores_ADJ que_KS no_PREP+ART ano_N passado_PCP ,_PU durante_PREP o_ART primeiro_ADJ semestre_N ,_PU quando_ADV-KS entre_PREP 70_NUM %_N e_KC 80_NUM %_N da_PREP+ART safra_N normalmente_ADV é_V comercializada_PCP ._END
+A_ART cultura_N da_PREP+ART canola_N está_V se_PROPESS firmando_V no_PREP+ART Paraná_NPROP ,_PU em_PREP especial_ADJ na_PREP+ART região_N de_PREP Maringá_NPROP ,_PU como_PREP a_ART melhor_ADJ alternativa_N à_PREP+ART safra_N de_PREP inverno_N ,_PU ocupando_V espaço_N deixado_PCP pela_PREP+ART triticultura_N ._END
+O_ART plantio_N começará_V no_PREP+ART início_N de_PREP abril_N e_KC ocupará_V uma_ART área_N de_PREP 15_NUM mil_NUM hectares_N ,_PU com_PREP expectativa_N para_PREP colheita_N de_PREP 25_NUM mil_NUM toneladas_N ._END
+"_PU Pretendíamos_V cultivar_V o_ART dobro_N ,_PU mas_KC a_ART escassez_N da_PREP+ART semente_N importada_PCP da_PREP+ART Argentina_NPROP atrapalhou_V nossos_PROADJ planos_N "_PU ,_PU afirma_V Nelson_NPROP Sillas_NPROP de_NPROP Souza_NPROP ,_PU 42_NUM ,_PU gerente_N da_PREP+ART divisão_N de_PREP grãos_N da_PREP+ART Cooperativa_NPROP de_NPROP Cafeicultores_NPROP e_NPROP Agropecuaristas_NPROP de_NPROP Maringá_NPROP (_PU Cocamar_NPROP )_PU ._END
+Os_ART agricultores_N que_PRO-KS conseguiram_V semente_N estão_V otimistas_N com_PREP a_ART perspectiva_N de_PREP colher_V perto_PREP de_PREP 1.800_NUM quilos_N por_PREP hectare_N ._END
+Segundo_PREP Souza_NPROP ,_PU a_ART lucratividade_N pode_V chegar_V a_PREP 36_NUM %_N ,_PU pois_KC o_ART preço_N de_PREP venda_N alcança_V US$_CUR 170_NUM por_PREP tonelada_N e_KC o_ART custo_N de_PREP produção_N fica_V em_PREP US$_CUR 110_NUM /_PU t_N ._END
+"_PU O_ART agricultor_N ganhou_V ainda_ADV um_ART ótimo_ADJ meio_N de_PREP fazer_V rotação_N de_PREP culturas_N ,_PU completando_V o_ART ciclo_N com_PREP milho_N e_KC soja_N "_PU ,_PU diz_V Sebastião_NPROP Vizioli_NPROP ,_PU 54_NUM ,_PU o_ART primeiro_ADJ agricultor_N brasileiro_ADJ a_PREP plantar_V canola_N ._END
+Este_PROADJ ano_N ,_PU ele_PROPESS semeará_V canola_N em_PREP 35_NUM hectares_N ,_PU esperando_V colher_V cerca_PREP de_PREP 2.000_NUM quilos_N por_PREP hectare_N ._END
+Este_PROADJ desempenho_N é_V igual_ADJ ao_PREP+PROSUB do_PREP+ART Canadá_NPROP ,_PU a_ART cultura_N é_V tradicional_ADJ ,_PU e_KC perde_V apenas_PDEN para_PREP países_N europeus_ADJ que_PRO-KS produzem_V 2.600_NUM quilos_N por_PREP hectare_N ._END
+"_PU Os_ART produtores_N estão_V aceitando_V bem_ADV a_ART canola_N e_KC a_ART área_N plantada_PCP deve_V aumentar_V "_PU ,_PU prevê_V Vizioli_NPROP ._END
+Para_PREP atender_V esta_PROADJ demanda_N por_PREP sementes_N ,_PU a_ART Cocamar_NPROP está_V realizando_V experimentos_N com_PREP variedades_N novas_ADJ e_KC manejo_N de_PREP solo_N ._END
+"_PU a_PREP partir_PREP da_PREP+ART próxima_ADJ safra_N não_ADV precisaremos_V mais_ADV importar_V sementes_N "_PU ,_PU afirma_V Souza_NPROP ._END
+Está_V prevista_PCP a_ART expansão_N no_PREP+ART Paraná_NPROP e_KC Mato_NPROP Grosso_NPROP do_NPROP Sul_NPROP ,_PU que_PRO-KS já_ADV possui_V alguns_PROADJ produtores_N ,_PU além_PREP do_PREP+ART início_N do_PREP+ART cultivo_N no_PREP+ART Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP ,_PU há_V boa_ADJ estrutura_N para_PREP industrialização_N ._END
+O_ART produto_N já_ADV conquistou_V crédito_N para_PREP custeio_N junto_PREP ao_PREP+ART Banco_NPROP do_NPROP Brasil_NPROP ,_PU garantia_N de_PREP preços_N mínimos_ADJ e_KC Proagro_NPROP (_PU seguro_N agrícola_ADJ )_PU ._END
+No_PREP+ART início_N da_PREP+ART semana_N passada_PCP ,_PU a_ART saca_N do_PREP+ART produto_N tipo_N 1_N chegou_V a_PREP ser_V negociada_PCP no_PREP+ART atacado_N paulista_N à_PREP+ART Cr$_CUR 74,5_NUM mil_NUM ,_PU acumulando_V alta_N de_PREP 373_NUM %_N em_PREP 30_NUM dias_N ._END
+A_ART elevação_N nas_PREP+ART regiões_N produtoras_ADJ também_PDEN foi_V acentuada_PCP ,_PU mas_KC menos_ADV acelerada_PCP que_KS a_PROSUB do_PREP+ART atacado_N ._END
+No_PREP+ART município_N de_PREP Campos_NPROP Novos_NPROP (_PU SC_NPROP )_PU ,_PU Estado_N que_PRO-KS abasteceu_V São_NPROP Paulo_NPROP em_PREP fevereiro_N ,_PU o_ART preço_N pulou_V de_PREP Cr$_CUR 17_NUM mil_NUM para_PREP Cr$_CUR 60_NUM mil_NUM em_PREP três_NUM semanas_N ,_PU com_PREP aumento_N de_PREP 253_NUM %_N ._END
+Segundo_PREP Petrarcas_NPROP de_NPROP Deus_NPROP ,_PU técnico_N da_PREP+ART Conab_NPROP ,_PU o_ART mercado_N só_PDEN deve_V ceder_V de_PREP forma_N expressiva_ADJ em_PREP abril_N ,_PU começa_V a_ART oferta_N da_PREP+ART safra_N da_PREP+ART seca_N ._END
+Normalmente_ADV ,_PU Irecê_NPROP abastece_V o_ART mercado_N paulista_ADJ em_PREP fevereiro_N e_KC março_N ,_PU mas_KC este_PROADJ ano_N a_ART colheita_N será_V consumida_PCP na_PREP+ART região_N ._END
+O_ART presidente_N da_PREP+ART Associação_NPROP Brasileira_NPROP dos_NPROP Criadores_NPROP de_NPROP Cavalos_NPROP Mangalarga_NPROP ,_PU Clodoaldo_NPROP Antonângelo_NPROP ,_PU começa_V a_PREP colocar_V em_PREP prática_N sua_PROADJ antiga_ADJ idéia_N de_PREP interiorizar_V os_ART leilões_N da_PREP+ART raça_N ._END
+Dia_N 19_N de_PREP março_N ,_PU ele_PROPESS realiza_V ,_PU em_PREP Barra_NPROP do_NPROP Garça_NPROP (_PU MT_NPROP )_PU ,_PU o_ART Leilão_NPROP Avançado_NPROP ,_PU com_PREP venda_N de_PREP 50_NUM lotes_N ._END
+Antonângelo_NPROP acredita_V que_KS o_ART mercado_N em_PREP São_NPROP Paulo_NPROP está_V saturado_PCP ._END
+"_PU Chegou_V o_ART momento_N ._END
+Cada_PROADJ associado_N paga_V US$_CUR 100_NUM para_PREP inscrever_V seu_PROADJ animal_N ._END
+"_PU A_ART asssociação_N se_PROPESS encarrega_V do_PREP+ART resto_N "_PU ,_PU afirma_V Antonângelo_NPROP ._END
+Outros_PROADJ remates_N estão_V programados_PCP para_PREP acontecer_V nas_PREP+ART cidades_N de_PREP Rio_NPROP Verde_NPROP (_PU GO_NPROP )_PU em_PREP abril_N ,_PU Araguaia_NPROP (_PU TO_NPROP )_PU e_KC Dourados_NPROP (_PU MT_NPROP )_PU em_PREP maio_N ,_PU Gurupi_NPROP (_PU TO_NPROP )_PU em_PREP junho_N Vilhena_NPROP (_PU RO_NPROP )_PU em_PREP julho_N ._END
+A_ART insegurança_N tomou_V conta_N do_PREP+ART setor_N agropecuário_ADJ com_PREP a_ART implantação_N da_PREP+ART Unidade_NPROP Real_NPROP de_NPROP Valor_NPROP (_PU URV_NPROP )_PU prevista_PCP para_PREP hoje_ADV ._END
+"_PU Os_ART negócios_N estão_V parados_PCP há_V mais_PREP de_PREP uma_NUM semana_N ,_PU por_PREP absoluto_ADJ desconhecimento_N do_PREP+PRO-KS que_PRO-KS vai_V acontecer_V no_PREP+ART mercado_N "_PU ,_PU afirma_V Cesário_NPROP Ramalho_NPROP da_NPROP Silva_NPROP ,_PU diretor_N da_PREP+ART Sociedade_NPROP Rural_NPROP Brasileira_NPROP ._END
+A_ART pecuária_N foi_V a_ART primeira_N a_PREP responder_V de_PREP forma_N negativa_ADJ ,_PU com_PREP a_ART falta_N da_PREP+ART oferta_N de_PREP bois_N gordos_ADJ nos_PREP+ART últimos_ADJ dias_N ._END
+Os_ART frigoríficos_N de_PREP todo_PROADJ o_ART país_N abrem_V a_ART semana_N sem_PREP ter_V o_PRO-KS que_PRO-KS abater_V ._END
+A_ART tendência_N ,_PU segundo_PREP Ramalho_NPROP da_NPROP Silva_NPROP ,_PU é_V de_PREP alta_N nos_PREP+ART preços_N pois_KC os_ART pecuaristas_N preferem_V deixar_V os_ART animais_N no_PREP+ART pasto_N enquanto_KS não_ADV houver_V estabilidade_N no_PREP+ART mercado_N ._END
+"_PU Nós_PROPESS ainda_ADV não_ADV sabemos_V o_PRO-KS que_PRO-KS realmente_ADV será_V transformado_PCP em_PREP URV_NPROP ._END
+Em_PREP relação_PREP à_PREP+ART agricultura_N o_ART quadro_N é_V o_ART mesmo_PROSUB ._END
+Dia_N 19_N último_ADJ ,_PU quando_ADV-KS o_ART prêmio_N acumulado_PCP no_PREP+ART Jóquei_NPROP Clube_NPROP de_PREP São_NPROP Paulo_NPROP totalizava_V US$_CUR 315_NUM mil_NUM ,_PU a_ART Pró-Horse_NPROP ,_PU empresa_N leiloeira_ADJ ,_PU aproveitou_V o_ART "_PU otimismo_N "_PU dos_PREP+ART turfistas_N e_KC promoveu_V um_ART pregão_N de_PREP animais_N em_PREP treinamento_N e_KC reprodutoras_N com_PREP linhagem_N de_PREP velocidade_N ,_PU todos_PROSUB da_PREP+ART raça_N puro-sangue_ADJ inglês_ADJ ,_PU logo_ADV após_PREP os_ART páreos_N ._END
+A_ART experiência_N não_ADV deu_V certo_ADJ ._END
+Foram_V vendidos_PCP 25_NUM animais_N por_PREP Cr$_CUR 22,6_NUM milhões_N ,_PU com_PREP média_N de_PREP Cr$_CUR 906_NUM mil_NUM (_PU US$_CUR 1,6_NUM mil_NUM )_PU ._END
+"_PU a_PREP o_ART contrário_N do_PREP+ART esperado_N ,_PU o_ART ambiente_N favorável_ADJ acabou_V prejudicando_V os_ART negócios_N "_PU ,_PU afirma_V Leo_NPROP Friedberg_NPROP ,_PU da_PREP+ART leiloeira_N ._END
+"_PU Muita_PROADJ gente_N jogou_V ,_PU novamente_ADV ninguém_PROSUB acertou_V o_ART betting_N e_KC o_ART leilão_N perdeu_V um_ADV pouco_ADV o_ART interesse_N ._END
+O_ART mercado_N de_PREP cavalos_N puro-sangue_ADJ inglês_ADJ foi_V sempre_ADV influenciado_PCP pelos_PREP+ART valores_N dos_PREP+ART prêmios_N pagos_PCP no_PREP+ART Jóquei_NPROP ._END
+"_PU Quando_KS os_ART prêmios_N são_V compensadores_ADJ ,_PU o_ART mercado_N vende_V mais_ADV e_KC os_ART cavalos_N alcançam_V altas_ADJ cotações_N ,_PU sejam_V potros_N em_PREP início_N de_PREP treinamento_N ou_KC animais_N adultos_ADJ "_PU diz_V Friedberg_NPROP ._END
+"_PU A_ART queda_N da_PREP+ART inflação_N vai_V atrair_V dinheiro_N do_PREP+ART mercado_N financeiro_ADJ para_PREP os_ART leilões_N de_PREP cavalos_N de_PREP raça_N "_PU ,_PU diz_V ._END
+Friedberg_NPROP acredita_V que_KS a_ART diretoria_N do_PREP+ART Jóquei_NPROP Clube_NPROP também_PDEN aposta_V na_PREP+ART baixa_N da_PREP+ART inflação_N ._END
+"_PU Em_PREP janeiro_N o_ART valor_N dos_PREP+ART prêmios_N foi_V aumentado_PCP em_PREP 48_NUM %_N ._END
+A_ART diretoria_N sabe_V ,_PU devido_PREP à_PREP+ART convivência_N de_PREP tantos_PROADJ anos_N com_PREP os_ART altos_N e_KC baixos_N da_PREP+ART economia_N ,_PU a_ART inflação_N cai_V a_ART tendência_N é_V de_PREP aumento_N no_PREP+ART movimento_N de_PREP apostas_N "_PU ._END
+depois_PREP de_PREP apresentar_V uma_PROSUB das_PREP+ART melhores_ADJ performances_N entre_PREP as_ART raças_N equinas_ADJ comercializadas_PCP no_PREP+ART ano_N passado_PCP ,_PU a_PREP andaluz_N abre_V o_ART calendário_N de_PREP 94_N com_PREP um_ART leilão_N oficial_ADJ na_PREP+ART segunda-feira_N próxima_ADJ no_PREP+ART Palace_NPROP (_PU zona_N sul_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ._END
+Quatro_NUM dias_N depois_ADV ,_PU é_V vez_N do_PREP+ART quarto_N de_N milha_N participar_V de_PREP uma_ART verdadeira_ADJ maratona_N de_PREP negócios_N no_PREP+ART Parque_NPROP da_NPROP Água_NPROP Branca_NPROP (_PU zona_N oeste_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ._END
+No_PREP+ART total_N ,_PU deles_PREP+PROPESS ,_PU de_PREP linhagens_N de_PREP conformação_N ,_PU corrida_N e_KC trabalho_N recebem_V lances_N ._END
+A_ART oferta_N de_PREP andaluz_N é_V diversificada_PCP ,_PU informa_V a_ART Federação_NPROP Nacional_NPROP dos_NPROP Criadores_NPROP de_NPROP Andaluz_NPROP ._END
+Machos_N importados_PCP e_KC machos_N puros_ADJ de_PREP origem_N nacional_ADJ (_PU Po_ADJ )_PU ,_PU fêmeas_N importadas_PCP e_KC fêmeas_N puras_ADJ de_PREP origem_N nacional_ADJ (_PU Po_ADJ )_PU ,_PU além_PREP de_PREP potros_N cruzados_PCP ._END
+"_PU A_ART oferta_N de_PREP andaluz_N de_PREP alta_ADJ qualidade_N continua_V escassa_ADJ no_PREP+ART país_N ._END
+No_PREP caso_PREP de_PREP matrizes_N ,_PU quem_PROSUB tem_V não_ADV quer_V liberar_V -las_PROPESS "_PU ,_PU explicam_V os_ART técnicos_N da_PREP+ART Federação_NPROP Nacional_NPROP ,_PU que_PRO-KS tem_V sede_N em_PREP São_NPROP Paulo_NPROP e_KC é_V presidida_PCP pelo_PREP+ART publicitário_ADJ Eduardo_NPROP Fischer_NPROP ._END
+Os_ART interessados_N encontrarão_V no_PREP+ART Palace_NPROP sete_NUM éguas_N importadas_PCP ._END
+Hoje_ADV as_ART fronteiras_N estão_V abertas_PCP ._END
+O_ART leilão_N inova_V :_PU A_ART ordem_N de_PREP entrada_N dos_PREP+ART animais_N será_V por_PREP grau_N de_PREP sangue_N ,_PU sendo_V que_KS primeiro_ADV entram_V os_ART mestiços_N ,_PU depois_ADV os_ART cruzados_N e_KC finalmente_ADV os_ART puros_N ._END
+Apesar_PREP da_PREP+ART pouca_ADJ idade_N ,_PU 27_NUM ,_PU Luiz_NPROP Duarte_NPROP é_V um_PROSUB dos_PREP+ART ginetes_N mais_ADV conhecidos_PCP do_PREP+ART Jóquei_NPROP Clube_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU que_PRO-KS completa_V 119_NUM anos_N dia_N 14_N de_PREP março_N próximo_ADJ ._END
+Ele_PROPESS é_V tricampeão_N das_PREP+ART estatísticas_N ,_PU ou_PDEN seja_PDEN ,_PU foi_V o_ART jóquei_N que_PRO-KS páreos_N venceu_V nas_PREP+ART três_NUM últimas_ADJ temporadas_N ._END
+Na_PREP+ART temporada_N atual_ADJ ,_PU que_PRO-KS termina_V em_PREP junho_N ,_PU Duarte_NPROP aparece_V em_PREP segundo_N na_PREP+ART reta_N de_PREP chegada_N ._END
+Acredito_V que_KS alcança_V o_ART tetracampeonato_N este_PROADJ ano_N "_PU ,_PU afirma_V o_ART treinador_N Antonio_NPROP Alvani_NPROP ._END
+Para_PREP se_PROPESS ter_V uma_ART idéia_N ,_PU na_PREP+ART temporada_N 92/93_N ,_PU encerrada_PCP em_PREP julho_N passado_PCP ,_PU Duarte_NPROP correu_V mais_PREP de_PREP mil_NUM vezes_N e_KC obteve_V 238_NUM vitórias_N ._END
+Ele_PROPESS tem_V contrato_N com_PREP o_ART haras_N Rosa_NPROP do_NPROP Sul_NPROP ,_PU de_PREP Mathias_NPROP Machline_NPROP ._END
+Mas_KC não_ADV veste_V exclusivamente_ADV a_ART farda_N do_PREP+ART Rosa_NPROP do_NPROP Sul_NPROP ._END
+"_PU Quando_KS não_ADV tem_V cavalos_N ,_PU eu_PROPESS corro_V para_PREP outros_PROADJ treinadores_N também_PDEN "_PU ,_PU diz_V ._END
+O_ART jóquei_N não_ADV diz_V quanto_PRO-KS ganha_V ._END
+É_V certo_ADJ que_KS Duarte_NPROP leva_V 10_NUM %_N de_PREP cada_PROADJ prêmio_N conquistado_PCP ._END
+Atualmente_ADV ,_PU a_ART média_N paga_PCP ao_PREP+ART primeiro_ADJ colocado_N é_V de_PREP Cr$_CUR 500_NUM mil_NUM ._END
+A_ART fama_N de_PREP Duarte_NPROP não_ADV fica_V restrita_PCP a_PREP São_NPROP Paulo_NPROP ._END
+Em_PREP 1989_N ,_PU foi_V ao_PREP+ART Chile_NPROP e_KC chegou_V em_PREP terceiro_ADJ lugar_N no_PREP+ART Grande_NPROP Prêmio_NPROP Latino-Americano_NPROP ._END
+O_ART dia_N começa_V cedo_ADV no_PREP+ART Jóquei_NPROP Clube_NPROP de_PREP São_NPROP Paulo_NPROP ._END
+São_V apenas_PDEN 5h30_N e_KC na_PREP+ART vila_N hípica_ADJ ,_PU cerca_PREP de_PREP 2.000_NUM cavalos_N estão_V alojados_PCP em_PREP 2.066_NUM baias_N ,_PU um_ART exército_N de_PREP peões_N começa_V a_PREP preparar_V os_ART velocistas_N para_PREP os_ART treinamentos_N ._END
+A_PREP partir_PREP das_PREP+ART 6h_N ,_PU mais_PREP de_PREP deles_PREP+PROPESS são_V entregues_PCP aos_PREP+ART 60_NUM treinadores_N que_PRO-KS atuam_V no_PREP+ART mais_ADV antigo_ADJ hipódromo_N do_PREP+ART país_N ._END
+Tem_V início_N a_ART maratona_N de_PREP exercícios_N nos_PREP+ART 2.000_NUM metros_N da_PREP+ART cancha_N de_PREP areia_N e_KC nos_PREP+ART mil_NUM metros_N da_PREP+ART cancha_N de_PREP areia_N e_KC nos_PREP+ART mil_NUM metros_N da_PREP+ART cancha_N de_PREP grama_N ._END
+São_V potros_N que_PRO-KS iniciam_V a_ART corrida_N para_PREP a_ART fama_N e_KC cavalos_N mais_ADV experientes_ADJ ,_PU que_PRO-KS já_ADV renderam_V alguns_PROADJ milhares_N de_PREP a_PREP seus_PROADJ proprietários_N ,_PU como_PREP os_PROSUB do_PREP+ART empresário_N Mathias_NPROP Machline_NPROP ,_PU que_PRO-KS mantém_V uma_ART cocheira_N com_PREP 50_NUM corredores_N no_PREP+ART Jóquei_NPROP ._END
+Na_PREP+ART retaguarda_N ,_PU veterinários_N ,_PU ferradores_N e_KC até_PDEN ambulâncias_N ._END
+"_PU 2.000_NUM pessoas_N circulam_V pelo_PREP+ART Jóquei_NPROP "_PU ,_PU diz_V o_ART gaúcho_N Antônio_NPROP Alvani_NPROP ,_PU 51_NUM ,_PU treinador_N de_PREP cavalos_N ._END
+Mas_KC em_PREP nenhum_PROADJ dia_N os_ART "_PU atletas_N "_PU ficam_V parados_PCP ._END
+Afinal_ADV ,_PU as_ART corridas_N oficiais_ADJ diurnas_ADJ e_KC noturnas_ADJ são_V realizadas_PCP aos_PREP+ART sábados_N ,_PU domingos_N ,_PU segundas_N ,_PU quartas_N e_KC quintas-feira_N ._END
+No_PREP+ART ano_N passado_PCP ,_PU foram_V realizadas_PCP 276_NUM corridas_N num_PREP+ART total_N de_PREP 2.991_NUM páreos_N e_KC pagou_V -se_PROPESS Cr$_CUR 733_NUM milhões_N (_PU valores_N de_PREP dezembro_N )_PU em_PREP prêmios_N ._END
+O_ART movimento_N nos_PREP+ART dias_N de_PREP corrida_N cresceu_V bastante_ADV desde_KS que_KS o_ART Jóquei_NPROP deixou_V de_PREP ser_V território_N exclusivo_ADJ dos_PREP+ART colunáveis_N ._END
+Abolidas_PCP as_ART formalidades_N de_PREP anos_N atrás_ADV ,_PU como_PREP traje_N à_ADJ rigor_ADJ ,_PU o_ART público_N tornou_V -se_PROPESS mais_ADV variado_PCP e_KC hoje_ADV qualquer_PROADJ "_PU mortal_N "_PU pode_V arriscar_V um_ART palpite_N ._END
+A_ART aposta_N mínima_ADJ custa_V apenas_PDEN Cr$_CUR 64,00_NUM ._END
+Domingo_N último_ADJ ,_PU o_ART Jóquei_NPROP pagou_V o_ART maior_ADJ prêmio_N de_PREP sua_PROADJ história_N ,_PU US$_CUR 400_NUM mil_NUM em_PREP betting_N que_PRO-KS estava_V acumulado_PCP desde_PREP novembro_N ._END
+Para_PREP ganhar_V o_ART turfista_N tinha_V de_PREP acertar_V o_ART primeiro_ADJ e_KC o_ART segundo_ADJ colocados_N ,_PU na_PREP+ART ordem_N exata_ADJ ,_PU em_PREP cinco_NUM dos_PREP+ART doze_NUM páreos_N do_PREP+ART dia_N ._END
+Também_PDEN ficou_V mais_ADV fácil_ADJ manter_V cavalos_N numa_PREP+ART baia_N da_PREP+ART vila_N hípica_ADJ ._END
+Sozinha_ADJ ,_PU uma_ART pessoa_N pode_V adquirir_V um_ART animal_N e_KC alugar_V baia_N ._END
+Pode_V ainda_ADV unir_V -se_PROPESS a_ART outra_PROSUB e_KC montar_V um_ART "_PU stud_N "_PU com_PREP cinco_NUM ou_KC seis_NUM corredores_N ._END
+624_NUM "_PU studs_N "_PU e_KC 302_NUM haras_N mantém_V cocheiras_N na_PREP+ART vila_N hípica_ADJ ._END
+Individualmente_ADV ,_PU possuem_V cavalos_N correndo_V no_PREP+ART Jóquei_NPROP 401_NUM pessoas_N ._END
+Segundo_PREP Antonio_NPROP Alvani_NPROP ,_PU gasta_V -se_PROPESS por_PREP mês_N em_PREP torno_PREP de_PREP US$_CUR 300_NUM (_PU Cr$_CUR 180_NUM mil_NUM )_PU para_PREP manutenção_N de_PREP um_ART velocista_N em_PREP Cidade_NPROP Jardim_NPROP ._END
+Basta_V vencer_V um_ART páreo_N para_PREP o_ART proprietário_N do_PREP+ART corredor_N pagar_V quase_ADV três_NUM meses_N de_PREP manutenção_N do_PREP+ART animal_N na_PREP+ART vila_N hípica_ADJ ._END
+É_V que_KS nos_PREP+ART páreos_N simples_ADJ ,_PU o_ART vencedor_N embolsa_V US$_CUR 800_NUM (_PU Cr$_CUR 500_NUM mil_NUM )_PU ._END
+(_PU 011_N 816-4011_N )_PU ._END
+Gás_N carbônico_N pode_V elevar_V produção_N irrigada_PCP de_PREP frutas_N tropicais_ADJ no_PREP+ART Nordeste_NPROP ._END
+Família_N Caiado_NPROP Fraga_NPROP vende_V 44_NUM simental_N pela_PREP+ART média_N de_PREP R$_CUR 4.149_NUM em_PREP São_NPROP Paulo_NPROP ._END
+8_NUM milhões_N de_PREP aves_N nobres_ADJ ,_PU como_PREP chesters_N e_KC perus_N ,_PU estão_V sendo_V preparados_PCP pelas_PREP+ART grandes_ADJ agroindústrias_N do_PREP+ART país_N para_PREP abastecer_V as_ART festas_N natalinas_ADJ ._END
+Na_PREP+ART avaliação_N das_PREP+ART principais_ADJ empresas_N do_PREP+ART setor_N ,_PU as_ART vendas_N neste_PREP+PROADJ final_N de_PREP ano_N devem_V crescer_V entre_PREP 10_NUM %_N e_KC 15_NUM %_N em_ADV comparação_ADV a_PREP 93_N ._END
+A_ART Sadia_NPROP promete_V não_ADV frustrar_V os_ART consumidores_N de_PREP seu_PROADJ tradicional_ADJ peru_N e_KC está_V produzindo_V 15_NUM mil_NUM t_N da_PREP+ART ave_N ,_PU 15_NUM %_N a_PROADJ mais_PROADJ do_KS que_KS no_PREP+ART mesmo_PROADJ período_N de_PREP 93_N ._END
+"_PU Estamos_V preparados_PCP para_PREP aumentar_V em_PREP mais_PROADJ 3_NUM %_N a_ART produção_N de_PREP tender_N ,_PU caso_KS a_ART procura_N supere_V a_ART nossa_PROADJ previsão_N inicial_ADJ "_PU ,_PU diz_V José_NPROP Mayr_NPROP Bonassi_NPROP ,_PU diretor_N da_PREP+ART Sadia_NPROP ._END
+Os_ART produtos_N natalinos_ADJ da_PREP+ART Sadia_NPROP chegam_V às_PREP+ART gôndolas_N dos_PREP+ART supermercados_N ainda_ADV este_PROADJ mês_N ,_PU amparados_PCP por_PREP uma_ART campanha_N publicitária_ADJ de_PREP cerca_PREP de_PREP US$_CUR 1_NUM milhão_N ._END
+Desde_PREP julho_N ,_PU no_PREP+ART início_N do_PREP+ART real_NPROP ,_PU até_PREP outubro_N ,_PU as_ART vendas_N de_PREP aves_N nobres_ADJ e_KC derivados_N de_PREP suínos_N da_PREP+ART Sadia_NPROP cresceram_V 10_NUM %_N sobre_PREP o_ART mesmo_PROADJ período_N de_PREP 93_N ,_PU segundo_PREP Bonassi_NPROP ._END
+Embora_KS as_ART agroindústrias_N consultadas_PCP pela_PREP+ART Folha_NPROP garantam_V estar_V preparadas_PCP para_PREP o_ART Natal_NPROP gordo_ADJ ,_PU algumas_PROSUB não_ADV descartam_V a_ART possibilidade_N de_PREP a_ART demanda_N surpreender_V ._END
+"_PU Tivemos_V que_KS aumentar_V nossas_PROADJ importações_N do_PREP+ART Canadá_NPROP para_PREP suprir_V a_ART produção_N de_PREP derivados_N ._END
+Ainda_ADV assim_ADV ,_PU prevemos_V que_KS o_ART quadro_N de_PREP oferta_N e_KC demanda_N será_V bastante_ADV apertado_PCP "_PU ,_PU alerta_V Carlos_NPROP Hiroshi_NPROP Fujii_NPROP ,_PU diretor_N da_PREP+ART Ceval_NPROP ._END
+Oscar_NPROP José_NPROP Ghizzi_NPROP ,_PU do_PREP+ART frigorífico_N Aurora_NPROP ,_PU em_PREP Chapecó_NPROP (_PU SC_NPROP )_PU ,_PU concorda_V com_PREP Fujii_NPROP e_KC acrescenta_V que_KS o_ART real_NPROP antecipou_V a_ART queima_N de_PREP estoques_N do_PREP+ART setor_N ._END
+"_PU Isto_PROSUB é_V mais_PROADJ um_NUM indicador_N de_PREP que_KS a_ART oferta_N será_V bastante_ADV ajustada_PCP à_PREP+ART procura_N neste_PREP+PROADJ final_N de_PREP ano_N "_PU ,_PU diz_V ._END
+"_PU Estamos_V recuperando_V mercado_N ,_PU mas_KC as_ART vendas_N deste_PREP+PROADJ Natal_NPROP não_ADV devem_V superar_V as_ART registradas_N entre_PREP 85_N e_KC 89_N "_PU ,_PU pondera_V Áureo_NPROP Bonilha_NPROP ,_PU da_PREP+ART Batavo_NPROP ,_PU de_PREP Castro_NPROP (_PU PR_NPROP )_PU ._END
+A_PREP Perdigão_NPROP preferiu_V não_ADV se_PROPESS arriscar_V ._END
+Mudanças_N no_PREP+ART comando_N da_PREP+ART empresa_N e_KC incertezas_N quanto_PREP à_PREP+ART conjuntura_N levaram_V a_ART empresa_N a_PREP manter_V o_ART mesmo_PROADJ nível_N de_PREP produção_N de_PREP Chester_N e_KC tender_N do_PREP+ART ano_N passado_PCP ._END
+As_ART chuvas_N que_PRO-KS ocorreram_V nos_PREP+ART últimos_ADJ dias_N melhoraram_V substancialmente_ADV as_ART condições_N hídricas_ADJ do_PREP+ART solo_N ,_PU dando_V condições_N para_PREP o_ART início_N do_PREP+ART plantio_N da_PREP+ART safra_N de_PREP verão_N na_PREP+ART maioria_N das_PREP+ART regiões_N do_PREP+ART Estado_N ._END
+A_ART estiagem_N ,_PU que_PRO-KS se_PROPESS prolongou_V por_PREP quase_ADV cinco_NUM meses_N em_PREP algumas_PROADJ localidades_N ,_PU acabou_V ._END
+Estes_PROADJ locais_N apresentam_V condições_N entre_PREP desfavorável_ADJ e_KC crítica_ADJ para_PREP o_ART plantio_N ._END
+diante_PREP das_PREP+ART chuvas_N ,_PU as_ART práticas_N para_PREP aplicação_N de_PREP agrotóxicos_N estão_V desfavoráveis_ADJ e_KC devem_V permanecer_V assim_ADV até_PREP amanhã_ADV ._END
+Os_ART riscos_N de_PREP incêndios_N foram_V reduzidos_PCP em_PREP todo_PROADJ o_ART Estado_N ._END
+O_ART lançamento_N de_PREP novas_ADJ marcas_N deve_V aquecer_V a_ART concorrência_N no_PREP+ART segmento_N de_PREP aves_N nobres_ADJ neste_PREP+PROADJ Natal_NPROP ._END
+Estimado_PCP entre_PREP 30_NUM mil_NUM e_KC 35_NUM mil_NUM t_N ,_PU o_ART mercado_N ganha_V um_ART novo_ADJ produto_N este_PROADJ mês_N ,_PU o_ART Bruster_N ,_PU desenvolvido_PCP pela_PREP+ART Frangosul_NPROP ,_PU de_PREP Montenegro_NPROP (_PU RS_NPROP )_PU ._END
+A_ART Frangosul_NPROP vai_V colocar_V nos_PREP+ART supermercados_N das_PREP+ART regiões_N Sul_NPROP e_KC Sudeste_NPROP 1.200_NUM t_N de_PREP Bruster_N ,_PU que_PRO-KS pesa_V em_PREP média_N três_NUM quilos_N ._END
+O_ART frigorífico_N gaúcho_ADJ investiu_V US$_CUR 2,5_NUM milhões_N no_PREP+ART desenvolvimento_N da_PREP+ART ave_N ,_PU em_PREP parceria_N com_PREP a_ART Agroceres_NPROP e_KC a_ART Ross_NPROP Breeders_NPROP ,_PU empresa_N de_PREP melhoramento_N genético_ADJ da_PREP+ART Escócia_NPROP ._END
+Mais_PROADJ carne_N no_PREP+ART peito_N e_KC na_PREP+ART coxa_N ,_PU além_PREP de_PREP tempero_N especial_ADJ feito_PCP com_PREP ervas_N naturais_ADJ e_KC especiarias_N ,_PU são_V alguns_PROSUB dos_PREP+ART atributos_N do_PREP+ART Bruster_N ,_PU que_PRO-KS vai_V disputar_V mercado_N com_PREP o_ART Classy_N (_PU Seara-Ceval_NPROP )_PU ,_PU o_ART Chester_N (_PU Perdigão_NPROP )_PU e_KC o_ART Fiesta_N (_PU Sadia_NPROP )_PU ._END
+A_ART Ceval_NPROP ,_PU porém_KC ,_PU não_ADV teme_V a_ART concorrência_N ._END
+Apresenta_V como_PREP trunfo_N o_ART prêmio_N obtido_PCP pela_PREP+ART ave_N Classy_ADJ há_V duas_NUM semanas_N no_PREP+ART Salão_NPROP Internacional_NPROP de_NPROP Alimentos_NPROP (_PU Sial_NPROP )_PU ,_PU em_PREP Paris_NPROP ._END
+Depois_PREP de_PREP testar_V a_ART ave_N em_PREP 92_N ,_PU a_ART Ceval_NPROP colocou_V 400_NUM t_N de_PREP Classy_N nos_PREP+ART supermercados_N do_PREP+ART Sul_NPROP e_KC Sudeste_NPROP no_PREP+ART final_N de_PREP 93_N ,_PU obtendo_V o_ART prêmio_N de_PREP lançamento_N do_PREP+ART ano_N ,_PU na_PREP+ART categoria_N de_PREP produtos_N congelados_PCP ,_PU concedido_PCP pela_PREP+ART Abras_NPROP (_PU Associação_NPROP Brasileira_NPROP dos_NPROP Supermercados_NPROP )_PU ._END
+Este_PROADJ ano_N ,_PU a_ART Ceval_NPROP ampliou_V a_ART oferta_N da_PREP+ART ave_N para_PREP 1.500_NUM t_N ,_PU que_PRO-KS serão_V vendidas_PCP em_PREP todo_PROADJ o_ART Brasil_NPROP ._END
+O_ART Classy_N também_PDEN tem_V mais_PROADJ carne_N no_PREP+ART peito_N e_KC na_PREP+ART coxa_N e_KC pesa_V entre_PREP 2,5_NUM quilos_N e_KC 3,5_NUM quilos_N ._END
+As_ART avós_N do_PREP+ART Classy_N são_V importadas_PCP dos_PREP+ART Estados_NPROP Unidos_NPROP ._END
+Antes_PREP de_PREP lançar_V -lo_PROPESS em_PREP caráter_N experimental_ADJ em_PREP 92_N ,_PU a_ART Ceval_NPROP pesquisou_V a_ART ave_N por_PREP dois_NUM anos_N em_PREP seu_PROADJ núcleo_N de_PREP desenvolvimento_N genético_ADJ localizado_PCP em_PREP Seara_NPROP (_PU SC_NPROP )_PU ._END
+"_PU O_ART nosso_PROADJ plano_N é_V ocupar_V 10_NUM %_N do_PREP+ART mercado_N brasileiro_ADJ de_PREP aves_N temperadas_PCP até_PREP 1996_N "_PU ,_PU afirma_V Carlos_NPROP Hiroshi_NPROP Fujii_NPROP ,_PU diretor_N da_PREP+ART divisão_N carnes_N da_PREP+ART Ceval_NPROP ._END
+"_PU Decidimos_V apostar_V no_PREP+ART Classy_N após_PREP pesquisas_N junto_PREP aos_PREP+ART consumidores_N ,_PU que_PRO-KS revelaram_V existir_V uma_ART brecha_N no_PREP+ART mercado_N de_PREP aves_N entre_PREP o_ART frango_N comum_ADJ e_KC o_ART peru_N "_PU ,_PU diz_V Fujii_NPROP ._END
+Por_PREP isto_PROSUB ,_PU as_ART empresas_N do_PREP+ART setor_N estão_V investindo_V em_PREP melhoramento_N genético_ADJ de_PREP aves_N a_PREP fim_PREP de_PREP desenvolver_V produtos_N diferenciados_PCP dos_PREP+ART frangos_N comuns_ADJ ,_PU que_PRO-KS sejam_V consumidos_PCP aos_PREP+ART domingos_N e_KC em_PREP datas_N especiais_ADJ como_PREP o_ART Natal_NPROP ._END
+A_ART novidade_N da_PREP+ART Sadia_NPROP para_PREP este_PROADJ Natal_NPROP é_V a_ART mudança_N no_PREP+ART tempero_N da_PREP+ART ave_N Fiesta_ADJ ,_PU a_PREP fim_PREP de_PREP tornar_V -la_PROPESS mais_ADV "_PU molhada_PCP "_PU após_PREP assada_PCP ,_PU e_KC a_ART introdução_N do_PREP+ART termômetro_N ,_PU a_PREP exemplo_N o_ART peru_N ._END
+"_PU Planejamos_V uma_ART estratégia_N agressiva_ADJ para_PREP a_ART venda_N do_PREP+ART Fiesta_N "_PU ,_PU diz_V Walter_NPROP Mateucci_NPROP Filho_NPROP ,_PU gerente_N comercial_ADJ de_PREP carnes_N da_PREP+ART Sadia_NPROP ._END
+No_PREP+ART ano_N passado_PCP ,_PU o_ART peru_N Sadia_NPROP também_PDEN teve_V seu_PROADJ tempero_N modificado_PCP para_PREP deixar_V -lo_PROPESS mais_ADV "_PU molhado_PCP "_PU depois_PREP de_PREP assado_PCP ._END
+Na_PREP+ART onda_N do_PREP+ART sucesso_N da_PREP+ART nova_ADJ moeda_N ,_PU o_ART frigorífico_N Aurora_NPROP ,_PU de_PREP Santa_NPROP Catarina_NPROP ,_PU antecipou_V para_PREP o_ART final_N deste_PREP+PROADJ ano_N o_ART lançamento_N de_PREP uma_ART linha_N de_PREP linguiça_N paio_N ,_PU calabreza_N e_KC portuguesa_N ._END
+Também_PDEN será_V colocada_PCP à_PREP+ART venda_N uma_ART linha_N de_PREP presuntos_N e_KC apresuntados_N ._END
+Para_PREP 95_N ,_PU o_ART Aurora_NPROP planeja_V lançar_V uma_ART linha_N de_PREP salsichas_N ,_PU linguiças_N e_KC mortadelas_N de_PREP frango_N ._END
+O_ART estoque_N do_PREP+ART governo_N ,_PU avaliado_PCP em_PREP cerca_PREP de_PREP 5_NUM milhões_N de_PREP toneladas_N ,_PU é_V o_ART maior_ADJ responsável_N pela_PREP+ART estabilização_N dos_PREP+ART preços_N do_PREP+ART milho_N em_PREP São_NPROP Paulo_NPROP ,_PU que_PRO-KS na_PREP+ART semana_N passada_PCP ficou_V em_PREP R$_CUR 9,00_NUM a_ART saca_N de_PREP 60_NUM quilos_N ._END
+Entre_PREP 600_NUM mil_NUM t_N e_KC 700_NUM mil_NUM t_N do_PREP+ART produto_N já_ADV foram_V leiloadas_PCP nesta_PREP+PROADJ entressafra_N ._END
+além_PREP das_PREP+ART reservas_N oficiais_ADJ ,_PU o_ART mercado_N está_V sendo_V abastecido_PCP com_PREP sobras_N das_PREP+ART safras_N do_PREP+ART Mato_NPROP Grosso_NPROP do_NPROP Sul_NPROP e_KC Paraná_NPROP ._END
+Indústrias_N do_PREP+ART setor_N ,_PU consultadas_PCP pela_PREP+ART Folha_NPROP ,_PU confirmaram_V não_ADV acreditar_V que_KS possa_V ocorrer_V uma_ART disparada_N nos_PREP+ART preços_N do_PREP+ART milho_N ._END
+Isto_PROSUB porque_KS as_ART empresas_N já_ADV teriam_V formado_PCP estoques_N preventivos_ADJ durante_PREP a_ART safra_N ._END
+"_PU Chegamos_V ao_PREP+ART topo_N do_PREP+ART preço_N ._END
+Não_ADV passa_V disto_PREP+PROSUB ,_PU garante_V o_ART gerente_N de_PREP uma_ART agroindústria_N de_PREP frango_N ,_PU que_PRO-KS preferiu_V não_ADV se_PROPESS identificar_V ._END
+Kato_NPROP revela_V porém_KC que_KS há_V grande_ADJ procura_N do_PREP+ART insumo_N por_PREP parte_N dos_PREP+ART segmentos_N de_PREP frangos_N e_KC suínos_N ,_PU que_PRO-KS aceleraram_V a_ART produção_N com_PREP os_ART olhos_N voltados_PCP para_PREP o_ART aumento_N de_PREP consumo_N nas_PREP+ART festas_N de_PREP final_N de_PREP ano_N (_PU veja_V texto_N acima_ADV )_PU ._END
+Os_ART números_N da_PREP+ART Associação_NPROP Paulista_NPROP de_NPROP Avicultura_NPROP (_PU Apa_NPROP )_PU apontam_V para_PREP um_ART acréscimo_N de_PREP 8,73_NUM %_N na_PREP+ART produção_N de_PREP carne_N de_PREP frango_N até_PREP o_ART término_N de_PREP dezembro_N ,_PU em_PREP relação_PREP ao_PREP+ART ano_N passado_PCP ._END
+"_PU Em_PREP 94_N produziremos_V 3,402_NUM milhões_N de_PREP t_N ,_PU enquanto_KS no_PREP+ART ano_N passado_PCP atingimos_V 3,143_NUM milhões_N de_PREP t_N "_PU ,_PU diz_V José_NPROP Carlos_NPROP Teixeira_NPROP ,_PU presidente_N da_PREP+ART Apa_NPROP ._END
+O_ART restante_N será_V absorvido_PCP pelo_PREP+ART mercado_N interno_ADJ ,_PU que_PRO-KS terá_V ,_PU segundo_PREP a_ART Apa_NPROP ,_PU consumo_N per_ADJ capita_ADJ de_PREP 19_NUM kg_N ,_PU contra_PREP 17,5_NUM kg_N em_PREP 93_N ._END
+O_ART aumento_N da_PREP+ART demanda_N veio_V acompanhado_PCP de_PREP maior_ADJ preço_N do_PREP+ART frango_N vivo_ADJ na_PREP+ART granja_N ,_PU que_PRO-KS saltou_V de_PREP R$_CUR 0,53_NUM em_PREP julho_N para_PREP R$_CUR 0,85_NUM na_PREP+ART semana_N passada_PCP ._END
+Enquanto_KS isto_PROSUB ,_PU o_ART custo_N de_PREP produção_N subiu_V de_PREP R$_CUR 0,55_NUM para_PREP R$_CUR 0,62_NUM no_PREP+ART mesmo_PROADJ período_N ,_PU conforme_PREP mostra_N a_ART coluna_N Moeda_NPROP Verde_NPROP (_PU Veja_V na_PREP+ART pág._N 2_N )_PU ._END
+Teixeira_NPROP alega_V que_KS a_ART alta_N se_PROPESS deve_V em_PREP parte_N ao_PREP+ART milho_N ,_PU que_PRO-KS pulou_V de_PREP R$_CUR 7,80_NUM /_PU saca_N em_PREP julho_N para_PREP R$_CUR 9,00_NUM /_PU saca_N atualmente_ADV ._END
+A_ART Companhia_NPROP Nacional_NPROP de_NPROP Abastecimento_NPROP divulgou_V ,_PU na_PREP+ART semana_N passada_PCP ,_PU a_ART primeira_ADJ estimativa_N da_PREP+ART safra_N de_PREP grãos_N 94/95_N ,_PU que_PRO-KS ainda_ADV foi_V plantada_PCP ._END
+A_ART previsão_N aponta_V para_PREP uma_ART colheita_N entre_PREP 76,2_NUM milhões_N e_KC 79,2_NUM milhões_N de_PREP t_N ._END
+Caso_KS seja_V atingido_PCP ,_PU este_PROADJ desempenho_N significará_V um_ART acréscimo_N entre_PREP 2_NUM %_N e_KC 6_NUM %_N sobre_PREP a_ART colheita_N de_PREP 94_N ,_PU que_PRO-KS foi_V de_PREP 74,7_NUM milhões_N de_PREP t_N ._END
+Esta_PROADJ expectativa_N fica_V abaixo_PREP do_PREP+ART planejado_N inicialmente_ADV pelo_PREP+ART governo_N ,_PU que_PRO-KS era_V de_PREP 82,5_NUM milhões_N de_PREP t_N ._END
+Em_ADV seguida_ADV aparece_V o_ART feijão_N ,_PU com_PREP crescimento_N entre_PREP 2_NUM %_N e_KC 8_NUM %_N em_PREP relação_PREP à_PREP+ART safra_N passada_PCP ,_PU que_PRO-KS foi_V de_PREP 1,359_NUM milhão_N de_PREP ha_N na_PREP+ART primeira_ADJ safra_N ._END
+O_ART arroz_N é_V o_ART produto_N que_PRO-KS terá_V maior_ADJ redução_N ,_PU perdendo_V entre_PREP 1_NUM %_N e_KC 5_NUM %_N de_PREP área_N ._END
+Em_PREP 94_N ,_PU a_ART lavoura_N arrozeira_ADJ chegou_V a_PREP 2,751_NUM milhões_N de_PREP ha_N plantados_PCP ._END
+O_ART economista_N Fernando_NPROP Homem_NPROP de_NPROP Melo_NPROP prevê_V aumento_N anual_ADJ de_PREP 4,4_NUM %_N na_PREP+ART demanda_N por_PREP alimentos_N nos_PREP+ART próximos_ADJ dois_NUM anos_N ._END
+O_ART grupo_N de_PREP produtos_N que_PRO-KS deve_V registrar_V maior_ADJ demanda_N no_PREP+ART período_N é_V integrado_PCP por_PREP soja_N ,_PU frutas_N ,_PU leite_N e_KC derivados_N ,_PU carnes_N bovina_ADJ e_KC de_PREP frango_N ,_PU legumes_N ,_PU verduras_N ,_PU batata_N e_KC milho_N ._END
+Com_PREP crescimento_N médio_ADJ estão_V ovos_N ,_PU derivados_N de_PREP trigo_N ,_PU carne_N suína_ADJ ,_PU café_N ,_PU açúcar_N e_KC derivados_N e_KC arroz_N ._END
+A_ART procura_N aumentaria_V em_PREP ritmo_N menor_ADJ no_PREP+ART grupo_N composto_PCP por_PREP feijão_N ,_PU mandioca_N e_KC derivados_N ._END
+O_ART Iea_NPROP estima_V prejuízo_N de_PREP cerca_PREP de_PREP US$_CUR 30_NUM milhões_N ,_PU devido_PREP à_PREP+ART quebra_N de_PREP 20_NUM milhões_N de_PREP caixas_N de_PREP laranja_N na_PREP+ART safra_N agrícola_ADJ 93/94_N ,_PU provocada_PCP pelas_PREP+ART geadas_N e_KC estiagem_N ._END
+Em_PREP consequência_N dos_PREP+ART problemas_N climáticos_ADJ ,_PU que_PRO-KS retardaram_V a_ART florada_N ,_PU o_ART Iea_NPROP prevê_V atraso_N entre_PREP 45_NUM e_KC 60_NUM dias_N no_PREP+ART processamento_N de_PREP laranja_N pela_PREP+ART indústria_N em_PREP 95_N ._END
+A_ART DowElanco_NPROP ,_PU uma_PROSUB das_PREP+ART principais_ADJ empresas_N de_PREP agrotóxicos_N ,_PU está_V otimista_N em_PREP relação_PREP ao_PREP+ART Brasil_NPROP ._END
+Planeja_V dobrar_V seu_PROADJ faturamento_N para_PREP US$_CUR 150_NUM milhões_N até_PREP 2000_N ,_PU ocupando_V o_ART segundo_ADJ lugar_N no_PREP+ART setor_N ._END
+Pedro_NPROP Camargo_NPROP Neto_NPROP ,_PU ex-presidente_N da_PREP+ART SRB_NPROP ,_PU lançou_V ontem_ADV ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU o_ART livro_N "_PU Pensamento_NPROP Rural_NPROP reflexões_NPROP sobre_NPROP o_NPROP desenvolvimento_NPROP brasileiro_NPROP ,_PU "_PU ._END
+Começou_V a_PREP circular_V no_PREP+ART último_ADJ sábado_N ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU a_ART campanha_N "_PU Quem_NPROP vive_NPROP comendo_NPROP frango_NPROP vive_NPROP melhor_NPROP "_PU ,_PU orçada_PCP em_PREP US$_CUR 1_NUM milhão_N e_KC promovida_PCP pelas_PREP+ART entidades_N dos_PREP+ART avicultores_N e_KC abatedouros_N ._END
+O_ART índice_N de_PREP vacinação_N contra_PREP a_ART febre_N aftosa_ADJ na_PREP+ART campanha_N de_PREP setembro_N alcançou_V 90,88_NUM %_N do_PREP+ART rebanho_N paulista_ADJ ,_PU superando_V a_ART expectativa_N da_PREP+ART Secretaria_NPROP da_NPROP Agricultura_NPROP ._END
+Profissionais_N de_PREP publicidade_N podem_V se_PROPESS inscrever_V ,_PU até_PREP o_ART próximo_ADJ dia_N 11_N ,_PU na_PREP+ART 8ª_ADJ Mostra_NPROP Brasileira_NPROP de_NPROP Propaganda_NPROP Rural_NPROP ._END
+(_PU 011_N 212-7814_N )_PU ._END
+A_ART característica_N mais_ADV marcante_ADJ da_PREP+ART economia_N brasileira_ADJ é_V a_ART profunda_ADJ desigualdade_N social_ADJ ._END
+Outra_PROADJ característica_N também_PDEN importante_ADJ do_PREP+ART Brasil_NPROP de_PREP hoje_ADV é_V a_ART urbanização_N ._END
+O_ART intenso_ADJ fluxo_N migratório_ADJ do_PREP+ART campo_N para_PREP a_ART cidade_N ,_PU realizado_PCP nas_PREP+ART últimas_ADJ décadas_N ,_PU transformou_V o_ART país_N de_PREP rural_N em_PREP urbano_N ._END
+Em_PREP diversos_PROADJ municípios_N das_PREP+ART regiões_N Sudeste_NPROP e_KC Sul_NPROP menos_PREP de_PREP 20_NUM %_N da_PREP+ART população_N reside_V no_PREP+ART meio_N rural_ADJ ._END
+A_ART combinação_N destas_PREP+PROADJ características_N leva_V à_PREP+ART conclusão_N de_PREP que_KS o_ART maior_ADJ índice_N de_PREP pobreza_N hoje_ADV do_PREP+ART Brasil_NPROP está_V na_PREP+ART cidade_N ._END
+Esta_PROSUB é_V a_ART principal_ADJ razão_N de_PREP tanta_PROADJ preocupação_N com_PREP o_ART preço_N de_PREP alimentos_N ._END
+Preços_N elevados_PCP têm_V forte_ADJ efeito_N sobre_PREP a_ART distribuição_N de_PREP renda_N porque_KS ,_PU relativamente_ADV ,_PU os_ART pobres_N gastam_V mais_ADV com_PREP alimentos_N ._END
+Pelas_PREP+ART características_N nutricionais_ADJ ,_PU o_ART leite_N é_V um_ART alimento_N essencial_ADJ para_PREP diversas_PROADJ faixas_N etárias_ADJ da_PREP+ART população_N ._END
+Por_PREP isto_PROSUB ,_PU seu_PROADJ abastecimento_N sempre_ADV foi_V motivo_N de_PREP preocupações_N por_PREP parte_N do_PREP+ART governo_N ._END
+Tais_PROADJ preocupações_N explicam_V o_ART tabelamento_N do_PREP+ART preço_N do_PREP+ART leite_N por_PREP quase_ADV meio_NUM século_N ._END
+Os_ART argumentos_N apresentados_PCP até_PREP então_ADV conduzem_V ,_PU naturalmente_ADV ,_PU à_PREP+ART conclusão_N de_PREP que_KS uma_ART política_N de_PREP preços_N baixos_ADJ do_PREP+ART leite_N para_PREP o_ART consumidor_N tem_V grande_ADJ impacto_N social_ADJ ._END
+Diante_PREP da_PREP+ART realidade_N resta_V examinar_V as_ART consequências_N de_PREP tal_PROADJ política_N para_PREP o_ART produtor_N de_PREP leite_N ._END
+A_ART questão_N é_V como_ADV compatibilizar_V preços_N baixos_ADJ ao_PREP+ART consumidor_N e_KC lucro_N ao_PREP+ART produtor_N ._END
+Em_PREP diversas_PROADJ partes_N do_PREP+ART mundo_N ,_PU a_ART compatibilização_N é_V feita_PCP através_PREP de_PREP subsídios_N ._END
+No_PREP+ART Brasil_NPROP esta_PROADJ estratégia_N parece_V pouco_ADV provável_ADJ pelas_PREP+ART enormes_ADJ limitações_N de_PREP recursos_N financeiros_ADJ do_PREP+ART Estado_N ._END
+Mesmo_PDEN em_PREP outros_PROADJ países_N ,_PU que_PRO-KS praticam_V o_ART subsídio_N ,_PU existem_V fortes_ADJ pressões_N locais_ADJ e_KC internacionais_ADJ para_PREP a_ART sua_PROADJ redução_N ._END
+Assim_ADV ,_PU o_ART caminho_N para_PREP resolver_V este_PROADJ aparente_ADJ impasse_N não_ADV é_V o_ART subsídio_N ._END
+A_ART palavra_N mágica_ADJ que_PRO-KS soluciona_V o_ART problema_N é_V tecnologia_N ._END
+Estudos_N conduzidos_PCP pela_PREP+ART Embrapa_NPROP mostram_V significativa_ADJ redução_N do_PREP+ART custo_N de_PREP produção_N com_PREP o_ART aumento_N da_PREP+ART produtividade_N do_PREP+ART rebanho_N ,_PU conforme_PREP indicam_V os_ART dados_N do_PREP+ART quadro_N abaixo_ADV ._END
+Evidentemente_ADV que_KS o_ART consumidor_N irá_V preferir_V comprar_V leite_N do_PREP+ART produtor_N que_PRO-KS alcança_V maior_ADJ produtividade_N ,_PU porque_KS isto_PROSUB significa_V pagar_V menos_ADV pela_PREP+ART sua_PROADJ compra_N ._END
+Em_PREP razão_N do_PREP+ART consumidor_N apropriar_V parte_N dos_PREP+ART benefícios_N da_PREP+ART tecnologia_N ,_PU sua_PROADJ preferência_N é_V pelo_PREP+ART estrato_N mais_ADV produtivo_ADJ ._END
+Em_PREP outras_PROADJ palavras_N ,_PU sua_PROADJ preferência_N é_V pelo_PREP+ART profissional_N do_PREP+ART leite_N ,_PU aquele_PROSUB que_PRO-KS cuida_V de_PREP seu_PROADJ negócio_N com_PREP eficiência_N ._END
+Isto_PROSUB significa_V que_KS a_ART modernização_N da_PREP+ART produção_N de_PREP leite_N traz_V benefícios_N tanto_KC para_PREP o_ART produtor_N ,_PU quanto_KC para_PREP o_ART consumidor_N ._END
+O_ART autêntico_ADJ profissional_N do_PREP+ART leite_N enfrenta_V ,_PU hoje_ADV ,_PU dois_NUM inimigos_N ,_PU um_ART interno_N e_KC outro_PROSUB externo_ADJ ._END
+O_ART interno_N é_V o_ART safrista_N ,_PU que_PRO-KS concentra_V sua_PROADJ produção_N de_PREP leite_N na_PREP+ART época_N das_PREP+ART chuvas_N ;_PU o_ART externo_N é_V a_ART importação_N subsidiada_PCP de_PREP derivados_N lácteos_ADJ ._END
+O_ART remédio_N para_PREP estes_PROADJ dois_NUM males_N é_V a_ART fiscalização_N do_PREP+ART controle_N de_PREP qualidade_N do_PREP+ART leite_N e_KC a_ART aplicação_N de_PREP tarifas_N compensatórias_ADJ ._END
+As_ART recentes_ADJ mudanças_N na_PREP+ART regulamentação_N do_PREP+ART controle_N de_PREP qualidade_N foram_V desastrosas_ADJ na_PREP+ART prática_N ._END
+Antes_ADV toda_PROADJ a_ART fiscalização_N era_V de_PREP responsabilidade_N do_PREP+ART governo_N federal_ADJ ._END
+A_ART descentralização_N completamente_ADV solta_PCP da_PREP+ART fiscalização_N tem_V se_PROPESS mostrado_PCP ineficiente_ADJ ,_PU facilitando_V a_ART fraude_N e_KC criando_V condições_N de_PREP desigualdade_N entre_PREP os_ART produtores_N que_PRO-KS investem_V em_PREP tecnologia_N de_PREP produção_N com_PREP qualidade_N e_KC os_PROSUB que_PRO-KS apenas_PDEN exploram_V ,_PU à_PREP+ART margem_N ,_PU a_ART atividade_N leiteira_ADJ ._END
+Por_PREP razões_N políticas_ADJ a_ART volta_N da_PREP+ART centralização_N da_PREP+ART fiscalização_N do_PREP+ART controle_N de_PREP qualidade_N não_ADV será_V um_ART caminho_N fácil_ADJ ._END
+Entretanto_KC ,_PU deve_V ser_V perseguida_PCP como_PREP importante_ADJ instrumento_N de_PREP modernização_N da_PREP+ART produção_N de_PREP leite_N do_PREP+ART Brasil_NPROP ._END
+Não_ADV se_PROPESS trata_V apenas_PDEN de_PREP proteger_V o_ART produtor_N nacional_ADJ ineficiente_ADJ ,_PU mas_KC impedir_V uma_ART competição_N desigual_ADJ até_PDEN mesmo_PDEN com_PREP os_ART produtores_N eficientes_ADJ ,_PU com_PREP graves_ADJ prejuízos_N tanto_KC para_PREP o_ART produtor_N ,_PU no_PREP+ART curto_ADJ prazo_N ,_PU quanto_KC para_PREP o_ART consumidor_N ,_PU no_PREP+ART longo_ADJ prazo_N ._END
+Em_PREP decorrência_N das_PREP+ART últimas_ADJ eleições_N ,_PU o_ART país_N está_V próximo_PREP de_PREP ter_V um_ART novo_ADJ governo_N ,_PU com_PREP grandes_ADJ promessas_N na_PREP+ART área_N social_ADJ ._END
+São_V conhecidos_PCP os_ART graves_ADJ problemas_N na_PREP+ART área_N da_PREP+ART saúde_N ,_PU com_PREP destaque_N para_PREP a_ART desnutrição_N ._END
+em_PREP grande_ADJ medida_N ,_PU o_ART pagamento_N da_PREP+ART dívida_N social_ADJ inclui_V a_ART possibilidade_N de_PREP mais_PROADJ e_KC melhores_ADJ alimentos_N para_PREP as_ART populações_N mais_ADV carentes_ADJ ._END
+Neste_PREP+PROADJ contexto_N ,_PU o_ART leite_N assume_V papel_N importante_ADJ pelas_PREP+ART suas_PROADJ características_N nutricionais_ADJ ._END
+Sebastião_NPROP Teixeira_NPROP Gomes_NPROP é_V professor_N da_PREP+ART Universidade_NPROP Federal_NPROP de_NPROP Viçosa_NPROP e_KC consultor_N da_PREP+ART Embrapa_NPROP ._END
+De_PREP acordo_PREP com_PREP o_ART Iea_NPROP (_PU Instituto_NPROP de_NPROP Economia_NPROP Agrícola_NPROP )_PU ,_PU a_ART produção_N de_PREP laranja_N na_PREP+ART região_N caiu_V 30_NUM %_N ,_PU para_PREP 78_NUM milhões_N de_PREP caixas_N de_PREP 40,8_NUM quilos_N ._END
+A_ART seca_N castigou_V mais_ADV a_ART região_N de_PREP São_NPROP José_NPROP do_NPROP Rio_NPROP Preto_NPROP por_PREP causa_PREP de_PREP seus_PROADJ solos_N leves_ADJ e_KC temperaturas_N altas_ADJ ,_PU que_PRO-KS provocam_V deficiência_N hídrica_ADJ mais_ADV acentuada_PCP ._END
+Produtores_N de_PREP frutas_N e_KC flores_N estão_V ganhando_V um_ART novo_ADJ aliado_N na_PREP+ART busca_N de_PREP maior_ADJ produtividade_N ._END
+A_PREP partir_PREP da_PREP+ART introdução_N do_PREP+ART gás_N carbônico_N (_PU CO2_N )_PU na_PREP+ART irrigação_N ,_PU a_ART produção_N chega_V a_PREP crescer_V até_PREP 30_NUM %_N no_PREP+ART cultivo_N de_PREP acerola_N ,_PU uva_N ,_PU melão_N ,_PU manga_N e_KC morango_N ._END
+A_ART garantia_N deste_PREP+PROADJ desempenho_N é_V dada_PCP pelos_PREP+ART técnicos_N da_PREP+ART Liquid_NPROP Carbonic_NPROP ,_PU empresa_N que_PRO-KS produz_V e_KC distribui_V C02_N no_PREP+ART Brasil_NPROP ._END
+Os_ART primeiros_ADJ pólos_N irrigados_PCP a_PREP usarem_V o_ART sistema_N foram_V Holambra_NPROP (_PU SP_NPROP )_PU ,_PU Mossoró_NPROP (_PU RN_NPROP )_PU ,_PU Petrolina_NPROP (_PU PE_NPROP )_PU e_KC Vale_NPROP do_NPROP Rio_NPROP São_NPROP Francisco_NPROP ._END
+Paulo_NPROP Van_NPROP Schaik_NPROP ,_PU de_PREP Holambra_NPROP ,_PU revela_V que_KS utiliza_V o_ART método_N há_V quase_ADV dois_NUM anos_N e_KC está_V obtendo_V ganho_N de_PREP produtividade_N maior_ADJ que_KS 12_NUM %_N no_PREP+ART plantio_N de_PREP flores_N ._END
+O_ART método_N consiste_V em_PREP dissolver_V o_ART gás_N carbônico_N na_PREP+ART água_N ,_PU através_PREP de_PREP um_ART equipamento_N chamado_PCP ejetor_N (_PU ligado_PCP a_PREP um_ART tanque-depósito_N )_PU ,_PU instalado_PCP na_PREP+ART tubulação_N que_PRO-KS conduz_V o_ART líquido_N até_PREP o_ART pé_N da_PREP+ART planta_N ._END
+Entrando_V na_PREP+ART irrigação_N por_PREP gotejamento_N ,_PU aspersão_N ou_KC micro-aspersão_N ,_PU o_ART gás_N é_V usado_PCP para_PREP estimular_V o_ART crescimento_N das_PREP+ART plantas_N nos_PREP+ART momentos_N em_PREP que_PRO-KS a_ART absorção_N de_PREP água_N é_V mais_ADV intensa_ADJ ._END
+"_PU É_V uma_ART tecnologia_N simples_ADJ ,_PU que_PRO-KS pode_V ser_V adquirida_PCP por_PREP qualquer_PROADJ produtor_N ,_PU através_PREP da_PREP+ART locação_N dos_PREP+ART equipamentos_N "_PU ,_PU diz_V Carlos_NPROP Roberto_NPROP Favoretto_NPROP ,_PU vice-presidente_N da_PREP+ART Liquid_NPROP Carbonic_NPROP ._END
+Favoretto_NPROP afirma_V que_KS a_ART empresa_N se_PROPESS compromete_V em_PREP reabastecer_V os_ART tanques_N com_PREP gás_N carbônico_N ,_PU que_PRO-KS custa_V US$_CUR 0,36_NUM o_ART quilo_N ._END
+Um_ART agricultor_N que_PRO-KS locar_V equipamentos_N para_PREP um_ART depósito_N de_PREP 30_NUM t_N gastará_V cerca_PREP de_PREP US$_CUR 3.000_NUM ._END
+A_ART área_N plantada_PCP que_PRO-KS está_V entrando_V no_PREP+ART consumo_N de_PREP CO2_N no_PREP+ART Brasil_NPROP está_V em_PREP torno_PREP de_PREP 10_NUM mil_NUM ha_N ,_PU segundo_PREP a_ART Liquid_NPROP Carbonic_NPROP ._END
+Este_PROADJ mercado_N ,_PU segundo_PREP a_ART empresa_N ,_PU deverá_V evoluir_V nos_PREP+ART próximos_ADJ anos_N ,_PU atingindo_V outras_PROADJ culturas_N como_PREP café_N e_KC laranja_N ._END
+A_ART família_N Caiado_NPROP Fraga_NPROP ,_PU que_PRO-KS introduziu_V o_ART gado_N suíço_ADJ simental_ADJ no_PREP+ART Brasil_NPROP ,_PU promoveu_V mais_PROADJ um_NUM leilão_N da_PREP+ART raça_N em_PREP São_NPROP Paulo_NPROP ._END
+Dia_N 25_N último_ADJ ,_PU na_PREP+ART Água_NPROP Branca_NPROP ,_PU ela_PROPESS vendeu_V 44_NUM animais_N por_PREP R$_CUR 186_NUM mil_NUM ._END
+Tradicionais_ADJ na_PREP+ART seleção_N de_PREP simental_ADJ ,_PU os_ART Caiado_NPROP Fraga_NPROP promovem_V quatro_NUM leilões_N anuais_ADJ na_PREP+ART praça_N de_PREP São_NPROP Paulo_NPROP ._END
+Vendem_V quase_ADV 200_NUM animais/ano_N ._END
+Originária_ADJ do_PREP+ART Espírito_NPROP Santo_NPROP ,_PU a_ART família_N cria_V o_ART simental_N considerado_PCP mais_ADV rústico_ADJ ._END
+O_ART simental_N da_PREP+ART família_N Caiado_NPROP Fraga_NPROP ,_PU cujo_PRO-KS patriarca_N ,_PU Agostinho_NPROP Caiado_NPROP Fraga_NPROP ,_PU é_V presidente_N da_PREP+ART Associação_NPROP Brasileira_NPROP de_NPROP a_NPROP raça_NPROP ,_PU sediada_PCP em_PREP Cachoeiro_NPROP do_NPROP Itapemirim_NPROP (_PU ES_NPROP )_PU ,_PU faz_V contraponto_N ao_PREP+ART simental_N criado_PCP no_PREP+ART norte_N do_PREP+ART Paraná_NPROP ,_PU que_PRO-KS é_V mais_ADV refinado_PCP ._END
+O_ART animal_N mais_ADV caro_ADJ vendido_PCP no_PREP+ART 9º_ADJ Leilão_NPROP Caiado_NPROP Fraga_NPROP recebeu_V R$_CUR 9_NUM mil_NUM (_PU US$_CUR 10.538_NUM )_PU ,_PU valor_N pago_PCP pela_PREP+ART fazenda_N mineira_ADJ Água_NPROP Boa_NPROP ._END
+O_ART gado_N foi_V negociado_PCP em_PREP dez_NUM parcelas_N mensais_ADJ e_KC sem_PREP correção_N ._END
+As_ART duas_NUM primeiras_N foram_V quitadas_PCP no_PREP+ART ato_N da_PREP+ART compra_N dos_PREP+ART animais_N ._END
+Rendeu_V US$_CUR 1_NUM milhão_N (_PU R$_CUR 853.296_NUM mil_NUM )_PU o_ART megaleilão_N de_PREP bovinos_N das_PREP+ART raças_N brangus_ADJ ,_PU aberdeen_ADJ ,_PU hereford_ADJ ,_PU devon_ADJ ,_PU e_KC equinos_N da_PREP+ART raça_N crioula_ADJ ,_PU realizado_PCP dia_N 24_N último_ADJ ,_PU em_PREP Uruguaiana_NPROP (_PU RS_NPROP )_PU ._END
+Segundo_PREP o_ART empresário_N Eduardo_NPROP Macedo_NPROP Linhares_NPROP ,_PU proprietário_N da_PREP+ART Cabanha_NPROP Azul_NPROP ,_PU foi_V o_ART maior_ADJ faturamento_N alcançado_PCP em_PREP um_ART leilão_N de_PREP gado_N fino_ADJ na_PREP+ART América_NPROP do_NPROP Sul_NPROP ._END
+"_PU Dificilmemte_ADV esta_PROADJ marca_N será_V repetida_PCP em_PREP um_ART só_PDEN dia_N "_PU ,_PU afirma_V Linhares_NPROP ._END
+mais_PREP de_PREP mil_NUM empresários_N e_KC criadores_N de_PREP gado_N e_KC de_PREP cavalos_N raça_N crioula_ADJ estiveram_V presentes_ADJ no_PREP+ART local_N de_PREP leilão_N da_PREP+ART Cabanha_NPROP Azul_NPROP ._END
+O_ART maior_ADJ preço_N foi_V pago_PCP pelo_PREP+ART touro_N GAP_NPROP ,_PU da_PREP+ART raça_N brangus_ADJ ._END
+Ele_PROPESS pertencia_V a_PREP Cabanha_NPROP Azul_NPROP e_KC foi_V arrematado_PCP pela_PREP+ART Agropecuária_NPROP Schwanck_NPROP ,_PU de_PREP Uruguaiana_NPROP ._END
+A_ART demanda_N crescente_ADJ por_PREP tourinhos_N da_PREP+ART raça_N marchigiana_ADJ deve_V provocar_V uma_ART defasagem_N calculada_PCP em_PREP 500_NUM tourinhos_N em_PREP 95_N ._END
+A_ART estimativa_N é_V da_PREP+ART Associação_NPROP Brasileira_NPROP de_NPROP Marchigiana_NPROP ,_PU que_PRO-KS lançou_V na_PREP+ART semana_N passada_PCP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU o_ART Projeto_NPROP 500_NPROP ,_PU com_PREP finalidade_N de_PREP diminuir_V o_ART déficit_N de_PREP tourinhos_N previsto_PCP para_PREP o_ART próximo_ADJ ano_N ._END
+Já_ADV no_PREP+ART dia_N 8_N de_PREP novembro_N próximo_ADJ ,_PU o_ART Projeto_NPROP 500_NPROP tem_V início_N com_PREP a_ART promoção_N do_PREP+ART remate_N Master_NPROP Marchigiana_NPROP ,_PU que_PRO-KS irá_V ofertar_V 35_NUM vacas_N e_KC dez_NUM machos_N reprodutores_ADJ ,_PU no_PREP+ART Palace_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+Segundo_PREP Adilson_NPROP Cresta_NPROP ,_PU presidente_N da_PREP+ART associação_NPROP ,_PU a_ART proposta_N é_V suprir_V a_ART lacuna_N do_PREP+ART mercado_N através_PREP do_PREP+ART engajamento_N de_PREP criadores_N no_PREP+ART Projeto_NPROP 500_NPROP ._END
+Venda_V de_PREP 35_NUM matrizes_N e_KC dez_NUM reprodutores_N ._END
+Promoção_N da_PREP+ART Associação_NPROP de_NPROP Gado_NPROP Marchigiana_NPROP ._END
+Tel_N ._END
+(_PU 011_N 62-2279_N )_PU ._END
+Tradicionalmente_ADV realizada_PCP em_PREP dezembro_N ,_PU a_ART Exposição_NPROP Nacional_NPROP do_NPROP Cavalo_NPROP Árabe_NPROP foi_V antecipada_PCP para_PREP este_PROADJ mês_N ._END
+A_ART exposição_N ,_PU que_PRO-KS termina_V dia_N 13_N ,_PU é_V promovida_PCP no_PREP+ART momento_N em_PREP que_PRO-KS a_ART criação_N nacional_ADJ de_PREP puro-sangue_ADJ árabe_ADJ ocupa_V espaço_N no_PREP+ART cenário_N internacional_ADJ ._END
+Este_PROSUB foi_V um_PROSUB dos_PREP+ART motivos_N que_PRO-KS levou_V a_PREP Associação_NPROP Brasileira_NPROP dos_NPROP Criadores_NPROP de_NPROP Cavalo_NPROP Árabe_NPROP ,_PU promotora_N da_PREP+ART exposição_N ,_PU a_PREP mudar_V a_ART data_N de_PREP realização_N ._END
+"_PU A_ART intenção_N é_V trazer_V os_ART criadores_N europeus_ADJ "_PU ,_PU diz_V Jorj_NPROP Kalman_NPROP ,_PU vice-presidente_N da_PREP+ART Associação_NPROP ._END
+Os_ART juízes_N da_PREP+ART Nacional_NPROP do_NPROP Árabe_NPROP dão_V um_ART perfil_N ainda_ADV mais_ADV internacional_ADJ à_PREP+ART mostra_N ._END
+Cindy_NPROP Reich_NPROP vem_V do_PREP+ART Colorado_NPROP ,_PU Leslie_NPROP Connor_NPROP ,_PU do_PREP+ART Missouri_NPROP ,_PU e_KC Robert_NPROP Stan_NPROP Morey_NPROP ,_PU de_PREP Oklahoma_NPROP ,_PU Estados_N dos_PREP+ART EUA_NPROP ._END
+Já_KC Guy_NPROP de_NPROP Fontaines_NPROP chega_V de_PREP Paris_NPROP ._END
+Mas_KC a_ART preocupação_N com_PREP o_ART mercado_N interno_ADJ se_PROPESS mantém_V ._END
+A_ART Nacional_NPROP dá_V importância_N às_PREP+ART provas_N de_PREP pista_N para_PREP mostrar_V ao_PREP+ART público_N as_ART qualidades_N do_PREP+ART árabe_N como_PREP animal_N de_PREP montaria_N ._END
+A_ART explicação_N é_V de_PREP Luis_NPROP Eduardo_NPROP Moreira_NPROP Caio_NPROP ,_PU presidente_N da_PREP+ART Associação_NPROP ._END
+Ele_PROPESS disse_V que_KS competições_N como_PREP baliza_N ,_PU '_PU western_ADJ pleasure_N '_PU ,_PU entre_PREP outras_PROSUB ,_PU acontecem_V na_PREP+ART semana_N da_PREP+ART mostra_N ._END
+Durante_PREP todo_PROADJ o_ART sábado_N ,_PU dia_N 5_N ,_PU marcadas_PCP provas_N de_PREP salto_N ._END
+No_PREP+ART domingo_N ,_PU dia_N 6_N ,_PU é_V vez_N dos_PREP+ART cavalos_N ocuparem_V a_ART pista_N para_PREP o_ART hipismo_N rural_ADJ ,_PU informa_V Moreira_NPROP Caio_NPROP ._END
+Informações_N na_PREP+ART Associação_NPROP Brasileira_NPROP dos_NPROP Criadores_NPROP do_NPROP Cavalo_NPROP Árabe_NPROP ,_PU tel_N ._END
+(_PU 011_N 263-1744_N ._END
+A_ART rota_N de_PREP negócios_N com_PREP o_ART cavalo_N puro-sangue_ADJ árabe_ADJ faz_V agora_ADV o_ART caminho_N inverso_ADJ ._END
+De_PREP importador_N ,_PU o_ART Brasil_NPROP passou_V também_PDEN a_PREP exportar_V animais_N para_PREP os_ART EUA_NPROP e_KC Europa_NPROP ._END
+Tudo_PROSUB começou_V há_V cerca_PREP de_PREP três_NUM anos_N ,_PU selecionadores_N premiados_PCP ,_PU como_PREP o_ART paulista_N Paulo_NPROP Roberto_NPROP Levy_NPROP ,_PU abriram_V caminho_N e_KC colocaram_V alguns_PROADJ exemplares_N no_PREP+ART seleto_ADJ mercado_N norte-americano_ADJ ._END
+Nos_PREP+ART EUA_NPROP está_V alojada_PCP a_ART maior_ADJ (_PU e_KC melhor_ADJ )_PU tropa_N de_PREP cavalos_N árabe_ADJ do_PREP+ART mundo_N ._END
+De_PREP lá_ADV vieram_V garanhões_N que_PRO-KS ajudaram_V a_PREP melhorar_V o_ART padrão_N da_PREP+ART criação_N brasileira_ADJ ,_PU como_PREP o_ART famoso_ADJ Al_NPROP Shaklan_NPROP ,_PU vendido_PCP em_PREP 92_N por_PREP US$_CUR 500_NUM mil_NUM para_PREP um_ART conde_N alemão_ADJ ._END
+Durante_PREP a_PREP 28ª_ADJ Nacional_NPROP Americana_NPROP ,_PU a_ART mais_ADV importante_ADJ prova_N de_PREP cavalos_N árabes_ADJ do_PREP+ART mundo_N ,_PU realizada_PCP em_PREP outubro_N ,_PU Dark_NPROP Victory_NPROP classificou_V -se_PROPESS como_PREP '_PU Top_N Ten_N '_PU ,_PU ou_PDEN seja_PDEN ,_PU entre_PREP os_ART dez_NUM maiores_ADJ machos_N da_PREP+ART exposição_N ._END
+A_PREP partir_PREP daí_PREP+ADV os_ART americanos_N intensificaram_V as_ART compras_N ,_PU diz_V Kalman_NPROP ._END
+Ele_PROPESS próprio_PROADJ conseguiu_V o_ART grande_ADJ campeonato_N (_PU título_N máximo_ADJ )_PU da_PREP+ART Exposição_NPROP Nacional_NPROP Canadense_NPROP com_PREP o_ART cavalo_N brasileiro_ADJ Enchanter_NPROP Magic_NPROP FHP_NPROP ._END
+Em_PREP provas_N de_PREP pista_N ,_PU o_ART Brasil_NPROP também_PDEN obteve_V vitórias_N nos_PREP+ART EUA_NPROP ._END
+O_ART macho_N Nasdac_NPROP HCF_NPROP ,_PU de_PREP Paulo_NPROP Roberto_NPROP Levy_NPROP ,_PU foi_V reservado_PCP campeão_N '_PU western_ADJ pleasure_N '_PU (_PU tipo_N de_PREP prova_N dos_PREP+ART EUA_NPROP )_PU em_PREP outubro_N ._END
+Churrascada_N ,_PU desfile_N de_PREP modas_N e_KC negócios_N com_PREP cavalos_N de_PREP corrida_N fechando_V a_ART noite_N ._END
+Regada_PCP a_PREP uísque_N importado_PCP ,_PU a_ART mistura_N inusitada_ADJ deu_V certo_ADJ ._END
+Dia_N 25_N ,_PU no_PREP+ART Jóquei_NPROP Clube_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU um_ART leilão_N faturou_V R$_CUR 271.908_NUM por_PREP 39_NUM potros_N candidatos_ADJ a_PREP velocistas_N ._END
+A_ART média_N foi_V de_PREP R$_CUR 6.972_NUM (_PU US$_CUR 8.163_NUM )_PU ._END
+Estes_PROADJ potros_N começam_V a_PREP correr_V no_PREP+ART início_N do_PREP+ART próximo_ADJ ano_N ._END
+A_ART experiência_N continua_V em_PREP dezembro_N em_PREP alto-mar_N ._END
+Entre_PREP os_ART dias_N 15_N e_KC 21_N ,_PU desfile_N e_KC leilão_N de_PREP coberturas_N de_PREP garanhões_N de_PREP várias_PROADJ raças_N equinas_ADJ são_V atrações_N na_PREP+ART rota_N do_PREP+ART transatlântico_N Costa_NPROP Marina_NPROP pelo_PREP+ART litoral_N brasileiro_ADJ ._END
+O_ART 1º_ADJ Leilão_NPROP Qualidade_NPROP Nelore_NPROP Mocho_NPROP ,_PU realizado_PCP dia_N 22_N último_ADJ ,_PU na_PREP+ART fazenda_N Brumado_NPROP ,_PU em_PREP Barretos_NPROP (_PU SP_NPROP )_PU ,_PU vendeu_V 80_NUM animais_N por_PREP R$_CUR 158.477_NUM ,_PU com_PREP média_N de_PREP R$_CUR 1.980_NUM (_PU US$_CUR 2.322_NUM )_PU ._END
+Foram_V negociados_PCP animais_N a_PREP campo_N de_PREP idade_N entre_PREP 20_NUM e_KC 36_NUM meses_N e_KC de_PREP boa_ADJ qualidade_N ._END
+Quatorze_NUM fêmeas_N apresentaram_V média_N de_PREP R$_CUR 1.483_NUM (_PU US$_CUR 1.739_NUM )_PU ,_PU enquanto_KS 66_NUM machos_N tiveram_V resultado_PCP médio_ADJ de_PREP R$_CUR 2.085_NUM (_PU US$_CUR 2.445_NUM )_PU ._END
+O_ART preço_N mais_ADV alto_ADJ do_PREP+ART leilão_N coube_V ao_PREP+ART macho_N Elefante_NPROP ESL_NPROP ,_PU que_PRO-KS saiu_V por_PREP R$_CUR 7.827_NUM (_PU US$_CUR 9.176_NUM )_PU ._END
+Ele_PROPESS foi_V apresentado_PCP pelo_PREP+ART criador_N Abdo_NPROP Carim_NPROP Suleiman_NPROP ,_PU da_PREP+ART estância_N São_NPROP Luiz_NPROP dos_NPROP Coqueiros_NPROP e_KC comprado_PCP pela_PREP+ART Irpa_NPROP Agropecuária_NPROP ._END
+Considerada_PCP a_ART segunda_ADJ mais_ADV importante_ADJ mostra_N de_PREP gado_N zebu_ADJ do_PREP+ART Brasil_NPROP ,_PU a_ART Grand_NPROP Expo_NPROP Bauru_NPROP deve_V movimentar_V negócios_N de_PREP US$_CUR 4_NUM milhões_N este_PROADJ ano_N ,_PU de_PREP acordo_PREP com_PREP a_ART expectativa_N de_PREP seus_PROADJ organizadores_N ._END
+A_ART Grand_NPROP Expo_NPROP Bauru_NPROP ,_PU que_PRO-KS vai_V ser_V realizada_PCP de_PREP 5_N a_PREP 13_N de_PREP novembro_N no_PREP+ART Recinto_NPROP Mello_NPROP de_NPROP Moraes_NPROP ,_PU completa_V 21_NUM anos_N ._END
+A_ART exposição_N vai_V realizar_V 13_NUM leilões_N ,_PU com_PREP animais_N de_PREP alta_ADJ linhagem_N Po_ADJ (_PU puro_ADJ de_PREP origem_N )_PU e_KC POI_ADJ (_PU )_PU ._END
+A_ART novidade_N neste_PREP+PROADJ ano_N é_V a_ART volta_N à_PREP+ART mostra_N da_PREP+ART raça_N tabapuã_ADJ ,_PU resultado_PCP do_PREP+ART cruzamento_N do_PREP+ART nelore_N ,_PU guzerá_N e_KC indubrasil_N ._END
+Criadores_N brasileiros_ADJ fazem_V remate_N na_PREP+ART Bolívia_NPROP e_KC vendem_V 29_NUM mangalarga_N ._END
+Indústria_N brasileira_ADJ de_PREP suco_N avalia_V os_ART prejuízos_N causados_PCP pela_PREP+ART estiagem_N ._END
+O_ART sucesso_N de_PREP faturamento_N nos_PREP+ART leilões_N foi_V o_ART ponto_N alto_ADJ da_PREP+ART 23ª_ADJ Exposição_NPROP Internacional_NPROP de_NPROP Nelore_NPROP (_PU Expoinel_NPROP )_PU ,_PU encerrada_PCP no_PREP+ART último_ADJ sábado_N em_PREP Uberaba_NPROP ,_PU no_PREP+ART Triângulo_NPROP Mineiro_NPROP ._END
+Foram_V comercializados_PCP 456_NUM animais_N ,_PU que_PRO-KS renderam_V R$_CUR 2,6_NUM milhões_N ,_PU equivalentes_ADJ a_PREP US$_CUR 3,06_NUM milhões_N ._END
+"_PU A_ART nova_ADJ data_N (_PU antes_ADV ocorria_V em_PREP abril_N )_PU e_KC local_N foram_V para_PREP o_ART fortalecimento_N comercial_ADJ da_PREP+ART feira_N ,_PU que_PRO-KS era_V itinerante_ADJ e_KC agora_ADV pode_V permanecer_V em_PREP Uberaba_NPROP "_PU ,_PU afirma_V Eduardo_NPROP Biaggi_NPROP ,_PU presidente_N da_PREP+ART Associação_NPROP dos_NPROP Criadores_NPROP de_NPROP Nelore_NPROP do_NPROP Brasil_NPROP (_PU ACNB_NPROP )_PU ._END
+O_ART maior_ADJ pregão_N ficou_V com_PREP a_ART Nova_NPROP Índia_NPROP Genética_NPROP ,_PU realizado_PCP dia_N 28_N de_PREP setembro_N ,_PU quando_ADV-KS foram_V quebrados_PCP três_NUM recordes_N nacionais_ADJ ._END
+"_PU Apesar_PREP deste_PREP+PROADJ resultado_N excepcional_ADJ ,_PU temos_V de_PREP ter_V em_PREP mente_N o_ART enorme_ADJ abismo_N existente_ADJ entre_PREP os_ART animais_N de_PREP elite_N e_KC os_ART criados_N a_PREP campo_N "_PU ,_PU diz_V Dirceu_NPROP Borges_NPROP ,_PU um_PROSUB dos_PREP+ART sócios_N da_PREP+ART Nova_NPROP Índia_NPROP ._END
+Segundo_PREP ele_PROPESS ,_PU os_ART fazendeiros_N de_PREP ponta_N são_V responsáveis_ADJ por_PREP expandir_V a_ART melhoria_N genética_ADJ já_ADV existente_ADJ no_PREP+ART rebanho_N bovino_ADJ ._END
+Ele_PROPESS aponta_V a_ART transferência_N de_PREP embriões_N como_PREP uma_PROSUB das_PREP+ART formas_N de_PREP "_PU socializar_V a_ART pecuária_N ._END
+Mas_KC só_PDEN de_PREP leilões_N viveu_V a_ART Expoinel_NPROP ._END
+Um_PROSUB dos_PREP+ART principais_ADJ temas_N entre_PREP os_ART criadores_N foi_V sobre_PREP o_ART futuro_N da_PREP+ART agropecuária_N com_PREP a_ART posse_N do_PREP+ART novo_ADJ governo_N ._END
+O_ART presidente_N da_PREP+ART Associação_NPROP Brasileira_NPROP dos_NPROP Criadores_NPROP de_NPROP Zebu_NPROP (_PU ABCZ_NPROP )_PU ,_PU Rômulo_NPROP Kardec_NPROP de_NPROP Camargos_NPROP ,_PU quer_V que_KS os_ART produtores_N sejam_V ouvidos_PCP para_PREP o_ART planejamento_N da_PREP+ART nova_ADJ política_N agrícola_ADJ ._END
+Camargos_NPROP entende_V que_KS o_ART governo_N deve_V valorizar_V a_ART produção_N através_PREP de_PREP incentivos_N e_KC até_PDEN subsídios_N ,_PU além_PREP de_PREP diminuir_V a_ART carga_N de_PREP tributos_N sobre_PREP os_ART produtos_N primários_ADJ ._END
+"_PU Poderíamos_V fazer_V uma_ART espécie_N de_PREP câmara_N setorial_ADJ ,_PU governo_N ,_PU produtores_N e_KC comerciantes_N planejariam_V uma_ART forma_N única_ADJ de_PREP atuação_N "_PU ,_PU sugere_V a_ART pecuarista_N Arlinda_NPROP Cristina_NPROP Borges_NPROP ._END
+Ela_PROPESS diz_V que_KS a_ART agropecuária_N responde_V hoje_ADV por_PREP 12_NUM %_N do_PREP+ART Produto_N Interno_N Bruto_N (_PU PIB_N )_PU ,_PU o_ART equivalente_N a_PREP US$_CUR 48_NUM bilhões_N ,_PU "_PU mas_KC poderia_V ser_V muito_ADV maior_ADJ caso_KS houvesse_V maior_ADJ atenção_N à_PREP+ART pesquisa_N e_KC melhoria_N de_PREP produtividade_N "_PU ,_PU disse_V Felipe_NPROP Suarez_NPROP Vela_NPROP ,_PU presidente_N da_PREP+ART Associação_NPROP Mexicana_NPROP de_NPROP Criadores_NPROP de_NPROP Zebu_NPROP ._END
+No_PREP+ART México_NPROP ,_PU protocolo_N semelhante_ADJ já_ADV foi_V assinado_PCP ._END
+Vela_NPROP adiantou_V ainda_KS que_KS o_ART Banco_NPROP de_NPROP Comércio_NPROP Exterior_NPROP mexicano_ADJ negocia_V com_PREP bancos_N brasileiros_ADJ o_ART financiamento_N de_PREP consórcios_N entre_PREP pecuaristas_N dos_PREP+ART dois_NUM países_N ._END
+O_ART primeiro_ADJ pregão_N a_PREP contar_V com_PREP a_ART venda_N via_PREP satélite_N foi_V o_PROSUB da_PREP+ART Nova_NPROP Índia_NPROP Genética_NPROP ,_PU onde_ADV-KS os_ART seis_NUM celulares_N receberam_V lances_N vindos_PCP de_PREP todo_PROADJ país_N ._END
+"_PU Pode_V -se_PROPESS comprar_V sem_PREP sair_V da_PREP+ART fazenda_N ._END
+É_V o_ART futuro_N dos_PREP+ART leilões_N "_PU ,_PU diz_V Ântônio_NPROP de_NPROP Castro_NPROP ,_PU pecuarista_N de_PREP Rondonópolis_NPROP (_PU MT_NPROP )_PU ._END
+Os_ART julgamentos_N de_PREP Uberaba_NPROP também_PDEN foram_V transmitidos_PCP ao_ADV vivo_ADV ,_PU o_PRO-KS que_PRO-KS ajudou_V a_ART divulgação_N dos_PREP+ART resultados_N ._END
+A_ART feira_N foi_V a_ART última_ADJ parte_N do_PREP+ART calendário_N ,_PU que_PRO-KS premiou_V os_ART melhores_N da_PREP+ART raça_N depois_PREP de_PREP 56_NUM etapas_N em_PREP exposições_N regionais_ADJ de_PREP todo_PROADJ o_ART país_N ._END
+Outro_PROADJ projeto_N semelhante_ADJ é_V o_ART Leilosat_NPROP ,_PU que_PRO-KS nasceu_V da_PREP+ART associação_N entre_PREP as_ART empresas_N Programa_NPROP Leilões_NPROP ,_PU RBS_NPROP Vídeo_NPROP ,_PU Belgo-Mineira_NPROP ,_PU Pioneer_NPROP e_KC Pfizer_NPROP ._END
+A_ART seca_N afetando_V as_ART operações_N agrícolas_ADJ no_PREP+ART Estado_N de_PREP São_NPROP Paulo_NPROP e_KC em_PREP outras_PROADJ regiões_N do_PREP+ART Centro-Oeste_NPROP e_KC Sudeste_NPROP do_PREP+ART Brasil_NPROP até_PREP a_ART quinta-feira_N passada_PCP ._END
+Esta_PROADJ situação_N continua_V impedindo_V a_ART realização_N de_PREP atividades_N agrícolas_ADJ ,_PU principalmente_ADV as_ART lavouras_N de_PREP sequeiro_N ,_PU assim_KS como_KS o_ART cafeeiro_N ,_PU citrus_N ,_PU pastagens_N ._END
+A_ART estiagem_N também_PDEN prejudica_V a_ART cultura_N da_PREP+ART cana-de-açúcar_N ,_PU assim_KS como_KS a_ART formação_N de_PREP frutos_N nas_PREP+ART frutíferas_N ,_PU como_PREP manga_N ,_PU pêssego_N ,_PU entre_PREP outros_PROSUB ._END
+As_ART atividades_N de_PREP preparo_N do_PREP+ART solo_N e_KC plantios_N iniciais_ADJ para_PREP a_ART próxima_ADJ safra_N também_PDEN estão_V afetados_PCP ,_PU indicando_V atraso_N no_PREP+ART calendário_N agrícola_ADJ ,_PU principalmente_ADV nas_PREP+ART culturas_N de_PREP algodão_N e_KC feijão_N ._END
+As_ART condições_N hídricas_ADJ de_PREP solo_N críticas_ADJ em_PREP todo_PROADJ o_ART Estado_N com_PREP exceção_N de_PREP Ubatuba_NPROP ._END
+Excepcionalmente_ADV ,_PU por_PREP causa_PREP das_PREP+ART eleições_N ,_PU o_ART boletim_N meteorológico_ADJ do_PREP+ART Instituto_NPROP Agronômico_NPROP de_NPROP Campinas_NPROP foi_V fechado_PCP na_PREP+ART sexta-feira_N ,_PU dia_N 30_N ._END
+Um_ART grupo_N de_PREP produtores_N e_KC empresários_N avalia_V a_ART implantação_N de_PREP um_ART pólo_N de_PREP produção_N de_PREP flores_N tropicais_ADJ ,_PU voltado_PCP para_PREP a_ART exportação_N ,_PU na_PREP+ART capital_N do_PREP+ART Amazonas_NPROP ._END
+O_ART projeto_N foi_V lançado_PCP na_PREP+ART semana_N passada_PCP durante_PREP o_ART "_PU Inter_NPROP Flor_NPROP Norte_NPROP "_PU ,_PU congresso_N organizado_PCP pela_PREP+ART Primon_NPROP Editora_NPROP ,_PU de_PREP Holambra_NPROP (_PU SP_NPROP )_PU ,_PU que_PRO-KS reuniu_V floricultores_N ,_PU distribuidores_N ,_PU técnicos_N e_KC paisagistas_N no_PREP+ART Tropical_NPROP Hotel_NPROP de_NPROP Manaus_NPROP ._END
+"_PU A_ART grande_ADJ vantagem_N da_PREP+ART região_N é_V o_ART clima_N ,_PU que_PRO-KS permite_V a_ART produção_N de_PREP flores_N e_KC plantas_N de_PREP excelente_ADJ qualidade_N e_KC a_PREP preços_N competitivos_ADJ "_PU ,_PU diz_V o_ART pesquisador_N Carlos_NPROP Eduardo_NPROP Ferreira_NPROP de_NPROP Castro_NPROP ,_PU do_PREP+ART Instituto_NPROP Agronômico_NPROP de_NPROP Campinas_NPROP (_PU IAC_NPROP )_PU ._END
+As_ART flores_N tropicais_ADJ estão_V em_PREP franca_ADJ ascensão_N no_PREP+ART mercado_N internacional_ADJ ,_PU já_ADV plenamente_ADV abastecido_PCP de_PREP espécies_N convencionais_ADJ ._END
+"_PU O_ART mercado_N hoje_ADV está_V carente_ADJ de_PREP novidades_N "_PU ,_PU diz_V Castro_NPROP ,_PU destacando_V que_KS a_ART logomarca_N Amazônia_NPROP pode_V ser_V um_ART excelente_ADJ instrumento_N de_PREP marketing_N no_PREP+ART exterior_N ._END
+Francisco_NPROP José_NPROP Gemma_NPROP Bongers_NPROP ,_PU diretor_N da_PREP+ART Cooperativa_NPROP Holambra_NPROP ,_PU acrescenta_V que_KS existe_V hoje_ADV uma_ART forte_ADJ demanda_N por_PREP arranjos_N exóticos_ADJ no_PREP+ART exterior_N ._END
+"_PU Decoradores_N e_KC paisagistas_N da_PREP+ART Europa_NPROP e_KC dos_PREP+ART EUA_NPROP buscam_V flores_N diferentes_ADJ e_KC novas_ADJ formas_N de_PREP plantas_N e_KC folhagens_N "_PU ,_PU afirma_V Bongers_NPROP ._END
+A_ART área_N prevista_PCP para_PREP o_ART pólo_N é_V de_PREP 300_NUM hectares_N ,_PU com_PREP objetivos_N de_PREP criar_V 3.000_NUM empregos_N diretos_ADJ e_KC exportar_V US$_CUR 15_NUM milhões_N a_PREP partir_PREP de_PREP 1997_N ._END
+No_PREP+ART ano_N passado_PCP ,_PU as_ART vendas_N externas_ADJ da_PREP+ART floricultura_N brasileira_ADJ não_ADV ultrapassaram_V US$_CUR 13_NUM milhões_N ._END
+"_PU Temos_V potencial_N para_PREP exportar_V muito_ADV mais_ADV ._END
+O_ART mercado_N mundial_ADJ de_PREP floricultura_N movimenta_V US$_CUR 55_NUM bilhões_N anuais_ADJ e_KC tem_V crescido_PCP em_PREP média_N 12_NUM %_N ao_PREP+ART ano_N "_PU ,_PU diz_V Castro_NPROP ._END
+"_PU O_ART aeroporto_N de_PREP Manaus_NPROP recebe_V vários_PROADJ vôos_N internacionais_ADJ que_PRO-KS abastecem_V com_PREP componentes_N as_ART indústrias_N locais_ADJ ._END
+Os_ART aviões_N retornam_V aos_PREP+ART seus_PROADJ países_N de_PREP origem_N com_PREP espaço_N de_PREP carga_N ocioso_ADJ "_PU ,_PU afirma_V Carlos_NPROP Eduardo_NPROP de_NPROP Castro_NPROP ._END
+Com_PREP o_ART apoio_N da_PREP+ART prefeitura_N de_PREP Manaus_NPROP e_KC da_PREP+ART Suframa_NPROP ,_PU o_ART projeto_N será_V desenvolvido_PCP pela_PREP+ART iniciativa_N privada_ADJ em_PREP parceria_N com_PREP o_ART Sebrae_NPROP e_KC o_ART IAC_NPROP ,_PU que_PRO-KS serão_V responsáveis_ADJ pelo_PREP+ART treinamento_N de_PREP mão-de-obra_N e_KC assistência_N técnica_ADJ ._END
+O_ART pólo_N atraiu_V o_ART interesse_N de_PREP produtores_N filiados_PCP à_PREP+ART Cooperativa_NPROP de_NPROP Holambra_NPROP ._END
+"_PU Por_ADV enquanto_ADV estamos_V avaliando_V a_ART possibilidade_N de_PREP estender_V um_ART braço_N na_PREP+ART Amazônia_NPROP "_PU ,_PU disse_V Jorge_NPROP Luiz_NPROP Ferreira_NPROP ,_PU um_PROSUB dos_PREP+ART 15_NUM investidores_N de_PREP Holambra_NPROP presentes_N ao_PREP+ART Inter_NPROP Flor_NPROP Norte_NPROP ._END
+A_ART maioria_N dos_PREP+ART produtores_N interessados_PCP ,_PU porém_KC ,_PU espera_V incentivos_N do_PREP+ART governo_N para_PREP se_PROPESS instalar_V na_PREP+ART região_N ,_PU como_PREP terra_N a_PREP preço_N subsidiado_PCP e_KC linha_N de_PREP crédito_N de_PREP investimento_N com_PREP três_NUM anos_N de_PREP carência_N e_KC sete_NUM anos_N para_PREP amortização_N ._END
+"_PU Para_PREP dar_V certo_ADJ ,_PU este_PROADJ projeto_N precisa_V definir_V fases_N de_PREP maturação_N ,_PU tem_V que_KS ser_V rigoroso_ADJ na_PREP+ART seleção_N das_PREP+ART empresas_N e_KC não_ADV pode_V eliminar_V o_ART risco_N que_PRO-KS faz_V parte_N de_PREP qualquer_PROADJ empreendimento_N "_PU ,_PU alerta_V Francisco_NPROP Bongers_NPROP ,_PU diretor_N da_PREP+ART Holambra_NPROP ._END
+O_ART sucesso_N da_PREP+ART telefonis_N celular_ADJ não_ADV deve_V ficar_V restrito_PCP apenas_PDEN às_PREP+ART cidades_N ._END
+A_ART Telesp_NPROP aposta_V no_PREP+ART celular_N como_KS a_ART melhor_ADJ alternativa_N para_PREP resolver_V o_ART problema_N de_PREP déficit_N de_PREP telefones_N na_PREP+ART zona_N rural_ADJ paulista_ADJ ._END
+Gilson_NPROP Rondinelli_NPROP Filho_NPROP ,_PU gerente_N do_PREP+ART departamento_N de_PREP telefonia_N celular_ADJ da_PREP+ART Telesp_NPROP ,_PU diz_V que_KS a_ART instalação_N do_PREP+ART Ruralcel_NPROP custa_V entre_PREP R$_CUR 2.000_NUM e_KC R$_CUR 3.500_N ._END
+"_PU Enquanto_KS no_PREP+ART convencional_N ,_PU apenas_PDEN a_ART instalação_N de_PREP um_NUM quilômetro_N de_PREP fio_N varia_V entre_PREP R$_CUR 2_NUM mil_NUM e_KC R$_CUR 4_NUM mil_NUM "_PU ,_PU afirma_V o_ART gerente_N ._END
+Rondinelli_NPROP diz_V que_KS o_ART preço_N cobrado_PCP atualmente_ADV pelas_PREP+ART empresas_N credenciadas_PCP deve_V cair_V no_PREP+ART próximo_ADJ ano_N ._END
+"_PU A_ART idéia_N é_V que_KS as_ART empresas_N ganhem_V com_PREP a_ART instalação_N em_PREP larga_ADJ escala_N "_PU ,_PU diz_V ._END
+O_ART primeiro_ADJ passo_N para_PREP obter_V o_ART telefone_N rural_ADJ é_V discar_V para_PREP 1404_N ._END
+Neste_PREP+PROADJ número_N ,_PU os_ART interessados_N obtêm_V informações_N sobre_PREP o_ART sistema_N e_KC a_ART lista_N das_PREP+ART empresas_N credenciadas_PCP pela_PREP+ART Telesp_NPROP para_PREP fazer_V a_ART instalação_N da_PREP+ART linha_N ._END
+No_PREP+ART local_N ,_PU são_V feitos_PCP testes_N para_PREP saber_V se_KS a_ART região_N recebe_V os_ART sinais_N das_PREP+ART ondas_N de_PREP rádio_N (_PU forma_N de_PREP transmissão_N da_PREP+ART mensagem_N telefônica_ADJ celular_ADJ )_PU ou_KC se_PROPESS é_V necessário_ADJ instalar_V uma_ART torre_N ou_KC uma_ART antena_N no_PREP+ART local_N e_KC em_PREP qual_PRO-KS altura_N para_PREP captar_V os_ART sinais_N de_PREP rádio_N ._END
+Com_PREP estes_PROADJ dados_N ,_PU a_ART credenciada_N faz_V o_ART projeto_N e_KC o_ART orçamento_N ,_PU que_PRO-KS devem_V ser_V aprovados_PCP pela_PREP+ART Telesp_NPROP ._END
+Em_PREP média_N ,_PU o_ART tempo_N entre_PREP a_ART visita_N a_PREP campo_N e_KC a_ART instalação_N do_PREP+ART telefone_N é_V de_PREP 40_NUM dias_N ._END
+Mas_KC atenção_N ,_PU apesar_PREP do_PREP+ART nome_N ,_PU não_ADV se_PROPESS trata_V do_PREP+ART telefone_N celular_ADJ móvel_ADJ ._END
+O_ART aparelho_N fixo_PCP na_PREP+ART zona_N rural_ADJ ,_PU instalado_PCP em_PREP cima_PREP de_PREP uma_ART caixa_N (_PU a_ART estação_N celular_ADJ fixa_PCP )_PU ._END
+A_ART Telesp_NPROP iniciou_V ,_PU em_PREP final_N de_PREP setembro_N ,_PU a_ART campanha_N "_PU Agora_ADV onde_ADV-KS um_ART galo_N canta_V ,_PU um_ART telefone_N toca_V "_PU ._END
+Criada_PCP pela_PREP+ART agência_N Agnelo_NPROP Pacheco_NPROP ,_PU a_ART propaganda_N visa_V divulgar_V o_ART Ruralcel_NPROP ,_PU o_ART sistema_N de_PREP telefonia_N celular_ADJ para_PREP a_ART zona_N rural_ADJ ._END
+"_PU A_ART idéia_N é_V chegarmos_V a_PREP 6.000_NUM clientes_N até_PREP o_ART final_N deste_PREP+PROADJ ano_N "_PU ,_PU diz_V Gilson_NPROP Rondinelli_NPROP Filho_NPROP ,_PU gerente_N de_PREP telefonia_N celular_ADJ da_PREP+ART Telesp_NPROP ._END
+Até_PREP agora_ADV ,_PU a_ART Telesp_NPROP já_ADV investiu_V US$_CUR 600_NUM milhões_N e_KC instalou_V 1.500_NUM aparelhos_N em_PREP 220_NUM cidades_N ._END
+Para_PREP 95_N ,_PU o_ART plano_N é_V chegar_V a_PREP 400_N dos_PREP+ART 625_NUM municípios_N de_PREP São_NPROP Paulo_NPROP ._END
+O_ART Paraná_NPROP também_PDEN aposta_V no_PREP+ART celular_N rural_ADJ fixo_PCP ._END
+Para_PREP o_ART agricultor_N do_PREP+ART Paraná_NPROP ,_PU o_ART custo_N varia_V entre_PREP R$_CUR 2.000_NUM e_KC R$_CUR 3.000_N ._END
+Atualmente_ADV ,_PU a_ART Telepar_NPROP está_V credenciando_V novas_ADJ empresas_N e_KC padronizando_V a_ART linguagem_N entre_PREP as_ART credenciadas_N ._END
+A_ART previsão_N é_V chegar_V a_PREP 2.000_NUM linhas_N até_PREP o_ART final_N do_PREP+ART ano_N ._END
+Apostando_V neste_PREP+PROADJ mercado_N ,_PU a_ART Celular_NPROP Alfha_NPROP ,_PU credenciada_N da_PREP+ART Telesp_NPROP ,_PU investiu_V US$_CUR 150_NUM mil_NUM para_PREP se_PROPESS integrar_V no_PREP+ART sistema_N Ruralcel_NPROP ,_PU diz_V o_ART gerente_N Carlos_NPROP Ferreira_NPROP ._END
+O_ART importador_N Paulo_NPROP Foroni_NPROP pagou_V R$_CUR 3.000_NUM pelo_PREP+ART telefone_N rural_ADJ ,_PU que_PRO-KS instalado_PCP em_PREP seu_PROADJ sítio_N em_PREP Paraibuna_NPROP (_PU 120_NUM quilômetros_N de_PREP São_NPROP Paulo_NPROP )_PU ._END
+"_PU O_ART preço_N é_V caro_ADJ ,_PU mas_KC é_V menor_ADJ do_KS que_KS os_ART R$_CUR 15_NUM mil_NUM estimados_PCP por_PREP uma_ART linha_N ._END
+A_ART SAE_NPROP Afikim_NPROP ,_PU empresa_N ligada_PCP ao_PREP+ART kibutz_N Afikim_NPROP ,_PU de_PREP Israel_NPROP ,_PU está_V trazendo_V à_PREP+ART América_NPROP do_NPROP Sul_NPROP um_ART sistema_N que_PRO-KS permite_V detectar_V ,_PU com_ADV antecedência_ADV ,_PU a_ART (_PU inflamação_N nas_PREP+ART mamas_N )_PU nas_PREP+ART vacas_N e_KC tratar_V -la_PROPESS antes_KS que_KS a_ART doença_N comprometa_V a_ART produção_N leiteira_ADJ ._END
+"_PU Conseguimos_V detectar_V a_ART doença_N dois_NUM dias_N antes_PREP de_PREP ver_V visível_ADV e_KC tratar_V -la_PROPESS antes_PREP de_PREP comprometer_V a_ART produção_N "_PU ,_PU diz_V Meir_NPROP Tinsky_NPROP ,_PU do_PREP+ART Afikim_NPROP ._END
+O_ART custo_N do_PREP+ART sistema_N ,_PU ainda_ADV não_ADV divulgado_PCP pela_PREP+ART empresa_N ,_PU varia_V conforme_PREP o_ART tamanho_N do_PREP+ART rebanho_N e_KC o_ART número_N de_PREP ordenhas_N no_PREP+ART curral_N ._END
+Tinsky_NPROP estima_V que_KS o_ART sistema_N permite_V "_PU salvar_V "_PU entre_PREP 300_NUM litros_N e_KC 500_NUM litros_N de_PREP leite_N por_PREP vaca_N ._END
+"_PU Se_KS a_ART doença_N é_V tratada_PCP logo_ADV tem_V cura_N em_PREP três_NUM dias_N e_KC o_ART animal_N volta_V ao_PREP+ART seu_PROADJ nível_N de_PREP produção_N normal_ADJ ._END
+Um_ART software_N controla_V a_ART produção_N da_PREP+ART vaca_N e_KC a_ART condutividade_N elétrica_ADJ do_PREP+ART leite_N ,_PU além_PREP de_PREP identificar_V os_ART animais_N que_PRO-KS estejam_V com_PREP problemas_N de_PREP produção_N ,_PU através_PREP de_PREP gráficos_N diários_ADJ ._END
+O_ART sistema_N é_V formado_PCP por_PREP um_ART pequeno_ADJ aparelho_N preso_PCP na_PREP+ART pata_N do_PREP+ART animal_N ,_PU que_PRO-KS o_PROPESS identifica_V e_KC conta_V seus_PROADJ passos_N ._END
+Pelo_PREP+ART número_N de_PREP passos_N é_V possível_ADJ saber_V se_KS a_ART vaca_N está_V no_PREP+ART cio_N ._END
+Mais_ADV agitada_PCP ,_PU anda_V o_ART dobro_N do_KS que_KS o_ART normal_N ._END
+O_ART sistema_N tem_V ainda_ADV uma_ART antena_N ,_PU que_PRO-KS identifica_V a_ART vaca_N quando_KS ela_PROPESS entra_V na_PREP+ART ordenha_N ,_PU e_KC o_ART aparelho_N que_PRO-KS mede_V a_ART condutividade_N elétrica_ADJ do_PREP+ART leite_N ._END
+Avaliação_N das_PREP+ART indústrias_N de_PREP suco_N de_PREP laranja_N estima_V uma_ART perda_N de_PREP 6_NUM milhões_N de_PREP caixas_N de_PREP frutas_N em_PREP função_PREP da_PREP+ART estiagem_N ._END
+A_ART previsão_N é_V de_PREP que_KS 242_NUM milhões_N de_PREP caixas_N de_PREP frutas_N serão_V transformadas_PCP em_PREP suco_N ,_PU mantendo_V -se_PROPESS o_ART mesmo_PROADJ número_N estimado_PCP em_PREP abril_N ._END
+Já_KC as_ART laranjas_N destinadas_PCP ao_PREP+ART consumo_N in_ADJ natura_ADJ devem_V cair_V de_PREP 56_NUM milhões_N de_PREP caixas_N para_PREP 50_NUM milhões_N ._END
+"_PU A_ART água_N ,_PU gérmen_N da_PREP+ART vida_N "_PU é_V o_ART tema_N do_PREP+ART Dia_NPROP Mundial_NPROP da_NPROP Alimentação_NPROP ,_PU que_PRO-KS se_PROPESS comemora_V no_PREP+ART próximo_ADJ dia_N 16_N de_PREP outubro_N ,_PU data_N do_PREP+ART aniversário_N da_PREP+ART FAO_NPROP (_PU Organização_NPROP das_NPROP Nações_NPROP Unidas_NPROP para_NPROP Agricultura_NPROP e_NPROP Alimentação_NPROP )_PU ._END
+Dados_N da_PREP+ART FAO_NPROP estimam_V que_KS o_ART mundo_N desperdiça_V hoje_ADV 60_NUM %_N da_PREP+ART água_N utilizada_PCP para_PREP irrigação_N ._END
+Cerca_PREP de_PREP 1,2_NUM bilhão_N de_PREP pessoas_N sofrem_V com_PREP a_ART escassez_N de_PREP água_N ,_PU 800_NUM milhões_N padecem_V de_PREP subnutrição_N ._END
+O_ART objetivo_N da_PREP+ART campanha_N ,_PU segundo_PREP John_NPROP Sawhill_NPROP ,_PU presidente_N da_PREP+ART TNC_NPROP ,_PU é_V arrecadar_V US$_CUR 10_NUM milhões_N entre_PREP os_ART empresários_N para_PREP preservar_V amostras_N da_PREP+ART biodiversidade_N brasileira_ADJ ._END
+Os_ART pesquisadores_N Ernesto_NPROP George_NPROP Barrichelo_NPROP ,_PU Marcelo_NPROP Nunes_NPROP Camargo_NPROP ,_PU Margarete_NPROP Marin_NPROP Lordelo_NPROP Volpato_NPROP e_KC Gerd_NPROP Sparovek_NPROP receberam_V ,_PU sexta-feira_N última_ADJ em_PREP São_NPROP Paulo_NPROP ,_PU o_ART Prêmio_NPROP Moinho_NPROP Santista_NPROP ._END
+Este_PROADJ ano_N ,_PU o_ART tema_N enfocou_V as_ART ciências_N agrárias_ADJ nas_PREP+ART áreas_N de_PREP engenharia_N florestal_ADJ e_KC solos_N agrícolas_ADJ ._END
+Os_ART premiados_N vão_V dividir_V US$_CUR 100_NUM mil_NUM ._END
+O_ART Centro_NPROP das_NPROP Indústrias_NPROP de_NPROP Curtumes_NPROP do_NPROP Brasil_NPROP e_KC o_ART Senai_NPROP firmaram_V contrato_N de_PREP cooperação_N técnica_ADJ com_PREP a_ART British_NPROP Leather_NPROP Confederation_NPROP ,_PU entidade_N que_PRO-KS reúne_V as_ART indústrias_N de_PREP curtume_N da_PREP+ART Inglaterra_NPROP ._END
+A_ART Cargill_NPROP anunciou_V na_PREP+ART semana_N passada_PCP seu_PROADJ rompimento_N com_PREP a_PREP Abiove_NPROP (_PU Associação_NPROP Brasileira_NPROP de_NPROP Óleos_NPROP Vegetais_NPROP )_PU ._END
+"_PU Tem_V sido_PCP flagrante_ADJ a_ART disparidade_N de_PREP posições_N entre_PREP os_ART associados_N ,_PU gerando_V uma_ART polarização_N em_PREP torno_PREP de_PREP temas_N em_PREP que_PRO-KS a_ART empresa_N considera_V cruciais_ADJ para_PREP a_ART própria_PROADJ sobrevivência_N da_PREP+ART Abiove_NPROP "_PU ,_PU explica_V o_ART comunicado_N da_PREP+ART Cargill_NPROP ._END
+Às_PREP+ART vésperas_N das_PREP+ART eleições_N ,_PU a_ART arroba_N do_PREP+ART boi_N gordo_ADJ alcançou_V R$_CUR 30_NUM no_PREP+ART interior_N de_PREP São_NPROP Paulo_NPROP na_PREP+ART sexta-feira_N ._END
+É_V o_ART equivalente_N a_PREP US$_CUR 34,88_NUM ._END
+A_ART estabilização_N econômica_ADJ continua_V ajudando_V bastante_ADV o_ART mercado_N de_PREP gado_N leiteiro_ADJ ._END
+Dia_N 29_N passado_PCP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU o_ART leilão_N Abc_NPROP do_NPROP Paraná_NPROP conseguiu_V média_N de_PREP R$_CUR 4.263_NUM (_PU US$_CUR 4.956_NUM )_PU na_PREP+ART venda_N de_PREP 36_NUM fêmeas_N holandesas_ADJ ._END
+A_ART maioria_N dos_PREP+ART vendedores_N são_V associados_PCP de_PREP três_NUM cooperativas_N paranaenses_ADJ (_PU Arapoti_NPROP ,_PU Batavo_NPROP e_KC Castrolanda_NPROP )_PU ._END
+Isto_PROSUB colaborou_V para_PREP os_ART bons_ADJ resultados_N do_PREP+ART leilão_N ._END
+O_ART novo_ADJ cenário_N econômico_ADJ ,_PU porém_KC ,_PU exerce_V influência_N mais_ADV decisiva_ADJ ._END
+Apesar_PREP do_PREP+ART descontentamento_N dos_PREP+ART pecuaristas_N com_PREP o_ART preço_N do_PREP+ART leite_N ,_PU o_ART fim_N da_PREP+ART ciranda_N financeira_ADJ leva_V -os_PROPESS a_PREP aplicar_V seu_PROADJ dinheiro_N na_PREP+ART melhoria_N do_PREP+ART plantel_N e_KC as_ART vacas_N de_PREP elite_N são_V o_ART alvo_N principal_ADJ ._END
+Os_ART números_N comprovam_V :_PU somente_PDEN no_PREP+ART mês_N de_PREP setembro_N ,_PU a_ART Embral_NPROP ,_PU empresa_N leiloeira_ADJ paulista_ADJ ,_PU promoveu_V seis_NUM leilões_N específicos_ADJ da_PREP+ART raça_N holandesa_ADJ e_KC vendeu_V 347_NUM fêmeas_N por_PREP US$_CUR 1,481_NUM milhão_N ._END
+Para_PREP efeito_N de_PREP comparação_N ,_PU somando_V -se_PROPESS todas_PROADJ as_ART cabeças_N de_PREP gado_N holandês_ADJ de_PREP elite_N negociadas_PCP no_PREP+ART ano_N passado_PCP ,_PU o_ART número_N fica_V próximo_PREP de_PREP 320_N ._END
+Em_PREP síntese_N ,_PU o_ART leite_N pode_V não_ADV estar_V garantindo_V a_ART receita_N imediata_ADJ das_PREP+ART fazendas_N ._END
+Mas_KC ,_PU com_PREP certeza_N ,_PU os_ART pecuaristas_N chegam_V mais_ADV tarde_ADV ao_PREP+ART lucro_N ,_PU negociando_V as_ART crias_N que_PRO-KS nascem_V ._END
+O_ART paulista_N Lair_NPROP Antonio_NPROP de_NPROP Souza_NPROP ,_PU produtor_N de_PREP leite_N tipo_N A_N ,_PU vendeu_V a_ART vaca_N mais_ADV cara_ADJ do_PREP+ART leilão_N ._END
+Color_NPROP Blackstar_NPROP Angula_NPROP ,_PU uma_PROSUB ,_PU foi_V comprada_PCP pela_PREP+ART Apuana_NPROP Agropecuária_NPROP por_PREP R$_CUR 7.800_NUM ._END
+O_ART próximo_ADJ leilão_N de_PREP holandês_N acontece_V no_PREP+ART próximo_ADJ dia_N 13_N de_PREP outubro_N ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+O_ART leilão_N "_PU Dá_NPROP Sorte_NPROP "_PU vende_V 40_NUM animais_N ,_PU entre_PREP novilhas_N prenhas_ADJ e_KC vacas_N já_PDEN paridas_PCP ._END
+Próximo_ADJ Leilão_N :_PU Dá_NPROP Sorte_NPROP ,_PU dia_N 13_N de_PREP outubro_N ,_PU no_PREP+ART Parque_NPROP da_NPROP Água_NPROP Branca_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU com_PREP venda_N de_PREP 40_NUM vacas_N holandesas_ADJ ._END
+(_PU 011_N 864-5533_N )_PU 864-5533_N ._END
+A_ART Associação_NPROP Brasileira_NPROP dos_NPROP Criadores_NPROP de_NPROP Cavalos_NPROP Mangalarga_NPROP sai_V na_PREP frente_PREP de_PREP outras_PROADJ raças_N equinas_ADJ e_KC pela_PREP+ART primeira_ADJ vez_N promove_V um_ART leilão_N exclusivo_ADJ em_PREP outro_PROADJ país_N ._END
+Dia_N 19_N último_ADJ ,_PU em_PREP Santa_NPROP Cruz_NPROP de_NPROP La_NPROP Sierra_NPROP ,_PU na_PREP+ART Bolívia_NPROP ,_PU ela_PROPESS vendeu_V 29_NUM animais_N por_PREP US$_CUR 69,6_NUM mil_NUM e_KC obteve_V média_N de_PREP US$_CUR 2.400_NUM ._END
+Segundo_PREP Clodoaldo_NPROP Antonângelo_NPROP ,_PU presidente_N da_PREP+ART associação_N ,_PU a_ART proposta_N dos_PREP+ART criadores_N é_V entrar_V no_PREP+ART país_N vizinho_ADJ ._END
+"_PU Queremos_V mostrar_V as_ART qualidades_N da_PREP+ART raça_N para_PREP lidar_V com_PREP o_ART gado_N ._END
+Até_PREP o_ART momento_N ,_PU a_ART criação_N da_PREP+ART raça_N naquele_PREP+PROADJ país_N é_V incipiente_ADJ ._END
+Raríssimas_ADJ fazendas_N possuem_V um_ART exemplar_ADJ mangalarga_N em_PREP seu_PROADJ plantel_N ._END
+550_NUM bolivianos_N estiveram_V presentes_ADJ no_PREP+ART leilão_N ,_PU diz_V Antonângelo_NPROP ._END
+Um_PROSUB deles_PREP+PROPESS ,_PU Sebastian_NPROP Paz_NPROP ,_PU comprou_V sete_NUM cavalos_N ._END
+Ele_PROPESS pagou_V todos_PROSUB à_PREP+ART vista_N ,_PU única_ADJ condição_N dada_PCP pelos_PREP+ART brasileiros_N aos_PREP+ART arrematantes_N bolivianos_ADJ ._END
+Entre_PREP os_ART criadores_N nacionais_ADJ que_PRO-KS levaram_V cavalos_N à_PREP+ART Santa_NPROP Cruz_NPROP de_NPROP La_NPROP Sierra_NPROP ,_PU estão_V os_ART paulistas_N Gilberto_NPROP Nascimento_NPROP ,_PU João_NPROP Eduardo_NPROP Haudenschild_NPROP e_KC Luiz_NPROP Eduardo_NPROP Batalha_NPROP ._END
+As_ART compras_N foram_V feitas_PCP somente_PDEN por_PREP bolivianos_N ._END
+"_PU A_ART tentativa_N deu_V certo_ADJ ._END
+Estamos_V pensando_V seriamente_ADV em_PREP promover_V outro_PROADJ pregão_N em_PREP maio_N do_PREP+ART próximo_ADJ ano_N "_PU ,_PU afirma_V Antonângelo_NPROP ._END
+No_PREP+ART Brasil_NPROP ,_PU os_ART negócios_N com_PREP o_ART mangalarga_N não_ADV foram_V muito_ADV bem_ADV na_PREP+ART semana_N passada_PCP ._END
+Dia_N 27_N ,_PU na_PREP+ART boate_N Krypton_NPROP (_PU zona_N sul_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ,_PU o_ART leilão_N Fascination_NPROP conseguiu_V média_N de_PREP R$_CUR 2.256_NUM na_PREP+ART venda_N de_PREP 36_NUM cavalos_N ._END
+Apesar_PREP de_PREP contar_V com_PREP uma_ART oferta_N de_PREP boa_ADJ qualidade_N ,_PU a_ART baixa_ADJ afluência_N de_PREP público_N dificultou_V bastante_ADV a_ART compra_N de_PREP animais_N ._END
+O_ART Fascination_NPROP vendeu_V somente_PDEN fêmeas_N ._END
+delas_PREP+PROPESS ,_PU Bajoort_NPROP Dam_NPROP ,_PU saiu_V por_PREP R$_CUR 5,4_NUM mil_NUM ,_PU maior_ADJ preço_N do_PREP+ART leilão_N ._END
+Amanhã_ADV o_ART mangalarga_N volta_V à_PREP+ART pista_N ._END
+Na_PREP+ART boate_N Krypton_NPROP ,_PU o_ART pregão_N Primavera_NPROP vai_V vender_V 48_NUM animais_N ,_PU em_PREP sua_PROADJ maioria_N éguas_N prenhas_ADJ e_KC potras_N ._END
+Somente_PDEN dois_NUM lotes_N são_V machos_ADJ (_PU um_ART garanhão_N e_KC um_ART potro_N )_PU ._END
+Próximo_ADJ Leilão_N :_PU Primavera_NPROP Mangalarga_NPROP ,_PU dia_N 5_N de_PREP outubro_N ,_PU às_PREP+ART 20h_N ,_PU na_PREP+ART boate_N Krypton_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+Pégaso_NPROP Leilões_NPROP ,_PU tel_N ._END
+(_PU 011_N 65-1776_N )_PU ._END
+Criador_N de_PREP gado_N pardo-_ADJ suíço_ADJ em_PREP Pindamonhangaba_NPROP ,_PU no_PREP+ART Vale_NPROP do_NPROP Paraíba_NPROP (_PU SP_NPROP )_PU ,_PU Sergio_NPROP Santos_NPROP Louza_NPROP liquidou_V seu_PROADJ plantel_N dia_N 26_N último_ADJ ,_PU na_PREP+ART churrascaria_N Bull's_NPROP Grill_NPROP (_PU zona_N oeste_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ._END
+Louza_NPROP vendeu_V 35_NUM animais_N por_PREP R$_CUR 35,6_NUM mil_NUM e_KC obteve_V média_N de_PREP R$_CUR 1.016_NUM (_PU US$_CUR 1.180_NUM )_PU por_PREP eles_PROPESS ._END
+A_ART vaca_N Samira_NPROP King_NPROP da_NPROP Limeira_NPROP ,_PU nascida_N em_PREP outubro_N de_PREP 85_N ,_PU saiu_V por_PREP R$_CUR 1.500_NUM ,_PU preço_N recorde_ADJ do_PREP+ART leilão_N ._END
+Ela_PROPESS foi_V adquirida_PCP pelo_PREP+ART criador_N Gabriel_NPROP Bernardo_NPROP ,_PU de_PREP Campinas_NPROP (_PU SP_NPROP )_PU ._END
+Louza_NPROP considerou_V "_PU dentro_PREP das_PREP+ART expectativas_N "_PU o_ART resultado_N da_PREP+ART liquidação_N de_PREP seu_PROADJ plantel_N ._END
+Ele_PROPESS vendeu_V o_ART gado_N pardo_ADJ suíço_ADJ em_PREP três_NUM pagamentos_N mensais_ADJ ._END
+A_ART raça_N pardo_ADJ suíço_ADJ é_V de_PREP dupla_ADJ aptidão_N ,_PU ou_PDEN seja_PDEN ,_PU produz_V carne_N e_KC leite_N ._END
+O_ART cavalo_N bretão_ADJ ,_PU de_PREP origem_N francesa_ADJ e_KC pouco_ADV conhecido_PCP no_PREP+ART Brasil_NPROP ,_PU vai_V ser_V leiloado_PCP dia_N 15_N de_PREP outubro_N ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+Cerca_PREP de_PREP 40_NUM animais_N compõem_V a_ART oferta_N do_PREP+ART remate_N ,_PU a_ART maioria_N filhos_N de_PREP garanhão_N e_KC éguas_N importadas_PCP da_PREP+ART França_NPROP ._END
+A_ART iniciativa_N do_PREP+ART pregão_N é_V do_PREP+ART criador_N paulista_ADJ Anis_NPROP Razuk_NPROP ._END
+Segundo_PREP Razuk_NPROP esse_PROSUB é_V o_ART único_ADJ remate_N exclusivo_ADJ de_PREP bretão_N realizado_PCP em_PREP São_NPROP Paulo_NPROP e_KC acontece_V no_PREP+ART Posto_NPROP 82_NPROP ,_PU localizado_PCP na_PREP+ART rodovia_N Castelo_NPROP Branco_NPROP ,_PU km_N 82_N ._END
+A_ART raça_N ,_PU que_PRO-KS é_V capaz_ADJ de_PREP puxar_V mais_PREP de_PREP uma_NUM tonelada_N de_PREP carga_N ,_PU conta_V com_PREP cerca_PREP de_PREP 2.500_NUM exemplares_N no_PREP+ART Brasil_NPROP ,_PU entre_PREP puros_N e_KC mestiços_N ,_PU e_KC por_PREP volta_PREP de_PREP 200_NUM criadores_N ._END
+Os_ART criadores_N de_PREP cavalo_N appaloosa_ADJ realizam_V o_ART campeonato_N nacional_ADJ da_PREP+ART raça_N ,_PU de_PREP 14_N a_PREP 17_N próximos_ADJ ,_PU durante_PREP a_PREP 3ª_ADJ Exposul_NPROP Internacional_NPROP ,_PU em_PREP Curitiba_NPROP (_PU PR_NPROP )_PU ._END
+Dia_N 15_N ,_PU o_ART Núcleo_NPROP Paranaense_NPROP de_NPROP Criadores_NPROP de_NPROP Appaloosa_NPROP promove_V leilão_N de_PREP 45_NUM animais_N da_PREP+ART raça_N ._END
+Com_PREP previsão_N de_PREP faturar_V US$_CUR 13,5_NUM milhões_N nos_PREP+ART leilões_N ,_PU a_ART Exposul_NPROP Internacional_NPROP é_V a_ART principal_ADJ mostra_N agropecuária_ADJ paranaense_ADJ ._END
+6.000_NUM animais_N ,_PU entre_PREP bovinos_N e_KC equinos_N ,_PU estão_V inscritos_PCP ._END
+Criadores_N e_KC representantes_N de_PREP indústrias_N de_PREP 15_NUM países_N também_PDEN já_ADV confirmaram_V presença_N na_PREP+ART Exposul_NPROP ._END
+Na_PREP+ART área_N dos_PREP+ART julgamentos_N ,_PU a_ART maior_ADJ concorrência_N é_V dos_PREP+ART equinos_N ._END
+As_ART baias_N do_PREP+ART Parque_NPROP Castelo_NPROP Branco_NPROP ,_PU local_N da_PREP+ART mostra_N ,_PU recebem_V 700_N deles_PREP+PROPESS ._END
+Bovinos_N como_PREP o_ART charolês_N ,_PU criado_PCP no_PREP+ART Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP ,_PU aumentam_V sua_PROADJ participação_N ._END
+De_PREP cem_NUM animais_N do_PREP+ART ano_N passado_PCP o_ART número_N sobe_V para_PREP 130_N agora_ADV ._END
+Criadores_N de_PREP canchim_N ,_PU uma_ART raça_N feita_PCP no_PREP+ART Brasil_NPROP ,_PU levam_V 60_NUM cabeças_N para_PREP Curitiba_NPROP ._END
+Serão_V realizados_PCP 17_NUM leilões_N de_PREP elite_N de_PREP bovinos_N e_KC equinos_N ._END
+Informações_N pelo_PREP+ART tel_N ._END
+(_PU 041_N 352-1010_N )_PU ._END
+Três_NUM remates_N de_PREP QM_NPROP faturam_V R$_CUR 720_NUM mil_NUM com_PREP venda_N de_PREP animais_N e_KC coberturas_N ._END
+Um_NUM mês_N após_PREP o_ART pacote_N ,_PU ainda_ADV há_V pouco_PROADJ dinheiro_N no_PREP+ART banco_N para_PREP o_ART plantio_N ._END
+Presidente_NPROP Prudente_NPROP (_PU SP_NPROP )_PU abre_V quinta_N sua_PROADJ 31ª_ADJ Exposição_N com_PREP 5.000_NUM animais_N ._END
+As_ART vendas_N de_PREP máquinas_N e_KC implementos_N agrícolas_ADJ superaram_V as_ART expectativas_N e_KC o_ART faturamento_N dos_PREP+ART leilões_N de_PREP animais_N chegou_V a_PREP US$_CUR 2,982_NUM milhões_N ._END
+"_PU Nossa_PROADJ meta_N era_V vender_V 100_NUM tratores_N ,_PU mas_KC chegamos_V a_PREP 436_NUM máquinas_N ,_PU 200_N para_PREP o_ART Uruguai_NPROP e_KC Paraguai_NPROP "_PU ,_PU diz_V Jack_NPROP Torreta_NPROP Jr_NPROP ,_PU gerente_N de_PREP comunicação_N empresarial_ADJ da_PREP+ART Valmet_NPROP ._END
+Os_ART negócios_N fechados_PCP este_PROADJ ano_N na_PREP+ART feira_N devem_V render_V US$_CUR 11_NUM milhões_N ._END
+Segundo_PREP ele_PROPESS ,_PU a_ART disponibilidade_N de_PREP financiamento_N ,_PU através_PREP da_PREP+ART linha_N de_PREP crédito_N para_PREP investimento_N do_PREP+ART BNDES_NPROP ,_PU facilitou_V os_ART negócios_N ._END
+No_PREP+ART ano_N passado_PCP ,_PU as_ART vendas_N somaram_V US$_CUR 7,5_NUM milhões_N ._END
+A_ART Iochpe-Maxion_NPROP anunciou_V a_ART comercialização_N de_PREP 550_NUM tratores_N e_KC 73_NUM colheitadeiras_N ._END
+"_PU É_V quase_ADV o_ART dobro_N que_PRO-KS vendemos_V no_PREP+ART ano_N passado_PCP "_PU ,_PU diz_V George_NPROP Raimann_NPROP ,_PU supervisor_N de_PREP marketing_N da_PREP+ART empresa_N ._END
+O_ART resultado_N dos_PREP+ART leilões_N de_PREP animais_N em_PREP Esteio_NPROP também_PDEN ultrapassou_V as_ART previsões_N ._END
+Foram_V vendidos_PCP 1.025_NUM bovinos_N ,_PU equinos_N e_KC ovinos_N ,_PU por_PREP US$_CUR 2,982_NUM milhões_N (_PU RS_NPROP 2,642_NUM milhões_N )_PU ._END
+Este_PROADJ número_N é_V superior_ADJ à_PREP+ART receita_N obtida_PCP na_PREP+ART Expointer_NPROP 93_N ,_PU quando_ADV-KS 1.175_NUM animais_N saíram_V por_PREP US$_CUR 1,955_NUM milhão_N ._END
+"_PU Prazos_N maiores_ADJ de_PREP pagamento_N e_KC a_ART reação_N positiva_ADJ dos_PREP+ART criadores_N ao_PREP+ART Real_NPROP ajudaram_V os_ART negócios_N este_PROADJ ano_N "_PU ,_PU diz_V Marcelo_NPROP Silva_NPROP ,_PU da_PREP+ART leiloeira_N Trajano_NPROP Silva_NPROP ._END
+A_ART maioria_N dos_PREP+ART animais_N foi_V paga_PCP em_PREP cinco_NUM parcelas_N mensais_ADJ ._END
+"_PU O_ART gado_N puro_ADJ e_KC os_ART cavalos_N de_PREP raça_N continuaram_V vendendo_V ._END
+Mas_KC os_ART bovinos_N rústicos_ADJ ,_PU que_PRO-KS pela_PREP+ART primeira_ADJ vez_N foram_V apresentados_PCP para_PREP remates_N ,_PU constituíram_V -se_PROPESS em_PREP grata_ADJ surpresa_N "_PU ._END
+O_ART cavalo_N crioulo_ADJ ,_PU por_PDEN exemplo_PDEN ,_PU conseguiu_V preço_N médio_ADJ de_PREP R$_CUR 13,8_NUM mil_NUM no_PREP+ART pregão_N Campeiro_NPROP ._END
+Em_PREP 93_N ,_PU a_ART média_N foi_V de_PREP US$_CUR 5.686_NUM ._END
+Já_KC a_ART média_N do_PREP+ART gado_N charolês_ADJ saltou_V de_PREP US$_CUR 3.492_NUM ,_PU em_PREP 93_N ,_PU para_PREP US$_CUR 12_NUM mil_NUM este_PROADJ ano_N ._END
+A_ART estiagem_N se_PROPESS intensificando_V no_PREP+ART Estado_N de_PREP São_NPROP Paulo_NPROP ._END
+Mesmo_PDEN com_PREP a_ART passagem_N de_PREP um_ART sistema_N frontal_ADJ pelo_PREP+ART Estado_N ,_PU não_ADV se_PROPESS observou_V chuvas_N em_PREP todo_PROADJ o_ART planalto_N paulista_ADJ ._END
+A_ART falta_N de_PREP chuvas_N continua_V induzindo_V a_PREP uma_ART redução_N drástica_ADJ na_PREP+ART reserva_N hídrica_ADJ dos_PREP+ART solos_N ,_PU afetando_V as_ART culturas_N que_PRO-KS estão_V em_PREP desenvolvimento_N sob_PREP sequeiro_N e_KC as_ART pastagens_N ._END
+É_V necessário_ADJ uma_ART irrigação_N mais_ADV frequente_ADJ para_PREP que_KS a_ART demanda_N hídrica_ADJ das_PREP+ART culturas_N seja_V atingida_PCP ._END
+Agosto_N foi_V caracterizado_PCP como_PREP um_NUM mês_N seco_ADJ ._END
+Não_ADV houve_V chuvas_N em_PREP nenhum_PROADJ local_N ,_PU com_PREP exceção_N de_PREP Ubatuba_NPROP ._END
+Franklin_NPROP Thame_NPROP ,_PU diretor_N de_PREP crédito_N rural_ADJ da_PREP+ART Federação_NPROP Brasileira_NPROP dos_NPROP Bancos_NPROP ,_PU diz_V que_KS os_ART bancos_N estão_V reaplicando_V em_PREP custeio_N apenas_PDEN os_ART recursos_N de_PREP depósitos_N à_PREP+ART vista_N conforme_PREP o_ART vencimento_N de_PREP operações_N já_ADV contratadas_PCP ._END
+"_PU Este_PROADJ volume_N deve_V representar_V US$_CUR 800_NUM milhões_N até_PREP dezembro_N ._END
+Thame_NPROP afirma_V que_KS grande_ADJ parte_N do_PREP+ART crédito_N para_PREP o_ART custeio_N -_PU R$_CUR 2_NUM bilhões_N depende_V da_PREP+ART Medida_NPROP Provisória_NPROP ,_PU ainda_ADV não_ADV enviada_PCP ao_PREP+ART Congresso_NPROP ,_PU que_PRO-KS permite_V aos_PREP+ART bancos_N fazer_V a_ART equalização_N de_PREP recursos_N e_KC emprestar_V -los_PROPESS ao_PREP+ART produtor_N ._END
+Os_ART agricultores_N ,_PU por_PREP sua_PROADJ vez_N ,_PU também_PDEN deixaram_V para_PREP este_PROADJ mês_N a_ART ida_N às_PREP+ART agências_N ._END
+Entre_PREP as_ART causas_N está_V a_ART estiagem_N ,_PU que_PRO-KS tem_V atrasado_PCP o_ART preparo_N do_PREP+ART solo_N ._END
+"_PU Os_ART produtores_N adiaram_V a_ART tomada_N de_PREP dinheiro_N para_PREP não_ADV ter_V de_PREP arcar_V com_PREP a_ART TR_NPROP de_PREP agosto_N ._END
+Este_PROADJ ano_N ,_PU o_ART Bamerindus_NPROP adiantou_V sua_PROADJ liberação_N de_PREP recursos_N ._END
+Em_PREP 5_N de_PREP agosto_N tornou_V disponível_ADJ US$_CUR 240_NUM milhões_N ,_PU US$_CUR 35_NUM milhões_N já_ADV foram_V emprestados_PCP ._END
+Embora_KS sem_PREP dados_N oficiais_ADJ ,_PU Thame_NPROP diz_V que_KS há_V grande_ADJ demanda_N de_PREP pequenos_ADJ agricultores_N por_PREP crédito_N ,_PU atraídos_PCP pelas_PREP+ART boas_ADJ taxas_N ._END
+Na_PREP+ART ponta_N do_PREP+ART lápis_N ,_PU o_ART plano_N de_PREP safra_N tornou_V vantajosos_ADJ os_ART empréstimos_N para_PREP pequenos_ADJ produtores_N ._END
+Enquanto_KS o_ART governo_N garantiu_V juros_N de_PREP 6_NUM %_N ao_PREP+ART ano_N para_PREP os_ART miniprodutores_N e_KC de_PREP 6_NUM %_N ao_PREP+ART ano_N mais_KC 50_NUM %_N da_PREP+ART TR_NPROP para_PREP os_ART pequenos_N ,_PU empresas_N pequenas_ADJ e_KC médias_ADJ pagam_V juros_N mensais_ADJ entre_PREP 4,5_NUM %_N e_KC 6_NUM %_N ,_PU o_PRO-KS que_PRO-KS supera_V os_ART 65_NUM %_N ao_PREP+ART ano_N ._END
+"_PU Deve_V faltar_V dinheiro_N ._END
+A_ART orientação_N das_PREP+ART cooperativas_N é_V pegar_V dinheiro_N no_PREP+ART banco_N porque_KS é_V a_ART forma_N mais_ADV barata_ADJ de_PREP crédito_N "_PU ,_PU diz_V Nelson_NPROP Costa_NPROP ,_PU da_PREP+ART Organização_NPROP das_NPROP Cooperativas_NPROP do_NPROP Paraná_NPROP ._END
+Para_PREP os_ART médios_ADJ e_KC grandes_ADJ produtores_N ,_PU a_ART confiança_N do_PREP+ART setor_N é_V na_PREP+ART equivalência-produto_N ._END
+André_NPROP Pessoa_NPROP ,_PU da_PREP+ART consultoria_N Mendonça_NPROP de_NPROP Barros_NPROP &_NPROP Associados_NPROP ,_PU lembra_V que_KS as_ART regras_N da_PREP+ART equivalência_N permitem_V ao_PREP+ART produtor_N fazer_V a_ART liquidação_N física_ADJ de_PREP seu_PROADJ plantio_N (_PU entregar_V a_ART produção_N nos_PREP+ART armazéns_N da_PREP+ART Conab_NPROP )_PU e_KC ficar_V livre_ADJ da_PREP+ART TR_NPROP ._END
+Gramacho_NPROP acredita_V que_KS ,_PU se_KS a_ART TR_NPROP continuar_V alta_ADJ ,_PU o_ART governo_N deverá_V assumir_V grande_ADJ parcela_N da_PREP+ART produção_N ,_PU já_KS que_KS o_ART agricultor_N vai_V optar_V por_PREP entregar_V -la_PROPESS ao_PREP+ART governo_N vender_V -la_PROPESS no_PREP+ART mercado_N ._END
+Nos_PREP+ART bancos_N ,_PU não_ADV há_V números_N ainda_ADV sobre_PREP o_ART volume_N emprestado_PCP ._END
+Mas_KC Aldous_NPROP Galletti_NPROP ,_PU diretor_N de_PREP crédito_N rural_ADJ do_PREP+ART Itaú_NPROP ,_PU diz_V que_KS o_PRO-KS que_PRO-KS for_V ofertado_PCP deverá_V ser_V emprestado_PCP ._END
+"_PU Nunca_ADV vi_V sobrar_V dinheiro_N ,_PU os_ART empréstimos_N são_V feitos_PCP sem_PREP correção_N integral_ADJ ._END
+A_ART estiagem_N está_V intensa_ADJ a_ART flor_N do_PREP+ART café_N morre_V no_PREP+ART pé_N poucas_PROADJ horas_N depois_PREP de_PREP surgir_V ._END
+No_PREP+ART PR_NPROP ,_PU os_ART agricultores_N estão_V adiando_V o_ART preparo_N da_PREP+ART terra_N para_PREP o_ART milho_N devido_PREP à_PREP+ART estiagem_N ._END
+Toni_NPROP Silva_NPROP ,_PU da_PREP+ART Cotriguaçu_NPROP ,_PU diz_V que_KS a_ART situação_N preocupa_V ._END
+"_PU Nossa_PROADJ previsão_N é_V de_PREP chuvas_N fortes_ADJ somente_PDEN em_PREP outubro_N ._END
+Levantamento_N da_PREP+ART Associação_NPROP Brasileira_NPROP dos_NPROP Produtores_NPROP de_NPROP Semente_NPROP mostra_V que_KS as_ART geadas_N provocaram_V queda_N de_PREP 11,2_NUM %_N na_PREP+ART produção_N de_PREP sementes_N de_PREP milho_N este_PROADJ ano_N em_ADV comparação_ADV com_PREP 93_N ._END
+Na_PREP+ART soja_N e_KC no_PREP+ART feijão_N ,_PU apesar_PREP da_PREP+ART geada_N ,_PU a_ART produção_N de_PREP sementes_N cresceu_V 7,29_NUM %_N e_KC 19,35_NUM %_N ,_PU respectivamente_ADV ._END
+Relatório_N do_PREP+ART Banco_NPROP Mundial_NPROP ,_PU publicado_PCP em_PREP 91_N e_KC assinado_PCP por_PREP Avishay_NPROP Braverman_NPROP e_KC Monika_NPROP Huppi_NPROP ,_PU mostra_V que_KS sempre_ADV o_ART subsídio_N é_V uma_ART boa_ADJ opção_N para_PREP incentivar_V o_ART aumento_N de_PREP plantio_N ._END
+Segundo_PREP os_ART autores_N ,_PU estudos_N de_PREP caso_N mostram_V que_KS a_ART disponibilidade_N de_PREP crédito_N subsidiado_PCP teve_V pouco_PROADJ ou_KC nenhum_PROADJ efeito_N sobre_PREP a_ART produtividade_N agrícola_ADJ ._END
+A_ART 31ª_ADJ Exposição_NPROP de_NPROP Animais_NPROP de_NPROP Presidente_NPROP Prudente_NPROP (_PU 558_NUM km_N a_PREP oeste_N de_PREP São_NPROP Paulo_NPROP )_PU tem_V tudo_PROSUB para_PREP se_PROPESS transformar_V na_PREP+ART festa_N do_PREP+ART nelore_N ._END
+Os_ART organizadores_N da_PREP+ART mostra_N ,_PU que_PRO-KS começa_V na_PREP+ART próxima_ADJ quinta-feira_N ,_PU programaram_V 22_NUM leilões_N ,_PU nove_N vão_V vender_V animais_N nelore_ADJ e_KC nelore_N mocho_ADJ (_PU sem_PREP chifre_N )_PU dos_PREP+ART principais_ADJ criatórios_N da_PREP+ART região_N ._END
+Além_PREP disso_PREP+PROSUB ,_PU será_V disputada_PCP a_ART penúltima_ADJ fase_N do_PREP+ART "_PU Ranking_NPROP Nacional_NPROP do_NPROP Nelore_NPROP e_NPROP Nelore_NPROP Mocho_NPROP "_PU ._END
+A_ART final_N está_V marcada_PCP para_PREP Uberaba_NPROP ,_PU em_PREP Minas_NPROP Gerais_NPROP ._END
+Os_ART destaques_N não_ADV param_V por_PREP aí_ADV ._END
+Essa_PROADJ oportunidade_N vai_V acontecer_V no_PREP+ART 1º_ADJ Concurso_NPROP e_NPROP Leilão_NPROP de_NPROP Nelore_NPROP a_NPROP Campo_NPROP ,_PU marcado_PCP para_PREP o_ART próximo_ADJ dia_N 18_N ,_PU às_PREP+ART 16h_N ._END
+Outro_PROADJ destaque_N é_V a_ART mudança_N nos_PREP+ART critérios_N adotados_PCP para_PREP o_ART julgamento_N ._END
+Os_ART animais_N passarão_V a_PREP ser_V escolhidos_PCP por_PREP julgamento_N tríplice_ADJ pontuado_PCP ,_PU ou_PDEN seja_PDEN ,_PU serão_V analisados_PCP por_PREP três_NUM juízes_N ._END
+Em_PREP São_NPROP Paulo_NPROP ,_PU a_ART região_N de_PREP Presidente_NPROP Prudente_NPROP é_V tida_PCP como_PREP o_ART principal_ADJ alvo_N das_PREP+ART raças_N européias_ADJ ,_PU já_KS que_KS o_ART nelore_N predomina_V em_PREP seu_PROADJ rebanho_N de_PREP 2,4_NUM milhões_N de_PREP cabeças_N do_PREP+ART gado_N ._END
+Este_PROADJ ano_N ,_PU pela_PREP+ART primeira_ADJ vez_N ,_PU participam_V da_PREP+ART exposição_N as_ART raças_N francesas_ADJ limousin_N e_KC charolês_N ._END
+Mas_KC outras_PROADJ raças_N já_ADV transformaram_V o_ART leilão_N em_PREP tradicional_ADJ oportunidade_N de_PREP negócios_N ._END
+Os_ART organizadores_N esperam_V comercializar_V cerca_PREP de_PREP 1,8_NUM milhão_N nos_PREP+ART 22_NUM leilões_N ._END
+"_PU As_ART argolas_N do_PREP+ART recinto_N nunca_ADV acabaram_V tão_ADV cedo_ADV "_PU ,_PU disse_V ,_PU há_V 20_NUM dias_N ,_PU o_ART diretor_N do_PREP+ART Sindicato_NPROP Rural_NPROP ,_PU Decio_NPROP Funari_NPROP Sena_NPROP ._END
+A_ART Exposição_NPROP de_NPROP Presidente_NPROP Prudente_NPROP evita_V mais_PROADJ uma_NUM vez_N os_ART grandes_ADJ shows_N sertanejos_ADJ para_PREP atrair_V público_N ._END
+Programou_V um_PROSUB único_ADJ -_PU com_PREP a_ART dupla_N Lucas_NPROP e_KC Matheus_NPROP para_PREP o_ART dia_N 14_N ,_PU aniversário_N da_PREP+ART cidade_N ._END
+O_ART leilão_N Iniciação_NPROP de_NPROP Cavalos_NPROP Appaloosa_NPROP ,_PU que_PRO-KS vendeu_V animais_N mestiços_ADJ dia_N 24_N último_ADJ em_PREP São_NPROP Paulo_NPROP ,_PU obteve_V média_N de_PREP R$_CUR 1.700_NUM ._END
+Foram_V vendidos_PCP 35_NUM animais_N por_PREP R$_CUR 52,7_NUM mil_NUM ._END
+"_PU A_ART média_N foi_V boa_ADJ ,_PU considerando_V -se_PROPESS que_KS foram_V apresentados_PCP somente_PDEN animais_N mestiços_ADJ "_PU ,_PU diz_V Valdelzir_NPROP Carvalho_NPROP ,_PU diretor_N da_PREP+ART Associação_NPROP Brasileira_NPROP do_NPROP Cavalo_NPROP Appaloosa_NPROP ._END
+A_ART associação_N promoveu_V o_ART leilão_N ._END
+Segundo_PREP Carvalho_NPROP ,_PU o_ART mercado_N do_PREP+ART appaloosa_N no_PREP+ART Brasil_NPROP mudou_V pouco_ADV nos_PREP+ART últimos_ADJ meses_N ._END
+Uma_ART pequena_ADJ oferta_N contrasta_V com_PREP uma_ART demanda_N alta_ADJ ._END
+seu_PROADJ próprio_PROADJ nome_N diz_V ,_PU observa_V Valdelzir_NPROP ,_PU o_ART Iniciação_NPROP serviu_V aos_PREP+PROSUB que_PRO-KS pretendem_V começar_V a_ART criação_N ._END
+Nos_PREP+ART próximos_ADJ leilões_N de_PREP appaloosa_N os_ART preços_N devem_V subir_V ._END
+Nos_PREP+ART dia_N 16_N e_KC 17_N de_PREP setembro_N ,_PU 75_NUM cavalos_N premiados_PCP vão_V a_PREP negócio_N no_PREP+ART Seleção_NPROP 94_NPROP e_KC no_PREP+ART Special_NPROP Line_NPROP ._END
+Os_ART dois_NUM remates_N se_PROPESS realizam_V no_PREP+ART Parque_NPROP da_NPROP Água_NPROP Funda_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+Vendem_V animais_N os_ART criadores_N Ricardo_NPROP Ramenzoni_NPROP ,_PU Wilson_NPROP Lemos_NPROP de_NPROP Moraes_NPROP Júnior_NPROP ,_PU Antonio_NPROP Teixeira_NPROP de_NPROP Barros_NPROP e_KC convidados_N ._END
+Próximos_ADJ Leilões_N :_PU Seleção_NPROP 94_NPROP de_NPROP Apaloosa_NPROP ,_PU dia_N 16_N ,_PU 20h_N ,_PU no_PREP+ART Parque_NPROP da_NPROP Água_NPROP Funda_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+Special_NPROP Line_NPROP de_NPROP Appaloosa_NPROP ,_PU dia_N 17_N ,_PU 20h_N ,_PU no_PREP+ART Parque_NPROP da_NPROP Água_NPROP Funda_NPROP ._END
+Tel_N ._END
+(_PU 011_N 262-7800_N )_PU ._END
+O_ART melhor_N deles_PREP+PROPESS foi_V realizado_PCP no_PREP+ART dia_N 30_N de_PREP agosto_N ._END
+Na_PREP+ART boate_N Limelight_NPROP ,_PU o_ART Liqh_NPROP (_PU Leilão_NPROP Internacional_NPROP Quarter-Horse_NPROP )_PU vendeu_V coberturas_N e_KC animais_N por_PREP R$_CUR 232_NUM mil_NUM ._END
+Mas_KC os_ART números_N não_ADV são_V definitivos_ADJ ._END
+Na_PREP+ART sexta-feira_N ,_PU dia_N 2_N de_PREP setembro_N ,_PU a_PREP Pégaso_NPROP ,_PU empresa_N organizadora_ADJ ,_PU continuava_V vendendo_V coberturas_N dos_PREP+ART reprodutores_N Sierra_NPROP Show_NPROP T._NPROP
+E._NPROP ,_PU Pwrely_NPROP Artistic_NPROP ,_PU Hncredbble_NPROP e_KC MBJ_NPROP MR_NPROP Array_NPROP ._END
+"_PU A_ART procura_N foi_V grande_ADJ tornando_V necessário_ADJ a_ART continuação_N dos_PREP+ART negócios_N "_PU ,_PU diz_V Paulo_NPROP Pimentel_NPROP ,_PU diretor_N da_PREP+ART Pégaso_NPROP ._END
+A_ART média_N das_PREP+ART coberturas_N foi_V de_PREP R$_CUR 1.000_NUM ._END
+Cinco_NUM animais_N ,_PU fêmeas_N e_KC machos_N ,_PU atingiram_V média_N de_PREP R$_CUR 12,2_NUM mil_NUM ,_PU a_ART maior_N da_PREP+ART semana_N ._END
+Sete_NUM ventres_N (_PU éguas_N com_PREP filhos_N de_PREP garanhões_N na_PREP+ART barriga_N )_PU também_PDEN conseguiram_V a_ART boa_ADJ média_N de_PREP R$_CUR 10.857_NUM ._END
+Segundo_PREP seus_PROADJ organizadores_N ,_PU o_ART Marcas_NPROP Nobres_NPROP abriu_V a_ART temporada_N de_PREP negócios_N com_PREP cavalos_N quarto_ADJ de_ADJ milha_ADJ de_PREP elite_N na_PREP+ART fase_N do_PREP+ART real_NPROP ._END
+Foram_V apresentados_PCP e_KC vendidos_PCP 53_NUM animais_N ,_PU 37_NUM fêmeas_N e_KC 16_NUM machos_N ,_PU por_PREP R$_CUR 320,5_NUM mil_NUM ,_PU com_PREP média_N de_PREP R$_CUR 6.047_NUM ._END
+Eles_PROPESS pertenciam_V a_PREP Manoel_NPROP Galante_NPROP ,_PU Sérgio_NPROP Nouguês_NPROP e_KC Sérgio_NPROP Thomé_NPROP Filho_NPROP ._END
+O_ART Marcas_NPROP Nobres_NPROP vendeu_V os_ART cavalos_N em_PREP dez_NUM parcelas_N mensais_ADJ sem_PREP correção_N ,_PU condição_N que_PRO-KS deverá_V vigorar_V com_PREP a_ART estabilização_N da_PREP+ART economia_N ._END
+"_PU O_ART financiamento_N de_PREP cavalos_N em_PREP um_ART horizonte_N não_ADJ inflacionário_ADJ vai_V aquecer_V o_ART mercado_N "_PU ,_PU afirma_V Carlos_NPROP Raul_NPROP Consoni_NPROP ,_PU criador_N paulista_ADJ ._END
+Segundo_PREP ele_PROPESS ,_PU igual_ADJ ao_PREP+ART setor_N de_PREP eletrodomésticos_N ,_PU por_PDEN exemplo_PDEN ,_PU aquecido_PCP devido_PREP às_PREP+ART prestações_N parceladas_PCP ,_PU o_PROSUB de_PREP cavalos_N de_PREP raça_N aposta_V no_PREP+ART fim_N da_PREP+ART inflação_N ._END
+Consoni_NPROP também_PDEN promoveu_V seu_PROADJ leilão_N ._END
+Dia_N 29_N de_PREP agosto_N ,_PU no_PREP+ART Parque_NPROP da_NPROP Água_NPROP Branca_NPROP ,_PU ele_PROPESS colocou_V cavalos_N de_PREP sua_PROADJ criação_N e_KC de_PREP vendedores_N convidados_PCP na_PREP+ART terceira_ADJ edição_N do_PREP+ART pregão_N Haras_NPROP Bonfim_NPROP ._END
+O_ART faturamento_N foi_V de_PREP R$_CUR 170,1mil_NUM por_PREP 42_NUM animais_N ,_PU entre_PREP puros_N e_KC mestiços_N ._END
+Dois_NUM leilões_N venderam_V 122_NUM cabeças_N de_PREP gado_N leiteiro_ADJ nos_PREP+ART dias_N 27_N e_KC 30_N de_PREP agosto_N ._END
+Barbosa_NPROP é_V o_ART maior_ADJ produtor_N de_PREP leite_N tipo_N A_N do_PREP+ART país_N ,_PU com_PREP 40_NUM mil_NUM litros_N diários_ADJ ._END
+Ele_PROPESS apresentou_V gado_N holandês_ADJ puro_ADJ ,_PU cruzado_N ,_PU girolando_N e_KC tourinhos_N gir_ADJ leiteiro_ADJ ._END
+O_ART pecuarista_N conseguiu_V R$_CUR 4.800_NUM pela_PREP+ART vaca_N Mamona_NPROP OB_NPROP OB_NPROP ,_PU que_PRO-KS foi_V arrematada_PCP por_PREP Cássio_NPROP Roberto_NPROP da_NPROP Silva_NPROP ._END
+No_PREP+ART outro_PROADJ remate_N (_PU Santa_NPROP Ondina_NPROP )_PU ,_PU Arnaldo_NPROP Mendes_NPROP de_NPROP Oliveira_NPROP Júnior_NPROP ,_PU selecionador_N de_PREP holandês_N em_PREP Marília_NPROP (_PU SP_NPROP )_PU ,_PU faturou_V R$_CUR 106,2_NUM mil_NUM ao_PREP+ART colocar_V 33_NUM fêmeas_N holandesas_ADJ puras_ADJ de_PREP origem_N e_KC puras_ADJ de_PREP origem_N importadas_PCP no_PREP+ART mercado_N ._END
+A_ART média_N geral_ADJ atingiu_V R$_CUR 3.218_NUM ._END
+A_ART vaca_N Opsal_NPROP Spruce_NPROP Karyn_NPROP ,_PU nascida_PCP em_PREP julho_N de_PREP 88_N ,_PU conseguiu_V o_ART maior_ADJ preço_N ,_PU R$_CUR 6_NUM mil_NUM ._END
+Foi_V comprada_PCP pela_PREP+ART Comercial_NPROP e_NPROP Distribuidora_NPROP J._NPROP Raposo_NPROP ._END
+Entre_PREP os_ART próximos_ADJ dias_N 20_N e_KC 25_N de_PREP setembro_N acontece_V ,_PU em_PREP Londrina_NPROP (_PU PR_NPROP )_PU ,_PU a_PREP 5ª_ADJ Exposição_NPROP Estadual_NPROP de_NPROP Raças_NPROP Leiteiras_NPROP ,_PU reunindo_V mais_PREP de_PREP mil_NUM animais_N ._END
+Estão_V programados_PCP dois_NUM leilões_N ,_PU além_PREP dos_PREP+ART julgamentos_N e_KC torneio_N leiteiro_ADJ ._END
+5ª_ADJ EXPOLEITE_NPROP :_PU De_PREP 20_N a_PREP 25_N de_PREP setembro_N no_PREP+ART parque_N de_PREP exposições_N Ney_NPROP Braga_NPROP ,_PU em_PREP Londrina_NPROP (_PU PR_NPROP )_PU ._END
+Informações_N pelo_PREP+ART tel_N ._END
+(_PU 043_N 338-5276_N )_PU ._END
+Pelo_ADV menos_ADV cinco_NUM candidatos_N do_PREP+ART PMDB_NPROP a_PREP governos_N estaduais_ADJ estão_V enfrentando_V dificuldades_N com_PREP a_ART candidatura_N presidencial_ADJ de_PREP Orestes_NPROP Quércia_NPROP ._END
+Na_PREP+ART última_ADJ segunda-feira_N ,_PU o_ART prefeito_N de_PREP Recife_NPROP ,_PU Jarbas_NPROP Vasconcelos_NPROP ,_PU desistiu_V de_PREP concorrer_V ao_PREP+ART governo_N pernambucano_ADJ por_PREP motivos_N semelhantes_ADJ ._END
+Os_ART candidatos_N peemedebistas_ADJ que_PRO-KS enfrentam_V problemas_N com_PREP a_ART candidatura_N quercista_ADJ são_V Antônio_NPROP Britto_NPROP (_PU RS_NPROP )_PU ,_PU Garibaldi_NPROP Alves_NPROP (_PU RN_NPROP )_PU ,_PU Antônio_NPROP Mariz_NPROP (_PU PB_NPROP )_PU ,_PU Wilson_NPROP Martins_NPROP (_PU MS_NPROP )_PU e_KC Ruy_NPROP Bacelar_NPROP (_PU BA_NPROP )_PU ._END
+Com_PREP exceção_N de_PREP Bacelar_NPROP ,_PU que_PRO-KS ainda_ADV disputa_V a_ART indicação_N com_PREP o_ART ex-governador_N baiano_ADJ Nilo_NPROP Coelho_NPROP ,_PU os_ART outros_PROSUB estão_V com_PREP suas_PROADJ candidaturas_N praticamente_ADV definidas_PCP e_KC têm_V chances_N de_PREP vencer_V a_ART eleição_N ._END
+Alguns_PROSUB dizem_V que_KS terão_V dificuldades_N de_PREP subir_V no_PREP+ART palanque_N quercista_ADJ ._END
+Segundo_PREP eles_PROPESS ,_PU há_V fortes_ADJ resistências_N de_PREP suas_PROADJ bases_N eleitorais_ADJ às_PREP+ART denúncias_N de_PREP supostas_PCP irregularidades_N envolvendo_V o_ART ex-governador_N ._END
+Na_PREP+ART semana_N passada_PCP ,_PU em_PREP jantar_N com_PREP Quércia_NPROP na_PREP+ART casa_N do_PREP+ART senador_N Ronan_NPROP Tito_NPROP (_PU MG_NPROP )_PU ,_PU Garibaldi_NPROP e_KC Mariz_NPROP expuseram_V suas_PROADJ dificuldades_N ao_PREP+ART próprio_PROADJ candidato_N ._END
+Mas_KC na_PREP+ART semana_N passada_PCP ele_PROPESS esteve_V em_PREP São_NPROP Paulo_NPROP para_PREP assistir_V ao_PREP+ART anúncio_N oficial_ADJ do_PREP+ART apoio_N do_PREP+ART governador_N Fleury_NPROP a_PREP Quércia_NPROP ._END
+Os_ART candidatos_N a_PREP governador_N que_PRO-KS resistem_V a_PREP Quércia_NPROP tentam_V encontrar_V uma_ART alternativa_N para_PREP enfrentar_V o_ART ex-governador_N na_PREP+ART prévia_N que_PRO-KS escolherá_V seu_PROADJ candidato_N presidencial_ADJ ._END
+Garibaldi_NPROP foi_V escalado_PCP para_PREP saber_V do_PREP+ART ex-presidente_N José_NPROP Sarney_NPROP se_KS ele_PROPESS pretende_V mesmo_PDEN disputar_V a_ART prévia_N peemedebista_ADJ ._END
+Sarney_NPROP tem_V dificuldades_N de_PREP aceitação_N no_PREP+ART PMDB_NPROP gaúcho_ADJ e_KC do_PREP+ART Rio_NPROP Grande_NPROP do_NPROP Norte_NPROP ._END
+Mas_KC os_ART peemedebistas_N antiquercistas_ADJ estão_V dispostos_PCP a_PREP conversar_V sobre_PREP eventual_ADJ apoio_N a_PREP ele_PROPESS ._END
+Prefeitos_N e_KC vereadores_N gaúchos_ADJ tentam_V organizar_V um_ART movimento_N que_PRO-KS torne_V a_ART candidatura_N de_PREP Simon_NPROP irreversível_ADJ ._END
+Sobra_V ainda_ADV como_PREP alternativa_N a_ART candidatura_N do_PREP+ART governador_N paranaense_ADJ Roberto_NPROP Requião_NPROP ._END
+Mas_KC esses_PROADJ peemedebistas_N não_ADV vêem_V muito_ADV a_ART chance_N de_PREP encontrar_V um_ART candidato_N com_PREP possibilidade_N de_PREP derrotar_V Quércia_NPROP ._END
+"_PU Nossa_PROADJ situação_N é_V de_PREP quase_ADV desespero_N "_PU ,_PU diz_V Garibaldi_NPROP ._END
+"_PU Nenhuma_PROSUB das_PREP+ART alternativas_N colocadas_PCP até_PREP agora_ADV têm_V muita_PROADJ consistência_N "_PU ,_PU afirma_V ._END
+Com_PREP suas_PROADJ candidaturas_N consolidadas_PCP ,_PU eles_PROPESS afastam_V a_ART possibilidade_N de_PREP seguir_V o_ART mesmo_PROADJ rumo_N de_PREP Vasconcelos_NPROP ._END
+O_ART prefeito_N de_PREP Recife_NPROP se_PROPESS queixava_V do_PREP+ART efeito_N negativo_ADJ da_PREP+ART candidatura_N quercista_ADJ em_PREP sua_PROADJ campanha_N ._END
+Mas_KC outros_PROADJ motivos_N também_PDEN contribuíram_V para_PREP a_ART sua_PROADJ desistência_N ._END
+Um_PROSUB deles_PREP+PROPESS foi_V a_ART resistência_N de_PREP 14_N dos_PREP+ART 28_NUM prefeitos_N do_PREP+ART PMDB_NPROP pernambucano_ADJ à_PREP+ART aliança_N do_PREP+ART partido_N com_PREP o_ART PFL_NPROP ._END
+Os_ART principais_ADJ argumentos_N são_V os_ART números_N das_PREP+ART recentes_ADJ pesquisas_N de_PREP intenção_N de_PREP voto_N ,_PU que_PRO-KS apontam_V Sarney_NPROP com_PREP vantagem_N sobre_PREP o_ART ex-governador_N de_PREP São_NPROP Paulo_NPROP Orestes_NPROP Quércia_NPROP ._END
+O_ART ex-presidente_N conta_V com_PREP 11_NUM %_N ,_PU enquanto_KS Quércia_NPROP alcança_V 6_NUM %_N ._END
+As_ART mensagens_N destacam_V o_ART tom_N saudoso_ADJ ,_PU na_PREP+ART tentativa_N de_PREP mostrar_V que_KS os_ART brasileiros_N viviam_V melhor_ADV durante_PREP a_ART (_PU 1985-90_N )_PU ._END
+A_ART estratégia_N do_PREP+ART ex-presidente_N descarta_V ,_PU até_PREP o_ART momento_N ,_PU o_ART confronto_N direto_ADJ com_PREP Quércia_NPROP ._END
+A_ART idéia_N é_V mostrar_V aos_PREP+ART eleitores_N que_KS Sarney_NPROP é_V o_ART "_PU candidato_N mais_ADV viável_ADJ "_PU ,_PU sem_PREP utilizar_V ataques_N ao_PREP+ART ex-governador_N ._END
+Mesmo_KS que_KS seja_V derrotado_PCP o_ART seu_PROADJ projeto_N de_PREP candidatura_N ,_PU o_ART ex-presidente_N quer_V manter_V o_ART seu_PROADJ cacife_N em_PREP alta_N para_PREP negociações_N políticas_ADJ na_PREP+ART disputa_N eleitoral_ADJ ._END
+Um_ART clima_N de_PREP conflito_N com_PREP os_ART quercistas_N provocaria_V problemas_N mais_ADV adiante_ADV para_PREP acordos_N dentro_PREP do_PREP+ART PMDB_NPROP ,_PU restando_V apenas_PDEN a_ART opção_N de_PREP aliança_N com_PREP a_ART candidatura_N do_PREP+ART tucano_N Fernando_NPROP Henrique_NPROP ._END
+"_PU Prévias_N "_PU A_ART equipe_N do_PREP+ART ex-presidente_N aposta_V na_PREP+ART possibilidade_N de_PREP aprovação_N das_PREP+ART "_PU eleições_N prévias_ADJ "_PU do_PREP+ART PMDB_NPROP para_PREP a_ART escolha_N do_PREP+ART candidato_N do_PREP+ART partido_N ._END
+Caberá_V ao_PREP+ART Diretório_NPROP Nacional_NPROP decidir_V ,_PU nos_PREP+ART próximos_ADJ dias_N ,_PU sobre_PREP a_ART realização_N ou_KC não_ADV das_PREP+ART "_PU eleições_N prévias_ADJ "_PU ._END
+Para_PREP os_ART aliados_N de_PREP Sarney_NPROP ,_PU o_ART controle_N de_PREP Quércia_NPROP sobre_PREP a_ART máquina_N peemedebista_ADJ torna_N difícil_ADJ uma_ART disputa_N em_PREP convenção_N ._END
+A_ART estratégia_N é_V lançar_V Sarney_NPROP e_KC trabalhar_V por_PREP sua_PROADJ vitória_N nas_PREP+ART prévias_N eleitorais_ADJ do_PREP+ART partido_N ._END
+O_ART ex-governador_N do_PREP+ART Pará_NPROP Jáder_NPROP Barbalho_NPROP ,_PU quercista_ADJ ,_PU já_ADV apóia_V a_ART idéia_N ._END
+Barbalho_NPROP se_PROPESS confessa_V até_PDEN mesmo_PDEN devedor_N de_PREP favores_N de_PREP Quércia_NPROP ,_PU de_PREP quem_PRO-KS recebeu_V apoio_N para_PREP sua_PROADJ campanha_N eleitoral_ADJ ._END
+Candidato_N ao_PREP+ART Senado_NPROP ,_PU ele_PROPESS teme_V que_KS Quércia_NPROP prejudique_V sua_PROADJ eleição_N ._END
+A_ART articulação_N pró-Sarney_ADJ também_PDEN ganhou_V o_ART apoio_N do_PREP+ART governador_N de_PREP Goiás_NPROP ,_PU Iris_NPROP Rezende_NPROP ,_PU e_KC do_PREP+ART líder_N do_PREP+ART governo_N na_PREP+ART Câmara_NPROP ,_PU Luiz_NPROP Carlos_NPROP Santos_NPROP ._END
+Barbalho_NPROP e_KC Iris_NPROP Rezende_NPROP integram_V o_ART chamado_N "_PU grupo_N pragmático_ADJ "_PU do_PREP+ART PMDB_NPROP ._END
+Já_ADV contam_V com_PREP a_ART velada_PCP simpatia_N do_PREP+ART chamado_N grupo_N "_PU gaúcho_ADJ "_PU ,_PU ligado_PCP ao_PREP+ART líder_N do_PREP+ART governo_N no_PREP+ART Senado_NPROP ,_PU Pedro_NPROP Simon_NPROP (_PU PMDB_NPROP RS_NPROP )_PU ._END
+Mas_KC em_PREP encontro_N recente_ADJ com_PREP o_ART candidato_N do_PREP+ART PSDB_NPROP ,_PU Fernando_NPROP Henrique_NPROP Cardoso_NPROP ,_PU se_PROPESS disse_V "_PU obrigado_PCP a_PREP apoiar_V publicamente_ADV "_PU Quércia_NPROP ._END
+Os_ART "_PU pragmáticos_N "_PU não_ADV têm_V nenhuma_PROADJ resistência_N pessoal_ADJ a_PREP Quércia_NPROP ._END
+Estão_V preocupados_PCP com_PREP o_ART reflexo_N em_PREP suas_PROADJ campanhas_N do_PREP+ART fraco_ADJ desempenho_N do_PREP+ART ex-governador_N nas_PREP+ART pesquisas_N eleitorais_ADJ ._END
+Na_PREP+ART terça-feira_N ,_PU em_PREP seu_PROADJ gabinete_N ,_PU Simon_NPROP discutiu_V o_ART crescimento_N de_PREP Sarney_NPROP no_PREP+ART PMDB_NPROP com_PREP a_ART cúpula_N do_PREP+ART "_PU grupo_N gaúcho_ADJ "_PU :_PU o_ART deputado_N Antônio_NPROP Britto_NPROP ,_PU candidato_N ao_PREP+ART governo_N do_PREP+ART Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP ,_PU e_KC o_ART senador_N José_NPROP Fogaça_NPROP (_PU PMDB_NPROP RS_NPROP )_PU ._END
+A_ART conclusão_N foi_V de_PREP que_KS o_ART grupo_N estava_V derrotado_PCP na_PREP+ART disputa_N interna_ADJ do_PREP+ART partido_N ,_PU em_PREP nível_N nacional_ADJ ,_PU e_KC que_KS não_ADV poderia_V apoiar_V abertamente_ADV Sarney_NPROP ._END
+Mas_KC a_ART derrota_N de_PREP Quércia_NPROP seria_V bem_ADV recebida_PCP pelo_PREP+ART grupo_N ._END
+Quércia_NPROP já_ADV notou_V a_ART articulação_N e_KC começou_V a_PREP trabalhar_V contra_PREP a_ART realização_N das_PREP+ART prévias_N no_PREP+ART partido_N ._END
+Sarney_NPROP ,_PU ao_ADV contrário_ADV ,_PU avalia_V que_KS as_ART prévias_N -_PU que_PRO-KS envolvem_V todos_PROADJ os_ART filiados_N ao_PREP+ART PMDB_NPROP lhe_PROPESS dão_V maior_ADJ chance_N de_PREP repetir_V os_ART índices_N de_PREP aceitação_N das_PREP+ART pesquisas_N eleitorais_ADJ ._END
+Mas_KC o_ART ex-presidente_N também_PDEN trabalhou_V em_PREP outra_PROADJ direção_N ._END
+Sua_PROADJ filha_N ,_PU Roseana_NPROP Sarney_NPROP ,_PU se_PROPESS reuniu_V duas_NUM vezes_N com_PREP o_ART candidato_N do_PREP+ART PSDB_NPROP ,_PU Fernando_NPROP Henrique_NPROP Cardoso_NPROP ,_PU a_PREP acenou_V com_PREP a_ART possibilidade_N de_PREP uma_ART aliança_N ,_PU caso_KS Sarney_NPROP derrote_V Quércia_NPROP nas_PREP+ART prévias_N ._END
+Enquanto_KS isso_PROSUB ,_PU ele_PROPESS tem_V se_PROPESS dedicado_PCP a_PREP distribuir_V a_PREP seus_PROADJ colegas_N de_PREP cópias_N de_PREP pesquisas_N de_PREP opinião_N ,_PU nas_PREP+PRO-KS quais_PRO-KS aparece_V com_PREP destaque_N ._END
+Chega_V a_PREP distribuir_V até_PDEN mesmo_PDEN previsões_N de_PREP "_PU bruxos_N "_PU do_PREP+ART Maranhão_NPROP ,_PU indicando_V sua_PROADJ vitória_N ._END
+Seu_PROADJ filho_N ,_PU o_ART deputado_N Sarney_NPROP Filho_NPROP (_PU PFL-_NPROP MA_NPROP )_PU ,_PU deixa_V claro_ADJ a_ART estratégia_N do_PREP+ART ex-presidente_N :_PU "_PU Meu_PROADJ pai_N não_ADV tem_V ambição_N de_PREP a_PREP ser_V presidente_N ._END
+Mas_KC quer_V ser_V tratado_PCP na_PREP+ART campanha_N com_PREP a_ART deferência_N que_PRO-KS os_ART índices_N das_PREP+ART pesquisas_N eleitorais_ADJ lhe_PROPESS garantem_V ._END
+No_PREP+ART governo_N militar_ADJ ,_PU uma_ART caravana_N de_PREP deputados_N e_KC senadores_N viajou_V à_PREP+ART então_ADJ Alemanha_NPROP Ocidental_NPROP ._END
+Marco_NPROP Maciel_NPROP coordenava_V a_ART alegre_ADJ turma_N ,_PU que_PRO-KS nada_PROSUB tinha_V a_PREP ver_V com_PREP a_ART sisudez_N dos_PREP+ART germânicos_N ._END
+A_ART primeira_ADJ instituição_N no_PREP+ART roteiro_N de_PREP visita_N era_V o_ART Parlamento_N alemão_ADJ ._END
+O_ART deputado_N paraibano_ADJ Ernane_NPROP Sátiro_NPROP ,_PU conhecido_PCP pela_PREP+ART sua_PROADJ voz_N alta_ADJ e_KC poderosa_ADJ ,_PU entusiasmou_V -se_PROPESS e_KC começou_V a_PREP dar_V fortes_ADJ abraços_N nos_PREP+ART alemães_N ,_PU entremeados_PCP por_PREP efusivas_ADJ manifestações_N de_PREP júbilo_N ._END
+-_PU É_V um_ART grande_ADJ prazer_N ,_PU amigo_N velho_ADJ !_PU
+-_PU dizia_V Sátiro_NPROP ,_PU distribuindo_V tapas_N nas_PREP+ART costas_N ._END
+Os_ART alemães_N observavam_V tudo_PROSUB atônitos_ADJ ,_PU até_KS que_KS o_ART presidente_N do_PREP+ART Parlamento_N perguntou_V a_PREP Maciel_NPROP :_PU -_PU E_KC este_PROSUB aí_ADV ,_PU quem_PROSUB é_V ?_PU
+Maciel_NPROP ,_PU preocupado_PCP em_PREP proteger_V Sátiro_NPROP ,_PU respondeu_V :_PU -_PU É_V um_ART grande_ADJ parlamentar_N brasileiro_ADJ ,_PU por_N quê_N ?_PU
+E_KC o_ART alemão_N :_PU -_PU Porque_KS desde_PREP Hitler_NPROP não_ADV entrava_V no_PREP+ART Parlamento_NPROP alemão_ADJ alguém_PROSUB que_PRO-KS falasse_V tão_ADV alto_ADV ._END
+O_ART movimento_N dos_PREP+ART descontentes_N do_PREP+ART PMDB_NPROP em_PREP torno_PREP de_PREP Sarney_NPROP não_ADV deve_V resultar_V em_PREP uma_ART vitória_N contra_PREP Quércia_NPROP na_PREP+ART convenção_N do_PREP+ART partido_N ._END
+Mas_KC pode_V levar_V ,_PU à_PREP+ART frente_N ,_PU a_PREP um_ART desembarque_N peemedebista_ADJ rumo_PREP à_PREP+ART candidatura_N de_PREP FHC_NPROP ._END
+O_ART fomento_N a_PREP uma_ART suposta_PCP candidatura_N Sarney_NPROP ,_PU nem_KS que_KS apenas_PDEN para_PREP enfraquecer_V a_ART posição_N de_PREP Quércia_NPROP no_PREP+ART PMDB_NPROP ,_PU encontra_V respaldo_N em_PREP certas_PROADJ salas_N do_PREP+ART Planalto_N ._END
+Pelo_PREP+ART PFL_NPROP ._END
+Apesar_PREP do_PREP+ART alarido_N amplificado_PCP por_PREP pesquisas_N de_PREP opinião_N em_PREP torno_PREP de_PREP Sarney_NPROP ,_PU seus_PROADJ fiéis_ADJ escudeiros_N crêem_V que_KS ele_PROPESS derrote_V Quércia_NPROP ._END
+Mas_KC vêem_V na_PREP+ART jogada_N uma_ART forma_N de_PREP ele_PROPESS aumentar_V seu_PROADJ cacife_N no_PREP+ART futuro_ADJ governo_N ._END
+Seja_V ele_PROPESS de_PREP quem_PROSUB for_V ._END
+O_ART clima_N é_V muito_ADV tenso_ADJ no_PREP+ART PFL_NPROP ._END
+Seus_PROADJ líderes_N quebram_V a_ART cabeça_N para_PREP encontrar_V meios_N eficazes_ADJ de_PREP pressionar_V o_ART PSDB_NPROP a_PREP decidir_V -se_PROPESS logo_ADV pela_PREP+ART coligação_N dando_V -lhes_PROPESS a_ART vaga_N de_PREP vice_N na_PREP+ART chapa_N presidencial_ADJ ._END
+Tentando_V pressionar_V o_ART PSDB_NPROP ,_PU ACM_NPROP volta_V a_PREP dizer_V que_KS "_PU abril_N trará_V novidades_N sobre_PREP candidaturas_N "_PU ._END
+Afirma_V que_KS não_ADV quer_V ser_V candidato_N ,_PU mas_KC ,_PU acrescenta_V que_KS ,_PU se_KS lançado_PCP à_PREP+ART Presidência_NPROP pelo_PREP+ART partido_N ,_PU tem_V certeza_N de_PREP chegar_V logo_ADV ao_PREP+ART 2º_ADJ lugar_N ._END
+Publicará_V artigos_N em_PREP defesa_N do_PREP+ART liberal_ADJ socialismo_N do_PREP+ART italiano_N Carlo_NPROP Rosselli_NPROP ._END
+Tudo_PROSUB para_PREP se_PROPESS aproximar_V da_PREP+ART social_ADJ democracia_N tucana_ADJ ._END
+Enquanto_KS ainda_ADV sustenta_V ,_PU em_PREP Santa_NPROP Catarina_NPROP ,_PU sua_PROADJ candidatura_N ao_PREP+ART governo_N ,_PU Amin_NPROP sinaliza_V aos_PREP+ART caciques_N do_PREP+ART PPR_NPROP que_KS topa_V ser_V presidenciável_ADJ ._END
+Monta_V -se_PROPESS o_ART teatro_N para_PREP o_ART partido_N lhe_PROPESS fazer_V um_ART "_PU apelo_N "_PU para_PREP substituir_V Maluf_NPROP na_PREP+ART terça_N ._END
+Mesmo_PDEN se_KS ,_PU como_PREP tudo_PROSUB indica_V ,_PU Esperidião_NPROP Amin_NPROP virar_V o_ART candidato_N presidencial_ADJ do_PREP+ART PPR_NPROP ,_PU o_ART PFL_NPROP de_PREP Bornhausen_NPROP não_ADV deve_V ter_V esperanças_N de_PREP eleger_V o_ART governador_N de_PREP Santa_NPROP Catarina_NPROP ._END
+O_ART candidato_N de_PREP Amin_NPROP seria_V Paulo_NPROP Bauer_NPROP ._END
+Maluf_NPROP trabalha_V mesmo_PDEN com_PREP a_ART hipótese_N de_PREP coligação_N do_PREP+ART PPR_NPROP com_PREP o_ART PP_NPROP do_PREP+ART sindicalista_N Luiz_NPROP Antônio_NPROP de_NPROP Medeiros_NPROP para_PREP o_ART governo_N paulista_ADJ ._END
+Mas_KC o_ART empecilho_N é_V Minas_NPROP ._END
+Lá_ADV ,_PU não_ADV há_V acordo_N entre_PREP Abi-Ackel_NPROP (_PU PPR_NPROP )_PU e_KC Hélio_NPROP Costa_NPROP (_PU )_PU ._END
+O_ART novo_ADJ ministro_N gosta_V de_PREP se_PROPESS recolher_V cedo_ADV ,_PU por_PREP volta_PREP das_PREP+PROPESS 23h_N ._END
+Pode_V vir_V a_PREP trabalhar_V até_PREP mais_ADV tarde_ADV ,_PU mas_KC nunca_ADV fora_PREP de_PREP casa_N ._END
+A_ART tendência_N é_V puxada_PCP pelos_PREP+ART candidatos_N à_PREP+ART Câmara_NPROP ,_PU interessados_PCP numa_PREP+ART associação_N com_PREP os_ART candidatos_N do_PREP+ART PMDB_NPROP aos_PREP+ART governos_N estaduais_ADJ ._END
+O_ART PP_NPROP decidirá_V até_PREP dia_N 13_N se_KS lança_V candidato_N presidencial_ADJ ._END
+Tudo_PROSUB depende_V de_PREP entendimentos_N entre_PREP Álvaro_NPROP Dias_NPROP e_KC José_NPROP Richa_NPROP (_PU PSDB_NPROP )_PU ._END
+Da_PREP+ART conversa_N pode_V sair_V a_ART aliança_N com_PREP FHC_NPROP para_PREP presidente_N e_KC Dias_NPROP para_PREP o_ART governo_N do_PREP+ART Paraná_NPROP ._END
+Amarrada_PCP à_PREP+ART campanha_N para_PREP fazer_V de_PREP Hélio_NPROP Garcia_NPROP o_ART vice_N de_PREP FHC_NPROP ,_PU naufragou_V junto_ADV tentativa_N de_PREP acordo_N para_PREP a_ART sucessão_N mineira_ADJ ._END
+Amigos_N de_PREP Itamar_NPROP queriam_V que_KS o_ART governador_N apoiasse_V Hélio_NPROP Costa_NPROP ,_PU do_PREP+ART PP_NPROP ._END
+Hélio_NPROP Garcia_NPROP prometeu_V a_PREP Ricupero_NPROP que_KS estará_V na_PREP+ART sua_PROADJ posse_N ,_PU terça_N ._END
+O_ART mesmo_PROSUB acontecerá_V com_PREP os_ART candidatos_N à_PREP+ART vice_N de_PREP FHC_NPROP ._END
+A_PREP saber_V :_PU Luís_NPROP Eduardo_NPROP Magalhães_NPROP ,_PU Gustavo_NPROP Krause_NPROP e_KC Marco_NPROP Maciel_NPROP ._END
+Ricupero_NPROP tinha_V mais_ADV do_KS que_KS amenidades_N para_PREP falar_V com_PREP o_ART secretário_N de_PREP Orçamento_N ,_PU Murilo_NPROP Portugal_NPROP ,_PU no_PREP+ART jantar_N de_PREP ontem_ADV ._END
+O_ART cardápio_N incluía_V a_ART greve_N dos_PREP+ART funcionários_N da_PREP+ART SOF_NPROP ,_PU que_PRO-KS paralisou_V a_ART elaboração_N do_PREP+ART novo_ADJ Orçamento_N ._END
+Piada_N do_PREP+ART dia_N em_PREP Brasília_NPROP :_PU "_PU por_PREP que_PROADJ Itamar_NPROP tentou_V influir_V na_PREP+ART escolha_N do_PREP+ART vice_N de_PREP FHC_NPROP e_KC não_ADV na_PREP+ART cabeça_N de_PREP chapa_N ?_PU
+Síndrome_N de_PREP vice_N ._END
+Do_PREP+ART líder_N do_PREP+ART PMDB_NPROP no_PREP+ART Senado_NPROP ,_PU Mauro_NPROP Benevides_NPROP (_PU CE_NPROP )_PU ,_PU sobre_PREP a_ART declaração_N de_PREP Luiz_NPROP Henrique_NPROP (_PU SC_NPROP )_PU de_PREP que_KS deixará_V a_ART presidência_N do_PREP+ART PMDB_NPROP se_KS Quércia_NPROP for_V o_ART candidato_N presidencial_ADJ do_PREP+ART partido_N :_PU -_PU Ele_PROPESS entregaria_V o_ART partido_N a_PREP um_ART estado_N de_PREP acefalia_N com_PREP efeitos_N desastrosos_ADJ para_PREP os_ART candidatos_N a_PREP cargos_N majoritários_ADJ e_KC proporcionais_ADJ do_PREP+ART PMDB_NPROP ._END
+Prefeito_N afirma_V que_KS "_PU não_ADV está_V morto_ADJ "_PU ._END
+"_PU coisa_N é_V fazer_V uma_ART pesquisa_N comigo_PREP+PROPESS morto_ADJ ._END
+Comigo_PREP+PROPESS vivo_ADJ é_V outra_PROADJ coisa_N "_PU ,_PU afirmou_V ._END
+Trata_V -se_PROPESS de_PREP um_ART aviso_N para_PREP desestimular_V a_ART disputa_N por_PREP seu_PROADJ espólio_N eleitoral_ADJ ._END
+Maluf_NPROP defende_V a_ART candidatura_N própria_ADJ do_PREP+ART PPR_NPROP ._END
+Paulo_NPROP Maluf_NPROP Não_ADV existe_V espólio_N eleitoral_ADJ ._END
+Vamos_V ter_V candidato_N próprio_ADJ e_KC uma_ART coisa_N é_V fazer_V uma_ART pesquisa_N comigo_PREP+PROPESS morto_ADJ ._END
+Comigo_PREP+PROPESS vivo_N é_V outra_PROADJ coisa_N ._END
+Tenho_V capacidade_N de_PREP transferência_N e_KC o_ART nosso_PROADJ candidato_N vai_V ser_V beneficiado_PCP por_PREP isso_PROSUB ._END
+Maluf_NPROP Existe_V ._END
+Nosso_PROADJ candidato_N ,_PU que_PRO-KS pode_V ser_V Esperidião_NPROP Amin_NPROP ou_KC Jarbas_NPROP Passarinho_NPROP ,_PU vai_V para_PREP o_ART segundo_ADJ turno_N ._END
+Então_ADV não_ADV existe_V possibilidade_N de_PREP conversa_N com_PREP o_ART PSDB_NPROP ?_PU
+Por_PREP que_PROSUB não_ADV saiu_V o_ART acordo_N com_PREP o_ART PFL_NPROP ?_PU
+Tinha_V um_ART encontro_N marcado_PCP com_PREP o_ART Jorge_NPROP Bornhausen_NPROP às_PREP+ART 17h_N de_PREP domingo_N para_PREP discutir_V o_ART assunto_N ,_PU mas_KC na_PREP+ART manhã_N daquele_PREP+PROADJ dia_N li_V uma_ART entrevista_N dele_PREP+PROPESS na_PREP+ART Folha_NPROP anunciando_V que_KS a_ART aliança_N não_ADV era_V possível_ADJ ._END
+O_ART Sr._N não_ADV recebeu_V então_ADV a_ART comunicação_N formal_ADJ sobre_PREP a_ART preferência_N do_PREP+ART PFL_NPROP pelo_PREP+ART PSDB_NPROP ?_PU
+Tenho_V endereço_N conhecido_PCP e_KC o_ART Bornhausen_NPROP não_ADV me_PROPESS procurou_V ._END
+Mas_KC acho_V que_KS ele_PROPESS foi_V descortês_ADJ ao_PREP dar_V a_ART resposta_N à_PREP+ART Folha_NPROP antes_PREP de_PREP se_PROPESS comunicar_V comigo_PREP+PROPESS ._END
+Quem_PROSUB vai_V conduzir_V a_ART discussão_N no_PREP+ART PPR_NPROP sobre_PREP a_ART sucessão_N ?_PU
+Mas_KC é_V bom_ADJ dizer_V que_KS na_PREP+ART reunião_N de_PREP Brasília_NPROP ,_PU terça-feira_N ,_PU houve_V unanimidade_N pela_PREP+ART candidatura_N própria_ADJ e_KC estamos_V trabalhando_V para_PREP isso_PROSUB ._END
+O_ART PPR_NPROP e_KC ,_PU particularmente_ADV ,_PU o_ART prefeito_N Paulo_NPROP Maluf_NPROP ,_PU não_ADV se_PROPESS conformaram_V ainda_ADV com_PREP a_ART quase_ADV certa_PROADJ aliança_N entre_PREP PSDB_NPROP e_KC o_ART PFL_NPROP em_PREP torno_PREP da_PREP+ART candidatura_N presidencial_ADJ de_PREP Fernando_NPROP Henrique_NPROP Cardoso_NPROP ._END
+Maluf_NPROP tem_V deixado_PCP claro_ADJ aos_PREP+ART seus_PROADJ correlionários_N que_KS não_ADV admite_V a_ART hipótese_N de_PREP ,_PU até_PDEN pelo_PREP+ART não_N lançamento_N de_PREP uma_ART candidatura_N própria_ADJ ,_PU o_ART PPR_NPROP ajude_V indiretamente_ADV o_ART candidato_N tucano_ADJ a_PREP chegar_V ao_PREP+ART segundo_ADJ turno_N ._END
+A_ART irritação_N de_PREP Maluf_NPROP é_V maior_ADJ com_PREP o_ART PFL_NPROP e_KC o_ART presidente_N daquela_PREP+PROADJ legenda_N ,_PU Jorge_NPROP Bornhausen_NPROP ._END
+A_ART falta_N da_PREP+ART coligação_N com_PREP os_ART pefelistas_N foi_V a_ART pá_N de_PREP cal_N no_PREP+ART sonho_N presidencial_ADJ de_PREP Maluf_NPROP ,_PU do_KS que_KS as_ART pesquisas_N que_PRO-KS apontaram_V a_ART objeção_N do_PREP+ART eleitorado_N malufista_ADJ à_PREP+ART saída_N do_PREP+ART seu_PROADJ líder_N da_PREP+ART prefeitura_N ._END
+O_ART senador_N Esperidião_NPROP Amin_NPROP (_PU SC_NPROP )_PU ,_PU presidente_N nacional_ADJ do_PREP+ART PPR_NPROP e_KC um_PROSUB dos_PREP+ART nomes_N lançados_PCP por_PREP Maluf_NPROP para_PREP concorrer_V ao_PREP+ART Planalto_N pelo_PREP+ART partido_N ,_PU confirmou_V ontem_ADV que_KS o_ART PSDB_NPROP está_V fora_PREP do_PREP+ART arco_N de_PREP alianças_N do_PREP+ART malufismo_N ._END
+A_ART outra_PROADJ hipótese_N ,_PU defendida_PCP por_PREP Maluf_NPROP ,_PU é_V o_ART lançamento_N de_PREP uma_ART candidatura_N própria_PROADJ ._END
+Durante_PREP a_ART semana_N ,_PU Fernando_NPROP Henrique_NPROP telefonou_V três_NUM vezes_N para_PREP Maluf_NPROP ,_PU mas_KC não_ADV conseguiu_V falar_V com_PREP o_ART prefeito_N ._END
+Mas_KC Maluf_NPROP faz_V objeções_N à_PREP+ART candidatura_N FHC_NPROP ._END
+Depois_PREP de_PREP já_ADV ter_V perdido_PCP o_ART apoio_N de_PREP setores_N empresariais_ADJ conservadores_ADJ que_PRO-KS agora_ADV apostam_V no_PREP+ART PSDB_NPROP ,_PU acha_V que_KS o_ART PPR_NPROP não_ADV pode_V se_PROPESS diluir_V na_PREP+ART frente_N que_PRO-KS está_V sendo_V arquitetada_PCP ._END
+O_ART perigo_N vislumbrado_PCP por_PREP Maluf_NPROP é_V que_KS a_ART quase_ADV unanimidade_N conservadora_ADJ em_PREP torno_PREP de_PREP FHC_NPROP marginalize_V sua_PROADJ liderança_N e_KC solape_V sua_PROADJ base_N de_PREP apoio_N para_PREP disputas_N futuras_ADJ ._END
+Daí_PREP+ADV ,_PU a_ART tentativa_N de_PREP minar_V o_ART palanque_N que_PRO-KS está_V sendo_V construído_PCP para_PREP o_ART candidato_N tucano_ADJ ._END
+Amin_NPROP conversará_V na_PREP+ART próxima_ADJ semana_N com_PREP dirigentes_N de_PREP PFL_NPROP ,_PU PP_NPROP ,_PU PTB_NPROP e_KC PL_NPROP ,_PU ainda_ADV buscando_V um_ART nome_N comum_ADJ para_PREP disputar_V a_ART eleição_N ._END
+O_ART diálogo_N com_PREP o_ART PFL_NPROP ,_PU principalmente_ADV ,_PU é_V encarado_PCP com_PREP ceticismo_N pelas_PREP+ART relações_N tensas_ADJ entre_PREP Maluf_NPROP e_KC Bornhausen_NPROP ._END
+Mesmo_PDEN assim_PDEN ,_PU Amin_NPROP ainda_ADV tem_V esperanças_N de_PREP conseguir_V articular_V uma_ART outra_PROADJ frente_N para_PREP disputar_V com_PREP FHC_NPROP e_KC Luiz_NPROP Inácio_NPROP Lula_NPROP da_NPROP Silva_NPROP ._END
+"_PU A_ART candidatura_N do_PREP+ART Fernando_NPROP Henrique_NPROP depende_V de_PREP circunstâncias_N de_PREP governo_N e_KC o_ART quadro_N não_ADV é_V definitivo_ADJ "_PU ,_PU acha_V o_ART senador_N catarinense_ADJ ._END
+O_PROSUB que_PROSUB é_V definitivo_ADJ é_V que_KS o_ART PPR_NPROP vai_V preservar_V seus_PROADJ votos_N em_PREP coligação_N ou_KC sozinho_ADJ "_PU ,_PU disse_V Amin_NPROP ._END
+A_ART militância_N havia_V colocado_PCP uma_ART faixa_N (_PU "_PU PT_NPROP :_PU Não_ADV à_PREP+ART aliança_N com_PREP Wilma_NPROP ,_PU que_PRO-KS significa_V corrupção_N "_PU )_PU contra_PREP uma_ART possível_ADJ aproximação_N do_PREP+ART partido_N com_PREP a_ART ex-prefeita_N Wilma_NPROP Maria_NPROP de_NPROP Faria_NPROP ,_PU presidente_N estadual_ADJ do_PREP+ART PSB_NPROP ._END
+A_ART faixa_N ,_PU que_PRO-KS estava_V em_PREP frente_PREP ao_PREP+ART palanque_N onde_ADV-KS Lula_NPROP discursava_V ,_PU foi_V retirada_PCP a_PREP pedido_N de_PREP Lula_NPROP ._END
+Ex-Arena_ADJ ,_PU Ex-pDS_ADJ e_KC Ex-pDT_ADJ ,_PU Wilma_NPROP Maria_NPROP foi_V indicada_PCP pelo_PREP+ART seu_PROADJ partido_N para_PREP disputar_V o_ART governo_N estadual_ADJ ._END
+No_PREP+ART ato_N público_ADJ ,_PU que_PRO-KS reuniu_V cerca_PREP de_PREP 10_NUM mil_NUM pessoas_N ,_PU segundo_KS os_ART organizadores_N (_PU a_ART PM_NPROP não_ADV fez_V avaliação_N )_PU ,_PU Lula_NPROP mencionou_V Deus_NPROP duas_NUM vezes_N para_PREP mostrar_V a_PREP setores_N do_PREP+ART partido_N que_KS sem_PREP alianças_N não_ADV é_V possível_ADJ se_PROPESS ganhar_V uma_ART eleição_N ._END
+"_PU Deus_NPROP lavou_V os_ART pés_N dos_PREP+ART apóstolos_N em_PREP sinal_N de_PREP humildade_N porque_KS nós_PROPESS não_ADV aprendemos_V a_PREP ser_V mais_ADV generosos_ADJ ,_PU compreensivos_ADJ ._END
+Nós_PROPESS não_ADV vamos_V construir_V uma_ART sociedade_N com_PREP ódio_N ,_PU mas_KC com_PREP amor_N "_PU ,_PU disse_V ._END
+Com_PREP a_ART voz_N rouca_ADJ e_KC gritando_V ,_PU Lula_NPROP disse_V que_KS Deus_NPROP está_V dando_V uma_ART oportunidade_N para_PREP "_PU a_ART gente_N vencer_V "_PU e_KC que_KS alguns_PROADJ setores_N poderiam_V colocar_V tudo_PROSUB a_PREP perder_V ._END
+"_PU Eu_PROPESS não_ADV quero_V entrar_V para_PREP a_ART história_N como_PREP um_ART candidato_N que_PRO-KS compete_V ,_PU compete_V Eu_PROPESS quero_V ganhar_V ._END
+Lula_NPROP disse_V em_PREP Natal_NPROP que_KS espera_V no_PREP+ART decorrer_N da_PREP+ART campanha_N atrair_V para_PREP o_ART seu_PROADJ lado_N políticos_N do_PREP+ART PSDB_NPROP descontentes_ADJ com_PREP eventual_ADJ aproximação_N de_PREP Fernando_NPROP Henrique_NPROP Cardoso_NPROP com_PREP o_ART PFL_NPROP e_KC a_PREP Febraban_NPROP e_KC Fiesp_NPROP ,_PU que_PRO-KS classificou_V como_PREP setores_N mais_ADV ._END
+Lula_NPROP almoçou_V anteontem_ADV com_PREP o_ART prefeito_N de_PREP Natal_NPROP ,_PU Aldo_NPROP Tinoco_NPROP Filho_NPROP (_PU PSDB_NPROP )_PU ,_PU que_PRO-KS ainda_ADV no_PREP+ART primeiro_ADJ turno_N poderá_V apoiar_V o_ART petista_N ._END
+Sem_PREP citar_V nomes_N ,_PU Lula_NPROP disse_V que_KS alguns_PROADJ tucanos_N avaliam_V com_PREP preocupação_N a_ART possível_ADJ aliança_N ._END
+No_PREP+ART momento_N ,_PU Lula_NPROP está_V preocupado_PCP com_PREP as_ART alianças_N que_PRO-KS o_ART partido_N vem_V fazendo_V nos_PREP+ART Estados_N ._END
+Ontem_ADV ,_PU Lula_NPROP descansou_V em_PREP Natal_NPROP ._END
+No_PREP+ART fim_N da_PREP+ART tarde_N ,_PU Lula_NPROP foi_V para_PREP São_NPROP Paulo_NPROP ._END
+"_PU Quero_V contribuir_V para_PREP o_ART avanço_N da_PREP+ART consciência_N de_PREP cidadão_N ,_PU lutando_V pela_PREP+ART democratização_N das_PREP+ART instituições_N políticas_ADJ brasileiras_ADJ a_PREP partir_PREP da_PREP+ART ampliação_N da_PREP+ART representação_N popular_ADJ ._END
+A_ART tradição_N do_PREP+ART parlamentar_N brasileiro_ADJ é_V a_PROSUB de_PREP ser_V um_ART despachante_N do_PREP+ART seu_PROADJ eleitorado_N ,_PU o_PRO-KS qual_PRO-KS mantém_V com_PREP seu_PROADJ eleitor_N uma_ART relação_N clientelista_ADJ ._END
+Com_PREP Lula_NPROP lá_ADV e_KC Zé_NPROP Dirceu_NPROP no_PREP+ART governo_N do_PREP+ART Estado_N de_PREP São_NPROP Paulo_NPROP esta_PROADJ relação_N tradicional_ADJ deverá_V ser_V quebrada_PCP e_KC substituída_PCP pela_PREP+ART relação_N igualitária_ADJ dos_PREP+ART cidadãos_N e_KC de_PREP seus_PROADJ representantes_N nos_PREP+ART governos_N ._END
+Compromisso_N de_PREP quem_PRO-KS participa_V desde_PREP a_ART sua_PROADJ juventude_N das_PREP+ART lutas_N das_PREP+ART classes_N populares_ADJ e_KC das_PREP+ART forças_N democráticas_ADJ da_PREP+ART sociedade_N brasileira_ADJ e_KC que_PRO-KS ,_PU face_N à_PREP+ART grave_ADJ conjuntura_N social_ADJ e_KC econômica_ADJ ,_PU concorre_V pela_PREP+ART primeira_ADJ vez_N a_PREP uma_ART função_N parlamentar_ADJ ._END
+Cesar_NPROP Nascimento_NPROP ,_PU 46_NUM ,_PU sociólogo_N ,_PU pequeno_ADJ empresário_N e_KC professor_N da_PREP+ART Escola_NPROP de_NPROP Sociologia_NPROP e_NPROP Política_NPROP de_NPROP São_NPROP Paulo_NPROP ,_PU é_V candidato_N pelo_PREP+ART PT_NPROP SP_NPROP ._END
+O_ART ex-ministro_N Fernando_NPROP Henrique_NPROP Cardoso_NPROP disse_V ontem_ADV que_KS vai_V continuar_V opinando_V sobre_PREP o_ART plano_N de_PREP estabilização_N econômica_ADJ que_PRO-KS ele_PROPESS deixou_V de_PREP comandar_V para_PREP ser_V candidato_N a_PREP presidente_N ._END
+Reafirmou_V que_KS aceita_V alianças_N e_KC que_KS não_ADV teme_V ser_V considerado_PCP de_PREP "_PU direita_N "_PU só_PDEN porque_KS admite_V subir_V no_PREP+ART mesmo_PROADJ palanque_N com_PREP Antônio_NPROP Carlos_NPROP Magalhães_NPROP ._END
+"_PU vai_V poder_V dizer_V que_KS eu_PROPESS sou_V de_PREP direita_N ,_PU porque_KS eu_PROPESS não_ADV sou_V ._END
+Em_PREP entrevista_N à_PREP+ART Folha_NPROP ,_PU ontem_ADV ,_PU em_PREP sua_PROADJ fazenda_N Córrego_NPROP da_NPROP Ponte_NPROP ,_PU em_PREP Unaí_NPROP (_PU MG_NPROP )_PU ,_PU comarca_N de_PREP Buritis_NPROP ,_PU FHC_NPROP disse_V que_KS o_ART plano_N é_V o_ART seu_PROADJ programa_N de_PREP governo_N ._END
+"_PU Todo_PROSUB mundo_PROSUB sabe_V que_KS o_ART plano_N é_V meu_PROSUB ._END
+Vou_V continuar_V opinando_V ._END
+O_ART Sr._N já_ADV tem_V um_ART programa_N de_PREP governo_N ?_PU
+O_ART programa_N é_V o_ART plano_N e_KC vamos_V sustentar_V isso_PROSUB até_PREP o_ART fim_N ._END
+No_PREP+ART segundo_ADJ semestre_N a_ART economia_N estará_V estabilizada_PCP ._END
+Não_ADV tenho_V dúvidas_N disso_PREP+PROSUB ._END
+As_ART coisas_N já_ADV mudaram_V muito_ADV ._END
+O_ART Sr._N vai_V continuar_V interferindo_V na_PREP+ART condução_N do_PREP+ART programa_N econômico_ADJ ?_PU
+Interferindo_V ,_PU não_ADV ._END
+Mas_KC sustentando_V o_ART plano_N diante_PREP da_PREP+ART sociedade_N ,_PU isso_PROSUB sim_ADV ._END
+Mas_KC o_ART Sr._N pretende_V continuar_V mantendo_V contato_N com_PREP a_ART equipe_N econômica_ADJ ?_PU
+a_PREP pedido_N dele_PREP+PROPESS ._END
+Há_V quem_PRO-KS entenda_V que_KS isso_PROSUB não_ADV seria_V muito_ADV ético_ADJ ,_PU uma_KS vez_KS que_KS o_ART Sr._N é_V um_ART candidato_N ._END
+Conversa_N fiada_PCP ._END
+Todo_PROSUB mundo_PROSUB sabe_V que_KS o_ART plano_N é_V meu_PROSUB ,_PU foi_V feito_PCP por_PREP mim_PROPESS ._END
+Mas_KC a_ART responsabilidade_N dos_PREP+ART atos_N não_ADV é_V mais_ADV minha_PROSUB ._END
+A_ART sustentação_N do_PREP+ART programa_N ,_PU sim_ADV ._END
+O_ART Sr._N pensa_V mesmo_PDEN fazer_V alianças_N com_PREP PFL_NPROP e_KC PPR_NPROP ?_PU
+O_ART PSDB_NPROP é_V que_KS encaminha_V isso_PROSUB ._END
+Por_PREP que_PROADJ você_PROPESS faz_V aliança_N ?_PU
+No_PREP+ART nosso_PROADJ sistema_N ,_PU de_PREP dois_NUM turnos_N ,_PU todos_PROSUB vão_V fazer_V aliança_N ._END
+A_ART grande_ADJ aliança_N é_V do_PREP+ART eleitor_N ._END
+Não_ADV é_V a_ART cúpula_N decide_V ._END
+Você_PROPESS só_PDEN tem_V uma_ART conversa_N com_PREP quem_PRO-KS é_V desigual_ADJ ._END
+é_V igual_ADJ não_ADV precisa_V de_PREP aliança_N ._END
+Pega_V o_ART PT_NPROP ,_PU que_PRO-KS está_V fazendo_V aliança_N com_PREP o_ART PC_NPROP do_NPROP B_NPROP ,_PU um_ART partido_N atrasadíssimo_ADJ ,_PU que_PRO-KS é_V favorável_ADJ à_PREP+ART ditadura_N ._END
+Por_PREP que_PROSUB faz_V aliança_N ?_PU
+É_V por_PREP que_PRO-KS precisa_V do_PREP+ART voto_N ._END
+O_ART sr._N alianças_N com_PREP o_ART PPR_NPROP ,_PU com_PREP o_ART PFL_NPROP ._END
+Com_PREP eles_PROPESS e_KC também_PDEN com_PREP o_ART PDT_NPROP ,_PU PP_NPROP ,_PU PT_NPROP ._END
+Pode_V ser_V com_PREP o_ART PT_NPROP ._END
+De_ADV repente_ADV no_PREP+ART segundo_ADJ turno_N não_ADV entra_V o_ART Lula_NPROP ou_KC não_ADV entro_V eu_PROPESS ._END
+Será_V que_KS o_ART eleitor_N do_PREP+ART PSDB_NPROP vai_V aceitar_V o_ART Sr._N subindo_V no_PREP+ART mesmo_PROADJ palanque_N do_PREP+ART ACM_NPROP ?_PU
+Eu_PROPESS já_ADV subi_V ao_PREP+ART palanque_N ao_PREP lado_PREP do_PREP+ART Antônio_NPROP Carlos_NPROP Magalhães_NPROP ,_PU do_PREP+ART Tancredo_NPROP Neves_NPROP ,_PU do_PREP+ART Lula_NPROP ,_PU de_PREP todo_PROSUB mundo_PROSUB ._END
+Isso_PROSUB tudo_PROADJ é_V levar_V uma_ART discussão_N que_PRO-KS não_ADV é_V real_ADJ ._END
+Qual_PROSUB é_V a_PREP real_N ?_PU
+Qual_PROSUB é_V o_ART programa_N ,_PU quem_PRO-KS são_V as_ART pessoas_N em_PREP quem_PRO-KS se_PROPESS confia_V e_KC com_PREP vai_V governar_V ._END
+Eu_PROPESS tenho_V biografia_N ,_PU eu_PROPESS tenho_V história_N ._END
+Ninguém_PROSUB vai_V poder_V dizer_V que_KS eu_PROPESS sou_V de_PREP direita_N ,_PU porque_KS eu_PROPESS não_ADV sou_V ._END
+Quem_PROSUB vai_V financiar_V sua_PROADJ campanha_N ?_PU
+Ainda_ADV não_ADV sei_V ._END
+Isso_PROSUB ainda_ADV está_V sendo_V discutido_PCP ._END
+Sim_ADV ._END
+Desde_KS que_KS seja_V declarado_PCP ,_PU tudo_IN bem_IN ._END
+Joaquim_NPROP Nabuco_NPROP (_PU 1849-1910_N )_PU foi_V um_PROSUB dos_PREP+ART principais_ADJ líderes_N da_PREP+ART campanha_N pela_PREP+ART abolição_N da_PREP+ART escravidão_N ._END
+Descendente_ADJ de_PREP uma_ART tradicional_ADJ família_N de_PREP senhores_N de_PREP engenho_N de_PREP Pernambuco_NPROP ,_PU Nabuco_NPROP formou_V -se_PROPESS em_PREP direito_N no_PREP+ART Recife_NPROP ._END
+Ingressou_V no_PREP+ART Partido_NPROP Liberal_NPROP ,_PU ao_PREP+PRO-KS qual_PRO-KS pertencera_V seu_PROADJ pai_N (_PU senador_N Nabuco_NPROP de_NPROP Araújo_NPROP )_PU ._END
+Defendia_V o_ART fim_N da_PREP+ART escravidão_N ,_PU o_ART direito_N de_PREP voto_N aos_PREP+ART analfabetos_N e_KC as_ART eleições_N diretas_ADJ ._END
+Eleito_PCP várias_PROADJ vezes_N deputado_N provincial_ADJ por_PREP Pernambuco_NPROP nos_PREP+ART anos_N 80_N ,_PU foi_V também_PDEN um_PROSUB dos_PREP+ART fundadores_N da_PREP+ART Sociedade_NPROP Brasileira_NPROP contra_NPROP a_NPROP Escravidão_NPROP e_KC da_PREP+ART Academia_NPROP Brasileira_NPROP de_NPROP Letras_NPROP ._END
+Monarquista_N ,_PU Nabuco_NPROP afastou_V -se_PROPESS temporariamente_ADV da_PREP+ART política_N com_PREP a_ART proclamação_N da_PREP+ART República_N ._END
+Na_PREP+ART governo_N do_PREP+ART presidente_N Campos_NPROP Salles_NPROP ,_PU porém_KC ,_PU aceitou_V diversas_PROADJ missões_N diplomáticas_ADJ ._END
+Tornou_V -se_PROPESS ministro_N plenipotenciário_ADJ em_PREP Londres_NPROP e_KC ,_PU mais_ADV tarde_ADV ,_PU foi_V nomeado_PCP embaixador_N nos_PREP+ART Estados_NPROP Unidos_NPROP ._END
+No_PREP+ART final_N da_PREP+ART vida_N ,_PU sofreu_V uma_ART profunda_ADJ crise_N religiosa_ADJ ,_PU que_PRO-KS o_PROPESS levou_V ao_PREP+ART catolicismo_N tradicional_ADJ de_PREP que_PRO-KS se_PROPESS afastara_V quando_KS jovem_ADJ ._END
+Morreu_V em_PREP Washington_NPROP em_PREP 1910_N ._END
+Em_PREP reportagem_N publicada_PCP em_PREP novembro_N de_PREP 1993_N ,_PU a_ART revista_N "_PU IstoÉ_NPROP "_PU afirmava_V que_KS o_ART ex-ministro_N da_PREP+ART Fazenda_NPROP ,_PU Fernando_NPROP Henrique_NPROP Cardoso_NPROP ,_PU praticou_V delito_N fiscal_ADJ ao_PREP comprar_V com_PREP subfaturamento_N a_PREP Fazenda_NPROP Pontes_NPROP ,_PU no_PREP+ART município_N de_PREP Buritis_NPROP ,_PU noroeste_N de_PREP Minas_NPROP ._END
+No_PREP+ART dia_N seguinte_ADJ à_PREP+ART publicação_N da_PREP+ART reportagem_N ,_PU o_ART ministro_N convocou_V uma_ART entrevista_N coletiva_ADJ para_PREP explicar_V o_ART caso_N ._END
+Negou_V o_ART subfaturamento_N ,_PU qualificou_V de_PREP "_PU uma_ART pouca_PROADJ vergonha_N "_PU as_ART alegações_N da_PREP+ART revista_N e_KC distribuiu_V um_ART comunicado_N oficial_ADJ à_PREP+ART imprensa_N ._END
+Nele_PREP+PROPESS ,_PU disse_V que_KS usou_V na_PREP+ART época_N US$_CUR 25_NUM mil_NUM "_PU completados_PCP por_PREP outros_PROSUB tantos_PROADJ pagos_PCP pelo_PREP+ART senhor_N Sergio_NPROP Motta_NPROP "_PU para_PREP comprar_V a_ART fazenda_N e_KC que_KS a_ART transação_N foi_V feita_PCP por_PREP meio_PREP de_PREP contrato_N particular_ADJ com_PREP o_ART pagamento_N dividido_PCP em_PREP quatro_NUM prestações_N sem_PREP juros_N e_KC sem_PREP correção_N ._END
+De_PREP acordo_PREP com_PREP a_ART reportagem_N ,_PU o_ART registro_N da_PREP+ART transação_N da_PREP+ART compra_N da_PREP+ART fazenda_N ,_PU realizado_PCP no_PREP+ART cartório_N de_PREP imóveis_N de_PREP Unaí_NPROP ,_PU a_PREP 156_NUM km_N de_PREP Buritis_NPROP ,_PU mostra_V que_KS Fernando_NPROP Henrique_NPROP ,_PU então_ADV senador_N ,_PU e_KC o_ART seu_PROADJ sócio_N Sergio_NPROP Motta_NPROP ,_PU ex-diretor_N de_PREP Eletropaulo_NPROP e_KC hoje_ADV secretário-geral_N do_PREP+ART PSDB_NPROP ,_PU compraram_V a_ART fazenda_N por_PREP NCz$_NPROP 6.000,00_N (_PU seis_NUM mil_NUM cruzados_N novos_N )_PU em_PREP 1989_N ,_PU equivalente_ADJ a_PREP cerca_PREP de_PREP US$_CUR 2_NUM mil_NUM na_PREP+ART época_N ._END
+O_ART restante_N ,_PU segundo_PREP a_ART revista_N ,_PU foi_V pago_PCP "_PU por_ADV fora_ADV "_PU ._END
+A_ART propriedade_N pertencia_V ao_PREP+ART agricultor_N gaúcho_ADJ Cesar_NPROP Pedro_NPROP Hartmann_NPROP ._END
+Ainda_ADV segundo_PREP a_ART revista_N ,_PU em_PREP 21_N de_PREP junho_N de_PREP 1991_N ,_PU Fernando_NPROP Henrique_NPROP e_KC Sergio_NPROP Motta_NPROP transferiram_V a_ART fazenda_N para_PREP a_ART Agropecuária_NPROP Córrego_NPROP da_NPROP Ponte_NPROP Ltda_NPROP ._END
+A_ART transação_N teria_V sido_PCP registrada_PCP por_PREP um_ART valor_N equivalente_ADJ a_PREP US$_CUR 20_NUM ._END
+A_ART era_N cristã_ADJ começou_V quatro_NUM ou_KC cinco_NUM anos_N após_PREP o_ART nascimento_N de_PREP Jesus_NPROP Cristo_NPROP ,_PU nos_PREP+ART últimos_ADJ tempos_N do_PREP+ART reinado_N de_PREP Herodes_NPROP ,_PU o_ART Grande_N (_PU 73_N AC_N 4_N AC_N )_PU ._END
+Esse_PROADJ dado_N comprova_V que_KS a_ART cronologia_N é_V um_ART detalhe_N pouco_ADV confiável_ADJ nas_PREP+ART narrativas_N dos_PREP+ART quatro_NUM evangelistas_N -_PU São_NPROP Mateus_NPROP ,_PU São_NPROP Marcos_NPROP ,_PU São_NPROP Lucas_NPROP e_KC São_NPROP João_NPROP ,_PU que_PRO-KS relatam_V os_ART principais_ADJ episódios_N da_PREP+ART vida_N de_PREP Cristo_NPROP ._END
+A_ART Semana_NPROP Santa_NPROP relembra_V os_ART últimos_ADJ dias_N de_PREP Cristo_NPROP na_PREP+ART terra_N ,_PU mas_KC ninguém_PROSUB deve_V se_PROPESS perguntar_V se_KS a_ART Última_NPROP Ceia_NPROP ocorreu_V na_PREP+ART quinta-feira_N ou_KC se_KS a_ART se_PROPESS deu_V mesmo_PDEN na_PREP+ART sexta-feira_N ._END
+É_V provável_ADJ que_KS haja_V alguma_PROADJ coincidência_N ,_PU já_KS que_KS os_ART judeus_N adotavam_V períodos_N de_PREP sete_NUM dias_N ,_PU associando_V -os_PROPESS às_PREP+ART fases_N da_PREP+ART criação_N do_PREP+ART mundo_N ._END
+Mais_KS que_KS a_ART cronologia_N ,_PU importa_V a_ART constatação_N de_PREP que_KS o_ART período_N repassa_V cada_PROADJ uma_PROSUB das_PREP+ART razões_N que_PRO-KS fizeram_V do_PREP+ART cristianismo_N a_ART principal_ADJ religião_N existente_ADJ ,_PU com_PREP mais_PREP de_PREP 1,5_NUM bilhão_N de_PREP adeptos_N ._END
+O_ART Domingo_NPROP de_NPROP Ramos_NPROP lembra_V a_ART entrada_N triunfal_ADJ de_PREP Cristo_NPROP em_PREP Jerusalém_NPROP ,_PU montado_PCP num_PREP+ART burrinho_N ,_PU para_PREP celebrar_V a_ART Páscoa_NPROP -_PU a_ART Páscoa_NPROP judaica_ADJ ,_PU o_ART "_PU Pesahh_NPROP "_PU ._END
+Os_ART dias_N seguintes_ADJ ,_PU segunda_N ,_PU terça_N e_KC quarta-feiras_N ,_PU preparam_V a_ART Quinta-Feira_NPROP Santa_NPROP ,_PU dia_N que_PRO-KS rememora_V a_ART cerimônia_N em_PREP que_PRO-KS Cristo_NPROP lava_V os_ART pés_N dos_PREP+ART discípulos_N ,_PU a_ART Última_NPROP Ceia_NPROP e_KC a_ART Eucaristia_NPROP ._END
+Na_PREP+ART Sexta-Feira_NPROP Santa_NPROP ,_PU lembra_V -se_PROPESS sobretudo_ADV a_ART morte_N de_PREP Cristo_NPROP ,_PU que_PRO-KS teria_V ocorrido_PCP ,_PU segundo_PREP São_NPROP João_NPROP ,_PU na_PREP+ART véspera_N do_PREP+ART sábado_N ,_PU dia_N sagrado_PCP para_PREP os_ART judeus_N ._END
+No_PREP+ART sábado_N ,_PU dia_N intermediário_ADJ ,_PU pensa_V -se_PROPESS na_PREP+ART Paixão_NPROP e_KC se_PROPESS aguarda_V a_ART Ressurreição_NPROP ,_PU no_PREP+ART dia_N seguinte_ADJ -_PU e_KC ,_PU popularmente_ADV ,_PU malha_V -se_PROPESS o_ART discípulo_N traidor_ADJ ,_PU Judas_NPROP ._END
+A_ART Páscoa_NPROP ,_PU com_PREP ou_KC sem_PREP os_ART coelhos_N e_KC ovos_N que_PRO-KS remetem_V às_PREP+ART festas_N pagãs_ADJ pela_PREP+ART passagem_N do_PREP+ART inverno_N para_PREP a_ART primavera_N ,_PU ou_KC da_PREP+ART esterilidade_N para_PREP a_ART fecundidade_N ,_PU lembra_V que_KS Cristo_NPROP ressuscitou_V e_KC que_KS é_V um_ART instante_N de_PREP alegria_N ._END
+O_ART novo_ADJ ministro_N da_PREP+ART Fazenda_NPROP ,_PU Rubens_NPROP Ricupero_NPROP ,_PU 57_NUM ,_PU quebrou_V ontem_ADV um_ART hábito_N religioso_ADJ de_PREP mais_PREP de_PREP 40_NUM anos_N :_PU não_ADV fez_V jejum_N completo_ADJ na_PREP+ART Sexta-Feira_NPROP Santa_NPROP ._END
+Ele_PROPESS se_PROPESS absteve_V de_PREP carnes_N e_KC de_PREP alimentos_N quentes_ADJ ,_PU mas_KC comeu_V frutas_N ._END
+Ricupero_NPROP fez_V essa_PROADJ concessão_N para_PREP não_ADV prejudicar_V seu_PROADJ ritmo_N de_PREP trabalho_N ,_PU na_PREP+ART preparação_N para_PREP assumir_V um_PROSUB dos_PREP+ART ministérios_N mais_ADV importantes_ADJ da_PREP+ART República_N ._END
+A_ART religiosidade_N de_PREP Ricupero_NPROP começou_V cedo_ADV ._END
+Em_PREP seus_PROADJ tempos_N de_PREP adolescente_N no_PREP+ART Brás_NPROP (_PU bairro_N da_PREP+ART região_N central_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ,_PU na_PREP+ART década_N de_PREP 50_N ,_PU pertencia_V à_PREP+ART Congregação_NPROP Mariana_NPROP ,_PU grupo_N leigo_ADJ de_PREP fiéis_N da_PREP+ART Igreja_N dedicado_PCP à_PREP+ART adoração_N da_PREP+ART Virgem_NPROP Maria_NPROP ._END
+Foi_PDEN na_PREP+ART congregação_N que_PDEN conheceu_V sua_PROADJ mulher_N ,_PU Marisa_NPROP Parolari_NPROP ._END
+Começaram_V a_PREP namorar_V na_PREP+ART Quinta-Feira_NPROP Santa_NPROP de_PREP 1959_N ._END
+Ricupero_NPROP é_V hoje_ADV um_PROSUB dos_PREP+ART fiéis_N mais_ADV assíduos_ADJ do_PREP+ART Mosteiro_NPROP de_NPROP São_NPROP Bento_NPROP ,_PU em_PREP Brasília_NPROP ._END
+Por_PREP sua_PROADJ perseverança_N ,_PU os_ART freis_N beneditinos_ADJ estão_V prestes_ADJ a_PREP conceder_V a_PREP Ricupero_NPROP o_ART título_N de_PREP oblato_N ._END
+O_ART oblato_N é_V um_ART leigo_N que_PRO-KS se_PROPESS oferece_V para_PREP ajudar_V a_ART ordem_N religiosa_ADJ ._END
+Pode_V fazer_V serviços_N práticos_ADJ ._END

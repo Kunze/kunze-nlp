@@ -1,0 +1,1011 @@
+﻿Duas_NUM pessoas_N morreram_V ontem_ADV à_PREP+ART tarde_N afogadas_PCP no_PREP+ART rio_N Tietê_NPROP ._END
+Elas_PROPESS estavam_V na_PREP+ART cabine_N de_PREP uma_ART carreta_N que_PRO-KS caiu_V dentro_PREP do_PREP+ART rio_N ,_PU por_PREP volta_PREP das_PREP+ART 15h45_N ,_PU perto_PREP da_PREP+ART ponte_N Limão_NPROP ._END
+Até_PREP às_PREP+ART 17h_N ,_PU a_ART polícia_N não_ADV sabia_V os_ART nomes_N dos_PREP+ART mortos_N uma_ART criança_N e_KC um_ART adulto_N ._END
+Outras_PROADJ duas_NUM pessoas_N ,_PU que_PRO-KS viajavam_V na_PREP+ART carroceria_N ,_PU foram_V salvas_PCP pelo_PREP+ART Corpo_NPROP de_NPROP Bombeiros_NPROP ._END
+O_ART caminhão_N afundou_V no_PREP+ART rio_N ._END
+O_ART caminhão_N vinha_V trafegando_V pela_PREP+ART pista_N da_PREP+ART marginal_N Tietê_NPROP ,_PU no_PREP+ART sentido_N Lapa-Penha_NPROP ,_PU quando_KS caiu_V no_PREP+ART rio_N ._END
+A_ART causa_N do_PREP+ART acidente_N era_V desconhecida_PCP até_PREP às_PREP+ART 17h_N de_PREP ontem_ADV ._END
+O_ART acidente_N provocou_V um_ART congestionamento_N de_PREP seis_NUM quilômetros_N na_PREP+ART marginal_N ,_PU por_PREP volta_PREP das_PREP+ART 15h_N ,_PU no_PREP+ART sentido_N Lapa-Penha_NPROP ._END
+O_ART trânsito_N também_PDEN estava_V lento_ADJ no_PREP+ART sentido_N oposto_PCP ._END
+O_ART motoboy_N (_PU motoqueiro_N que_PRO-KS transporta_V documentos_N )_PU Silvio_NPROP de_NPROP Oliveira_NPROP Carolino_NPROP ,_PU 21_NUM ,_PU perdeu_V o_ART controle_N da_PREP+ART motocicleta_N e_KC bateu_V na_PREP+ART lateral_N de_PREP um_ART ônibus_N de_PREP turismo_N ._END
+O_ART acidente_N ocorreu_V na_PREP+ART pista_N local_ADJ da_PREP+ART marginal_N ,_PU próximo_PREP ao_PREP+ART Shopping_NPROP Center_NPROP Eldorado_NPROP ._END
+A_ART leitora_N Jane_NPROP Tome_NPROP da_NPROP Luz_NPROP ,_PU residente_N na_PREP+ART rua_N Joaquim_NPROP Ferreira_NPROP da_NPROP Rocha_NPROP ,_PU na_PREP+ART Vila_NPROP Brasilândia_NPROP ,_PU faz_V uma_ART reclamação_N a_PREP respeito_PREP do_PREP+ART Plano_NPROP de_NPROP Expansão_NPROP da_NPROP Telesp_NPROP ._END
+"_PU Em_PREP fevereiro_N de_PREP 88_N adquiri_V o_ART plano_N e_KC um_NUM ano_N depois_ADV pedi_V a_ART transferência_N do_PREP+ART mesmo_PROSUB para_PREP a_ART capital_N ._END
+Aguardei_V a_ART instalação_N até_PREP julho_N de_PREP 92_N ,_PU quando_ADV-KS fui_V informada_PCP de_PREP que_KS o_ART plano_N não_ADV estava_V em_PREP meu_PROADJ nome_N "_PU ,_PU conta_V Jane_NPROP ._END
+Ela_PROPESS diz_V ter_V sido_PCP avisada_PCP pela_PREP+ART Telesp_NPROP de_PREP que_KS seu_PROADJ plano_N fora_V vendido_PCP ._END
+"_PU Levei_V um_ART susto_N ._END
+Depois_ADV provei_V que_KS minha_PROADJ assinatura_N tinha_V sido_PCP falsificada_PCP ._END
+de_PREP acordo_PREP com_PREP Carlos_NPROP Roberto_NPROP Inaba_NPROP ,_PU da_PREP+ART Divisão_NPROP de_NPROP Imprensa_NPROP da_NPROP Telesp_NPROP ,_PU a_ART linha_N telefônica_ADJ já_ADV retornou_V para_PREP a_ART reclamante_N -_PU depois_PREP de_PREP constatada_PCP a_ART falsificação_N de_PREP -_PU e_KC está_V funcionando_V ._END
+Cartas_N para_PREP "_PU A_NPROP cidade_NPROP é_NPROP sua_NPROP /_PU Via_PREP São_NPROP Paulo_NPROP "_PU devem_V ser_V enviadas_PCP para_PREP a_PREP secretaria_N de_PREP Redação_N (_PU Àrea_N administrativa_ADJ )_PU ,_PU na_PREP+ART al_N ._END
+Barão_NPROP de_NPROP Limeira_NPROP ,_PU 425_NUM ,_PU 3º_ADJ andar_N ,_PU Campos_NPROP Elíseos_NPROP ,_PU São_NPROP Paulo_NPROP (_PU SP_NPROP )_PU ,_PU Cep_N 01290-900_N ,_PU com_PREP nome_N completo_ADJ ,_PU CIC_N ,_PU RG_N ,_PU endereço_N e_KC telefone_N do_PREP+ART reclamante_N ._END
+A_ART Câmara_N Municipal_ADJ de_PREP São_NPROP Paulo_NPROP aprovou_V no_PREP+ART dia_N 21_N de_PREP junho_N projeto_N do_PREP+ART vereador_N Devanir_NPROP Ribeiro_NPROP (_PU PT_NPROP )_PU que_PRO-KS assegura_V aos_PREP+ART menores_N de_PREP 7_NUM anos_N o_ART acesso_N aos_PREP+ART cinemas_N ,_PU teatros_N e_KC espetáculos_N com_PREP o_ART pagamento_N apenas_PDEN da_PREP+ART metade_N do_PREP+ART preço_N ._END
+"_PU Não_ADV é_V justo_ADJ muitas_PROADJ vezes_N uma_ART criança_N no_PREP+ART colo_N pagar_V a_ART mesma_PROADJ coisa_N que_KS um_ART adulto_N "_PU ,_PU diz_V Ribeiro_NPROP ._END
+A_ART Organização_NPROP Mundial_NPROP da_NPROP Saúde_NPROP (_PU OMS_NPROP )_PU estima_V que_KS o_ART número_N de_PREP casos_N de_PREP Aids_N cresceu_V 60_NUM %_N no_PREP+ART mundo_N todo_PROADJ de_PREP 93_N até_PREP hoje_ADV ._END
+Hoje_ADV ,_PU segundo_PREP o_ART boletim_N semestral_ADJ da_PREP+ART entidade_N ,_PU 4_NUM milhões_N de_PREP pessoas_N estão_V com_PREP a_ART doença_N ._END
+Cerca_PREP de_PREP 16_NUM milhões_N de_PREP adultos_N e_KC um_NUM milhão_N de_PREP crianças_N são_V do_PREP+ART HIV_N ,_PU sem_PREP mantifestar_V a_ART doença_N ._END
+A_ART OMS_NPROP prevê_V que_KS a_ART epidemia_N vá_V atingir_V de_PREP 30_NUM milhões_N a_PREP 40_NUM milhões_N de_PREP pessoas_N até_PREP o_ART ano_N 2.000_N ._END
+A_ART organização_N calcula_V que_KS ,_PU naquele_PREP+PROADJ continente_N ,_PU o_ART número_N de_PREP casos_N estimados_PCP de_PREP Aids_N cresceu_V mais_PREP de_PREP 700_NUM %_N -_PU de_PREP 30_NUM mil_NUM em_PREP julho_N de_PREP 93_N para_PREP 250_NUM mil_NUM atualmente_ADV ._END
+"_PU Quem_PRO-KS precisava_V de_PREP provas_N de_PREP que_KS a_ART epidemia_N da_PREP+ART Aids_N já_ADV está_V estabelecida_PCP na_PREP+ART Ásia_NPROP não_ADV precisa_V mais_ADV procurar_V -las_PROPESS "_PU ,_PU disse_V Michael_NPROP Merson_NPROP ,_PU diretor_N executivo_ADJ do_PREP+ART Programa_NPROP Global_NPROP de_NPROP Aids_NPROP OMS_NPROP ._END
+Merson_NPROP disse_V "_PU preocupado_PCP com_PREP o_ART sério_N potencial_ADJ "_PU de_PREP disseminação_N da_PREP+ART doença_N na_PREP+ART China_NPROP ,_PU onde_ADV-KS apenas_PDEN 36_NUM casos_N foram_V oficialmente_ADV divulgados_PCP até_PREP dezembro_N último_ADJ ._END
+Na_PREP+ART região_N ao_PREP+ART sul_N do_PREP+ART Saara_NPROP ,_PU mais_PREP de_PREP 2,5_NUM milhões_N de_PREP pessoas_N desenvolveram_V sintomas_N da_PREP+ART doença_N ._END
+Michael_NPROP Merson_NPROP mostrou_V descrédito_N os_ART números_N oficiais_ADJ -_PU 985.119_NUM casos_N notificados_PCP em_PREP todo_PROADJ o_ART mundo_N desde_PREP o_ART surgimento_N da_PREP+ART epidemia_N ._END
+"_PU Não_ADV são_V levados_PCP em_PREP conta_N os_ART diagnósticos_N malfeitos_PCP ,_PU as_ART subnotificações_N e_KC as_ART notificações_N incompletas_ADJ ou_KC atrasadas_PCP "_PU ._END
+Curso_N de_PREP férias_N gratuito_ADJ visita_V pontos_N históricos_ADJ do_PREP+ART centro_N de_PREP São_NPROP Paulo_NPROP ._END
+Avaliação_N do_PREP+ART desempenho_N do_PREP+ART prefeito_N Maluf_NPROP piora_V após_PREP um_NUM ano_N e_KC meio_NUM de_PREP governo_N ._END
+Prefeitura_N de_PREP Jacareí_NPROP vai_V gastar_V Cr$_CUR 3,5_NUM bilhões_N de_PREP dívidas_N de_PREP desapropriações_N ._END
+PÁG_N ._END
+Operadoras_N da_PREP+ART série_N 900_N tentam_V reverter_V decisão_N da_PREP+ART Telesp_NPROP de_PREP acabar_V com_PREP o_ART serviço_N ._END
+Explorador_N francês_ADJ pede_V assinaturas_N para_PREP sua_PROADJ declaração_N de_PREP direitos_N ._END
+A_ART rodovia_N Régis_NPROP Bittencourt_NPROP (_PU Br-116_NPROP )_PU está_V com_PREP as_ART duas_NUM pistas_N interditadas_PCP no_PREP+ART 474_N ,_PU próximo_PREP à_PREP+ART cidade_N de_PREP Jacupiranga_NPROP (_PU 205_NUM km_N a_PREP sudoeste_N de_PREP São_NPROP Paulo_NPROP )_PU ._END
+O_ART trânsito_N está_V sendo_V desviado_PCP pelos_PREP+ART acostamentos_N da_PREP+ART pista_N ,_PU devido_PREP ao_PREP+ART rompimento_N de_PREP um_ART cano_N que_PRO-KS passa_V sob_PREP a_ART rodovia_N ._END
+O_ART acidente_N aconteceu_V na_PREP+ART madrugada_N do_PREP+ART último_ADJ sábado_N ._END
+A_ART ruptura_N da_PREP+ART tubulação_N de_PREP água_N provocou_V erosão_N no_PREP+ART terreno_N e_KC abriu_V um_ART buraco_N na_PREP+ART pista_N ._END
+O_ART local_N fica_V a_PREP cerca_PREP de_PREP 60_NUM km_N da_PREP+ART fronteira_N com_PREP o_ART Paraná_NPROP ._END
+Foram_V as_ART rachaduras_N na_PREP+ART área_N em_PREP volta_PREP do_PREP+ART buraco_N que_PRO-KS provocaram_V a_ART interdição_N das_PREP+ART duas_NUM pistas_N ._END
+As_ART obras_N de_PREP recuperação_N começaram_V no_PREP+ART domingo_N ._END
+de_PREP acordo_PREP com_PREP o_ART inspetor_N Deusdedit_NPROP Ottoni_NPROP Valero_NPROP ,_PU 42_NUM ,_PU do_PREP+ART Der_NPROP ,_PU até_PREP o_ART próximo_ADJ domingo_N o_ART trecho_N estará_V com_PREP o_ART tráfego_N normalizado_PCP ._END
+A_ART Polícia_NPROP Rodoviária_NPROP disse_V que_KS durante_PREP a_ART semana_N não_ADV houve_V congestionamentos_N ._END
+Sua_PROADJ previsão_N é_V de_PREP que_KS ,_PU mesmo_PDEN com_PREP os_ART carros_N passando_V só_PDEN pelo_PREP+ART acostamento_N ,_PU não_ADV haverá_V engarrafamentos_N ._END
+No_PREP+ART sentido_N inverso_ADJ ,_PU o_ART desvio_N pode_V ser_V feito_PCP na_PREP+ART cidade_N de_PREP Jacupiranga_NPROP ,_PU com_PREP o_ART motorista_N seguindo_V para_PREP Pariquera-Açu_NPROP e_KC depois_ADV retornando_V à_PREP+ART Br-116_NPROP ._END
+Segundo_PREP a_ART Polícia_NPROP Rodoviária_NPROP Federal_NPROP ,_PU esse_PROADJ desvio_N aumenta_V em_PREP cerca_PREP de_PREP 25_NUM quilômetros_N o_ART trajeto_N ._END
+A_ART estrada_N é_V estreita_ADJ e_KC há_V poucos_PROADJ pontos_N de_PREP ultrapassagem_N ._END
+Se_KS chover_V ,_PU a_ART previsão_N cai_V para_PREP menos_PREP de_PREP 150_NUM mil_NUM carros_N ._END
+A_ART Operação_N Descida_NPROP será_V iniciada_PCP às_PREP+ART 17h_N de_PREP hoje_ADV ._END
+Até_PREP às_PREP+ART 15h_N de_PREP amanhã_ADV ,_PU a_ART descida_N o_ART litoral_N será_V feita_PCP pela_PREP+ART Imigrantes_NPROP e_KC por_PREP uma_ART pista_N da_PREP+ART via_N Anchieta_NPROP ._END
+A_PREP partir_PREP deste_PREP+PROADJ horário_N ,_PU o_ART sistema_N volta_V a_PREP operar_V normalmente_ADV ._END
+A_ART Operação_N Descida_NPROP volta_V a_PREP vigorar_V entre_PREP às_PREP+ART 17h_N de_PREP sexta-feira_N e_KC 12h_N de_PREP sábado_N ._END
+Na_PREP+ART rodovia_N dos_PREP+ART Tamoios_NPROP (_PU São_NPROP José-Caraguatatuba_NPROP )_PU ,_PU na_PREP+ART SP_NPROP 123_NPROP (_PU )_PU e_KC na_PREP+ART (_PU )_PU ,_PU a_ART Operação_N Corpus_NPROP Christi_NPROP vai_V das_PREP+ART 12h_N de_PREP hoje_ADV às_PREP+ART 12h_N de_PREP segunda_N ._END
+Uma_ART frente_N fria_ADJ associada_PCP a_PREP uma_ART área_N de_PREP instabilidade_N com_PREP chuvas_N ,_PU proveniente_ADJ da_PREP+ART região_N do_PREP+ART país_N ,_PU deve_V atingir_V São_NPROP Paulo_NPROP hoje_ADV ._END
+As_ART regiões_N mais_ADV afetadas_PCP devem_V ser_V a_ART capital_N e_KC o_ART litoral_N do_PREP+ART Estado_N ,_PU com_PREP aumento_N da_PREP+ART nebulosidade_N e_KC possibilidade_N de_PREP chuvas_N à_PREP+ART noite_N ._END
+Segundo_PREP a_ART meteorologista_N Neide_NPROP de_NPROP Oliveira_NPROP ,_PU chefe_N da_PREP+ART Seção_NPROP de_NPROP Previsão_NPROP do_NPROP Tempo_NPROP do_PREP+ART 7º_ADJ Distrito_NPROP de_NPROP Meteorologia_NPROP ,_PU a_ART previsão_N é_V de_PREP que_KS o_ART tempo_N melhore_V a_PREP partir_PREP de_PREP sexta-feira_N ._END
+Com_PREP a_ART passagem_N da_PREP+ART frente_N fria_ADJ e_KC das_PREP+ART nuvens_N carregadas_PCP de_PREP chuva_N em_PREP direção_PREP ao_PREP+ART Rio_NPROP ,_PU prevê_V -se_PROPESS que_KS o_ART fim-de-semana_N ,_PU na_PREP+ART capital_N e_KC no_PREP+ART litoral_N de_PREP São_NPROP Paulo_NPROP ,_PU será_V de_PREP sol_N com_PREP pouca_PROADJ nebulosidade_N ._END
+Dois_NUM eventos_N movimentam_V a_PREP partir_PREP de_PREP amanhã_ADV o_ART feriado_N de_PREP Corpus_NPROP Christi_NPROP em_PREP Campos_NPROP do_NPROP Jordão_NPROP -_PU o_ART 8º_ADJ Festival_NPROP de_NPROP Dança_NPROP da_PREP+ART cidade_N e_KC a_ART 5ª_ADJ Festa_NPROP das_NPROP Nações_NPROP ._END
+O_ART Festival_NPROP de_NPROP Dança_NPROP acontece_V no_PREP+ART auditório_N Cláudio_NPROP Santoro_NPROP ,_PU a_PREP partir_PREP das_PREP+ART 20h_N ,_PU e_KC no_PREP+ART domingo_N às_PREP+ART 16h_N ._END
+A_ART entrada_N é_V franca_ADJ ._END
+O_ART dia_N 4_N (_PU sábado_N )_PU é_V o_ART único_N que_PRO-KS tem_V apresentação_N paga_PCP ._END
+Os_ART ingressos_N para_PREP o_ART espetáculo_N "_PU Paulistânia_NPROP "_PU ,_PU do_PREP+ART Ballet_NPROP Stagium_NPROP ,_PU custam_V Cr$_CUR 6.000_NUM ._END
+A_ART Festa_NPROP das_NPROP Nações_NPROP ,_PU no_PREP+ART Parque_NPROP Capivari_NPROP ,_PU oferece_V música_N ,_PU danças_N e_KC comidas_N típicas_ADJ de_PREP 20_NUM países_N ._END
+A_ART Polícia_NPROP Rodoviária_NPROP Federal_NPROP prevê_V que_KS 200_NUM mil_NUM carros_N devem_V passar_V pela_PREP+ART via_N Dutra_NPROP de_PREP hoje_ADV até_PREP segunda-feira_N de_PREP manhã_ADV ._END
+As_ART polícia_NPROP rodoviária_NPROP inicia_V hoje_ADV nas_PREP+ART estradas_N da_PREP+ART região_N a_PREP Operação_N Corpus_NPROP Christi_NPROP ._END
+Na_PREP+ART via_N Dutra_NPROP ,_PU a_ART operação_N acontece_V das_PREP+ART 8h_N de_PREP hoje_ADV às_PREP+ART 8h_N de_PREP segunda_N ._END
+Os_ART supermercados_N ,_PU bancos_N e_KC o_ART comércio_N em_PREP Belo_NPROP Horizonte_NPROP (_PU MG_NPROP )_PU não_ADV funcionam_V amanhã_ADV ._END
+Apenas_PDEN o_ART mercado_N central_ADJ vai_V trabalhar_V até_PREP às_PREP+ART 12h_N ._END
+As_ART farmácias_N abrem_V em_PREP regime_N de_PREP plantão_N ._END
+Os_ART postos_N de_PREP combustível_N terão_V funcionamento_N facultativo_ADJ ._END
+Na_PREP+ART sexta-feira_N e_KC sábado_N ,_PU o_ART funcionamento_N do_PREP+ART comércio_N e_KC supermercados_N será_V normal_ADJ ._END
+Os_ART bancos_N abrem_V na_PREP+ART sexta-feira_N ._END
+Os_ART estabelecimentos_N comerciais_ADJ de_PREP Porto_NPROP Alegre_NPROP (_PU RS_NPROP )_PU fecharão_V amanhã_ADV ._END
+A_ART prefeitura_N da_PREP+ART capital_N gaúcha_ADJ anunciou_V que_KS as_ART feiras_N e_KC mercadões_N funcionarão_V amanhã_ADV ._END
+Os_ART serviços_N municipais_ADJ estarão_V fechados_PCP ._END
+Já_KC nas_PREP+ART repartições_N públicas_ADJ do_PREP+ART Estado_N ,_PU o_ART trabalho_N será_V normal_ADJ e_KC sexta_N ._END
+Nos_PREP+ART postos_N do_PREP+ART Inamps_NPROP só_PDEN funciona_V o_ART atendimento_N de_PREP emergência_N ._END
+Os_ART shoppings_N e_KC lojas_N de_PREP São_NPROP Paulo_NPROP abrirão_V no_PREP+ART próximo_ADJ domingo_N ,_PU de_PREP acordo_PREP com_PREP lei_N municipal_ADJ que_PRO-KS faculta_V a_ART abertura_N do_PREP+ART comércio_N nos_PREP+ART domingos_N anteriores_ADJ a_PREP datas_N comemorativas_ADJ (_PU 12_N de_PREP junho_N ,_PU Dia_NPROP dos_NPROP Namorados_NPROP )_PU ._END
+As_ART associações_N de_PREP comércio_N de_PREP São_NPROP Paulo_NPROP prevêem_V o_ART funcionamento_N de_PREP todos_PROADJ os_ART shoppings_N da_PREP+ART cidade_N e_KC de_PREP metade_N das_PREP+ART lojas_N de_PREP rua_N ._END
+Segundo_PREP o_ART Sindicato_NPROP dos_NPROP Lojistas_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU deverão_V abrir_V apenas_PDEN as_ART lojas_N situadas_PCP em_PREP bairros_N movimentados_PCP nos_PREP+ART fins-de-semana_N ,_PU como_PREP Pinheiros_NPROP ,_PU Jardins_NPROP ,_PU Santo_NPROP Amaro_NPROP e_KC parte_N da_PREP+ART Lapa_NPROP ._END
+Nos_PREP+ART shoppings_N ,_PU a_ART expectativa_N é_V de_PREP que_KS entre_PREP 80_NUM %_N e_KC 95_NUM %_N das_PREP+ART lojas_N abram_V o_ART funcionamento_N no_PREP+ART domingo_N será_V divulgado_PCP em_PREP anúncios_N em_PREP jornais_N e_KC televisão_N ._END
+Os_ART lojistas_N acreditam_V que_KS a_ART chegada_N do_PREP+ART frio_N favoreça_V as_ART vendas_N no_PREP+ART domingo_N -_PU o_ART comércio_N está_V abastecido_PCP com_PREP os_ART estoques_N de_PREP inverno_N ._END
+Nos_PREP+ART aeroportos_N ,_PU a_ART maior_ADJ procura_N é_V pelo_PREP+ART Sul_NPROP e_KC Nordeste_NPROP ,_PU com_PREP lista_N de_PREP espera_N para_PREP quem_PRO-KS quer_V viajar_V hoje_ADV ._END
+O_ART presidente_N do_PREP+ART Instituto_NPROP Nacional_NPROP de_NPROP Segurança_NPROP no_NPROP Trânsito_NPROP ,_PU Roberto_NPROP Scaringella_NPROP (_PU foto_N )_PU ,_PU foi_V premiado_PCP pelo_PREP+ART Centro_NPROP Internacional_NPROP de_NPROP Recursos_NPROP em_NPROP Segurança_NPROP Saúde_NPROP e_NPROP Meio_NPROP Ambiente_NPROP ,_PU por_PREP seu_PROADJ trabalho_N na_PREP+ART área_N de_PREP prevenção_N de_PREP acidentes_N ._END
+A_ART premiação_N acontecerá_V em_PREP San_NPROP Diego_NPROP (_PU EUA_NPROP )_PU ,_PU em_PREP outubro_N ._END
+O_ART golfinho_N Flipper_NPROP apareceu_V ontem_ADV pela_PREP+ART manhã_N na_PREP+ART praia_N do_PREP+ART Gonzaguinha_NPROP ,_PU em_PREP São_NPROP Vicente_NPROP (_PU SP_NPROP )_PU ,_PU a_PREP quatro_NUM quilômetros_N do_PREP+ART Oceanórium_NPROP onde_ADV-KS ficou_V confinado_PCP por_PREP oito_NUM anos_N ._END
+Milhares_N de_PREP pessoas_N foram_V à_PREP+ART praia_N para_PREP ver_V Flipper_NPROP ._END
+Ele_PROPESS permaneceu_V no_PREP+ART local_N das_PREP+ART 7h_N às_PREP+ART 11h30_N ._END
+A_ART Cetesb_NPROP (_PU Companhia_NPROP de_NPROP Tecnologia_NPROP de_NPROP Saneamento_NPROP Ambiental_NPROP )_PU multou_V ontem_ADV em_PREP Cr$_CUR 4.700_NUM o_ART Tebar_NPROP (_PU Terminal_NPROP Marítimo_NPROP Almirante_NPROP Barroso_NPROP )_PU ,_PU de_PREP São_NPROP Sebastião_NPROP ._END
+A_ART multa_N foi_V por_PREP não_ADV estocar_V adequadamente_ADV os_ART 240_NUM m3_N de_PREP areia_N poluída_PCP com_PREP óleo_N retirada_PCP das_PREP+ART praias_N de_PREP São_NPROP Sebastião_NPROP e_KC Ilhabela_NPROP (_PU SP_NPROP )_PU ._END
+Os_ART equipamentos_N foram_V furtados_PCP de_PREP uma_ART drogaria_N ._END
+Duas_NUM pessoas_N foram_V presas_PCP ._END
+O_ART Cruesp_NPROP (_PU Conselho_NPROP de_NPROP Reitores_NPROP das_NPROP Universidades_NPROP Estaduais_NPROP Paulistas_NPROP )_PU convocou_V ontem_ADV reunião_N de_PREP negociação_N hoje_ADV ,_PU às_PREP+ART 10h_N ,_PU com_PREP o_ART Fórum_NPROP das_NPROP Seis_NPROP (_PU entidades_N de_PREP professores_N e_KC funcionários_N da_PREP+ART USP_NPROP ,_PU Unesp_NPROP e_KC Unicamp_NPROP )_PU ._END
+O_ART Cruesp_NPROP havia_V suspendido_PCP as_ART negociações_N ,_PU enquanto_KS a_ART paralisação_N -_PU que_PRO-KS está_V no_PREP+ART 17º_ADJ dia_N continuasse_V ._END
+Nuno_NPROP Cobra_NPROP ,_PU preparador_N físico_ADJ de_PREP Ayrton_NPROP Senna_NPROP ,_PU dá_V sinais_N de_PREP que_KS está_V se_PROPESS refazendo_V da_PREP+ART morte_N do_PREP+ART pupilo_N ._END
+o_ART outro_PROADJ fim-de-semana_N ,_PU ele_PROPESS foi_V visto_PCP passeando_V sorridente_ADJ pela_PREP+ART praia_N de_PREP Camburi_NPROP ._END
+Acaba_V de_PREP ser_V lançada_PCP no_PREP+ART Brasil_NPROP "_PU Tudo_NPROP Sobre_NPROP Sexo_NPROP "_PU ,_PU versão_N tapuia_ADJ da_PREP+ART revista_N "_PU Luz_NPROP "_PU ,_PU sucesso_N na_PREP+ART Espanha_NPROP há_V 42_NUM anos_N ._END
+A_PREP julgar_V pelo_PREP+ART conteúdo_N ,_PU a_ART revista_N promete_V estourar_V a_ART boca_N do_PREP+ART balão_N ._END
+Sinta_V o_ART teor_N das_PREP+ART reportagens_N publicadas_PCP no_PREP+ART primeiro_ADJ número_N :_PU "_PU As_ART unhas_N têm_V sua_PROADJ linguagem_N "_PU ;_PU "_PU Pele_N com_PREP eczema_N atrai_V insetos_N "_PU e_KC "_PU Sonhar_V com_PREP avestruzes_N revoando_V por_PREP cima_PREP de_PREP sua_PROADJ cabeça_N significa_V satisfações_N e_KC amor_N "_PU ._END
+Recebo_V fax_N de_PREP Eduardo_NPROP Armando_NPROP ,_PU diretor_N comercial_ADJ da_PREP+ART Db_NPROP Brinquedos_NPROP ,_PU contestando_V nota_N dada_PCP nesta_PREP+PROADJ coluna_N na_PREP+ART semana_N passada_PCP ._END
+Segundo_PREP Armando_NPROP ,_PU no_PREP+ART momento_N a_ART Db_NPROP está_V comercializando_V apenas_PDEN a_ART pista_N Hot_NPROP Wheels_NPROP ,_PU sem_PREP os_ART carrinhos_N ,_PU por_KS que_KS a_ART Estrela_NPROP -_PU fabricante_N do_PREP+ART produto_N -_PU não_ADV tem_V abastecido_PCP as_ART lojas_N ._END
+Uma_ART minha_PROADJ comadre_N de_PREP 34_NUM anos_N acaba_V de_PREP comer_V o_ART pão_N que_PRO-KS o_ART diabo_N amassou_V ._END
+Durante_PREP três_NUM semanas_N ela_PROPESS agonizou_V em_PREP uma_ART cama_N do_PREP+ART Hospital_NPROP Sírio-Libanês_NPROP ,_PU acometida_PCP por_PREP uma_ART misteriosa_ADJ infecção_N nos_PREP+ART nervos_N ._END
+Injetaram_V -lhe_PROPESS gamaglobulina_N (_PU conta_V :_PU US$_CUR 10_NUM mil_NUM )_PU ,_PU morfina_N e_KC cotisona_N ,_PU enfiaram_V -na_PROPESS duas_NUM vezes_N naquele_PREP+PROADJ caustrofóbico_ADJ aparelho_N de_PREP ressonância_N magnética_ADJ ,_PU efetuaram_V três_NUM punções_N para_PREP extrair_V seu_PROADJ líquido_N cérebro-espinhal_ADJ ,_PU enfim_ADV ,_PU fizeram_V e_KC sapato_N a_PREP coitada_N ._END
+Só_PDEN não_ADV descobriram_V o_PRO-KS que_PRO-KS há_V de_PREP errado_N com_PREP ela_PROPESS e_KC o_PRO-KS que_PRO-KS fazer_V para_PREP restabelecer_V sua_PROADJ saúde_N ._END
+Para_PREP concluir_V o_ART pesadelo_N com_PREP ,_PU na_PREP+ART saída_N do_PREP+ART hospital_N o_ART neurologista_N apresentou_V à_PREP+ART família_N a_ART nota_N pelos_PREP+ART serviços_N prestados_PCP ._END
+Valor_N :_PU US$_CUR 5.000_NUM ._END
+Paga_V -se_PROPESS caro_ADJ para_PREP passar_V por_PREP porquinho-da_N índia_N nas_PREP+ART mãos_N de_PREP médicos_N cada_PROADJ vez_N mais_ADV impotentes_ADJ diante_PREP de_PREP doenças_N contagiosas_ADJ ._END
+Qualquer_PROADJ um_PROSUB que_PRO-KS tenha_V se_PROPESS tratado_PCP com_PREP um_ART dermatologista_N sabe_V muito_ADV bem_ADV do_PRO-KS que_PRO-KS eu_PROPESS estou_V falando_V ._END
+E_KC o_PROSUB que_PROSUB dizer_V da_PREP+ART "_PU bactéria_N assassina_ADJ recém-divulgada_ADJ nos_PREP+ART jornais_N ingleses_ADJ ,_PU o_ART estreptococo_N do_PREP+ART grupo_N A_N ,_PU que_PRO-KS destrói_V os_ART tecidos_N subcutâneos_ADJ à_PREP+ART velocidade_N de_PREP três_NUM centímetros_N por_PREP hora_N e_KC mata_V em_PREP menos_PREP de_PREP 24_NUM horas_N ?_PU
+Ninguém_PROSUB sabe_V explicar_V essa_PROADJ criaturinha_N de_PREP ,_PU uma_ART bacteriazinha_N das_PREP+ART mais_ADV rastaqueras_ADJ -_PU que_PRO-KS ,_PU na_PREP+ART maioria_N das_PREP+ART vezes_N ,_PU causa_V apenas_PDEN faringite_N e_KC febre_N reumática_N -_PU ,_PU adquiriu_V tamanho_ADJ poder_N ._END
+Já_ADV imaginou_V o_PRO-KS que_PRO-KS deve_V ser_V abotoar_V o_ART paletó_N com_PREP gangrena_N generalizada_PCP ?_PU
+A_ART pessoa_N simplesmente_ADV apodrece_V ,_PU bate_V as_ART botas_N consumida_PCP como_PREP um_NUM maracujá_N de_PREP gaveta_N ,_PU bafunta_N feito_KS uma_ART uva_N passa_N ,_PU perece_V como_PREP uma_ART manga_N chapada_PCP ._END
+Não_ADV tem_V tempo_N de_PREP ligar_V para_PREP se_PROPESS despedir_V dos_PREP+ART amigos_N ._END
+Já_ADV pensou_V ?_PU
+"_PU Alô_IN ?_PU
+Cai_V a_ART língua_N !_PU
+"_PU vai_V ?_PU
+"_PU e_KC vupt_IN !_PU
+Vão_V -se_PROPESS os_ART braços_N ,_PU os_ART dedos_N e_KC oa_ART anéis_N !_PU
+Quando_KS a_ART gente_N pensa_V que_KS não_ADV existe_V nada_PROSUB pior_ADJ do_KS que_KS os_ART militantes_N profissionais_ADJ que_PRO-KS organizam_V as_ART invasões_N dos_PREP+ART Sem-terra_N ,_PU surge_V um_ART novo_ADJ microorganismo_N para_PREP nos_PROPESS lembrar_V de_PREP que_KS nada_PROSUB ,_PU nada_PROSUB mesmo_PDEN ,_PU pode_V ser_V mais_ADV aterrorizante_ADJ do_KS que_KS a_ART ignorância_N da_PREP+ART medicina_N ._END
+É_V lamentável_ADJ a_ART constatação_N de_PREP que_KS o_ART estado_N de_PREP violência_N contra_PREP os_ART povos_N indígenas_ADJ não_ADV só_PDEN permanece_V ,_PU mas_KC foi_V agravado_PCP em_PREP diversas_PROADJ situações_N ._END
+As_ART causas_N são_V as_ART invasões_N das_PREP+ART terra_N indígenas_ADJ e_KC a_ART indefinição_N de_PREP seus_PROADJ limites_N ,_PU a_ART desassistência_N ,_PU a_ART impunidade_N e_KC a_ART omissão_N ._END
+Os_ART dados_N são_V referentes_N ao_PREP+ART ano_N de_PREP 93_N e_KC constam_V do_PREP+ART relatório_N do_PREP+ART Conselho_NPROP Indigenista_NPROP Missionário_NPROP (_PU Cimi_NPROP )_PU ,_PU órgão_N anexo_ADJ à_PREP+ART CNBB_NPROP (_PU Conferência_NPROP Nacional_NPROP dos_NPROP Bispos_NPROP do_NPROP Brasil_NPROP )_PU que_PRO-KS anualmente_ADV investiga_V o_ART quadro_N de_PREP violência_N contra_PREP os_ART povos_N indígenas_ADJ no_PREP+ART Brasil_NPROP ._END
+Este_PROADJ número_N é_V agravado_PCP pelo_PREP+ART genocídio_N praticado_PCP contra_PREP os_ART ianomâmis_N ._END
+Igualmente_ADV assustadores_ADJ são_V os_ART dados_N sobre_PREP as_ART tentativas_N de_PREP homicídio_N ,_PU com_PREP 11_NUM casos_N envolvendo_V 85_NUM índios_N ,_PU e_KC de_PREP ameaças_N de_PREP morte_N ,_PU com_PREP 14_NUM casos_N envolvendo_V 15_NUM povos_N ._END
+Nas_PREP+ART agressões_N contra_PREP o_ART patrimônio_N indígena_ADJ destaca_V -se_PROPESS o_ART furto_N de_PREP madeira_N ,_PU verificado_PCP em_PREP 26_NUM terras_N indígenas_ADJ ._END
+Destacam_V -se_PROPESS também_PDEN as_ART agressões_N praticadas_PCP por_PREP ação_N e_KC omissão_N do_PREP+ART poder_N público_ADJ :_PU o_ART envolvimento_N de_PREP policiais_N que_PRO-KS impunemente_ADV praticam_V espancamentos_N e_KC prisões_N ilegais_ADJ ;_PU as_ART doenças_N e_KC mortes_N por_PREP doenças_N ,_PU facilmente_ADV evitáveis_ADJ ,_PU que_PRO-KS causaram_V 124_NUM mortes_N entre_PREP 24_NUM povos_N ._END
+Dentro_PREP deste_PREP+PROADJ quadro_N são_V igualmente_ADV graves_ADJ a_ART fome_N ,_PU que_PRO-KS assola_V particularmente_ADV os_ART povos_N do_PREP+ART Nordeste_NPROP ,_PU e_KC os_ART suicídios_N ,_PU que_PRO-KS continuam_V ocorrendo_V em_PREP proporções_N alarmantes_ADJ ._END
+Pode_V -se_PROPESS estabelecer_V uma_ART íntima_ADJ relação_N entre_PREP a_ART violência_N praticada_PCP contra_PREP os_ART povos_N idígenas_ADJ com_PREP a_ART política_N adotada_PCP pelo_PREP+ART governo_N quanto_PREP ao_PREP+ART programa_N administrativo_ADJ de_PREP demarcação_N das_PREP+ART terras_N ,_PU à_PREP+ART desassistência_N e_KC à_PREP+ART omissão_N na_PREP+ART proteção_N desses_PREP+PROADJ povos_N ._END
+Durante_PREP o_ART ano_N de_PREP 93_N ,_PU quando_ADV-KS pela_PREP+ART Constituição_N ,_PU deveria_V ser_V concluída_PCP a_ART demarcação_N das_PREP+ART terras_N indígenas_ADJ ,_PU o_ART governo_N passou_V a_PREP adotar_V uma_ART política_N de_PREP negociação_N ._END
+No_PREP+ART diálogo_N com_PREP os_ART invasores_N das_PREP+ART áreas_N indígenas_ADJ ,_PU o_ART governo_N deu_V a_PREP entender_V que_KS tinha_V o_ART poder_N de_PREP aumentar_V ou_KC diminuir_V as_ART terras_N de_PREP acordo_PREP com_PREP as_ART conveniências_N políticas_ADJ ._END
+Isto_PROSUB possibilitou_V que_KS os_ART invasores_N se_PROPESS sentissem_V com_PREP direito_N sobre_PREP a_ART terra_N ,_PU com_PREP o_ART consequente_ADJ acirramento_N dos_PREP+ART conflitos_N ._END
+Francisco_NPROP Lobens_NPROP ,_PU 36_NUM ,_PU historiador_N ,_PU é_V secretário_N do_PREP+ART Conselho_NPROP Indigenista_NPROP Missionário_NPROP (_PU Cimi_NPROP )_PU ,_PU órgão_N anexo_ADJ à_PREP+ART CNBB_NPROP ._END
+O_ART prédio_N Força_NPROP e_NPROP Luz_NPROP ,_PU de_PREP propriedade_N da_PREP+ART CEEE_NPROP (_PU Companhia_NPROP Estadual_NPROP de_NPROP Energia_NPROP Elétrica_NPROP )_PU ,_PU foi_V tombado_PCP como_PREP patrimônio_N histórico_ADJ pelo_PREP+ART governo_N do_PREP+ART Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP ._END
+O_ART prédio_N ,_PU que_PRO-KS foi_V construído_PCP em_PREP 1926_N ,_PU localizado_PCP na_PREP+ART região_N central_ADJ de_PREP Porto_NPROP Alegre_NPROP ._END
+Começou_V ontem_ADV em_PREP Londrina_NPROP o_ART 7º_ADJ Festival_NPROP Internacional_NPROP de_NPROP Teatro_NPROP de_NPROP Londrina_NPROP ._END
+O_ART evento_N terá_V a_ART presença_N de_PREP grupos_N teatrais_ADJ de_PREP 19_NUM países_N -_PU entre_PREP eles_PROPESS Espanha_NPROP ,_PU França_NPROP ,_PU Colombia_NPROP e_KC Portugal_NPROP ._END
+A_ART promoção_N é_V da_PREP+ART Casa_NPROP de_NPROP Cultura_NPROP da_NPROP Universidade_NPROP Estadual_NPROP de_NPROP Londrina_NPROP ._END
+A_ART execução_N pode_V acarretar_V penhora_N do_PREP+ART imóvel_N ou_KC leilão_N ._END
+Segundo_PREP a_ART secretaria_N ,_PU 1_NUM %_N dos_PREP+ART proprietários_N estão_V inadimplentes_ADJ ._END
+A_ART Prefeitura_N de_PREP Jacareí_NPROP pagou_V ontem_ADV Cr$_CUR 361_NUM milhões_N de_PREP dívidas_N de_PREP desapropriações_N ._END
+Até_PREP o_ART final_N do_PREP+ART ano_N ,_PU mais_PROADJ Cr$_CUR 3,5_NUM bilhões_N terão_V que_KS ser_V pagos_PCP ._END
+Segundo_PREP a_ART prefeitura_N ,_PU o_ART dinheiro_N usado_PCP para_PREP o_ART pagamento_N da_PREP+ART dívida_N estava_V em_PREP aplicações_N financeiras_ADJ e_KC seria_V usado_PCP para_PREP o_ART pagamento_N do_PREP+ART 13º_ADJ sálario_N ._END
+O_ART secretário_N de_PREP Comunicação_N da_PREP+ART prefeitura_N ,_PU Ângelo_NPROP Ananias_NPROP ,_PU disse_V que_KS a_ART prefeitura_N está_V procurando_V uma_ART solução_N para_PREP diminuir_V as_ART dívidas_N ._END
+As_ART dívidas_N de_PREP desapropriações_N foram_V contraídas_PCP a_ART década_N de_PREP 70_N ._END
+No_PREP+ART total_N são_V 17_NUM processos_N de_PREP desapropriações_N ._END
+Ananias_NPROP disse_V que_KS o_ART pagamento_N pode_V prejudicar_V o_ART andamento_N das_PREP+ART obras_N da_PREP+ART prefeitura_N ._END
+Começa_V hoje_ADV em_PREP Ilhéus_NPROP o_ART 3º_ADJ Seminário_NPROP Nacional_NPROP de_NPROP Turismo_NPROP Ecológico_NPROP ._END
+Segundo_PREP os_ART organizadores_N ,_PU a_ART municipalização_N do_PREP+ART ecoturismo_N é_V a_ART principal_ADJ proposta_N ._END
+O_ART diretor_N da_PREP+ART Logic_NPROP -_PU empresa_N que_PRO-KS organiza_V o_ART seminário_N -_PU ,_PU Oscar_NPROP Vilas_NPROP Boas_NPROP ,_PU disse_V que_KS a_ART oportunidade_N de_PREP novos_ADJ negócios_N para_PREP as_ART prefeituras_N brasileiras_ADJ e_KC o_ART aumento_N das_PREP+ART cotas_N do_PREP+ART Fundo_NPROP de_NPROP Participação_NPROP para_PREP os_ART municípios_N turísticos_ADJ também_PDEN serão_V discutidos_PCP no_PREP+ART encontro_N ._END
+A_ART divisão_N de_PREP Vigilância_N Sanitária_ADJ do_PREP+ART Estado_N detectou_V 153_NUM casos_N de_PREP cólera_N este_PROADJ ano_N no_PREP+ART Estado_N ._END
+A_ART doença_N causou_V duas_NUM mortes_N ._END
+Os_ART municípios_N com_PREP maior_ADJ incidência_N são_V Laranjeira_NPROP ,_PU com_PREP 42_NUM casos_N ,_PU Itabaiana_NPROP ,_PU com_PREP 27_N ,_PU e_KC Nossa_NPROP Senhora_NPROP do_NPROP Socorro_NPROP ,_PU com_PREP 24_NUM casos_N ._END
+O_ART Ibama_NPROP apreendeu_V 300_NUM quilos_N de_PREP camarão_N pescados_PCP no_PREP+ART mar_N por_PREP embarcações_N de_PREP Alagoas_NPROP ._END
+A_ART pesca_N está_V proibida_PCP no_PREP+ART Estado_N o_ART dia_N 1º_N de_PREP maio_N ._END
+A_ART proibição_N vai_V continuar_V valendo_V até_PREP o_ART dia_N 19_N de_PREP junho_N ._END
+Os_ART camarões_N foram_V doados_PCP a_PREP instituições_N filantrópicas_ADJ ._END
+O_ART diretor_N da_PREP+ART Confederação_NPROP Nacional_NPROP da_NPROP Indústria_NPROP ,_PU Flávio_NPROP Dutra_NPROP ,_PU disse_V que_KS a_ART venda_N dos_PREP+ART produtos_N da_PREP+ART Zona_NPROP Franca_NPROP de_NPROP Manaus_NPROP teve_V aumento_N de_PREP 25,13_NUM %_N nos_PREP+ART primeiros_ADJ três_NUM meses_N de_PREP 94_N ._END
+No_PREP+ART mesmo_PROADJ período_N ,_PU a_ART indústria_N paulista_ADJ apresentou_V aumento_N de_PREP 3,8_NUM %_N ,_PU segundo_PREP a_ART CNI_NPROP ._END
+O_ART presidente_N da_PREP+ART Comissão_NPROP dos_NPROP Bairros_NPROP de_NPROP Belém_NPROP ,_PU João_NPROP Gomes_NPROP ,_PU defendeu_V que_KS o_ART governo_N do_PREP+ART Estado_N assuma_V parte_N dos_PREP+ART custos_N de_PREP construção_N de_PREP l7_NUM conjuntos_N habitacionais_ADJ invadidos_PCP ._END
+Segundo_PREP ele_PROPESS ,_PU a_ART ajuda_N do_PREP+ART Estado_N permitirá_V a_ART redução_N das_PREP+ART prestações_N aos_PREP+ART ocupantes_N ._END
+Gomes_NPROP afirmou_V que_KS o_ART apoio_N à_PREP+ART luta_N dos_PREP+ART invasores_N é_V necessária_ADJ por_PREP falta_N de_PREP uma_ART política_N habitacional_ADJ no_PREP+ART Estado_N para_PREP os_ART habitantes_N de_PREP baixa_ADJ renda_N ._END
+Mas_KC ele_PROPESS não_ADV concorda_V que_KS os_ART invasores_N sejam_V remanejados_PCP para_PREP áreas_N onde_ADV-KS possam_V construir_V suas_PROADJ casas_N em_PREP mutirão_N ._END
+A_ART Associação_NPROP Bauruense_NPROP de_NPROP Apoio_NPROP e_NPROP Assistência_NPROP ao_NPROP Renal_NPROP Crônico_NPROP inaugurou_V sua_PROADJ sede_N na_PREP+ART Vila_NPROP Quaggio_NPROP ,_PU em_PREP Bauru_NPROP ._END
+A_ART presidente_N da_PREP+ART entidade_N ,_PU Maria_NPROP Vieira_NPROP Cabestré_NPROP ,_PU disse_V que_KS a_ART sede_N está_V sendo_V construída_PCP com_PREP a_ART ajuda_N de_PREP doações_N de_PREP famílias_N de_PREP doentes_N renais_ADJ ._END
+O_ART Sindicato_NPROP dos_NPROP Bancários_NPROP conseguiu_V aprovar_V um_ART projeto_N na_PREP+ART Câmara_N Municipal_ADJ de_PREP Juiz_NPROP de_NPROP Fora_NPROP alterando_V o_ART horário_N de_PREP atendimento_N das_PREP+ART agências_N ._END
+Com_PREP o_ART novo_ADJ horário_N ,_PU o_ART sindicato_N acredita_V que_KS 4.000_NUM empregos_N serão_V criados_PCP ._END
+O_ART plenário_N da_PREP+ART Câmara_N de_PREP São_NPROP Vicente_NPROP pode_V se_PROPESS transformar_V em_PREP teatro_N ._END
+O_ART projeto_N nesse_PREP+PROADJ sentido_N ,_PU do_PREP+ART vereador_N Renato_NPROP Caruso_NPROP (_PU PT_NPROP )_PU ,_PU começou_V a_PREP ser_V votado_PCP ontem_ADV ._END
+No_PREP+ART auditório_N cabem_V 300_NUM pessoas_N e_KC as_ART sessões_N acontecem_V duas_NUM vezes_N por_PREP semana_N ._END
+A_ART cidade_N não_ADV tem_V teatro_N ._END
+A_ART Bienal_NPROP de_NPROP Artes_NPROP Plásticas_NPROP de_NPROP Santos_NPROP recebeu_V da_PREP+ART Associação_NPROP Paulista_NPROP dos_NPROP Críticos_NPROP de_NPROP Arte_NPROP o_ART prêmio_N de_PREP melhor_ADJ evento_N do_PREP+ART interior_N do_PREP+ART Estado_N ._END
+A_ART 4ª_ADJ Bienal_NPROP aconteceu_V em_PREP outubro_N de_PREP 93_N ._END
+Foram_V expostas_PCP 224_NUM obras_N de_PREP 93_NUM artistas_N ._END
+A_ART mostra_N foi_V vistada_PCP por_PREP 30_NUM mil_NUM pessoas_N ._END
+As_ART peças_N foram_V produzidas_PCP por_PREP artesãos_N de_PREP Campo_NPROP Grande_NPROP ,_PU Corumbá_NPROP e_KC Dourados_NPROP ,_PU e_KC pelos_PREP+ART índios_N Terena_N ,_PU de_PREP Miranda_NPROP e_KC Aquidauana_NPROP ,_PU e_KC Kadweo_NPROP ,_PU de_PREP Bodoquena_NPROP ._END
+O_ART Ministério_NPROP das_NPROP Minas_NPROP e_NPROP Energia_NPROP vai_V investir_V US$_CUR 29_NUM mil_NUM no_PREP+ART projeto_N ,_PU que_PRO-KS vai_V beneficiar_V cerca_PREP de_PREP 162_NUM pessoas_N ._END
+Cada_PROADJ quilo_N de_PREP alimento_N não_ADJ perecível_ADJ vale_V uma_ART muda_N de_PREP árvore_N ._END
+Os_ART alimentos_N serão_V destinados_PCP ao_PREP+ART "_PU Sopão_NPROP da_NPROP Solidariedade_NPROP "_PU ._END
+O_ART programa_N "_PU Sopão_NPROP da_NPROP Solidariedade_NPROP "_PU atende_V 18_NUM mil_NUM crianças_N da_PREP+ART periferia_N de_PREP Cuiabá_NPROP ._END
+Elas_PROPESS recebem_V duas_NUM refeições_N diárias_ADJ e_KC atendimento_N nas_PREP+ART áreas_N psicológica_ADJ ,_PU educacional_ADJ e_KC de_PREP saúde_N ._END
+O_ART programa_N conta_V com_PREP o_ART apoio_N de_PREP empresários_N ,_PU que_PRO-KS doam_V ingredientes_N usados_PCP na_PREP+ART sopa_N ._END
+A_ART atriz_N Maria_NPROP Ceiça_NPROP ,_PU a_ART Engrácia_NPROP da_PREP+ART novela_N "_PU Fera_NPROP Ferida_NPROP "_PU ,_PU da_PREP+ART Rede_NPROP Globo_NPROP ,_PU foi_V assaltada_PCP na_PREP+ART madrugada_N de_PREP ontem_ADV no_PREP+ART Méier_NPROP (_PU zona_N norte_ADJ do_PREP+ART Rio_NPROP )_PU ._END
+Por_PREP volta_PREP das_PREP+ART 0h30_N ,_PU a_ART atriz_N voltava_V do_PREP+ART ensaio_N da_PREP+ART peça_N "_PU Lamartine_NPROP 2_NPROP O_NPROP Resgate_NPROP -_PU "_PU ,_PU no_PREP+ART teatro_N Glauce_NPROP Rocha_NPROP (_PU centro_N )_PU ._END
+Já_KC no_PREP+ART Méier_NPROP ,_PU onde_ADV-KS mora_V ,_PU seu_PROADJ carro_N foi_V fechado_PCP por_PREP um_ART Escort_NPROP branco_ADJ com_PREP três_NUM ocupantes_N ._END
+Dois_NUM homens_N entraram_V em_PREP seu_PROADJ Monza_NPROP cinza_ADJ ,_PU ano_N 89_N (_PU placas_N LV-1299_N )_PU ,_PU e_KC começaram_V a_PREP rodar_V com_PREP a_ART atriz_N ._END
+"_PU Fiquei_V com_PREP muito_PROADJ medo_N de_PREP que_KS acontecesse_V o_ART pior_N enquanto_KS estive_V sequestrada_PCP ._END
+Eles_PROPESS logo_ADV a_PROPESS reconheceram_V ._END
+"_PU Disseram_V que_KS eu_PROPESS era_V e_KC deveria_V ter_V mais_PROADJ dinheiro_N encontraram_V na_PREP+ART bolsa_N "_PU ,_PU contou_V a_ART atriz_N ,_PU que_PRO-KS afirmou_V não_ADV se_PROPESS lembrar_V da_PREP+ART fisionomia_N dos_PREP+ART ladrões_N ._END
+Ao_PREP vasculhar_V sua_PROADJ carteira_N ,_PU os_ART ladrões_N encontraram_V um_ART cartão_N do_PREP+ART Banco_NPROP Nacional_NPROP e_KC a_PROPESS obrigaram_V a_PREP retirar_V Cr$_CUR 170_NUM mil_NUM de_PREP um_ART caixa_N 24_NUM horas_N na_PREP+ART rua_NPROP Dias_NPROP da_NPROP Cruz_NPROP (_PU Méier_NPROP )_PU ._END
+"_PU Eles_PROPESS falaram_V que_KS não_ADV iriam_V me_PROPESS fazer_V nada_PROSUB eu_PROPESS sou_V "_PU ,_PU afirmou_V Maria_NPROP Ceiça_NPROP ,_PU 35_NUM ._END
+Durante_PREP o_ART dia_N de_PREP ontem_ADV ,_PU ainda_ADV nervosa_ADJ ,_PU ela_PROPESS gravou_V cenas_N da_PREP+ART novela_N nos_PREP+ART estúdios_N da_PREP+ART Globo_NPROP ,_PU no_PREP+ART Jardim_NPROP Botânico_NPROP (_PU zona_N sul_ADJ )_PU ._END
+Segundo_PREP policiais_N ,_PU já_ADV ocorreram_V vários_PROADJ casos_N na_PREP+ART zona_N norte_ADJ de_PREP ladrões_N que_PRO-KS usam_V carros_N para_PREP fechar_V veículos_N e_KC assaltar_V os_ART motoristas_N ._END
+A_ART freira_N Catarina_NPROP Gabriel_NPROP Felipo_NPROP ,_PU 64_NUM ,_PU foi_V achada_PCP amordaçada_PCP e_KC amarrada_PCP a_ART cerca_N de_PREP um_ART canavial_N ontem_ADV de_PREP manhã_N em_PREP Cafelândia_NPROP (_PU 433_NUM km_N a_PREP noroeste_N de_PREP São_NPROP Paulo_NPROP )_PU ._END
+Ela_PROPESS foi_V sequestrada_PCP anteontem_ADV à_PREP+ART noite_N por_PREP dois_NUM assaltantes_N que_PRO-KS invadiram_V a_ART casa_N paroquial_ADJ da_PREP+ART cidade_N vizinha_ADJ de_PREP Guarantã_NPROP ._END
+O_ART delegado_N Marcelo_NPROP César_NPROP ,_PU de_PREP Guarantã_NPROP ,_PU disse_V que_KS dois_NUM homens_N com_PREP as_ART características_N dos_PREP+ART assaltantes_N foram_V presos_PCP ontem_ADV em_PREP Castilho_NPROP (_PU 100_NUM km_N de_PREP Guarantã_NPROP )_PU ._END
+e_KC oito_NUM pessoas_N morreram_V este_PROADJ ano_N no_PREP+ART Estado_N do_PREP+ART Rio_NPROP ,_PU vítimas_N de_PREP meningite_N menigocócica_ADJ ._END
+No_PREP+ART período_N ,_PU foram_V registrados_PCP 303_NUM casos_N da_PREP+ART doença_N ._END
+A_ART forma_N da_PREP+ART compra_N ainda_ADV depende_V de_PREP entendimentos_N com_PREP missão_N do_PREP+ART governo_N cubano_ADJ ,_PU que_PRO-KS deverá_V chegar_V nas_PREP+ART próximas_ADJ semanas_N ao_PREP+ART país_N ,_PU para_PREP discutir_V o_ART assunto_N ._END
+O_ART projeto_N prevê_V a_ART vacinação_N da_PREP+ART população_N 15_NUM anos_N ,_PU estimada_PCP em_PREP 3,5_NUM milhões_N de_PREP pessoas_N ._END
+Álvaro_NPROP Machado_NPROP ,_PU presidente_N da_PREP+ART Fundação_NPROP Nacional_NPROP de_NPROP Saúde_NPROP ,_PU ligada_PCP ao_PREP+ART ministério_N ,_PU contou_V que_KS deverão_V ser_V compradas_PCP 2_NUM milhões_N de_PREP doses_N ,_PU o_ART governo_N cubano_ADJ comprometeu_V -se_PROPESS a_PREP repor_V 5_NUM milhões_N de_PREP doses_N com_PREP prazos_N vencidos_PCP ._END
+A_ART compra_N da_PREP+ART vacina_N já_ADV havia_V sido_PCP solicitada_PCP no_PREP+ART ano_N passado_PCP ._END
+A_ART importação_N não_ADV ocorreu_V questionou_V -se_PROPESS a_ART utilidade_N da_PREP+ART vacina_N para_PREP menores_N de_PREP quatro_NUM anos_N ._END
+Machado_NPROP explicou_V que_KS caberá_V à_PREP+ART Fundação_NPROP Oswaldo_NPROP Cruz_NPROP coordenar_V grupo_N de_PREP trabalho_N para_PREP analisar_V a_ART utilidade_N da_PREP+ART vacina_N ,_PU junto_PREP à_PREP+ART campanha_N de_PREP vacinação_N ._END
+A_ART importação_N das_PREP+ART vacinas_N foi_V solicitada_PCP pelos_PREP+ART governos_N do_PREP+ART Estado_N e_KC do_PREP+ART Município_N do_PREP+ART Rio_NPROP ._END
+De_PREP janeiro_N de_PREP 1991_N a_PREP maio_N desse_PREP+PROADJ ano_N ,_PU houve_V 2.673_NUM casos_N de_PREP meningite_N meningocócica_ADJ ,_PU com_PREP 505_NUM mortes_N ._END
+Segundo_PREP a_ART coordenadora_N de_PREP epidemiologia_N do_PREP+ART município_N ,_PU Meri_NPROP Baron_NPROP ,_PU o_ART número_N de_PREP casos_N vem_V aumentando_V ano_N a_PREP ano_N ,_PU desde_PREP a_ART segunda_ADJ metade_N da_PREP+ART década_N de_PREP 80_N ._END
+disse_V que_KS a_ART situação_N é_V de_PREP "_PU hiperendemia_N "_PU algo_PROSUB entre_PREP a_ART endemia_N e_KC a_ART epidemia_N ._END
+Explicou_V que_KS na_PREP+ART endemia_N de_PREP uma_ART doença_N ,_PU ocorre_V quantidade_N de_PREP casos_N esperada_PCP e_KC na_PREP+ART epidemia_N ,_PU número_N "_PU enorme_ADJ ,_PU acima_PREP do_PREP+ART previsto_PCP "_PU ._END
+Foram_V 579_NUM casos_N de_PREP tuberculose_N em_PREP 93_N contra_PREP 452_NUM em_PREP 92_N ._END
+Estes_PROADJ dados_N serão_V apresentados_PCP no_PREP+ART Fórum_NPROP Regional_NPROP de_NPROP Tuberculose_NPROP ,_PU no_PREP+ART próximo_ADJ fim-de-semana_N ,_PU em_PREP São_NPROP Pedro_NPROP ._END
+Em_PREP Campinas_NPROP ,_PU há_V 3.000_NUM famílias_N miseráveis_ADJ ,_PU segundo_PREP a_ART prefeitura_N ._END
+A_ART microrregião_N de_PREP Jundiaí_NPROP (_PU 60_NUM km_N de_PREP São_NPROP Paulo_NPROP )_PU ,_PU com_PREP nove_NUM cidades_N e_KC 280_NUM casos_N ,_PU registrou_V em_PREP 93_N o_ART maior_ADJ índice_N de_PREP tuberculose_N -_PU ,_PU por_PREP cem_NUM mil_NUM habitantes_N ,_PU segundo_PREP a_ART Secretaria_NPROP de_NPROP Estado_NPROP da_NPROP Saúde_NPROP ._END
+No_PREP+ART Estado_N ,_PU ocorreram_V 16.684_NUM casos_N novos_ADJ em_PREP 93_N ._END
+Morreram_V aproximadamente_ADV 1.300_NUM pessoas_N ._END
+As_ART empresas_N operadoras_ADJ dos_PREP+ART serviços_N eróticos_ADJ da_PREP+ART série_N 900_N estão_V tentando_V reverter_V a_ART decisão_N da_PREP+ART Telesp_NPROP ,_PU que_PRO-KS anunciou_V anteontem_ADV o_ART fim_N dos_PREP+ART serviços_N ._END
+Uma_PROSUB delas_PREP+PROPESS ,_PU a_ART Mig_NPROP Produções_NPROP (_PU que_PRO-KS opera_V o_ART Conversas_NPROP Deliciosas_NPROP )_PU ,_PU afirmou_V em_PREP comunicado_N que_KS tem_V o_ART direito_N de_PREP se_PROPESS defender_V ,_PU e_KC buscará_V este_PROADJ direito_N junto_PREP à_PREP+ART Telesp_NPROP ._END
+Segundo_PREP o_ART gerente_N financeiro_ADJ da_PREP+ART Telesp_NPROP ,_PU Marivaldo_NPROP Andriolo_NPROP ,_PU a_ART decisão_N da_PREP+ART diretoria_N da_PREP+ART empresa_N dificilmente_ADV será_V revista_PCP ,_PU mas_KC esta_PROADJ hipótese_N "_PU não_ADV está_V afastada_PCP "_PU ._END
+Ele_PROPESS afirmou_V que_KS há_V 15_NUM dias_N as_ART pressões_N contra_PREP o_ART serviço_N "_PU ficaram_V muito_ADV fortes_ADJ "_PU ._END
+Segundo_PREP Andriolo_NPROP ,_PU as_ART pressões_N contra_PREP o_ART serviço_N partiram_V de_PREP vereadores_N de_PREP todo_PROADJ o_ART Estado_N e_KC de_PREP usuários_N que_PRO-KS tiveram_V os_ART telefones_N usados_PCP indevidamente_ADV ._END
+No_PREP+ART início_N de_PREP maio_N ,_PU a_ART promotoria_N de_PREP Justiça_N do_PREP+ART Consumidor_N entrou_V com_PREP uma_ART ação_N civil_ADJ pública_ADJ contra_PREP a_ART Telesp_NPROP ._END
+A_ART ação_N pede_V que_KS a_ART empresa_N se_PROPESS abstenha_V de_PREP cobrar_V serviços_N especiais_ADJ da_PREP+ART série_N 900_N enquanto_KS não_ADV tiver_V autorização_N prévia_ADJ do_PREP+ART usuário_N ._END
+A_ART ação_N ainda_ADV não_ADV foi_V julgada_PCP ,_PU mas_KC teve_V o_ART pedido_N de_PREP liminar_N rejeitado_PCP pela_PREP+ART Justiça_N ._END
+A_ART promotora_N Parisina_NPROP Lopes_NPROP Zeigler_NPROP baseia_V sua_PROADJ ação_N no_PREP+ART Código_NPROP de_NPROP Defesa_NPROP do_NPROP Consumidor_NPROP que_PRO-KS ,_PU segundo_PREP ela_PROPESS ,_PU proíbe_V a_ART prestação_N de_PREP serviços_N sem_PREP solicitação_N prévia_ADJ do_PREP+ART consumidor_N ._END
+Segundo_PREP Arystóbulo_NPROP de_NPROP Oliveira_NPROP Freitas_NPROP ,_PU advogado_N especializado_PCP em_PREP defesa_N do_PREP+ART consumidor_N ,_PU a_ART Telesp_NPROP precisa_V encontrar_V meios_N de_PREP controlar_V o_ART acesso_N à_PREP+ART série_N 900_N ,_PU para_PREP impedir_V que_KS pessoas_N não_ADV autorizadas_PCP pelo_PREP+ART dono_N do_PREP+ART telefone_N usem_V o_ART serviço_N ._END
+"_PU Isso_PROSUB já_ADV existe_V em_PREP outros_PROADJ países_N ._END
+O_ART estudante_N Rafael_NPROP Barbosa_NPROP da_NPROP Silva_NPROP ,_PU 8_NUM ,_PU de_PREP Catanduva_NPROP ,_PU morreu_V há_V uma_NUM semana_N no_PREP+ART IMC_NPROP (_PU Instituto_NPROP de_NPROP Moléstias_NPROP Cardiovasculares_NPROP )_PU de_PREP São_NPROP José_NPROP do_NPROP Rio_NPROP Preto_NPROP ,_PU vítima_N de_PREP uma_ART doença_N desconhecida_PCP ._END
+Ele_PROPESS apresentava_V sintomas_N semelhantes_ADJ à_PREP+ART infecção_N bacteriana_ADJ que_PRO-KS já_ADV causou_V a_ART morte_N de_PREP mais_PREP de_PREP 12_NUM pessoas_N na_PREP+ART Inglaterra_NPROP ,_PU segundo_PREP os_ART médicos_N e_KC sua_PROADJ família_N ._END
+A_ART infecção_N é_V provocada_PCP pela_PREP+ART bactéria_N do_PREP+ART grupo_N A_N Normalmente_ADV ,_PU ela_PROPESS apenas_PDEN causa_V irritação_N na_PREP+ART garganta_N ,_PU mas_KC pode_V sofrer_V uma_ART mutação_N ,_PU grangrenar_V os_ART músculos_N e_KC matar_V em_PREP menos_PREP de_PREP 24_NUM horas_N ._END
+O_ART garoto_N sofreu_V a_ART mesma_PROADJ série_N de_PREP sintomas_N da_PREP+ART doença_N que_PRO-KS está_V causando_V pânico_N na_PREP+ART Inglaterra_NPROP :_PU dor_N de_PREP garganta_N ,_PU dores_N nas_PREP+ART pernas_N ,_PU manchas_N na_PREP+ART pele_N ,_PU vômito_N ,_PU febre_N e_KC ,_PU por_ADV fim_ADV ,_PU gangrena_N e_KC insuficiência_N respiratória_ADJ causada_PCP pela_PREP+ART infecção_N ._END
+O_ART cirurgião_N vascular_ADJ do_PREP+ART Hospital_NPROP São_NPROP Domingos_NPROP de_PREP Catanduva_NPROP ,_PU Luís_NPROP Ferreira_NPROP de_NPROP Carvalho_NPROP Neto_NPROP ,_PU 29_NUM ,_PU disse_V que_KS a_ART infecção_N que_PRO-KS causou_V a_ART morte_N de_PREP Rafael_NPROP foi_V causada_PCP por_PREP um_ART estreptococo_N ._END
+Carvalho_NPROP Neto_NPROP foi_V o_ART primeiro_N a_PREP atender_V o_ART menino_N ,_PU no_PREP+ART sábado_N retrasado_ADJ ._END
+Ele_PROPESS sofria_V dos_PREP+ART sintomas_N desde_PREP a_ART sexta-feira_N ._END
+Não_ADV foram_V realizados_PCP exames_N de_PREP sangue_N no_PREP+ART estudante_N em_PREP Catanduva_NPROP ._END
+O_ART diretor-clínico_N do_PREP+ART IMC_NPROP ,_PU João_NPROP Carlos_NPROP Anacleto_NPROP ,_PU negou_V que_KS a_ART doença_N de_PREP Rafael_NPROP tenha_V sido_PCP causada_PCP pela_PREP+ART bactéria_N do_PREP+ART tipo_N A_N O_ART IMC_NPROP não_ADV quis_V revelar_V o_ART laudo_N da_PREP+ART necrópsia_N ._END
+O_ART pai_N do_PREP+ART estudante_N ,_PU o_ART policial_N Wanderley_NPROP Barbosa_NPROP da_NPROP Silva_NPROP ,_PU 48_NUM ,_PU disse_V que_KS o_ART garoto_N começou_V a_PREP ter_V dores_N de_PREP garganta_N e_KC nas_PREP+ART manchas_N nas_PREP+ART pernas_N no_PREP+ART dia_N 21_N ._END
+"_PU A_ART morte_N de_PREP Rafael_NPROP foi_V muito_ADV rápida_ADJ ._END
+Os_ART médicos_N informaram_V que_KS não_ADV conseguiram_V descobrir_V a_ART causa_N da_PREP+ART doença_N "_PU ,_PU disse_V Silva_NPROP ._END
+Anacleto_NPROP ,_PU disse_V ,_PU através_PREP de_PREP sua_PROADJ assessoria_N de_PREP imprensa_N ,_PU que_KS a_ART morte_N do_PREP+ART estudante_N não_ADV está_V relacionada_PCP com_PREP a_ART bactéria_N do_PREP+ART tipo_N A._N
+"_PU É_V pura_ADJ especulação_N ._END
+O_ART garoto_N foi_V levado_PCP ao_PREP+ART IMC_NPROP na_PREP+ART segunda-feira_N à_PREP+ART noite_N e_KC ,_PU após_PREP avaliação_N clínica_ADJ ,_PU foi_V internado_PCP na_PREP+ART Beneficência_NPROP Portuguesa_NPROP (_PU o_ART IMC_NPROP faz_V parte_N do_PREP+ART complexo_N hospitalar_ADJ da_PREP+ART Beneficência_NPROP )_PU ._END
+Ele_PROPESS teria_V sido_PCP atendido_PCP pela_PREP+ART médica_N Rita_NPROP Sanches_NPROP e_KC o_ART pediatra_N Airton_NPROP Moscardini_NPROP ._END
+Os_ART dois_NUM médicos_N foram_V procurados_PCP ontem_ADV à_PREP+ART tarde_N no_PREP+ART IMC_NPROP ,_PU Beneficência_NPROP Portuguesa_NPROP e_KC em_PREP seus_PROADJ consultórios_N ,_PU mas_KC não_ADV foram_V localizados_PCP ._END
+bactéria_N do_PREP+ART grupo_N A_N é_V de_PREP forma_N inofensiva_ADJ em_PREP cerca_PREP de_PREP 10_NUM %_N da_PREP+ART população_N ._END
+Em_PREP alguns_PROADJ casos_N ,_PU ela_PROPESS pode_V sofrer_V mutação_N e_KC se_PROPESS tornar_V devastadora_ADJ para_PREP o_ART organismo_N ._END
+Segundo_PREP médicos_N ,_PU ela_PROPESS é_V frequente_ADJ no_PREP+ART Brasil_NPROP ,_PU mas_KC não_ADV há_V dados_N de_PREP casos_N graves_ADJ que_PRO-KS levaram_V os_ART pacientes_N à_PREP+ART morte_N ._END
+A_ART bactéria_N libera_V uma_ART toxina_N capaz_ADJ de_PREP dissolver_V gorduras_N e_KC músculos_N a_PREP uma_ART velocidade_N de_PREP 2,5_NUM centímetros_N por_PREP hora_N ._END
+O_ART cirurgião_N vascular_ADJ do_PREP+ART Hospital_NPROP São_NPROP Domingos_NPROP ,_PU Luís_NPROP Ferreira_NPROP de_NPROP Carvalho_NPROP Neto_NPROP ,_PU disse_V que_KS a_ART infecção_N apresentada_PCP por_PREP Rafael_NPROP é_V rara_ADJ ._END
+"_PU Sabemos_V pouco_ADV sobre_PREP a_ART doença_N "_PU ._END
+Médicos_N infectologistas_ADJ não_ADV descartam_V a_ART possibilidade_N de_PREP a_ART doença_N que_PRO-KS matou_V o_ART menino_N Rafael_NPROP Barbosa_NPROP da_NPROP Silva_NPROP ter_V sido_PCP provocada_PCP por_PREP do_PREP+ART grupo_N A_N Lembram_V ,_PU no_KC entanto_KC ,_PU que_KS existem_V muitas_PROADJ bactérias_N dentro_PREP deste_PREP+PROADJ grupo_N ,_PU e_KC que_KS provocam_V infecções_N diferentes_ADJ ._END
+Segundo_PREP Vicente_NPROP Amato_NPROP Neto_NPROP ,_PU 66_NUM ,_PU professor_N titular_ADJ de_PREP Molésticas_NPROP Infecciosas_NPROP da_NPROP Faculdade_NPROP de_NPROP Medicina_NPROP da_PREP+ART USP_NPROP ,_PU as_ART doenças_N causadas_PCP por_PREP este_PROADJ vão_V da_PREP+ART simples_ADJ faringite_N até_PREP a_ART meningite_N e_KC a_ART septcemia_N ._END
+A_ART bactéria_N que_PRO-KS está_V matando_V na_PREP+ART Inglaterra_NPROP também_PDEN é_V do_PREP+ART tipo_N A_N ,_PU mas_KC os_ART infectologistas_N brasileiros_ADJ ainda_PDEN pouco_ADV sabem_V sobre_PREP ela_PROPESS ._END
+Segundo_PREP ele_PROPESS ,_PU trata_V -se_PROPESS de_PREP uma_ART doença_N conhecida_PCP na_PREP+ART literatura_N médica_ADJ e_KC provocada_PCP pelo_PREP+ART estrepcoco_N A_N ou_KC por_PREP uma_ART associação_N de_PREP outras_PROADJ bactérias_N ._END
+"_PU As_ART bactérias_N não_ADV se_PROPESS disseminam_V rapidamente_ADV ._END
+O_PRO-KS que_PRO-KS está_V acontecendo_V na_PREP+ART Inglaterra_NPROP não_ADV nos_PROPESS preocupa_V ._END
+O_ART Banespa_NPROP e_KC a_ART Nossa_NPROP Caixa_NPROP Nosso_NPROP Banco_NPROP começam_V a_PREP veicular_V hoje_ADV filmes_N publicitários_ADJ pedindo_V assinaturas_N para_PREP a_ART "_PU Declaração_NPROP dos_NPROP Direitos_NPROP das_NPROP Gerações_NPROP Futuras_NPROP "_PU ._END
+A_ART declaração_N ,_PU de_PREP cinco_NUM artigos_N ,_PU foi_V proposta_PCP pelo_PREP+ART explorador_N francês_ADJ Jacques_NPROP Cousteau_NPROP ,_PU 83_NUM ,_PU e_KC vai_V ser_V votada_PCP pela_PREP+ART ONU_NPROP (_PU Organização_NPROP das_NPROP Nações_NPROP Unidas_NPROP )_PU em_PREP setembro_N ._END
+Cousteau_NPROP afirmou_V que_KS depois_PREP de_PREP aprovar_V os_ART artigos_N ,_PU o_ART desafio_N é_V incluir_V -lo_PROPESS na_PREP+ART Declaração_NPROP dos_NPROP Direitos_NPROP Humanos_NPROP ._END
+Ele_PROPESS lançou_V a_ART campanha_N ontem_ADV no_PREP+ART Brasil_NPROP no_PREP+ART Palácio_NPROP dos_NPROP Bandeirantes_NPROP ,_PU ao_PREP lado_PREP do_PREP+ART governador_N Luiz_NPROP Antonio_NPROP Fleury_NPROP Filho_NPROP ._END
+Segundo_PREP ele_PROPESS ,_PU todas_PROADJ as_ART agências_N do_PREP+ART Banespa_NPROP e_KC da_PREP+ART Nossa_NPROP Caixa_NPROP Nosso_NPROP Banco_NPROP vão_V oferecer_V impressos_N para_PREP abaixo-assinados_N ._END
+O_ART banco_N não_ADV informou_V quanto_PRO-KS do_PREP+ART tempo_N comprado_PCP vai_V ser_V utilizado_PCP para_PREP os_ART filmes_N de_PREP Cousteau_NPROP ,_PU nem_KC o_ART custo_N ._END
+O_ART Ministério_NPROP Público_NPROP de_PREP Goiás_NPROP começa_V a_PREP ouvir_V no_PREP+ART próximo_ADJ dia_N 9_N as_ART pessoas_N citadas_PCP na_PREP+ART portaria_N que_PRO-KS reabriu_V as_ART investigações_N do_PREP+ART acidente_N com_PREP o_ART césio_N 137_N ,_PU em_PREP Goiânia_NPROP ._END
+O_ART acidente_N radioativo_ADJ foi_V em_PREP setembro_N de_PREP 87_N ,_PU contaminando_V 67_NUM pessoas_N e_KC matando_V 4_N ._END
+As_ART investigações_N foram_V reabertas_PCP anteontem_ADV pelo_PREP+ART procurador_N de_PREP Justiça_N Sulivan_NPROP Silvestre_NPROP de_NPROP Oliveira_NPROP ,_PU 30_NUM ._END
+Oliveira_NPROP disse_V que_KS tem_V documentos_N que_PRO-KS indicam_V negligência_N do_PREP+ART governo_N no_PREP+ART caso_N ._END
+Em_PREP um_PROSUB deles_PREP+PROPESS ,_PU um_PROSUB dos_PREP+ART sócios_N do_PREP+ART Instituto_NPROP Goiano_NPROP de_NPROP Radioterapia_NPROP ,_PU Amaurillo_NPROP de_NPROP Oliveira_NPROP ,_PU diz_V que_KS o_ART hospital_N possuía_V equipamentos_N que_PRO-KS emitem_V raios_N gama_ADJ ._END
+O_ART alerta_N foi_V feito_PCP dois_NUM anos_N antes_PREP da_PREP+ART tragédia_N ,_PU quando_ADV-KS o_ART instituto_N se_PROPESS mudou_V e_KC deixou_V para_ADV trás_ADV a_ART cápsula_N radioativa_ADJ ,_PU que_PRO-KS foi_V achada_PCP no_PREP+ART local_N e_KC levada_PCP para_PREP um_ART ferro-velho_N ,_PU onde_ADV-KS foi_V violada_PCP ._END
+No_PREP+ART dia_N 9_N serão_V ouvidos_PCP Carlos_NPROP Bezerril_NPROP ,_PU um_PROSUB dos_PREP+ART sócios_N do_PREP+ART instituto_N ,_PU Lício_NPROP Gabriel_NPROP Borges_NPROP ,_PU ex-presidente_N do_PREP+ART Instituto_NPROP de_NPROP Previdência_NPROP e_NPROP Assistência_NPROP aos_NPROP Servidores_NPROP de_NPROP Goiás_NPROP ,_PU e_KC o_ART coronel_N Vasco_NPROP Cardoso_NPROP ._END
+No_PREP+ART dia_N 15_N ,_PU depõe_V o_ART ex-governador_N Íris_NPROP Rezende_NPROP ._END
+Rezende_NPROP disse_V que_KS no_PREP+ART terreno_N comprado_PCP seria_V construído_PCP o_ART Hospital_NPROP dos_NPROP Servidores_NPROP ,_PU projeto_N que_PRO-KS se_PROPESS tornou_V inviável_ADJ ._END
+Procurado_PCP pela_PREP+ART Agência_NPROP Folha_NPROP ,_PU Carlos_NPROP Bezerril_NPROP não_ADV quis_V dar_V entrevista_N ._END
+Oliveira_NPROP quer_V saber_V o_ART motivo_N da_PREP+ART prisão_N do_PREP+ART coronel-médico_N médico_ADJ Vasco_NPROP Cardoso_NPROP pela_PREP+ART Polícia_NPROP Militar_NPROP na_PREP+ART época_N da_PREP+ART tragédia_N ._END
+Cardoso_NPROP diz_V que_KS foi_V determinação_N do_PREP+ART ex-governador_N Henrique_NPROP Santillo_NPROP ,_PU atual_ADJ ministro_N da_PREP+ART Saúde_N ._END
+Governo_N dos_PREP+ART EUA_NPROP começa_V a_PREP receber_V cartas_N que_PRO-KS vão_V concorrer_V em_PREP loteria_N de_PREP vistos_N ._END
+Policiamento_N de_PREP trânsito_N e_KC Cetesb_NPROP multam_V 627_NUM caminhões_N vistoriados_PCP em_PREP operação_N ._END
+A_ART WCR_NPROP Produções_NPROP fez_V uma_ART reunião_N ontem_ADV com_PREP a_ART diretoria_N da_PREP+ART Telesp_NPROP para_PREP discutir_V o_ART assunto_N ._END
+O_ART resultado_N não_ADV foi_V divulgado_PCP ._END
+A_ART ação_N ainda_ADV não_ADV foi_V julgada_PCP ,_PU mas_KC teve_V o_ART pedido_N de_PREP liminar_N rejeitado_PCP pelo_PREP+ART juiz_N Hélio_NPROP Nogueira_NPROP ,_PU da_PREP+ART 8ª_ADJ Vara_NPROP Cívil_NPROP de_PREP São_NPROP Paulo_NPROP ._END
+A_ART promotora_N que_ADV-KS atua_V no_PREP+ART caso_N ,_PU Parisina_NPROP Lopes_NPROP Zeigler_NPROP ,_PU baseia_V sua_PROADJ ação_N no_PREP+ART Código_NPROP de_NPROP Defesa_NPROP do_NPROP Consumidor_NPROP que_PRO-KS ,_PU segundo_PREP ela_PROPESS ,_PU proíbe_V a_ART prestação_N de_PREP serviços_N sem_PREP solicitação_N prévia_ADJ do_PREP+ART consumidor_N ._END
+Ele_PROPESS recebeu_V uma_ART conta_N telefônica_ADJ de_PREP Cr$_CUR 18_NUM mil_NUM ,_PU em_PREP dezembro_N passado_PCP ._END
+Seus_PROADJ filhos_N ,_PU de_PREP 6_NUM e_KC 8_NUM anos_N ,_PU haviam_V ligado_PCP para_PREP serviços_N infantis_ADJ -_PU como_PREP Disk_NPROP Mônica_NPROP e_KC Disk_NPROP Cascão_NPROP sem_PREP o_ART seu_PROADJ conhecimento_N ._END
+Apesar_PREP de_PREP nunca_ADV ter_V ligado_PCP para_PREP os_ART serviços_N eróticos_ADJ ,_PU a_ART atriz_N Cristina_NPROP Mutarelli_NPROP ,_PU é_V contra_PREP sua_PROADJ extinção_N ._END
+"_PU Se_KS a_ART pessoa_N tem_V tesão_N por_PREP telefone_N ,_PU é_V direito_N dela_PREP+PROPESS usar_V esses_PROADJ serviços_N "_PU ,_PU diz_V ._END
+Para_PREP o_ART professor_N de_PREP direito_N comercial_ADJ da_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP ,_PU José_NPROP Alexandre_NPROP Tavares_NPROP Guerreiro_NPROP ,_PU a_ART decisão_N da_PREP+ART Telesp_NPROP de_PREP cortar_V os_ART serviços_N eróticos_ADJ foi_V de_PREP "_PU ordem_N econômica_ADJ ._END
+"_PU A_ART empresa_N recebe_V muitas_PROADJ reclamações_N ._END
+Ela_PROPESS decidiu_V suspender_V os_ART serviços_N eróticos_ADJ para_PREP evitar_V futuros_ADJ embates_N judiciais_ADJ com_PREP usuários_N descontentes_ADJ "_PU ,_PU diz_V ._END
+Diz_V também_PDEN que_KS é_V de_PREP conhecimento_N público_ADJ a_ART prática_N de_PREP uso_N indevido_ADJ do_PREP+ART telefone_N por_PREP crianças_N e_KC pessoas_N não-autorizadas_PCP ,_PU e_KC que_KS é_V responsabilidade_N do_PREP+ART dono_N da_PREP+ART linha_N zelar_V por_PREP ela_PROPESS ._END
+Para_PREP Fernando_NPROP Marsella_NPROP ,_PU circuncisador_N e_KC professor_N da_PREP+ART comunidade_N judaica_ADJ ,_PU a_ART decisão_N da_PREP+ART Telesp_NPROP foi_V "_PU moralista_ADJ "_PU ._END
+É_V um_ART serviço_N que_KS só_PDEN usa_V quem_PRO-KS quer_V "_PU ,_PU diz_V ._END
+Ele_PROPESS critica_V apenas_PDEN sua_PROADJ propaganda_N na_PREP+ART TV_N :_PU "_PU A_ART nudez_N agride_V algumas_PROADJ pessoas_N "_PU ._END
+Segundo_PREP Marivaldo_NPROP Andriolo_NPROP ,_PU da_PREP+ART Telesp_NPROP ,_PU a_ART empresa_N brasileira_ADJ não_ADV tem_V condições_N técnicas_ADJ de_PREP prestar_V este_PROADJ serviço_N ._END
+"_PU As_ART empresas_N ou_KC particulares_N que_PRO-KS querem_V bloquear_V o_ART serviço_N 900_N devem_V comprar_V um_ART aparelho_N especial_ADJ para_PREP isso_PROSUB "_PU ,_PU diz_V ._END
+Nos_PREP+ART EUA_NPROP ,_PU o_ART uso_N desses_PREP+PROADJ serviços_N é_V tão_ADV comum_ADJ que_KS existe_V um_ART canal_N de_PREP TV_N a_PREP cabo_N (_PU por_PREP assinatura_N )_PU que_PRO-KS veicula_V apenas_PDEN suas_PROADJ propagandas_N ._END
+Também_PDEN nos_PREP+ART EUA_NPROP ,_PU ao_PREP contrário_PREP do_PREP+ART Brasil_NPROP ,_PU o_ART assinante_N que_PRO-KS não_ADV paga_V a_ART conta_N dos_PREP+ART serviços_N especiais_ADJ não_ADV tem_V a_ART linha_N cortada_PCP ._END
+Na_PREP+ART Espanha_NPROP ,_PU o_ART serviço_N foi_V suspenso_PCP recentemente_ADV pela_PREP+ART empresa_N de_PREP telefonia_N do_PREP+ART país_N ._END
+Os_ART críticos_N do_PREP+ART sistema_N alegam_V que_KS ele_PROPESS não_ADV é_V "_PU típico_ADJ "_PU do_PREP+ART serviço_N telefônico_ADJ ._END
+Assim_ADV ,_PU deveriam_V ser_V fornecidos_PCP apenas_PDEN para_PREP quem_PRO-KS os_PROSUB solicitasse_V ._END
+O_ART golfinho_N Flipper_NPROP (_PU foto_N )_PU apareceu_V ontem_ADV pela_PREP+ART manhã_N na_PREP+ART praia_N do_PREP+ART Gonzaguinha_NPROP ,_PU em_PREP São_NPROP Vicente_NPROP (_PU SP_NPROP )_PU ,_PU a_PREP quatro_NUM quilômetros_N do_PREP+ART Oceanórium_NPROP onde_ADV-KS ficou_V confinado_PCP por_PREP oito_NUM anos_N ._END
+multa_N foi_V por_PREP não_ADV estocar_V adequadamente_ADV os_ART 240_NUM m3_N de_PREP areia_N poluída_PCP com_PREP óleo_N retirada_PCP das_PREP+ART praias_N de_PREP São_NPROP Sebastião_NPROP e_KC Ilhabela_NPROP (_PU SP_NPROP )_PU ._END
+O_ART presidente_N do_PREP+ART Instituto_NPROP Nacional_NPROP de_NPROP Segurança_NPROP no_NPROP Trânsito_NPROP ,_PU Roberto_NPROP Scaringella_NPROP ,_PU foi_V premiado_PCP pelo_PREP+ART Centro_NPROP Internacional_NPROP de_NPROP Recursos_NPROP em_NPROP Segurança_NPROP Saúde_NPROP e_NPROP Meio_NPROP Ambiente_NPROP ,_PU por_PREP seu_PROADJ trabalho_N na_PREP+ART área_N de_PREP prevenção_N de_PREP acidentes_N ._END
+O_ART CPTran_NPROP (_PU Comando_NPROP de_NPROP Policiamento_NPROP de_NPROP Trânsito_NPROP )_PU e_KC a_ART Cetesb_NPROP (_PU Companhia_NPROP de_NPROP Tecnologia_NPROP de_NPROP Saneamento_NPROP Ambiental_NPROP )_PU multaram_V ontem_ADV 627_NUM caminhões_N dos_PREP+ART 698_NUM vistoriados_PCP pela_PREP+ART Operação_N Fumaça_NPROP ._END
+A_ART operação_N foi_V realizada_PCP das_PREP+ART 9h30_N às_PREP+ART 12h_N e_KC das_PREP+ART 13h45_N às_PREP+ART 16h_N ,_PU em_PREP 16_NUM bloqueios_N nos_PREP+ART principais_ADJ corredores_N da_PREP+ART cidade_N ,_PU como_PREP as_ART marginais_N do_PREP+ART rio_N Pinheiros_NPROP e_KC Tietê_NPROP e_KC a_ART avenida_NPROP do_NPROP Estado_NPROP ._END
+Inicialmente_ADV o_ART objetivo_N era_V fiscalizar_V caminhões_N a_PREP diesel_N que_PRO-KS estivessem_V soltando_V fumaça_N preta_ADJ ._END
+A_ART valor_N da_PREP+ART multa_N é_V de_PREP Cr$_CUR 44.437,80_NUM ._END
+Os_ART 558_NUM restantes_N apresentavam_V falta_N de_PREP equipamentos_N obrigatórios_ADJ ,_PU pneus_N lisos_ADJ ou_KC más_ADJ condições_N de_PREP conservação_N e_KC segurança_N ._END
+Treze_NUM caminhões_N e_KC 190_NUM documentos_N foram_V apreendidos_PCP ._END
+Segundo_PREP o_ART tenente_N Marcos_NPROP Bento_NPROP ,_PU pela_PREP+ART operação_N ,_PU 175_NUM caminhões_N deixaram_V de_PREP ser_V recolhidos_PCP por_PREP falta_N de_PREP vaga_N nos_PREP+ART pátios_N do_PREP+ART CPTran_NPROP ._END
+Neste_PREP+PROADJ caso_N ,_PU apenas_PDEN os_ART documentos_N dos_PREP+ART motoristas_N foram_V apreendidos_PCP como_PREP questão_N de_PREP segurança_N ._END
+Foi_V aberta_PCP ontem_ADV ao_PREP+ART público_N a_ART mostra_N Casa_NPROP Cor_NPROP 94_NPROP ,_PU considerada_PCP o_ART maior_ADJ e_KC mais_ADV importante_ADJ evento_N da_PREP+ART decoração_N no_PREP+ART país_N ._END
+Participam_V ,_PU entre_PREP outros_PROSUB ,_PU Carolina_NPROP Szabó_NPROP ,_PU João_NPROP Armentano_NPROP ,_PU Leo_NPROP Shetman_NPROP ,_PU Conrado_NPROP Malzone_NPROP ,_PU Sig_NPROP Bergamin_NPROP ._END
+Foram_V decorados_PCP 44_NUM ambientes_N ,_PU em_PREP uma_ART casa_N da_PREP+ART família_N Matarazzo_NPROP ,_PU com_PREP 1.200_NUM m2_N ,_PU na_PREP+ART rua_N Argentina_NPROP ._END
+Segundo_PREP ela_PROPESS ,_PU cerca_PREP de_PREP 40_NUM %_N da_PREP+ART arrecadação_N será_V destinada_PCP para_PREP o_ART Lar_NPROP Escola_NPROP São_NPROP Francisco_NPROP ,_PU entidade_N beneficente_ADJ de_PREP apoio_N a_PREP deficientes_N físicos_ADJ ._END
+O_ART visitante_N tem_V à_PREP+ART disposição_N na_PREP+ART mostra_N um_ART restaurante_N e_KC uma_ART lanchonete_N ,_PU com_PREP serviços_N de_PREP almoço_N ,_PU chá_N e_KC "_PU happy_N hour_N "_PU de_PREP terça_N a_PREP domingo_N ,_PU além_PREP de_PREP jantar_N às_PREP+ART quintas_N e_KC sextas_N ._END
+Também_PDEN há_V um_ART minishopping_N ,_PU com_PREP artigos_N de_PREP docoração_N à_PREP+ART venda_N ._END
+Os_ART organizadores_N estimam_V que_KS 35_NUM mil_NUM pessoas_N visitem_V a_ART mostra_N este_PROADJ ano_N ._END
+Casa_NPROP Cor_NPROP -_PU rua_N Argentina_NPROP ,_PU nº_N 201_NUM ,_PU esquina_N com_PREP a_ART rua_N Honduras_NPROP ._END
+De_PREP terça_N a_PREP domingo_N ,_PU das_PREP+ART 11h_N às_PREP+ART 21h_N ._END
+Ingresso_N :_PU 6_NUM URVs_N ._END
+Até_PREP 3_N de_PREP julho_N ._END
+A_ART leitora_N Kelly_NPROP Sacramento_NPROP Amadeu_NPROP ,_PU residente_N na_PREP+ART rua_N Florestópolis_NPROP ,_PU no_PREP+ART Jardim_NPROP Maria_NPROP Estela_NPROP ,_PU reclama_V do_PREP+ART atraso_N na_PREP+ART poda_N de_PREP uma_ART árvore_N em_PREP frente_PREP a_PREP sua_PROADJ casa_N ._END
+Minha_PROADJ vizinha_N também_PDEN fez_V a_ART reclamação_N e_KC não_ADV foi_V atendida_PCP "_PU ,_PU diz_V Kelly_NPROP ._END
+Ela_PROPESS ter_V sido_PCP informada_PCP de_PREP que_KS um_ART funcionário_N da_PREP+ART prefeitura_N viria_V a_PREP sua_PROADJ casa_N e_KC que_KS ela_PROPESS teria_V que_KS estar_V presente_ADJ ._END
+"_PU Isso_PROSUB me_PROPESS espanta_V muito_ADV ,_PU pois_KC a_ART árvore_N fica_V do_PREP+ART lado_N de_PREP fora_ADV ,_PU não_ADV havendo_V necessidade_N da_PREP+ART minha_PROADJ presença_N ._END
+Além_PREP disso_PREP+PROSUB ,_PU se_KS eu_PROPESS faltar_V ao_PREP+ART serviço_N ,_PU a_ART prefeitura_N não_ADV vai_V pagar_V meu_PROADJ dia_N perdido_PCP ._END
+De_PREP acordo_PREP com_PREP Domingos_NPROP Dissei_NPROP ,_PU administrador_N regional_ADJ do_PREP+ART Ipiranga_NPROP ,_PU a_ART poda_N da_PREP+ART árvore_N foi_V efetuada_PCP ._END
+Ele_PROPESS diz_V ainda_PDEN que_KS não_ADV há_V necessidade_N da_PREP+ART presença_N do_PREP+ART reclamante_N para_PREP se_PROPESS realizar_V o_ART serviço_N ._END
+Cartas_N para_PREP "_PU A_NPROP cidade_NPROP é_NPROP Sua_NPROP /_PU Via_PREP São_NPROP Paulo_NPROP "_PU devem_V ser_V enviadas_PCP para_PREP a_PREP Secretaria_N da_PREP+ART Redação_N (_PU Àrea_N Administrativa_ADJ )_PU ,_PU na_PREP+ART al_N ._END
+Barão_NPROP de_NPROP Limeira_NPROP ,_PU 425_NUM ,_PU 3º_ADJ andar_N ,_PU Campos_NPROP Elíseos_NPROP ,_PU São_NPROP Paulo_NPROP (_PU SP_NPROP )_PU ,_PU Cep_N 01290-900_NUM ,_PU com_PREP nome_N completo_ADJ ,_PU CIC_N ,_PU RG_N ,_PU endereço_N e_KC telefone_N do_PREP+ART reclamante_N ._END
+Os_ART alimentos_N seriam_V destinados_PCP à_PREP+ART merenda_N escolar_ADJ ._END
+O_ART não_ADV pagamento_N de_PREP dívidas_N da_PREP+ART CAC_NPROP (_PU )_PU desde_PREP 1982_N teria_V causado_PCP um_ART prejuízo_N de_PREP US$_CUR 500_NUM mil_NUM ._END
+A_ART maior_ADJ parte_N das_PREP+ART fraudes_N ,_PU afirmou_V Nomura_NPROP ,_PU teriam_V ocorrido_PCP durante_PREP a_ART gestão_N de_PREP Lucas_NPROP Buzato_NPROP (_PU PT_NPROP )_PU na_PREP+ART Secretaria_NPROP Municipal_NPROP do_NPROP Abastecimento_NPROP (_PU Semab_NPROP )_PU ._END
+O_ART ex-secretário_N e_KC atual_ADJ deputado_N estadual_ADJ nega_V as_ART denúncias_N (_PU veja_V quadro_N ao_PREP+ART lado_N )_PU ._END
+O_ART presidente_N da_PREP+ART CPI_N afirmou_V que_KS Buzato_NPROP será_V chamado_PCP a_PREP depor_V em_PREP agosto_N ,_PU mês_N em_PREP que_PRO-KS está_V prevista_PCP a_ART conclusão_N da_PREP+ART CPI_N ._END
+A_ART diretoria_N da_PREP+ART CAC_NPROP não_ADV se_PROPESS pronuncia_V sobre_PREP o_ART assunto_N ._END
+No_PREP+ART total_N ,_PU o_ART prejuízo_N da_PREP+ART secretaria_N chegaria_V a_PREP US$_CUR 3_NUM milhões_N dinheiro_N suficiente_ADJ para_PREP comprar_V cerca_PREP de_PREP 26_NUM mil_NUM básicas_ADJ ,_PU segundo_PREP a_ART cotação_N do_PREP+ART Procon/Dieese_NPROP ._END
+O_ART valor_N equivale_V a_PREP três_NUM apartamentos_N de_PREP cinco_NUM quartos_N nos_PREP+ART Jardins_NPROP -_PU bairro_N de_PREP classe_N média_ADJ alta_ADJ ._END
+Os_ART alimentos_N que_PRO-KS teriam_V sido_PCP comprados_PCP de_PREP forma_N irregular_ADJ foram_V carne_N ,_PU arroz_N e_KC salsicha_N ._END
+Haverá_V uma_ART reunião_N dos_PREP+ART técnicos_N da_PREP+ART Educação_N e_KC da_PREP+ART Fazenda_N hoje_ADV pela_PREP+ART manhã_N ._END
+A_ART proposta_N só_PDEN será_V enviada_PCP ao_PREP+ART presidente_N Itamar_NPROP Franco_NPROP depois_KS que_KS houver_V consenso_N entre_PREP Hingel_NPROP e_KC o_ART ministro_N Rubens_NPROP Ricupero_NPROP (_PU )_PU ._END
+A_ART proposta_N prevê_V a_ART conversão_N pela_PREP+ART média_N de_PREP fevereiro_N a_PREP maio_N deste_PREP+PROADJ ano_N ._END
+Com_PREP isso_PROSUB ,_PU as_ART escolas_N vão_V embutir_V nas_PREP+ART médias_N os_ART aumentos_N efetuados_PCP depois_PREP da_PREP+ART criação_N da_PREP+ART URV_N ,_PU em_PREP 28_N de_PREP fevereiro_N ._END
+As_ART escolas_N que_PRO-KS cobraram_V a_ADV mais_ADV terão_V de_PREP devolver_V dinheiro_N ._END
+No_KC entanto_KC ,_PU dificilmente_ADV haverá_V devolução_N ,_PU pois_KC a_ART média_N desse_PREP+PROADJ período_N é_V superior_ADJ àquela_PREP+PROSUB de_PREP novembro_N de_PREP 1993_N a_PREP fevereiro_N deste_PREP+PROADJ ano_N ._END
+média_N de_PREP novembro_N a_PREP fevereiro_N foi_V aplicada_PCP para_PREP conversão_N dos_PREP+ART salários_N em_PREP URV_N (_PU Unidade_N Real_N de_N Valor_N )_PU ._END
+Ao_PREP pegar_V a_ART média_N de_PREP fevereiro_N a_PREP maio_N ,_PU o_ART governo_N incorpora_V no_PREP+ART preço_N das_PREP+ART mensalidades_N os_ART aumentos_N salariais_ADJ concedidos_PCP este_PROADJ ano_N ._END
+A_ART conversão_N pela_PREP+ART média_N de_PREP fevereiro_N a_PREP maio_N deste_PREP+PROADJ ano_N atende_V as_ART reivindicações_N das_PREP+ART escolas_N particulares_ADJ ._END
+O_ART atraso_N na_PREP+ART edição_N da_PREP+ART MP_N (_PU medida_N provisória_ADJ )_PU com_PREP as_ART regras_N foi_V por_PREP divergências_N dentro_PREP da_PREP+ART equipe_N econômica_ADJ ._END
+A_ART Procuradoria_NPROP Geral_NPROP da_NPROP Fazenda_NPROP Nacional_NPROP chegou_V a_PREP preparar_V parecer_N favorável_ADJ à_PREP+ART conversão_N pela_PREP+ART média_N de_PREP novembro_N a_PREP fevereiro_N ._END
+A_ART pressão_N dos_PREP+ART donos_N de_PREP escolas_N fez_V a_ART Fazenda_N voltar_V ._END
+O_ART Cruesp_NPROP (_PU Conselho_NPROP de_NPROP Reitores_NPROP das_NPROP Universidades_NPROP Estaduais_NPROP Paulistas_NPROP )_PU convocou_V ontem_ADV reunião_N de_PREP negociação_N com_PREP o_ART (_PU entidades_N de_PREP professores_N e_KC funcionários_N da_PREP+ART USP_NPROP ,_PU Unesp_NPROP e_KC Unicamp_NPROP )_PU ._END
+O_ART encontro_N deverá_V acontecer_V hoje_ADV ,_PU às_PREP+ART 10h_N ,_PU na_PREP+ART Secretaria_NPROP de_NPROP Ciência_NPROP e_NPROP Tecnologia_NPROP (_PU região_N central_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ,_PU entre_PREP as_ART respectivas_ADJ assessorias_N técnicas_ADJ ._END
+As_ART negociações_N haviam_V sido_PCP suspensas_PCP pelo_PREP+ART Cruesp_NPROP ,_PU que_PRO-KS exigiu_V ,_PU semana_N passada_PCP ,_PU a_ART suspensão_N da_PREP+ART greve_N para_PREP discutir_V salários_N ._END
+Ontem_ADV ,_PU os_ART professores_N das_PREP+ART três_NUM universidades_N decidiram_V ,_PU em_PREP assembléias_N ,_PU manter_V a_ART paralisação_N ,_PU iniciada_PCP há_V 17_NUM dias_N na_PREP+ART USP_NPROP e_KC Unesp_NPROP e_KC há_V 21_N na_PREP+ART Unicamp_NPROP ._END
+Participaram_V da_PREP+ART assembléia_N na_PREP+ART USP_NPROP cerca_PREP de_PREP dos_PREP+ART 5.400_NUM professores_N da_PREP+ART universidade_N ._END
+As_ART comissões_N de_PREP Educação_N e_KC de_PREP Tecnologia_N da_PREP+ART Assembléia_NPROP Legislativa_NPROP fazem_V reunião_N hoje_ADV para_PREP discutir_V a_ART situação_N ._END
+No_PREP+ART comunicado_N de_PREP ontem_ADV do_PREP+ART Cruesp_NPROP ,_PU que_PRO-KS convocou_V a_ART reunião_N ,_PU os_ART reitores_N pedem_V "_PU que_KS as_ART entidades_N cessem_V qualquer_PROADJ constrangimento_N físico_ADJ ou_KC moral_ADJ "_PU ._END
+A_ART Rádio_NPROP USP_NPROP FM_NPROP (_PU )_PU transmite_V -_PU desde_PREP a_ART semana_N passada_PCP -_PU do_PREP+ART pico_N do_PREP+ART Jaraguá_NPROP (_PU zona_N norte_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ,_PU por_PREP causa_PREP dos_PREP+ART piquetes_N de_PREP funcionários_N ,_PU que_PRO-KS dificultam_V o_ART acesso_N ao_PREP+ART edifício_N da_PREP+ART (_PU zona_N oeste_ADJ )_PU ._END
+Ontem_ADV ,_PU 65_N dos_PREP+ART 88_NUM membros_N que_PRO-KS compareceram_V à_PREP+ART reunião_N do_PREP+ART Conselho_N Universitário_ADJ da_PREP+ART USP_NPROP assinaram_V um_ART documento_N o_PROSUB qual_PRO-KS apontam_V que_KS tanto_KC os_ART salários_N como_KC a_ART dotação_N orçamentária_ADJ da_PREP+ART universidade_N estão_V baixos_ADJ ._END
+O_ART documento_N foi_V elaborado_PCP pela_PREP+ART bancada_N de_PREP professores_N ,_PU funcionários_N e_KC alunos_N do_PREP+ART conselho_N ._END
+O_ART presidente_N da_PREP+ART Adusp_NPROP (_PU associação_NPROP de_NPROP docentes_NPROP )_PU ,_PU Otaviano_NPROP Helene_NPROP ,_PU considerou_V a_ART proposta_N de_PREP negociação_N do_PREP+ART Cruesp_NPROP "_PU muito_ADV interessante_ADJ ,_PU porque_KC o_ART movimento_N (_PU grevista_ADJ )_PU está_V muito_ADV forte_ADJ "_PU ._END
+Nem_KC reitoria_N nem_KC docentes_N fizeram_V avaliação_N científica_ADJ da_PREP+ART adesão_N à_PREP+ART paralisação_N ontem_ADV ._END
+"_PU Chutaram_V "_PU 30_NUM %_N e_KC 70_NUM %_N ,_PU respectivamente_ADV ._END
+O_ART texto_N afirma_V que_KS é_V obrigação_N da_PREP+ART humanidade_N deixar_V um_ART planeta_N livre_ADJ de_PREP contaminação_N para_PREP gerações_N futuras_ADJ ._END
+Ele_PROPESS lançou_V a_ART campanha_N ontem_ADV em_PREP São_NPROP Paulo_NPROP ,_PU no_PREP+ART Palácio_NPROP dos_NPROP Bandeirantes_NPROP ,_PU com_PREP o_ART governador_N Luiz_NPROP Antonio_NPROP Fleury_NPROP Filho_NPROP ._END
+Fleury_NPROP disse_V que_KS o_ART Banespa_NPROP e_KC a_ART Nossa_NPROP Caixa_NPROP vão_V oferecer_V impressos_N para_PREP abaixo-assinados_N e_KC recolher_V os_ART preenchidos_PCP ._END
+Segundo_PREP a_ART assessoria_N de_PREP imprensa_N do_PREP+ART Banespa_NPROP ,_PU os_ART filmes_N serão_V veiculados_PCP em_PREP horários_N já_ADV comprados_PCP para_PREP sua_PROADJ publicidade_N no_PREP+ART rádio_N e_KC TV_N o_ART banco_N não_ADV informou_V o_ART custo_N ._END
+O_ART Hospital_NPROP do_NPROP Câncer_NPROP poderá_V não_ADV receber_V a_ART herança_N do_PREP+ART advogado_N Clementino_NPROP Sólon_NPROP de_NPROP Castro_NPROP Floripes_NPROP ,_PU 67_NUM ._END
+É_V que_KS a_ART carta_N deixada_PCP por_PREP Floripes_NPROP ,_PU manifestando_V esse_PROADJ desejo_N ,_PU não_ADV obedeceria_V os_ART requisitos_N legais_ADJ de_PREP um_ART testamento_N ._END
+O_ART advogado_N e_KC sua_PROADJ mulher_N se_PROPESS suicidaram_V anteontem_ADV após_PREP matarem_V o_ART filho_N e_KC seus_PROADJ cinco_NUM gatos_N ._END
+Todos_PROSUB morreram_V por_PREP envenenamento_N ._END
+Os_ART corpos_N foram_V achados_PCP pela_PREP+ART empregada_N doméstica_ADJ Marinalva_NPROP Borges_NPROP dos_NPROP Santos_NPROP ,_PU 23_NUM ,_PU no_PREP+ART apartamento_N da_PREP+ART família_N ,_PU na_PREP+ART rua_N Humaitá_NPROP ,_PU na_PREP+ART Bela_NPROP Vista_NPROP (_PU região_N central_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ._END
+Ele_PROPESS usou_V uma_ART caneta_N para_PREP escrever_V -la_PROPESS ._END
+Nela_PREP+PROPESS ,_PU o_ART advogado_N também_PDEN justifica_V seu_PROADJ suicídio_N ._END
+Segundo_PREP Maria_NPROP Elizabete_NPROP Morais_NPROP Marques_NPROP ,_PU 12ª_ADJ promotora_N de_PREP Justiça_NPROP da_NPROP Família_NPROP ,_PU para_PREP ter_V validade_N como_PREP testemento_N ,_PU a_ART carta_N teria_V que_KS ser_V assinada_PCP por_PREP cinco_NUM testemunhas_N ._END
+Dessas_PREP+PROSUB ,_PU três_N precisariam_V confirmar_V na_PREP+ART Justiça_N que_KS o_ART conteúdo_N da_PREP+ART carta_N era_V a_ART vontade_N do_PREP+ART advogado_N ._END
+A_ART carta_N só_PDEN tem_V a_ART assinatura_N de_PREP Floripes_NPROP ._END
+Segundo_PREP a_ART promotora_N ,_PU a_ART falta_N de_PREP testemunhas_N impede_V que_KS o_ART testamento_N seja_V aceito_PCP pelo_PREP+ART Judiciário_N ._END
+A_ART outra_PROADJ opção_N ,_PU segundo_PREP a_ART promotora_N ,_PU é_V que_KS o_ART advogado_N tenha_V feito_PCP seu_PROADJ testamento_N em_PREP algum_PROADJ cartório_N ._END
+Nesse_PREP+PROADJ caso_N ,_PU também_PDEN seria_V necessário_ADJ a_ART assinatura_N de_PREP cinco_NUM testemunhas_N para_PREP o_ART documento_N ter_V validade_N ._END
+"_PU Caso_KS a_ART carta_N não_ADV seja_V aceita_PCP como_PREP testamento_N ,_PU a_ART herança_N ficará_V com_PREP seus_PROADJ descendentes_N "_PU ,_PU afirmou_V Maria_NPROP Elizabete_NPROP ._END
+Até_PREP ontem_ADV ,_PU os_ART peritos_N não_ADV haviam_V identificado_PCP o_ART veneno_N que_PRO-KS matou_V o_ART advogado_N ,_PU sua_PROADJ mulher_N ,_PU Anna_NPROP Maria_NPROP de_NPROP Almeida_NPROP de_NPROP Souza_NPROP de_NPROP Castro_NPROP Floripes_NPROP ,_PU e_KC o_ART filho_N do_PREP+ART casal_N ,_PU Márcio_NPROP de_NPROP Almeida_NPROP de_NPROP Souza_NPROP de_NPROP Castro_NPROP Floripes_NPROP ._END
+O_ART Ministério_NPROP Público_NPROP Militar_NPROP admitiu_V que_KS o_ART cadete_N Márcio_NPROP Lapoente_NPROP da_NPROP Silveira_NPROP ,_PU 18_NUM ,_PU da_PREP+ART Academia_NPROP Militar_NPROP das_NPROP Agulhas_NPROP Negras_NPROP (_PU Aman_NPROP )_PU (_PU RJ_NPROP )_PU ,_PU morreu_V por_PREP causa_PREP de_PREP ,_PU em_PREP 90_N ._END
+O_ART MPM_NPROP comunicou_V o_ART fato_N ao_PREP+ART procurador-geral_N da_PREP+ART República_N ,_PU Aristides_NPROP Junqueira_NPROP ,_PU através_PREP de_PREP ofício_N enviado_PCP esta_PROADJ semana_N ._END
+O_ART procurador_N mandou_V uma_ART cópia_N do_PREP+ART documento_N aos_PREP+ART pais_N do_PREP+ART cadete_N ._END
+Márcio_NPROP Lapoente_NPROP morreu_V depois_PREP de_PREP um_ART teste_N de_PREP resistência_N física_ADJ ,_PU em_PREP 09_N de_PREP outubro_N de_PREP 90_N ._END
+Hoje_ADV os_ART pais_N de_PREP Márcio_NPROP têm_V reunião_N com_PREP o_ART movimento_N Tortura_NPROP Nunca_NPROP Mais_NPROP ._END
+Eles_PROPESS querem_V a_ART abertura_N de_PREP um_ART novo_ADJ inquérito_N ._END
+No_PREP+ART ofício_N enviado_PCP a_PREP Junqueira_NPROP ,_PU o_ART procurador_N militar_ADJ ,_PU Marco_NPROP Antônio_NPROP Bittar_NPROP ,_PU afirma_V que_KS o_ART cadete_N apresentou_V desgaste_N físico_ADJ durante_PREP uma_ART corrida_N de_PREP 4,5_NUM km_N ._END
+O_ART capitão_N Pessoa_NPROP impediu_V o_ART socorro_N e_KC agrediu_V o_ART cadete_N com_PREP palavrões_N e_KC chutes_N ._END
+O_ART rapaz_N foi_V levado_PCP ao_PREP+ART hospital_N e_KC morreu_V ._END
+Após_PREP um_ART tiroteio_N na_PREP+ART favela_N do_PREP+ART Jardim_NPROP Jacqueline_NPROP em_PREP que_PRO-KS o_ART PM_N Alexandre_NPROP Magno_NPROP de_NPROP Carvalho_NPROP ,_PU 24_NUM ,_PU saiu_V ferido_PCP anteontem_ADV à_PREP+ART noite_N ,_PU a_ART polícia_N prendeu_V quatro_NUM traficantes_N de_PREP maconha_N e_KC cocaína_N da_PREP+ART região_N oeste_ADJ de_PREP São_NPROP Paulo_NPROP ._END
+Carvalho_NPROP foi_V atendido_PCP no_PREP+ART PS_N do_PREP+ART hospital_N Bandeirantes_NPROP ._END
+Cerca_PREP de_PREP 50_NUM pessoas_N lincharam_V anteontem_ADV Marcelo_NPROP Nery_NPROP Chagas_NPROP ,_PU acusado_PCP de_PREP tentar_V estuprar_V uma_ART estudante_N de_PREP 13_NUM anos_N ._END
+Segundo_PREP a_ART polícia_N ,_PU este_PROSUB foi_V o_ART 12º_ADJ linchamento_N registrado_PCP no_PREP+ART Estado_N em_PREP 94_N ._END
+Chagas_NPROP atravessava_V uma_ART rua_N em_PREP Salvador_NPROP quando_KS foi_V cercado_PCP e_KC morto_PCP ._END
+A_ART polícia_N apreendeu_V ontem_ADV equipamentos_N de_PREP informática_N no_PREP+ART interior_N de_PREP um_ART Passat_NPROP ,_PU chapas_N POL_N 1439/_N SP_N ,_PU na_PREP+ART rua_N Visconde_NPROP de_NPROP Taunay_NPROP ,_PU no_PREP+ART Bom_NPROP Retiro_NPROP (_PU Centro_N )_PU ._END
+O_ART estudante_N Ricardo_NPROP dos_NPROP Santos_NPROP ,_PU 18_NUM ,_PU e_KC o_ART atendente_N Carlos_NPROP Xavier_NPROP de_NPROP Araujo_NPROP Lima_NPROP ,_PU 20_NUM ,_PU foram_V presos_PCP próximos_PREP do_PREP+ART local_N ._END
+A_ART polícia_N devolveu_V o_ART material_N à_PREP+ART empresa_N ._END
+Foi_V localizado_PCP ontem_ADV num_PREP+ART riacho_N em_PREP Costa_NPROP Barros_NPROP (_PU zona_N norte_ADJ do_PREP+ART Rio_NPROP )_PU ,_PU o_ART corpo_N de_PREP Márcio_NPROP de_NPROP Rozário_NPROP Pinho_NPROP ,_PU 17_NUM ,_PU morto_PCP durante_PREP um_ART baile_N funk_N ,_PU na_PREP+ART noite_N de_PREP domingo_N ._END
+Segundo_PREP José_NPROP Firmino_NPROP de_NPROP Souza_NPROP ,_PU pai_N de_PREP Marcos_NPROP ,_PU seu_PROADJ filho_N saiu_V de_PREP casa_N dizendo_V que_KS ia_V a_PREP um_ART baile_N no_PREP+ART clube_N Proença_NPROP ,_PU em_PREP Honório_NPROP Gurgel_NPROP (_PU zona_N norte_ADJ )_PU ,_PU perto_PREP do_PREP+ART local_N onde_ADV-KS seu_PROADJ corpo_N foi_V encontrado_PCP ._END
+da_PREP+ART 40º_ADJ DP_NPROP (_PU Honório_NPROP Gurgel_NPROP )_PU ,_PU disseram_V que_KS Pinho_NPROP teria_V sido_PCP retirado_PCP do_PREP+ART baile_N por_PREP um_ART grupo_N de_PREP homens_N ,_PU baleado_PCP e_KC atirado_PCP num_PREP+ART riacho_N que_PRO-KS passa_V pelo_PREP+ART local_N ._END
+do_PREP+ART tipo_N A_N podem_V provocar_V uma_ART variedade_N de_PREP doenças_N ,_PU da_PREP+ART simples_ADJ laringite_N à_PREP+ART septicemia_N (_PU infecção_N generalizada_PCP )_PU ._END
+Se_KS o_ART organismo_N estiver_V debilitado_PCP ou_KC ,_PU a_ART bactéria_N pode_V provocar_V uma_ART faceite_N necrotisante_ADJ -_PU doença_N que_PRO-KS obstrui_V vasos_N sanguíneos_ADJ e_KC causa_V gangrenas_N ._END
+Segundo_PREP o_ART infectologista_N Ricardo_NPROP Veronese_NPROP ,_PU 73_NUM ,_PU professor_N emérito_ADJ da_PREP+ART Faculdade_NPROP de_NPROP Medicina_NPROP da_PREP+ART USP_NPROP ,_PU é_V a_ART faceite_N necrotisante_ADJ que_PRO-KS está_V provocando_V as_ART mortes_N na_PREP+ART Inglaterra_NPROP ._END
+"_PU Veronese_NPROP diz_V que_KS as_ART bactérias_N mais_ADV destrutivas_ADJ são_V as_PROSUB que_PRO-KS sofreram_V mutações_N ,_PU provavelmente_ADV por_PREP causa_PREP do_PREP+ART uso_N excessivo_ADJ de_PREP antibióticos_N ._END
+"_PU Ainda_ADV não_ADV temos_V descrição_N científica_ADJ a_PREP respeito_N ._END
+"_PU De_PREP todo_PROADJ modo_N ,_PU Amato_NPROP diz_V o_ART Estado_N tem_V a_ART obrigação_N de_PREP investigar_V o_ART caso_N de_PREP Catanduva_NPROP ._END
+André_NPROP Lomar_NPROP ,_PU 46_NUM ,_PU diretor_N científico_ADJ do_PREP+ART Instituto_NPROP de_NPROP Infectologia_NPROP Emílio_NPROP Ribas_NPROP ,_PU diz_V que_KS bactérias_N atacadas_PCP por_PREP vírus_N sofrem_V modificações_N sempre_ADV conhecidas_PCP ._END
+Ele_PROPESS afirma_V que_KS não_ADV há_V razão_N para_PREP se_PROPESS preocupar_V com_PREP o_PROSUB que_PRO-KS vem_V ocorrendo_V na_PREP+ART Inglaterra_NPROP ._END
+Quarenta_NUM e_KC oito_NUM pessoas_N morreram_V este_PROADJ ano_N no_PREP+ART Estado_N do_PREP+ART Rio_NPROP ,_PU vítimas_N de_PREP meningite_N menigocócica_ADJ ._END
+Elas_PROPESS serão_V utilizadas_PCP no_PREP+ART combate_N à_PREP+ART doença_N no_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP ._END
+A_ART Secretaria_NPROP de_NPROP Saúde_NPROP do_NPROP Estado_NPROP prentende_V começar_V a_ART campanha_N de_PREP vacinação_N na_PREP+ART segunda_ADJ quinzena_N de_PREP setembro_N ,_PU disse_V o_ART coordenador_N da_PREP+ART secretaria_N ,_PU Fernando_NPROP Rocha_NPROP ._END
+O_ART projeto_N prevê_V a_ART vacinação_N da_PREP+ART população_N com_PREP menos_PREP de_PREP 15_NUM anos_N ,_PU estimada_PCP em_PREP cerca_PREP de_PREP 3,5_NUM milhões_N de_PREP pessoas_N ._END
+Como_KS cada_PROADJ pessoa_N precisa_V de_PREP duas_NUM doses_N da_PREP+ART vacina_N ,_PU são_V necessárias_ADJ 7_NUM milhões_N de_PREP doses_N da_PREP+ART vacina_N ,_PU usada_PCP na_PREP+ART prevenção_N dos_PREP+ART tipos_N B_N e_KC C_N da_PREP+ART doença_N ._END
+O_ART governo_N cubano_ADJ comprometeu_V -se_PROPESS a_PREP repor_V 5_NUM milhões_N de_PREP doses_N ,_PU cujos_PRO-KS prazos_N venceram_V ._END
+A_ART importação_N não_ADV ocorreu_V questionou_V -se_PROPESS ,_PU na_PREP+ART época_N ,_PU a_ART utilidade_N da_PREP+ART vacina_N para_PREP menores_N de_PREP quatro_NUM anos_N ._END
+Ela_PROPESS disse_V que_KS a_ART situação_N da_PREP+ART meningite_N é_V de_PREP "_PU hiperendemia_N "_PU -_PU estado_N intermediário_ADJ entre_PREP a_ART endemia_N e_KC a_ART epidemia_N ._END
+Baron_NPROP explicou_V que_KS na_PREP+ART endemia_N de_PREP uma_ART doença_N ocorre_V quantidade_N esperada_PCP de_PREP casos_N e_KC na_PREP+ART epidemia_N ,_PU um_ART número_N "_PU enorme_ADJ ,_PU muito_PROSUB acima_PREP do_PREP+ART previsto_PCP "_PU ._END
+Há_V uma_NUM semana_N no_PREP+ART país_N ,_PU técnicos_N do_PREP+ART Instituto_NPROP Finleay_NPROP de_NPROP Cuba_NPROP mantêm_V contato_N com_PREP a_ART Fundação_NPROP Oswaldo_NPROP Cruz_NPROP ,_PU sobre_PREP transferência_N de_PREP tecnologia_N ,_PU desde_PREP o_ART envasamento_N até_PREP a_ART produção_N da_PREP+ART vacina_N ._END
+O_ART diretor_N clínico_ADJ do_PREP+ART IMC_NPROP (_PU Instituto_NPROP de_NPROP Moléstias_NPROP Cardiovasculares_NPROP )_PU ,_PU João_NPROP Carlos_NPROP Anacleto_NPROP ,_PU disse_V através_PREP de_PREP sua_PROADJ assessoria_N de_PREP imprensa_N que_KS a_ART morte_N do_PREP+ART estudante_N Rafael_NPROP Barbosa_NPROP da_NPROP Silva_NPROP não_ADV está_V relacionada_PCP com_PREP a_ART bactéria_N do_PREP+ART tipo_N A_N ._END
+"_PU É_V pura_ADJ especulação_N relacionar_V a_ART morte_N desse_PREP+PROADJ menino_N com_PREP as_ART mortes_N ocorridas_PCP na_PREP+ART Inglaterra_NPROP "_PU ,_PU disse_V Anacleto_NPROP ._END
+O_ART garoto_N foi_V levado_PCP de_PREP Catanduva_NPROP ,_PU onde_ADV-KS morava_V ,_PU ao_PREP+ART IMC_NPROP e_KC após_PREP avaliação_N clínica_ADJ foi_V internado_PCP na_PREP+ART Beneficência_NPROP Portuguesa_NPROP de_PREP São_NPROP José_NPROP do_NPROP Rio_NPROP Preto_NPROP ._END
+Na_PREP+ART Benificência_NPROP Portuguesa_NPROP ,_PU ele_PROPESS teria_V sido_PCP atendido_PCP pela_PREP+ART médica_N Rita_NPROP Sanches_NPROP e_KC pelo_PREP+ART pediatra_N Airton_NPROP Moscardini_NPROP ._END
+Segundo_PREP os_ART médicos_N ,_PU a_ART bactéria_N do_PREP+ART grupo_N A_N é_V presente_ADJ de_PREP forma_N inofensiva_ADJ em_PREP cerca_PREP de_PREP 10_NUM %_N da_PREP+ART população_N ._END
+O_ART governo_N dos_PREP+ART EUA_NPROP começa_V a_PREP receber_V hoje_ADV cartas_N que_PRO-KS vão_V concorrer_V à_PREP+ART maior_ADJ loteria_N de_PREP vistos_N de_PREP imigração_N para_PREP o_ART país_N ._END
+Serão_V distribuídos_PCP 55_NUM mil_NUM vistos_N contra_PREP 40_NUM mil_NUM no_PREP+ART ano_N passado_PCP e_KC no_PREP+ART ano_N anterior_ADJ ,_PU o_ART primeiro_N em_PREP que_PRO-KS houve_V sorteio_N ._END
+Para_PREP os_ART latino-americanos_N são_V 2.589_NUM vagas_N ._END
+O_ART sorteio_N é_V também_PDEN conhecido_PCP como_PREP loteria_N do_PREP+ART Greencard_NPROP (_PU cartão_NPROP verde_NPROP em_PREP português_N )_PU -_PU uma_ART alusão_N à_PREP+ART cor_N original_ADJ do_PREP+ART documento_N que_PRO-KS autoriza_V estrangeiros_N a_PREP morar_V e_KC trabalhar_V no_PREP+ART país_N ._END
+Não_ADV é_V necessário_ADJ pagar_V taxas_N ,_PU contratar_V advogados_N ou_KC preencher_V formulários_N para_PREP concorrer_V ._END
+Basta_V enviar_V uma_ART carta_N simples_ADJ ,_PU escrita_PCP corretamente_ADV para_PREP o_ART DV-1_NPROP Program_NPROP ,_PU National_NPROP Visa_NPROP Center_NPROP ,_PU Portsmouth_NPROP ,_PU N.H._NPROP 00211_NUM ,_PU EUA_NPROP ._END
+Para_PREP concorrer_V ao_PREP+ART Greencard_NPROP a_ART pessoa_N deve_V ter_V 2º_ADJ grau_N completo_ADJ ou_KC ter_V pelo_PDEN menos_PDEN dois_NUM anos_N de_PREP experiência_N durante_PREP os_ART últimos_ADJ cinco_NUM anos_N em_PREP atividade_N que_PRO-KS requeira_V pelo_PDEN menos_PDEN dois_NUM anos_N de_PREP experiência_N ._END
+O_ART envelope_N deve_V ser_V do_PREP+ART tamanho_N mais_ADV comum_ADJ ,_PU entre_PREP 15,24_NUM e_KC 25,4_NUM centímetros_N de_PREP comprimento_N por_PREP uma_ART altura_N entre_PREP 8,89_NUM e_KC 11,43_NUM centímetros_N ._END
+O_ART endereço_N do_PREP+ART remetente_N deve_V ser_V datilografado_PCP ou_KC escrito_PCP em_PREP letra_N de_PREP fôrma_N no_PREP+ART canto_N superior_ADJ esquerdo_ADJ do_PREP+ART envelope_N ._END
+Pode_V ser_V de_PREP qualquer_PROADJ tamanho_N dentro_PREP desses_PREP+PROADJ limites_N ._END
+Se_KS for_V maior_ADJ ou_KC menor_ADJ ,_PU não_ADV será_V aceito_PCP pela_PREP+ART máquina_N que_PRO-KS faz_V a_ART leitura_N automática_ADJ ._END
+Dentro_PREP da_PREP+ART carta_N deve_V -se_PROPESS escrever_V em_PREP letra_N de_PREP fôrma_N ou_KC datilografar_V o_ART endereço_N e_KC nome_N completo_ADJ do_PREP+ART candidato_N ,_PU do_PREP+ART cônjuge_N e_KC dos_PREP+ART filhos_N de_PREP 21_NUM anos_N que_PRO-KS desejem_V imigrar_V ,_PU além_PREP da_PREP+ART data_N e_KC local_N de_PREP nascimento_N de_PREP cada_PROADJ um_PROSUB e_KC o_ART endereço_N de_PREP correspondência_N ._END
+O_ART último_ADJ sobrenome_N deve_V ser_V sublinhado_PCP e_KC vir_V antes_PREP do_PREP+ART prenome_N e_KC dos_PREP+ART outros_PROADJ sobrenomes_N ._END
+meses_N e_KC dias_N devem_V ser_V em_PREP inglês_N ._END
+Antes_PREP do_PREP+ART nome_N deve_V -se_PROPESS escrever_V "_PU name_N "_PU ,_PU antes_PREP do_PREP+ART nome_N do_PREP+ART cônjuge_N "_PU spouse_N "_PU e_KC antes_PREP do_PREP+ART nome_N dos_PREP+ART filhos_N "_PU children_N "_PU ._END
+Não_ADV é_V permitido_PCP mandar_V mais_PREP que_PREP uma_NUM carta_N ._END
+Quem_PRO-KS fizer_V isso_PROSUB desclassficado_PCP pelo_PREP+ART computador_N ._END
+O_ART candidato_N pode_V morar_V no_PREP+ART Brasil_NPROP e_KC não_ADV ser_V brasileiro_ADJ ,_PU desde_KS que_KS não_ADV tenha_V nacionalidade_N de_PREP um_PROSUB dos_PREP+ART países_N excluídos_PCP do_PREP+ART sorteio_N ._END
+A_ART loteria_N foi_V criada_PCP por_PREP lei_N exatamente_ADV para_PREP que_KS exista_V diversidade_N de_PREP origem_N entre_PREP os_ART imigrantes_N ._END
+No_PREP+ART primeiro_ADJ ano_N ,_PU 1991_N ,_PU não_ADV houve_V sorteio_N ._END
+Os_ART lugares_N ficaram_V para_PREP os_PROSUB que_PRO-KS mandaram_V a_ART correspondência_N antes_ADV ._END
+"_PU Isso_PROSUB provocou_V uma_ART avalanche_N nos_PREP+ART Correios_N "_PU ,_PU diz_V o_ART advogado_N David_NPROP Amtrauk_NPROP ,_PU de_PREP Los_NPROP Angeles_NPROP ,_PU que_PRO-KS trabalha_V para_PREP candidatos_N ao_PREP+ART sorteio_N ._END
+Este_PROADJ ano_N ele_PROPESS acredita_V que_KS as_ART chances_N vão_V ser_V maiores_ADJ para_PREP quem_PRO-KS se_PROPESS candidatar_V ._END
+O_ART governo_N recebeu_V 1,1_NUM milhão_N de_PREP cartas_N ._END
+Foram_V desclassificadas_PCP cerca_PREP de_PREP 230_N mil_N ,_PU o_PRO-KS que_PRO-KS deu_V uma_ART chance_N de_PREP aproximadamente_ADV 3,5_NUM %_N para_PREP cada_PROADJ um_PROSUB que_PRO-KS tentou_V ._END
+O_ART Consulado_N dos_PREP+ART EUA_NPROP em_PREP São_NPROP Paulo_NPROP não_ADV fornece_V informações_N por_PREP telefone_N sobre_PREP a_ART loteria_N do_PREP+ART Greencard_NPROP ._END
+Quem_PRO-KS for_V ao_PREP+ART consulado_N recebe_V um_ART impresso_N com_PREP as_ART informações_N contidas_PCP nesta_PREP+PROADJ reportagem_N ._END
+Pode_V -se_PROPESS também_PDEN ligar_V para_PREP 00-1-202-663-1600_N ,_PU nos_PREP+ART EUA_NPROP ,_PU 24_NUM horas_N por_PREP dia_N ._END
+Uma_ART gravação_N demora_V seis_NUM minutos_N para_PREP dar_V informações_N sobre_PREP a_ART loteria_N ._END
+A_ART ligação_N não_ADV é_V gratuita_ADJ ._END
+O_ART consulado_N não_ADV recebe_V cartas_N para_PREP o_ART sorteio_N ._END
+Só_PDEN atende_V quem_PRO-KS quiser_V tirar_V visto_N para_PREP viajar_V para_PREP os_ART EUA_NPROP ._END
+Embora_KS a_ART participação_N no_PREP+ART sorteio_N seja_V gratuita_ADJ ,_PU há_V quem_PRO-KS ganhe_V dinheiro_N com_PREP isso_PROSUB ._END
+O_ART advogado_N David_NPROP Amtrauk_NPROP ,_PU em_PREP Los_NPROP Angeles_NPROP ,_PU por_PDEN exemplo_PDEN ,_PU cobra_V US$_CUR 50_NUM para_PREP preencher_V o_ART envelope_N e_KC a_ART carta_N ._END
+Ele_PROPESS diz_V que_KS seu_PROADJ trabalho_N reduz_V a_ART chance_N de_PREP ser_V eliminado_PCP ._END
+Os_ART sorteados_N serão_V avisados_PCP pelo_PREP+ART correio_N em_PREP agosto_N ou_KC setembro_N ._END
+Antes_PREP de_PREP se_PROPESS conseguir_V o_ART visto_N ,_PU é_V necessário_ADJ uma_ART entrevista_N na_PREP+ART embaixada_N ou_KC no_PREP+ART consulado_N dos_PREP+ART EUA_NPROP ._END
+Os_ART shoppings_N e_KC lojas_N de_PREP São_NPROP Paulo_NPROP podem_V abrir_V no_PREP+ART próximo_ADJ domingo_N ,_PU de_PREP acordo_PREP com_PREP lei_N municipal_ADJ que_PRO-KS faculta_V a_ART abertura_N do_PREP+ART comércio_N nos_PREP+ART domingos_N anteriores_ADJ a_PREP datas_N comemorativas_ADJ (_PU 12_N de_PREP junho_N ,_PU Dia_NPROP dos_NPROP Namorados_NPROP )_PU ._END
+Segundo_PREP Murad_NPROP Saad_NPROP ,_PU presidente_N do_PREP+ART Sindicato_NPROP dos_NPROP Lojistas_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU deverão_V abrir_V apenas_PDEN as_ART lojas_N situadas_PCP em_PREP bairros_N movimentados_PCP nos_PREP+ART fins-de-semana_N ,_PU como_PREP Pinheiros_NPROP ,_PU Jardins_NPROP ,_PU Santo_NPROP Amaro_NPROP e_KC parte_N do_PREP+ART comércio_N da_PREP+ART Lapa_NPROP ._END
+Nos_PREP+ART shoppings_N ,_PU a_ART expectativa_N é_V de_PREP que_KS entre_PREP 80_NUM %_N e_KC 95_NUM %_N das_PREP+ART lojas_N abram_V no_PREP+ART domingo_N entre_PREP 11h_N e_KC 21h_N -_PU o_ART funcionamento_N será_V divulgado_PCP em_PREP anúncios_N em_PREP jornais_N e_KC TV_N ._END
+Ninguém_PROSUB arrisca_V ,_PU contudo_KC ,_PU previsão_N sobre_PREP as_ART vendas_N ,_PU devido_PREP à_PREP+ART proximidade_N do_PREP+ART feriado_N de_PREP Corpus_NPROP Christi_NPROP ,_PU amanhã_ADV ,_PU e_KC a_ART expectativa_N de_PREP que_KS muita_PROADJ gente_N deixe_V a_ART cidade_N ._END
+Entre_PREP os_ART shoppings_N que_PRO-KS abrirão_V no_PREP+ART domingo_N ,_PU estão_V o_ART Iguatemi_NPROP ,_PU West_NPROP Plaza_NPROP e_KC Eldorado_NPROP ._END
+Cerca_PREP de_PREP 670_NUM mil_NUM pessoas_N deverão_V chegar_V a_PREP SP_NPROP ou_KC deixar_V a_ART cidade_N pelos_PREP+ART quatro_NUM terminais_N rodoviários_ADJ da_PREP+ART cidade_N de_PREP hoje_ADV a_PREP segunda-feira_N ._END
+Nos_PREP+ART aeroportos_N ,_PU a_ART maior_ADJ procura_N é_V pelas_PREP+ART capitais_N das_PREP+ART regiões_N e_KC Nordeste_ADJ ,_PU com_PREP listas_N de_PREP espera_N para_PREP quem_PRO-KS quer_V viajar_V hoje_N à_PREP+ART noite_N ._END
+As_ART regiões_N mais_ADV afetadas_PCP devem_V ser_V a_ART capital_N e_KC o_ART litoral_N ,_PU com_PREP aumento_N da_PREP+ART nebulosidade_N de_PREP manhã_N e_KC possibilidade_N de_PREP chuvas_N à_PREP+ART noite_N ._END
+Segundo_PREP Neide_NPROP ,_PU "_PU a_ART expectativa_N é_V de_PREP que_KS essa_PROADJ área_N de_PREP instabilidade_N passe_V pelo_PREP+ART Estado_N de_PREP São_NPROP Paulo_NPROP em_PREP direção_PREP ao_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP "_PU ._END
+Com_PREP a_ART passagem_N da_PREP+ART frente_N fria_ADJ e_KC das_PREP+ART nuvens_N carregadas_PCP em_PREP direção_PREP ao_PREP+ART Rio_NPROP ,_PU prevê_V -se_PROPESS que_KS o_ART fim-de-semana_N ,_PU na_PREP+ART capital_N e_KC no_PREP+ART litoral_N ,_PU será_V de_PREP sol_N com_PREP pouca_PROADJ nebulosidade_N ._END
+Sair_V pelos_PREP+ART salões_N e_KC festas_N dançando_V rock_N ,_PU samba_N ,_PU lambada_N ,_PU bolero_N e_KC até_PDEN tango_N pode_V não_ADV ser_V muito_ADV fácil_ADJ ._END
+Mas_KC o_ART mais_ADV difícil_ADJ ,_PU segundo_PREP a_ART professora_N Celina_NPROP Santos_NPROP ,_PU é_V criar_V coragem_N para_PREP se_PROPESS matricular_V em_PREP uma_ART academia_N de_PREP dança_N de_PREP salão_N ._END
+"_PU As_ART pessoas_N formam_V pares_N com_PREP os_ART maridos_N ,_PU filhos_N ou_KC amigos_N ,_PU frequentam_V as_ART aulas_N e_KC dançam_V mais_ADV soltos_PCP nas_PREP+ART festas_N "_PU ,_PU disse_V Celina_NPROP ._END
+Entre_PREP os_ART adeptos_N de_PREP suas_PROADJ aulas_N está_V a_ART família_N da_PREP+ART apresentadora_N Sandra_NPROP Annenberg_NPROP ,_PU que_PRO-KS "_PU estuda_V "_PU dança_N de_PREP salão_N há_V mais_PREP de_PREP um_NUM ano_N ._END
+Segundo_PREP Berenice_NPROP Annenberg_NPROP ,_PU madrasta_N de_PREP Sandra_NPROP ,_PU o_ART interesse_N pelas_PREP+ART aulas_N começou_V por_PREP causa_PREP de_PREP um_ART casamento_N ._END
+"_PU Todo_N mundo_N iria_V à_PREP+ART festa_N ._END
+Ninguém_PROSUB sabia_V dançar_V ,_PU então_ADV resolvemos_V aprender_V "_PU ,_PU disse_V ._END
+Apesar_PREP de_PREP dançar_V há_V vários_PROADJ anos_N ,_PU Sandra_NPROP afirma_V que_KS resolveu_V participar_V das_PREP+ART aulas_N em_PREP família_N "_PU pela_PREP+ART diversão_N "_PU ._END
+"_PU É_V muito_ADV ver_V meu_PROADJ pai_N ,_PU que_PRO-KS sempre_ADV foi_V super_ADJ duro_N para_PREP a_ART dança_N ,_PU fazendo_V aula_N ._END
+"_PU Há_V uma_ART certa_PROADJ competição_N e_KC ,_PU às_ADV vezes_ADV ,_PU acaba_V um_PROSUB dando_V bronca_N no_PREP+ART outro_PROSUB não_ADV está_V dançando_V direito_ADJ ,_PU mas_KC tudo_PROSUB na_PREP+ART brincadeira_N "_PU ,_PU diz_V Sandra_NPROP ._END
+O_ART primeiro_ADJ curso_N dura_V dois_NUM meses_N ._END
+O_ART preço_N é_V de_PREP 20_NUM URVs_N por_PREP pessoa_N (_PU Cr$_CUR 37.520,00_NUM )_PU ._END
+Celina_NPROP Santos_NPROP -_PU telefone_N 813-0648_N ._END
+Aulas_N das_PREP+ART 19h_N às_PREP+ART 23h_N ._END
+Contador_N do_PREP+ART bicheiro_N Castor_NPROP de_NPROP Andrade_NPROP de_PREP 1985_N até_PREP o_ART mês_N passado_PCP ,_PU Ronaldo_NPROP Soares_NPROP de_NPROP Azevedo_NPROP disse_V ontem_ADV no_PREP+ART Tribunal_NPROP de_NPROP Justiça_NPROP (_PU TJ_NPROP )_PU do_PREP+ART Rio_NPROP que_KS tinha_V conhecimento_N de_PREP que_KS sete_NUM pessoas_N envolvidas_PCP no_PREP+ART escândalo_N do_PREP+ART bicho_N recebiam_V propinas_N ._END
+delas_PREP+PROPESS estão_V na_PREP+ART lista_N dos_PREP+ART 63_NUM denunciados_N pela_PREP+ART Procuradoria_NPROP de_NPROP Justiça_NPROP -_PU o_ART deputado_N estadual_ADJ José_NPROP Guilherme_NPROP Godinho_NPROP (_PU PPR-_NPROP RJ_NPROP )_PU ,_PU o_ART Sivuca_NPROP ,_PU os_ART delegados_N Hélio_NPROP Guaíba_NPROP ,_PU Idovan_NPROP Ferreira_NPROP e_KC Romeu_NPROP Diamant_NPROP e_KC o_ART inspetor_N Nelson_NPROP Duarte_NPROP ._END
+Os_ART outros_PROADJ dois_N são_V os_ART juízes_N Renato_NPROP Simoni_NPROP e_KC Nicolau_NPROP Cassiano_NPROP ,_PU que_PRO-KS estão_V sendo_V investigados_PCP pelo_PREP+ART Órgão_N Especial_ADJ do_PREP+ART TJ_NPROP ._END
+Azevedo_NPROP disse_V ter_V levado_PCP pessoalmente_ADV dinheiro_N para_PREP Simoni_NPROP ,_PU no_PREP+ART fórum_N de_PREP Bangu_NPROP ,_PU em_PREP 1986_N ._END
+O_ART contador_N também_PDEN afirmou_V que_KS nomes_N da_PREP+ART lista_N de_PREP propinas_N podem_V ter_V sido_PCP inseridos_PCP por_PREP interessados_N em_PREP ficar_V com_PREP o_ART dinheiro_N ._END
+Ele_PROPESS compareceu_V à_PREP+ART audiência_N de_PREP óculos_N escuros_ADJ e_KC com_PREP um_ART boné_N de_PREP aba_N larga_ADJ ocultando_V parte_N de_PREP seu_PROADJ rosto_N ._END
+"_PU Tenho_V medo_N porque_KC sei_V o_PRO-KS que_PRO-KS acontece_V nestas_PREP+PROADJ situações_N ._END
+Eles_PROPESS (_PU os_ART bicheiros_N )_PU matam_V "_PU ,_PU disse_V ._END
+Azevedo_NPROP pediu_V ao_PREP+ART desembargador_N Raul_NPROP Quental_NPROP -_PU relator_N do_PREP+ART processo_N no_PREP+ART -_PU TJ_NPROP a_ART saída_N do_PREP+ART auditório_N dos_PREP+ART 35_NUM denunciados_N presentes_ADJ ._END
+"_PU Apóio_V o_ART depoente_N ,_PU considerando_V que_KS outras_PROADJ testemunhas_N se_PROPESS encontram_V sequestradas_PCP ,_PU prejudicando_V a_ART obtenção_N das_PREP+ART provas_N "_PU ,_PU afirmou_V o_ART desembargador_N ._END
+A_ART tropa_N de_PREP choque_N da_PREP+ART PM_NPROP e_KC o_ART BOPE_NPROP (_PU Batalhão_NPROP de_NPROP Operações_NPROP Especiais_NPROP )_PU garantiram_V o_ART esquema_N de_PREP segurança_N no_PREP+ART depoimento_N ._END
+Azevedo_NPROP foi_V protegido_PCP pelo_PREP+ART serviço_N reservado_PCP da_PREP+ART PM_NPROP ._END
+Ele_PROPESS está_V sob_PREP proteção_N da_PREP+ART polícia_N em_PREP local_N sigiloso_ADJ ._END
+Todo_PROSUB o_ART 11º_ADJ andar_N do_PREP+ART TJ_NPROP foi_V fechado_PCP para_PREP o_ART depoimento_N ._END
+Delegado_N fala_V de_PREP "_PU atitude_N política_ADJ "_PU ._END
+A_ART falta_N de_PREP folhas_N nos_PREP+ART livros-caixa_N será_V a_ART base_N da_PREP+ART defesa_N dos_PREP+ART delegados_N denunciados_PCP por_PREP corrupção_N ativa_ADJ ._END
+Eles_PROPESS pretendem_V questionar_V a_ART autenticidade_N do_PREP+ART material_N apreendido_PCP pelo_PREP+ART MP_NPROP ._END
+O_ART desembargador_N Raul_NPROP Quental_NPROP confirmou_V que_KS o_ART livro_N caixa_N onde_ADV-KS está_V registrada_PCP a_ART contabildidade_N dos_PREP+ART bicheiros_N a_PREP partir_PREP de_PREP abril_N de_PREP 92_N tem_V folhas_N arrancadas_PCP ._END
+Muitos_PROADJ delegados_N reclamaram_V que_KS o_ART MP_NPROP teve_V uma_ART "_PU atitude_N política_ADJ "_PU no_PREP+ART caso_N ._END
+Eles_PROPESS dizem_V ter_V certeza_N de_PREP que_KS a_ART denúncia_N será_V aceita_PCP ._END
+"_PU É_V muita_PROADJ pressão_N ,_PU eles_PROPESS que_KS achar_V um_ART "_PU ,_PU afirmou_V um_ART delegado_N ,_PU que_PRO-KS não_ADV se_PROPESS identificou_V ._END
+O_ART juiz_N Renato_NPROP Simoni_NPROP foi_V procurado_PCP pela_PREP+ART Folha_NPROP ,_PU por_PREP telefone_N ,_PU ontem_ADV ,_PU às_PREP+ART 19h15_N ,_PU em_PREP sua_PROADJ casa_N em_PREP Petrópolis_NPROP (_PU RJ_NPROP )_PU ,_PU e_KC não_ADV foi_V encontrado_PCP ._END
+"_PU Eu_PROPESS ,_PU como_PREP delegado_N ,_PU não_ADV iria_V me_PROPESS sujeitar_V a_PREP isso_PROSUB "_PU ,_PU disse_V ._END
+Pilla_NPROP afirmou_V que_KS nunca_ADV teve_V contato_N com_PREP o_ART bicheiro_N Franscisco_NPROP Plumari_NPROP Junior_NPROP ,_PU o_ART "_PU Chico_NPROP da_NPROP Ronda_NPROP "_PU ._END
+O_ART nome_N dr_NPROP Pila_NPROP ._END
+"_PU apareceu_V na_PREP+ART agenda_N de_PREP Chico_NPROP da_NPROP Ronda_NPROP apreendida_PCP pela_PREP+ART Corregedoria_NPROP da_NPROP Polícia_NPROP Civil_NPROP ._END
+Ao_PREP+ART lado_N dele_PREP+PROPESS havia_V dois_NUM números_N de_PREP telefones_N do_PREP+ART Palácio_NPROP dos_NPROP Bandeirantes_NPROP ._END
+A_ART corregedoria_N ouviu_V os_ART depoimentos_N dos_PREP+ART investigados_N Waldemar_NPROP Batista_NPROP ,_PU Lécio_NPROP dos_NPROP Santos_NPROP e_KC Adjair_NPROP de_NPROP Almeida_NPROP ._END
+Seus_PROADJ nomes_N estavam_V na_PREP+ART agenda_N do_PREP+ART bicheiro_N Expedito_NPROP Peloso_NPROP ._END
+Eles_PROPESS negaram_V conhecer_V -lo_PROPESS ._END
+A_ART corregedoria_N manteve_V os_ART depoimentos_N em_PREP sigilo_N ,_PU pois_KC teriam_V "_PU informações_N valiosas_ADJ "_PU ._END
+Ele_PROPESS disse_V que_KS há_V a_ART hipótese_N de_PREP Ronaldo_NPROP ser_V mandado_PCP ao_PREP+ART exterior_N ._END
+"_PU O_ART sistema_N americano_ADJ prevê_V toda_PROADJ a_ART proteção_N a_PREP testemunhas_N ameaçadas_PCP ._END
+Biscaia_NPROP disse_V que_KS duas_NUM testemunhas_N -_PU o_ART contador_N Nélson_NPROP Leitão_NPROP e_KC a_ART digitadora_N Rosângela_NPROP -_PU desapareceram_V antes_PREP do_PREP+ART depoimento_N ._END
+O_ART procurador_N avaliou_V que_KS o_ART depoimento_N de_PREP Ronaldo_NPROP confirmou_V a_ART autenticidade_N do_PREP+ART material_N apreendido_PCP na_PREP+ART fortaleza_N de_PREP Castor_NPROP ._END
+Biscaia_NPROP falou_V de_PREP 20_NUM prestações_N de_PREP US$_CUR 25_NUM mil_NUM registradas_PCP nos_PREP+ART livros-caixa_N ._END
+Ele_PROPESS disse_V que_KS as_ART prestações_N significam_V um_ART acordo_N dos_PREP+ART bicheiros_N para_PREP sair_V da_PREP+ART cadeia_N ._END
+"_PU Alguém_PROSUB disse_V a_PREP eles_PROPESS que_KS eles_PROPESS conseguiriam_V ,_PU com_PREP aquele_PROADJ dinheiro_N ,_PU evitar_V a_ART condenação_N pela_PREP+ART juíza_N Denise_NPROP Frossard_NPROP "_PU ,_PU disse_V ._END
+O_ART Órgão_N Especial_ADJ do_PREP+ART Tribunal_NPROP de_NPROP Justiça_NPROP do_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP aprovou_V um_ART anteprojeto_N de_PREP lei_N permitindo_V a_ART reeleição_N do_PREP+ART presidente_N do_PREP+ART Tribunal_N ._END
+O_ART cargo_N de_PREP presidente_N é_V ocupado_PCP atualmente_ADV por_PREP Antônio_NPROP Carlos_NPROP Amorim_NPROP ._END
+O_ART anteprojeto_N de_PREP lei_N propõe_V a_ART alteração_N da_PREP+ART Lei_NPROP de_NPROP Organização_NPROP e_NPROP Divisão_NPROP Judiciária_NPROP ,_PU que_KS proíbe_V a_ART reeleição_N ._END
+O_ART anteprojeto_N defendeu_V a_ART reeleição_N com_PREP base_N na_PREP+ART Constituição_N de_PREP 88_N ,_PU que_PRO-KS dá_V autonomia_N aos_PREP+ART poderes_N ._END
+O_ART anteprojeto_N será_V enviado_PCP à_PREP+ART Assembléia_N Legislativa_ADJ ._END
+Se_PROPESS aprovado_PCP ,_PU vira_V lei_N e_KC entra_V para_PREP as_ART eleições_N de_PREP dezembro_N deste_PREP+PROADJ ano_N ._END
+O_ART jornalista_N Janio_NPROP de_NPROP Freitas_NPROP informou_V ontem_ADV em_PREP sua_PROADJ coluna_N na_PREP+ART Folha_NPROP que_KS a_ART mudança_N na_PREP+ART lei_N tem_V por_PREP objetivo_N propiciar_V a_ART reeleição_N de_PREP Antônio_NPROP Carlos_NPROP Amorim_NPROP ._END
+Amorim_NPROP disse_V ontem_ADV que_KS não_ADV sabe_V se_KS vai_V disputar_V a_ART reeleição_N ._END
+O_ART detetive_N Nestor_NPROP Soares_NPROP Maganinho_NPROP foi_V preso_PCP sob_PREP a_ART acusação_N de_PREP contrabandear_V armas_N ._END
+Ele_PROPESS é_V apontado_PCP em_PREP processo_N judicial_ADJ como_PREP responsável_ADJ pela_PREP+ART guarda_N e_KC distribuição_N de_PREP armas_N da_PREP+ART suposta_PCP quadrilha_N liderada_PCP pelo_PREP+ART bicheiro_N Castor_NPROP de_NPROP Andrade_NPROP ._END
+Maganinho_NPROP foi_V preso_PCP no_PREP+ART Comando_NPROP Militar_NPROP do_NPROP Leste_NPROP ,_PU anteontem_ADV à_PREP+ART noite_N ,_PU após_PREP depor_V sobre_PREP contrabando_N de_PREP armas_N ._END
+A_ART juíza_N Marilene_NPROP Soares_NPROP Reis_NPROP Franco_NPROP ,_PU da_PREP+ART 13ª_ADJ Vara_NPROP Federal_NPROP ,_PU determinou_V a_ART prisão_N em_PREP atendimento_N a_PREP pedido_N da_PREP+ART promotora_N Silvana_NPROP Góes_NPROP ._END
+Ronaldo_NPROP Soares_NPROP de_NPROP Azevedo_NPROP ,_PU 47_NUM ,_PU disse_V conhecer_V Castor_NPROP de_NPROP Andrade_NPROP desde_PREP os_ART 19_NUM anos_N ._END
+Eles_PROPESS teriam_V sido_PCP apresentados_PCP pelo_PREP+ART pai_N de_PREP Azevedo_NPROP ,_PU dono_N de_PREP uma_ART carpintaria_N que_PRO-KS prestava_V serviços_N ao_PREP+ART bicheiro_N ._END
+Após_PREP 15_NUM anos_N longe_ADV ,_PU ele_PROPESS disse_V ter_V voltado_PCP ao_PREP+ART antigo_ADJ emprego_N ,_PU primeiro_ADV como_PREP anotador_N de_PREP rua_N ,_PU depois_ADV na_PREP+ART contabilidade_N ._END
+Azevedo_NPROP disse_V ter_V trabalhado_PCP para_PREP Castor_NPROP e_KC seu_PROADJ sobrinho_N César_NPROP de_NPROP Andrade_NPROP Lima_NPROP Souto_NPROP em_PREP Guarapari_NPROP (_PU ES_NPROP )_PU e_KC Angra_NPROP dos_NPROP Reis_NPROP (_PU RJ_NPROP )_PU ,_PU onde_ADV-KS mora_V há_V cinco_NUM anos_N ._END
+As_ART denúncias_N de_PREP Azevedo_NPROP contra_PREP o_ART ex-patrão_N foram_V supostamente_ADV motivadas_PCP pelo_PREP+ART sumiço_N de_PREP US$_CUR 23_NUM mil_NUM do_PREP+ART escritório_N do_PREP+ART bicheiro_N em_PREP Angra_NPROP dos_NPROP Reis_NPROP ._END
+Azevedo_NPROP disse_V que_KS estava_V sendo_V cobrado_PCP pelo_PREP+ART desaparecimento_N do_PREP+ART dinheiro_N ._END
+Os_ART livros_N e_KC cadernos_N contábeis_ADJ apreendidos_PCP em_PREP imóveis_N de_PREP Castor_NPROP de_NPROP Andrade_NPROP são_V autênticos_ADJ ,_PU afirmou_V Ronaldo_NPROP Soares_NPROP de_NPROP Azevedo_NPROP após_PREP examinar_V -los_PROPESS por_PREP ordem_N do_PREP+ART desembargador_N Raul_NPROP Quental_NPROP ._END
+Azevedo_NPROP disse_V ter_V reconhecido_PCP nos_PREP+ART livros_N e_KC cadernos_N a_ART letra_N de_PREP Américo_NPROP Siqueira_NPROP Filho_NPROP ,_PU suposto_PCP chefe_N da_PREP+ART contabilidade_N de_PREP Castor_NPROP ,_PU e_KC de_PREP Nelson_NPROP Leitão_NPROP ,_PU outro_PROADJ contador_N ._END
+Segundo_PREP o_ART ex-contador_N ,_PU a_ART cúpula_N do_PREP+ART jogo_N do_N bicho_N mantinha_V uma_ART contabilidade_N comum_ADJ para_PREP o_ART pagamento_N de_PREP propinas_N e_KC ajudas_N em_PREP campanhas_N políticas_ADJ ._END
+O_ART livro_N de_PREP folhas_N soltas_PCP e_KC datilografadas_PCP -_PU considerado_PCP o_ART "_PU livro-mãe_N "_PU pelos_PREP+ART promotores_N -_PU ,_PU com_PREP data_N de_PREP janeiro_N de_PREP 90_N a_PREP janeiro_N de_PREP 94_N ,_PU contém_V resumos_N da_PREP+ART contabilidade_N geral_ADJ ,_PU afirmou_V Azevedo_NPROP ._END
+Aos_PREP+ART 37_NUM anos_N ,_PU o_ART advogado_N Clayton_NPROP Bichara_NPROP conta_V com_PREP uma_ART ajuda_N fundamental_ADJ para_PREP ,_PU todo_PROADJ dia_N ,_PU conseguir_V se_PROPESS levantar_V e_KC seguir_V para_PREP o_ART trabalho_N :_PU o_ART servido_PCP por_PREP sua_PROADJ mãe_N na_PREP+ART cama_N ._END
+"_PU Já_ADV morei_V sozinho_ADJ ,_PU mas_KC voltei_V ._END
+Tenho_V uma_ART suíte_N ,_PU piscina_N ,_PU sauna_N ,_PU roupa_N lavada_PCP e_KC comida_N na_PREP+ART hora_N que_PRO-KS quero_V ._END
+Aqui_ADV ,_PU tenho_V mais_PROADJ conforto_N do_KS que_KS em_PREP hotel_N ._END
+Não_ADV tenho_V por_KS que_PRO-KS sair_V "_PU ,_PU diz_V Bichara_NPROP ._END
+Trata_V -se_PROPESS de_PREP uma_ART tribo_N heterogênea_ADJ ,_PU formada_PCP por_PREP profissionais_N liberais_ADJ ,_PU comerciantes_N ,_PU músicos_N e_KC estudantes_N de_PREP pós-graduação_N ._END
+As_ART razões_N dessa_PREP+PROADJ opção_N são_V as_PROSUB mais_ADV variadas_PCP ,_PU mas_KC uma_PROSUB predomina_V :_PU os_ART pais_N parecem_V hoje_ADV mais_ADV liberais_ADJ em_PREP relação_PREP aos_PREP+ART filhos_N do_KS que_KS há_V 10_NUM ou_KC 20_NUM anos_N ._END
+"_PU Tenho_V mais_PROADJ privacidade_N morando_V com_PREP minha_PROADJ mãe_N do_KS que_KS morando_V com_PREP amigos_N "_PU ,_PU diz_V ,_PU aos_PREP+ART 42_NUM anos_N ,_PU o_ART músico_N Alberto_NPROP Marsicano_NPROP ._END
+A_ART Sabesp_NPROP vai_V interromper_V o_ART abastecimento_N de_PREP água_N para_PREP os_ART bairros_N da_PREP+ART Mooca_NPROP (_PU zona_N leste_ADJ de_PREP SP_NPROP )_PU entre_PREP 6h_N e_KC 15h_N de_PREP hoje_ADV ,_PU para_PREP fazer_V a_ART manutenção_N do_PREP+ART reservatório_N que_PRO-KS serve_V a_ART região_N ._END
+Para_PREP solicitar_V carro-pipa_N da_PREP+ART Sabesp_NPROP ,_PU ligue_V para_PREP 195_N ._END
+A_ART CET_NPROP (_PU Companhia_NPROP de_NPROP Engenharia_NPROP de_NPROP Tráfego_NPROP )_PU interdita_V hoje_ADV para_PREP reforma_N ,_PU entre_PREP 8h_N e_KC 20h_N ,_PU a_ART passagem_N de_PREP nível_N da_PREP+ART Fepasa_NPROP na_PREP+ART av_N ._END
+Senador_NPROP Teotônio_NPROP Vilela_NPROP ._END
+Perto_PREP das_PREP+ART indústrias_N de_PREP Cubatão_NPROP ,_PU em_PREP locais_N de_PREP risco_N nas_PREP+ART encostas_N da_PREP+ART Serra_NPROP do_NPROP Mar_NPROP ,_PU vivem_V mais_PREP de_PREP 20_NUM mil_NUM pessoas_N em_PREP três_NUM bairros_N chamados_PCP Cota_NPROP 95_NPROP ,_PU Cota_NPROP 200_NPROP e_KC Cota_NPROP 400_NPROP ._END
+O_ART acidente_N mais_ADV recente_ADJ foi_V no_PREP+ART último_ADJ dia_N 25_N de_PREP março_N ,_PU um_ART deslizamento_N de_PREP terra_N atingiu_V algumas_PROADJ casas_N no_PREP+ART bairro_N Cota_NPROP 200_NPROP ._END
+Foram_V construídas_PCP 11_NUM casas_N no_PREP+ART local_N onde_ADV-KS em_PREP 1985_N dez_NUM moradores_N do_PREP+ART Cota_NPROP 95_NPROP morreram_V soterrados_PCP ._END
+A_ART lavadeira_N Isaura_NPROP Maria_NPROP de_NPROP Lima_NPROP ,_PU 48_NUM ,_PU foi_V uma_PROSUB das_PREP+ART moradoras_N a_PREP construir_V sua_PROADJ casa_N no_PREP+ART local_N ._END
+"_PU A_ART água_N arrasta_V a_ART lama_N e_KC a_ART mata_N "_PU ,_PU diz_V ._END
+A_ART varanda_N da_PREP+ART casa_N do_PREP+ART carpinteiro_N Severino_NPROP dos_NPROP Ramos_NPROP Santos_NPROP desapareceu_V ,_PU levada_PCP por_PREP deslizamentos_N de_PREP terra_N ._END
+Ele_PROPESS também_PDEN construiu_V sua_PROADJ casa_N no_PREP+ART local_N do_PREP+ART acidente_N de_PREP 85_N ._END
+Hoje_ADV ,_PU menos_PREP de_PREP dois_NUM metros_N separam_V a_ART casa_N do_PREP+ART carpinteiro_N de_PREP um_ART abismo_N de_PREP cerca_PREP de_PREP 30_NUM metros_N ._END
+"_PU Não_ADV quero_V sair_V ._END
+Aqui_ADV me_PROPESS sinto_V ,_PU em_PREP outro_PROADJ lugar_N sou_V considerado_PCP maloqueiro_ADJ "_PU ,_PU disse_V ._END
+Até_PREP sexta-feira_N não_ADV houve_V resposta_N ._END
+A_ART poluição_N emitida_PCP pelas_PREP+ART indústrias_N de_PREP Cubatão_NPROP (_PU 62_NUM km_N a_PREP sudeste_N de_PREP São_NPROP Paulo_NPROP )_PU é_V apontada_PCP como_PREP uma_PROSUB das_PREP+ART maiores_ADJ causas_N dos_PREP+ART desmatamentos_N na_PREP+ART Serra_NPROP do_NPROP Mar_NPROP ._END
+Segundo_PREP a_ART assessoria_N de_PREP imprensa_N da_PREP+ART Refinaria_NPROP Presidente_NPROP Bernardes_NPROP ,_PU da_PREP+ART Petrobrás_NPROP ,_PU (_PU uma_PROSUB das_PREP+ART principais_ADJ poluentes_N )_PU :_PU "_PU não_ADV é_V provada_PCP a_ART culpa_N da_PREP+ART estatal_N "_PU ._END
+Entre_PREP as_ART principais_ADJ poluentes_N de_PREP Cubatão_NPROP ,_PU A_PREP Cosipa_NPROP não_ADV se_PROPESS manifestou_V sobre_PREP os_ART desmatamentos_N ._END
+A_ART legislação_N penal_ADJ que_PRO-KS entrou_V na_PREP+ART França_NPROP ,_PU em_PREP 1º_N de_PREP março_N último_ADJ ,_PU adota_V a_ART responsabilidade_N criminal_ADJ para_PREP as_ART pessoas_N jurídicas_ADJ -_PU empresas_N ,_PU associações_N ou_KC sociedades_N ,_PU por_PDEN exemplo_PDEN ._END
+Responsabilidade_N criminal_ADJ é_V o_ART conjunto_N das_PREP+ART condições_N exigidas_PCP em_PREP lei_N para_PREP que_KS alguém_PROSUB possa_V ter_V direitos_N ou_KC obrigações_N no_PREP+ART campo_N do_PREP+ART Direito_NPROP Penal_NPROP ._END
+As_ART penas_N previstas_PCP para_PREP os_ART vários_PROADJ delitos_N são_V :_PU multas_N que_PRO-KS chegam_V a_PREP US$_CUR 45_NUM milhões_N ,_PU interdição_N temporária_ADJ ou_KC definitiva_ADJ e_KC até_PDEN a_ART "_PU pena_N de_PREP morte_N "_PU da_PREP+ART pessoa_N jurídica_ADJ ,_PU através_PREP da_PREP+ART dissolução_N ._END
+A_ART "_PU pena_N de_PREP morte_N "_PU é_V aplicada_PCP em_PREP casos_N extremos_ADJ ,_PU quando_KS as_ART sociedades_N são_V criadas_PCP ou_KC desviadas_PCP para_PREP a_ART prática_N de_PREP crimes_N ._END
+Na_PREP+ART lista_N de_PREP contravenções_N estão_V a_ART discriminação_N racial_ADJ ,_PU a_ART injúria_N e_KC a_ART difamação_N ._END
+De_PREP acordo_PREP com_PREP a_ART nova_ADJ legislação_N ,_PU o_ART dirigente_N que_PRO-KS agir_V por_PREP sua_PROADJ conta_N ,_PU mas_KC em_PREP benefício_N da_PREP+ART pessoa_N jurídica_ADJ ,_PU também_PDEN é_V responsável_ADJ ._END
+É_V o_ART caso_N ,_PU por_PDEN exemplo_PDEN ,_PU do_PREP+ART diretor_N de_PREP empresa_N que_PRO-KS corrompe_V fiscal_N para_PREP que_KS ele_PROPESS não_ADV multe_V a_ART empresa_N ._END
+Um_PROSUB dos_PREP+ART principais_ADJ motivos_N dessa_PREP+PROADJ reforma_N na_PREP+ART lei_N francesa_ADJ é_V a_ART grande_ADJ quantidade_N de_PREP delitos_N cometidos_PCP por_PREP pessoas_N jurídicas_ADJ no_PREP+ART país_N ._END
+Outro_PROADJ argumento_N usado_PCP em_PREP favor_PREP da_PREP+ART reforma_N é_V que_KS a_ART responsabilidade_N criminal_ADJ da_PREP+ART pessoa_N jurídica_ADJ pode_V evitar_V responsabilização_N injusta_ADJ dos_PREP+ART dirigentes_N da_PREP+ART empresa_N ._END
+Mais_PROADJ um_NUM argumento_N em_PREP favor_PREP da_PREP+ART reforma_N é_V que_KS a_ART responsabilidade_N criminal_ADJ da_PREP+ART pessoal_N jurídica_ADJ permite_V ampliar_V a_ART garantia_N de_PREP indenização_N às_PREP+ART vítimas_N de_PREP crimes_N cometidos_PCP por_PREP empresas_N ._END
+Pela_PREP+ART nova_ADJ legislação_N francesa_ADJ as_ART sanções_N são_V gravadas_PCP ._END
+Em_PREP caso_N de_PREP reincidência_N (_PU prática_N repetida_PCP de_PREP crime_N )_PU pode_V haver_V a_ART unificação_N e_KC suspensão_N condicional_ADJ da_PREP+ART pena_N ._END
+"_PU Desnecessária_ADJ "_PU ._END
+No_PREP+ART direito_N brasileiro_ADJ ,_PU as_ART pessoas_N jurídicas_ADJ não_ADV responsabilizadas_PCP criminalmente_ADV ._END
+Os_ART crimes_N cometidos_PCP em_PREP benefício_N da_PREP+ART pessoas_N jurídicas_ADJ são_V de_PREP responsabilidade_N de_PREP seus_PROADJ gerentes_N ou_KC diretores_N que_PRO-KS podem_V ser_V punidos_PCP com_PREP pena_N de_PREP multa_N ou_KC prisão_N ._END
+A_ART pessoa_N jurídica_ADJ ,_PU em_PREP alguns_PROADJ casos_N ,_PU pode_V sofrer_V sanções_N na_PREP+ART esfera_N administrativa_ADJ ._END
+"_PU Estabelecer_V a_ART responsabilidade_N objetiva_ADJ de_PREP uma_ART empresa_N pode_V levar_V à_PREP+ART impunidade_N os_ART verdadeiros_ADJ autores_N do_PREP+ART delito_N ,_PU penalizando_V aqueles_PROSUB que_PRO-KS nenhuma_PROADJ relação_N tiveram_V com_PREP o_ART crime_N ,_PU inclusive_PDEN os_ART trabalhadores_N ,_PU na_PREP+ART situação_N extrema_ADJ de_PREP dissolução_N da_PREP+ART empresa_N "_PU ,_PU afirma_V Reale_NPROP Jr._NPROP ._END
+Para_PREP o_ART advogado_N criminal_ADJ Tales_NPROP Castelo_NPROP Branco_NPROP ,_PU a_ART realidade_N brasileira_ADJ é_V diferente_ADJ da_PREP+ART francesa_N ._END
+"_PU Deve_V -se_PROPESS tomar_V todos_PROADJ os_ART cuidados_N para_PREP não_ADV se_PROPESS lançar_V na_PREP+ART vala_N comum_ADJ inocentes_N e_KC culpados_N ._END
+"_PU ,_PU diz_V ._END
+"_PU No_PREP+ART direito_N francês_ADJ ,_PU onde_ADV-KS não_ADV havia_V sido_PCP equacionada_PCP de_PREP maneira_N satisfatória_ADJ a_ART problemática_N da_PREP+ART responsabilidade_N civil_ADJ ,_PU as_ART mudanças_N podem_V representar_V avanços_N no_PREP+ART sentido_N de_PREP se_PROPESS punir_V empresas_N que_PRO-KS cometem_V delitos_N "_PU ,_PU afirma_V ._END
+Para_PREP Castelo_NPROP Branco_NPROP ,_PU "_PU o_ART melhor_ADJ sistema_N é_V o_PROSUB pelo_PREP+ART Brasil_NPROP ,_PU aplica_V sanções_N de_PREP ordem_N administrativa_ADJ à_PREP+ART pessoa_N jurídica_ADJ e_KC penaliza_V na_PREP+ART área_N criminal_ADJ os_ART responsáveis_N pelo_PREP+ART fato_N "_PU ._END
+Segundo_PREP Comparato_NPROP ,_PU "_PU o_ART artigo_N 173_NUM ,_PU parágrafo_N 5º_ADJ ,_PU da_PREP+ART Constituição_N ,_PU permite_V a_ART adoção_N da_PREP+ART responsabilidade_N criminal_ADJ das_PREP+ART pessoas_N jurídicas_ADJ ,_PU desde_KS que_KS haja_V regulamentação_N legal_ADJ apropriada_PCP "_PU (_PU leia_V texto_N acima_ADV )_PU ._END
+A_ART condição_N seria_V a_ART existência_N de_PREP regulamentação_N ._END
+Para_PREP Comparato_NPROP ,_PU a_ART "_PU pena_N de_PREP morte_N "_PU à_PREP+ART pessoa_N jurídica_ADJ também_PDEN é_V possível_ADJ no_PREP+ART Brasil_NPROP ._END
+"_PU lei_N prevê_V dissolução_N de_PREP empresas_N ,_PU por_PREP abuso_N do_PREP+ART poder_N econômico_ADJ ,_PU pelo_PREP+ART Cade_N (_PU Conselho_NPROP Administrativo_NPROP de_NPROP Defesa_NPROP Econômica_NPROP )_PU "_PU ._END
+O_ART artigo_N 173_NUM ,_PU parágrafo_N 5º_ADJ ,_PU da_PREP+ART Constituição_N determina_V que_KS ,_PU além_PREP da_PREP+ART responsabilidade_N individual_ADJ dos_PREP+ART dirigentes_N da_PREP+ART empresa_N ,_PU a_ART lei_N deve_V estabelecer_V a_ART responsabilidade_N da_PREP+ART própria_PROADJ empresa_N ._END
+Os_ART jornais_N têm_V noticiado_PCP atritos_N ,_PU alguns_PROSUB bem_ADV graves_ADJ ,_PU envolvendo_V integrantes_N da_PREP+ART Polícia_NPROP Militar_NPROP e_KC da_PREP+ART Guarda_NPROP Civil_NPROP Metropolitana_NPROP de_NPROP São_NPROP Paulo_NPROP ._END
+Estaria_V certa_ADJ a_ART Guarda_NPROP Civil_NPROP Metropolitana_NPROP de_NPROP São_NPROP Paulo_NPROP ?_PU
+Tanto_KC a_ART Guarda_NPROP Civil_NPROP como_KC seus_PROADJ integrantes_N estão_V nesses_PREP+PROADJ episódios_N violando_V a_ART Constituição_NPROP Federal_NPROP ,_PU a_ART Constituição_NPROP Paulista_NPROP e_KC a_ART Lei_NPROP Orgânica_NPROP Paulistana_NPROP ._END
+É_V restrita_PCP ,_PU limitada_PCP ,_PU a_ART finalidade_N das_PREP+ART Guardas_NPROP Municipais_NPROP e_KC ,_PU como_PREP tal_PROSUB ,_PU da_PREP+ART Metropolitana_NPROP de_NPROP São_NPROP Paulo_NPROP ,_PU já_KS que_KS as_ART referidas_PCP leis_N maiores_ADJ somente_PDEN permitem_V que_KS sejam_V constituídas_PCP para_PREP a_ART proteção_N dos_PREP+ART bens_N ,_PU serviços_N e_KC instalações_N municipais_ADJ ._END
+Nada_PROSUB mais_ADV ._END
+Somente_PDEN têm_V legitimidade_N para_PREP a_ART prática_N de_PREP atos_N destinados_PCP a_PREP esses_PROADJ fins_N ._END
+À_PREP+ART Polícia_NPROP Militar_NPROP ,_PU por_PREP força_N de_PREP mandamento_N constitucional_ADJ federal_ADJ (_PU art_N ._END
+144_NUM ,_PU Parágrafo_N 5º_ADJ )_PU ,_PU cabe_V a_ART polícia_N ostensiva_ADJ e_KC a_ART preservação_N da_PREP+ART ordem_N pública_ADJ ._END
+,_PU ao_PREP deparar_V com_PREP alguma_PROADJ vítima_N do_PREP+ART arbítrio_N de_PREP guardas_N municipais_ADJ ,_PU deve_V ,_PU de_PREP ofício_N ,_PU obstar_V a_ART ilegalidade_N ,_PU tomando_V as_ART providências_N requeridas_PCP ,_PU para_PREP atender_V o_ART bem_N comum_ADJ ,_PU promover_V a_ART cidadania_N e_KC restaurar_V a_ART legalidade_N ,_PU a_ART custa_N ,_PU se_KS preciso_V ,_PU da_PREP+ART prisão_N do_PREP+ART guarda_N municipal_ADJ infrator_ADJ ._END
+Esse_PROADJ entendimento_N está_V calcado_PCP no_PREP+ART Parágrafo_N 8º_N do_PREP+ART art._N
+144_N ,_PU da_PREP+ART Constituição_NPROP Federal_NPROP :_PU "_PU Os_ART municípios_N poderão_V constituir_V guardas_N municipais_ADJ destinadas_PCP à_PREP+ART proteção_N de_PREP seus_PROADJ bens_N ,_PU serviços_N e_KC instalações_N ,_PU conforme_KS dispuser_V a_ART lei_N "_PU ._END
+Praticamente_ADV iguais_ADJ são_V as_ART regras_N que_PRO-KS versam_V essa_PROADJ matéria_N na_PREP+ART Constituição_NPROP Estadual_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU art_N ._END
+88_N )_PU ._END
+Cremos_V ter_V ,_PU em_PREP estreita_ADJ súmula_N ,_PU destacado_PCP pontos_N importantes_ADJ que_PRO-KS podem_V nortear_V a_ART retomada_N do_PREP+ART caminho_N da_PREP+ART legalidade_N ,_PU do_PREP+PRO-KS qual_PRO-KS a_ART Guarda_NPROP Civil_NPROP Metropolitana_NPROP jamais_ADV deveria_V ter_V saído_PCP ._END
+Esse_PROADJ retorno_N ,_PU ademais_PDEN ,_PU propiciará_V a_ART legalidade_N dos_PREP+ART gastos_N destinados_PCP à_PREP+ART sua_PROADJ manutenção_N ,_PU despesas_N que_PRO-KS hoje_ADV nos_PROPESS parecem_V de_PREP duvidosa_ADJ constitucionalidade_N ._END
+DIOGENES_NPROP GASPARINI_NPROP ,_PU 59_NUM ,_PU advogado_N ,_PU é_V mestre_N e_KC doutor_N em_PREP Direito_NPROP Administrativo_NPROP pela_PREP+ART Puc-SP_NPROP (_PU Pontifícia_NPROP Universidade_NPROP Católica_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU e_KC professor_N titular_ADJ da_PREP+ART Faculdade_NPROP de_NPROP Direito_NPROP de_NPROP São_NPROP Bernardo_NPROP do_NPROP Campo_NPROP ._END
+A_ART Constituição_N de_PREP 1988_N foi_V escrita_PCP com_PREP o_ART olhar_N no_PREP+ART espelho_N retrovisor_ADJ ,_PU escreveu_V José_NPROP Genoino_NPROP ,_PU nesta_PREP+PROADJ Folha_NPROP ._END
+Já_ADV havia_V sido_PCP assim_ADV ,_PU há_V um_NUM quarto_N de_PREP século_N ,_PU em_PREP Portugal_NPROP ,_PU quando_ADV-KS ruiu_V o_PRO-KS que_PRO-KS subsistia_V do_PREP+ART salazarismo_N ._END
+Era_V preciso_ADJ criar_V impedimentos_N tão_ADV fortes_ADJ ,_PU não_ADV houvesse_V risco_N de_PREP voltarem_V ditaduras_N e_KC governos_N de_PREP força_N ._END
+Logo_ADV revolucionários_N e_KC não_ADV revolucionários_N portugueses_ADJ perceberam_V que_KS impedir_V erros_N passados_PCP era_V insuficiente_ADJ ._END
+E_KC ,_PU assim_ADV ,_PU cumpriram_V etapas_N de_PREP uma_ART revisão_N que_PRO-KS ,_PU transposta_PCP para_PREP o_ART campo_N da_PREP+ART eletrônica_N ,_PU se_PROPESS diria_V equalizadora_N ,_PU eliminadora_N de_PREP distorções_N ou_KC deformações_N ._END
+O_ART Brasil_NPROP constituinte_ADJ de_PREP 88_N pressentiu_V a_ART necessidade_N do_PREP+ART mesmo_PROADJ tipo_N de_PREP reajuste_N e_KC determinou_V ,_PU no_PREP+ART ato_N das_PREP+ART disposições_N constitucionais_ADJ transitórias_ADJ ,_PU prazos_N e_KC espécies_N revisionais_ADJ admitidas_PCP ._END
+Começaria_V cinco_NUM anos_N depois_ADV ._END
+De_PREP 88_N a_PREP 93_N ,_PU sem_PREP prazo_N para_PREP terminar_V ._END
+O_ART Congresso_N resolveu_V impor_V -se_PROPESS um_ART limite_N ._END
+Pré-determinou_V o_ART final_N do_PREP+ART processo_N revisional_ADJ ,_PU em_PREP medida_N interessante_ADJ ,_PU a_ART liberdade_N de_PREP modificação_N constitucional_ADJ permitida_PCP mas_KC restrita_PCP ,_PU capaz_ADJ de_PREP quebrar_V a_ART estabilidade_N jurídica_ADJ que_PRO-KS decorre_V da_PREP+ART Carta_NPROP Magna_NPROP ,_PU com_PREP quorum_N favorecido_PCP de_PREP maioria_N absoluta_ADJ e_KC não_ADV de_PREP três_NUM quintos_N ._END
+Acontece_V ,_PU porém_KC ,_PU que_KS a_ART solução_N lusa_ADJ não_ADV serviu_V ,_PU no_PREP+ART Brasil_NPROP ._END
+Ou_KC os_ART portugueses_N foram_V mais_ADV sábios_ADJ do_KS que_KS nós_PROPESS -_PU o_PRO-KS que_PRO-KS acontece_V com_PREP frequência_N -_PU ou_KC as_ART nossas_PROADJ condições_N político-sociais_ADJ não_ADV permitiram_V ._END
+Os_ART ventos_N de_PREP 88_N reverteram_V o_ART processo_N centralizador_ADJ ,_PU que_PRO-KS marcou_V a_ART vida_N brasileira_ADJ desde_PREP 1930_N ._END
+Diminuiu_V ,_PU constante_ADJ e_KC ininterruptamente_ADV ,_PU a_ART força_N dos_PREP+ART Estados_N e_KC dos_PREP+ART municípios_N ._END
+A_PREP contar_V de_PREP 64_N ,_PU a_ART chamada_PCP tecnocracia_N ,_PU encastelada_PCP no_PREP+ART poder_N ,_PU exasperou_V a_ART centralização_N ._END
+Tudo_PROSUB dependeu_V dos_PREP+ART "_PU gênios_N do_PREP+ART Planalto_NPROP Central_NPROP ._END
+A_ART Carta_N hoje_ADV vigente_ADJ afirmou_V a_ART autonomia_N dos_PREP+ART Estados_N ._END
+Atribui_V -lhes_PROPESS maior_ADJ soma_N de_PREP recursos_N ._END
+Diminuiu_V a_ART possibilidade_N do_PREP+ART controle_N político_ADJ pela_PREP+ART presidência_N da_PREP+ART República_N ,_PU que_PRO-KS não_ADV chegou_V a_PREP perder_V a_ART chave_N do_PREP+ART cofre_N ,_PU mas_KC viu_V reduzida_PCP a_ART capacidade_N de_PREP controlar_V os_ART dinheiros_N públicos_ADJ ._END
+A_ART extensão_N dos_PREP+ART litígios_N decorrentes_ADJ dessas_PREP+PROADJ mudanças_N tornou_V impossível_ADJ ,_PU no_PREP+ART Congresso_N ,_PU a_ART composição_N equilibrada_PCP dos_PREP+ART interesses_N contrários_ADJ ._END
+No_PREP+ART imponderável_N da_PREP+ART história_N apareceu_V outro_PROADJ fator_N :_PU o_ART Congresso_N mostrou_V chagas_N da_PREP+ART imoralidade_N e_KC corrupção_N ,_PU de_PREP alienação_N quanto_PREP aos_PREP+ART melhores_ADJ interesses_N da_PREP+ART nação_N ,_PU que_PRO-KS lhe_PROPESS tiraram_V legitimidade_N para_PREP mudar_V o_ART primeiro_ADJ estatuto_N legal_ADJ do_PREP+ART país_N ._END
+Fui_V contra_PREP a_ART revisão_N ,_PU pois_KC a_PROPESS vinculei_V aos_PREP+ART limites_N da_PREP+ART forma_N e_KC do_PREP+ART sistema_N de_PREP governo_N ,_PU conforme_KS sustentei_V mais_PREP de_PREP uma_NUM vez_N ,_PU nesta_PREP+PROADJ Folha_NPROP ,_PU no_PREP+PRO-KS que_PRO-KS ,_PU aliás_PDEN ,_PU se_PROPESS evidenciou_V o_ART pluralismo_N que_PRO-KS a_PROPESS caracteriza_V ._END
+Enquanto_KS eu_PROPESS escrevia_V ,_PU com_PREP liberdade_N irrestrita_ADJ ,_PU os_ART editoriais_N opinavam_V a_PREP favor_PREP da_PREP+ART revisão_N ._END
+O_ART editorial_N de_PREP primeira_ADJ página_N na_PREP+ART última_ADJ quinta-feira_N propondo_V a_ART constituinte_N nos_PROPESS põe_V de_ADV acordo_ADV ._END
+Assinala_V ,_PU com_PREP clareza_N luminosa_ADJ ,_PU as_ART muitas_PROADJ dificuldades_N que_PRO-KS se_PROPESS pode_V esperar_V da_PREP+ART nova_ADJ revisão_N proposta_PCP ._END
+Todavia_KC ,_PU compreende_V a_ART necessidade_N de_PREP viabilizar_V o_ART reequilíbrio_N da_PREP+ART governabilidade_N do_PREP+ART Estado_N brasileiro_ADJ e_KC a_PROPESS defende_V com_PREP coragem_N e_KC determinação_N ._END
+Estamos_V ._END
+Um_ART dia_N ,_PU uma_ART amiga_N fala_V -lhe_PROPESS sobre_PREP um_ART filme_N que_PRO-KS acabou_V de_PREP rever_V ,_PU "_PU O_NPROP Expresso_NPROP da_NPROP Meia_NPROP Noite_NPROP "_PU ._END
+Um_ART filme_N terrível_ADJ :_PU narra_V os_ART sofrimentos_N de_PREP um_ART jovem_ADJ americano_N ,_PU detido_PCP por_PREP posse_N de_PREP droga_N ,_PU numa_PREP+ART prisão_N da_PREP+ART Turquia_NPROP ._END
+Fascinada_PCP ,_PU ela_PROPESS ouve_V a_ART amiga_N alongar_V -se_PROPESS nos_PREP+ART sombrios_ADJ detalhes_N desse_PREP+PROADJ calvário_N :_PU porque_KC é_V um_ART verdadeiro_ADJ inferno_N ,_PU a_ART prisão_N ,_PU é_V uma_ART coisa_N indescritível_ADJ ._END
+Meses_N depois_ADV ,_PU um_ART homem_N procura_V -a_PROPESS ._END
+Tem_V um_ART negócio_N a_PREP propor_V :_PU que_KS ela_PROPESS seja_V a_ART portadora_N de_PREP uma_ART valiosa_ADJ encomenda_N que_PRO-KS tem_V de_PREP ser_V entregue_PCP no_PREP+ART exterior_N ._END
+Onde_ADV ,_PU ela_PROPESS pergunta_V ,_PU e_KC o_ART homem_N ,_PU depois_PREP de_PREP de_PREP hesitar_V :_PU -_PU Na_PREP+ART Turquia_NPROP ._END
+Ela_PROPESS aceita_V :_PU sabe_V que_KS ,_PU de_PREP alguma_PROADJ forma_N ,_PU seu_PROADJ destino_N está_V traçado_PCP ._END
+pergunta_V o_PRO-KS que_PRO-KS é_V a_ART encomenda_N ,_PU nem_KC está_V muito_ADV interessada_PCP na_PREP+ART resposta_N :_PU sabe_V que_KS o_ART homem_N ,_PU de_PREP qualquer_PROADJ jeito_N vai_V mentir_V ._END
+,_PU ele_PROPESS diz_V ,_PU e_KC ela_PROPESS dá_V -se_PROPESS por_PREP satisfeita_PCP :_PU jóias_N é_V uma_ART boa_ADJ resposta_N ._END
+Tão_ADV boa_ADJ qualquer_PROADJ outra_PROSUB ,_PU para_PREP quem_PROSUB tem_V ,_PU de_PREP alguma_PROADJ forma_N ,_PU o_ART destino_N traçado_PCP ._END
+Há_V um_ART policial_N particularmente_ADV diligente_ADJ na_PREP+ART revista_N ;_PU ela_PROPESS sabe_V que_KS este_PROSUB será_V o_PRO-KS que_PRO-KS se_PROPESS dirigirá_V a_PREP ela_PROPESS ._END
+O_ART policial_N despacha_V um_ART passageiro_N ,_PU olha_V ao_PREP+ART redor_N ._END
+Aparentemente_ADV está_V satisfeito_PCP ,_PU talvez_ADV seja_V até_PDEN a_ART hora_N de_PREP seu_PROADJ descanso_N ._END
+Mas_KC então_ADV avista_V -a_PROPESS e_KC os_ART olhares_N se_PROPESS cruzam_V ;_PU e_KC depois_PREP de_PREP uma_ART breve_ADJ vacilação_N ele_PROPESS vem_V na_PREP+ART direção_N dela_PREP+PROPESS ._END
+Homem_N experiente_ADJ ,_PU ele_PROPESS não_ADV tarda_V a_PREP encontrar_V o_ART pacote_N ._END
+Pergunta_V o_PRO-KS que_PRO-KS contém_V ,_PU e_KC como_KS ela_PROPESS não_ADV responde_V ,_PU abre_V -o_PROPESS ._END
+Ali_ADV está_V ,_PU o_ART pó_N branco_ADJ ._END
+O_ART policial_N prova_V -_PU apenas_PDEN por_PREP desencargo_N de_PREP conciência_N uma_ART pitada_N e_KC sorri_V :_PU nunca_ADV fez_V uma_ART prisão_N tão_ADV fácil_ADJ ._END
+ela_PROPESS ,_PU não_ADV se_PROPESS incomoda_V ._END
+Desde_KS que_KS ouviu_V a_ART história_N do_PREP+ART "_PU Expresso_NPROP da_NPROP Meia-Noite_NPROP "_PU ,_PU sabe_V que_KS seu_PROADJ destino_N está_V ,_PU de_PREP alguma_PROADJ forma_N ,_PU traçado_PCP ._END
+Não_ADV quer_V perder_V o_ART trem_N que_PRO-KS a_PROPESS aguarda_V ._END
+Roberto_NPROP ,_PU 33_NUM ,_PU diz_V que_KS tem_V liberdade_N ,_PU mas_KC '_PU não_ADV dá_V para_PREP transar_V no_PREP+ART sofá_N '_PU ;_PU estudante_N teme_V '_PU infantilização_N '_PU ._END
+Aos_PREP+ART 42_NUM anos_N ,_PU o_ART citarista_N Alberto_NPROP Marsicano_NPROP só_PDEN vê_V um_ART grande_ADJ problema_N em_PREP morar_V na_PREP+ART mesma_PROADJ casa_N que_PRO-KS sua_PROADJ mãe_N :_PU "_PU Não_ADV posso_V tocar_V cítara_N à_PREP+ART noite_N "_PU ,_PU diz_V ._END
+Ainda_PDEN assim_PDEN ,_PU o_ART músico_N está_V bastante_ADV satisfeito_PCP ._END
+"_PU Tenho_V uma_ART ótima_ADJ relação_N com_PREP a_ART minha_PROADJ mãe_N ._END
+O_ART segredo_N de_PREP Marsicano_NPROP passar_V longas_ADJ temporadas_N na_PREP+ART Índia_NPROP ,_PU aprofundando_V os_ART seus_PROADJ conhecimentos_N musicais_ADJ ._END
+"_PU Se_KS eu_PROPESS ficasse_V o_ART tempo_N todo_PROADJ aqui_ADV seria_V mais_ADV difícil_ADJ ._END
+A_ART mãe_N do_PREP+ART músico_N ,_PU Sonia_NPROP ,_PU 63_NUM ,_PU não_ADV vê_V motivos_N para_PREP mudar_V essa_PROADJ situação_N ._END
+"_PU Toda_PROADJ mãe_N gosta_V de_PREP ter_V o_ART filho_N em_PREP casa_N ._END
+Aos_PREP+ART 33_NUM anos_N ,_PU o_ART artista_N gráfico_ADJ Roberto_NPROP Emílio_NPROP Nejme_NPROP dá_V a_ART sua_PROADJ receita_N :_PU "_PU O_ART fundamental_N respeitar_V os_ART pais_N ._END
+Não_ADV transar_V no_PREP+ART sofá_N ,_PU por_PDEN exemplo_PDEN ,_PU ajuda_V "_PU ,_PU diz_V ._END
+Nejme_NPROP já_ADV saiu_V de_PREP casa_N duas_NUM vezes_N ,_PU durante_PREP dois_NUM casamentos_N ,_PU e_KC só_PDEN pensa_V em_PREP sair_V novamente_ADV voltar_V a_PREP casar_V ._END
+"_PU Me_PROPESS dou_V muito_ADV bem_ADV com_PREP eles_PROPESS ,_PU tenho_V mordomia_N ,_PU roupa_N lavada_PCP e_KC liberdade_N ._END
+Como_PREP outros_PROADJ trintões_N que_PRO-KS usufruem_V da_PREP+ART casa_N dos_PREP+ART pais_N ,_PU Nejme_NPROP contribui_V com_PREP algumas_PROADJ despesas_N do_PREP+ART lar_N ._END
+"_PU Timing_N "_PU ._END
+A_ART estilista_N Silvia_NPROP Lucchi_NPROP voltou_V a_PREP morar_V com_PREP seus_PROADJ pais_N há_V um_NUM ano_N depois_PREP de_PREP 12_NUM anos_N fora_PREP de_PREP casa_N ._END
+Aos_PREP+ART 34_NUM anos_N ,_PU ela_PROPESS enfrenta_V a_ART situação_N com_PREP algum_PROADJ embaraço_N ._END
+Silvia_NPROP explica_V o_ART seu_PROADJ segredo_N :_PU "_PU Só_PDEN tem_V uma_ART regra_N básica_ADJ :_PU muito_ADV bom_ADJ humor_N ._END
+falta_V ,_PU dá_V confusão_N "_PU ,_PU diz_V ._END
+Isso_PROSUB ocorre_V de_PREP manhã_N :_PU "_PU Eu_PROPESS gosto_V de_PREP acordar_V ,_PU levantar_V e_KC passar_V duas_NUM horas_N sem_PREP falar_V nada_PROSUB ._END
+Meu_PROADJ pai_N gosta_V de_PREP acordar_V cantando_V ._END
+À_PREP+ART noite_N ,_PU quando_ADV-KS estou_V animada_PCP ,_PU ele_PROPESS está_V cansado_PCP ._END
+Nosso_PROADJ timing_N biológico_ADJ é_V diferente_ADJ "_PU ._END
+de_PREP chapéus_N e_KC bolsas_N ,_PU Silvia_NPROP se_PROPESS mudou_V para_PREP a_ART casa_N dos_PREP+ART pais_N junto_PREP com_PREP seu_PROADJ ateliê_N ._END
+"_PU Onde_ADV eu_PROPESS vou_V ,_PU ele_PROPESS vai_V atrás_ADV "_PU ._END
+Mas_KC os_ART pais_N parecem_V não_ADV se_PROPESS incomodar_V :_PU "_PU Acho_V que_KS eles_PROPESS estavam_V com_PREP uma_ART vontade_N grande_ADJ de_PREP me_PROPESS ter_V mais_ADV perto_ADV "_PU ,_PU diz_V ._END
+O_ART estudante_N tem_V uma_ART teoria_N a_PREP respeito_N das_PREP+ART pessoas_N que_PRO-KS ,_PU na_PREP+ART sua_PROADJ idade_N ,_PU ainda_ADV vivem_V com_PREP os_ART pais_N :_PU "_PU Sem_PREP querer_V ,_PU você_PROPESS fica_V um_ADV pouco_ADV infantilizado_PCP ,_PU mimado_PCP ._END
+Não_ADV pelos_PREP+ART pais_N ,_PU mas_KC pela_PREP+ART própria_PROADJ situação_N ,_PU que_PRO-KS é_V um_ADV pouco_ADV irreal_ADJ ._END
+"_PU Tenho_V um_ART espaço_N totalmente_ADV íntimo_ADJ ._END
+Posso_V levar_V a_ART namorada_N para_PREP casa_N ._END
+Mas_KC sou_V uma_ART pessoa_N relativamente_ADV comportada_PCP "_PU ,_PU diz_V ._END
+o_ART personagem_N Geraldão_NPROP ,_PU do_PREP+ART cartunista_N Glauco_NPROP ,_PU o_ART estudante_N convive_V com_PREP um_ART dilema_N :_PU "_PU Não_ADV que_KS os_ART meus_PROADJ pais_N gostem_V que_KS eu_PROPESS more_V com_PREP eles_PROPESS ._END
+Mas_KC ,_PU aparentemente_ADV ,_PU não_ADV desgostam_V ._END
+Tenho_V colegas_N que_PRO-KS já_ADV levaram_V indiretas_N dos_PREP+ART pais_N ._END
+O_ART advogado_N Clayton_NPROP Bichara_NPROP tem_V um_ART amigo_N ,_PU também_PDEN na_PREP+ART faixa_N dos_PREP+ART 30_N ,_PU que_PRO-KS alugou_V um_ART apartamento_N ,_PU mobiliou_V -o_PROPESS ,_PU pagou_V o_ART aluguel_N por_PREP um_NUM ano_N ,_PU mas_KC jamais_ADV se_PROPESS mudou_V da_PREP+ART casa_N dos_PREP+ART pais_N ._END
+O_ART próprio_PROADJ Clayton_NPROP anuncia_V o_ART plano_N de_PREP alugar_V um_ART apartamento_N no_PREP+ART centro_N ,_PU onde_ADV-KS trabalha_V ,_PU para_PREP facilitar_V a_ART sua_PROADJ vida_N ._END
+Mas_KC sempre_KS que_KS se_PROPESS lembra_V de_PREP sua_PROADJ mãe_N levando_V café-da-manhã_N na_PREP+ART cama_N ,_PU Clayton_NPROP desanima_V da_PREP+ART idéia_N ._END
+"_PU Tenho_V serviço_N de_PREP hotel_N mesmo_PDEN "_PU ,_PU diz_V o_ART advogado_N ._END
+A_ART Prodam_NPROP ,_PU empresa_N da_PREP+ART Prefeitura_N de_PREP São_NPROP Paulo_NPROP ,_PU paga_V salários_N para_PREP pelo_PDEN menos_PDEN seis_NUM funcionários_N que_PRO-KS trabalham_V na_PREP+ART sede_N do_PREP+ART PPR_NPROP -_PU partido_N do_PREP+ART prefeito_N Paulo_NPROP Maluf_NPROP -_PU fazendo_V serviços_N administrativos_ADJ ._END
+A_ART Prodam_NPROP (_PU Companhia_NPROP de_NPROP Processamento_NPROP de_NPROP Dados_NPROP do_NPROP Município_NPROP )_PU é_V uma_ART empresa_N pública_ADJ ,_PU mantida_PCP com_PREP dinheiro_N do_PREP+ART contribuinte_N paulistano_ADJ ._END
+Ela_PROPESS presta_V serviços_N de_PREP informática_N para_PREP toda_PROADJ a_ART prefeitura_N ._END
+Os_ART funcionários_N pagos_PCP pela_PREP+ART Prodam_NPROP e_KC que_PRO-KS trabalham_V para_PREP o_ART PPR_NPROP ganham_V salários_N em_PREP torno_PREP de_PREP 450_NUM URVs_N (_PU cerca_PREP de_PREP Cr$_CUR 586_NUM mil_NUM )_PU ._END
+Trabalham_V na_PREP+ART sede_N do_PREP+ART partido_N ,_PU na_PREP+ART avenida_N Santo_NPROP Amaro_NPROP nº_N ._END
+"_PU São_V assessores_N políticos_ADJ ,_PU eles_PROPESS ficam_V aqui_ADV e_KC fazem_V levantamentos_N e_KC contatos_N "_PU ,_PU afirmou_V Yunes_NPROP ._END
+Ivone_NPROP Dias_NPROP ,_PU responsável_ADJ pelo_PREP+ART pessoal_N que_PRO-KS trabalha_V na_PREP+ART sede_N do_PREP+ART partido_N ,_PU informou_V que_KS os_ART funcionários_N da_PREP+ART Prodam_NPROP fazem_V serviços_N administrativos_ADJ para_PREP o_ART partido_N ._END
+O_ART diretor_N administrativo_ADJ da_PREP+ART Prodam_NPROP ,_PU Sérgio_NPROP Matheus_NPROP ,_PU disse_V na_PREP+ART última_ADJ quinta-feira_N não_ADV poder_V confirmar_V onde_ADV-KS trabalhavam_V os_ART seis_NUM funcionários_N e_KC que_KS não_ADV tinha_V como_ADV-KS fornecer_V uma_ART lista_N de_PREP empregados_N ._END
+"_PU Por_PREP segurança_N a_ART diretoria_N não_ADV possui_V senha_N de_PREP acesso_N ao_PREP+ART computador_N ._END
+O_ART diretor_N do_PREP+ART SINDPD_NPROP (_PU Sindicato_NPROP dos_NPROP Funcionários_NPROP das_NPROP Empresas_NPROP de_NPROP Processamento_NPROP de_NPROP Dados_NPROP )_PU ,_PU Oscar_NPROP Nolf_NPROP ,_PU diz_V que_KS "_PU isso_PROSUB é_V uma_ART mostra_N de_PREP como_KS fazer_V cabide_N de_PREP emprego_N "_PU ._END
+Segundo_PREP o_ART sindicalista_N ,_PU "_PU os_ART funcionários_N técnicos_ADJ foram_V demitidos_PCP da_PREP+ART Prodam_NPROP para_PREP dar_V vagas_N aos_PREP+ART amigos_N do_PREP+ART prefeito_N "_PU ._END
+Os_ART seis_NUM funcionários_N que_PRO-KS trabalham_V no_PREP+ART PPR_NPROP e_KC são_V pagos_PCP pela_PREP+ART Prodam_NPROP são_V :_PU Sandra_NPROP Maria_NPROP Paz_NPROP Olivo_NPROP ,_PU Ariovaldo_NPROP Passos_NPROP Soares_NPROP ,_PU José_NPROP Alves_NPROP Braga_NPROP ,_PU Jorge_NPROP Ribas_NPROP de_NPROP Oliveira_NPROP Filho_NPROP ,_PU Silvio_NPROP Ferreira_NPROP e_KC Sueli_NPROP de_NPROP Souza_NPROP Nunes_NPROP Ivamoto_NPROP ._END
+O_ART prefeito_N Paulo_NPROP Maluf_NPROP não_ADV quis_V se_PROPESS pronunciar_V sobre_PREP os_ART funcionários_N contratados_PCP pela_PREP+ART Prodam_NPROP que_PRO-KS trabalham_V para_PREP seu_PROADJ partido_N ._END
+Ele_PROPESS disse_V que_KS não_ADV poderia_V atender_V e_KC indicou_V o_ART diretor_N administrativo_ADJ da_PREP+ART empresa_N ._END
+A_ART assessoria_N de_PREP imprensa_N de_PREP Maluf_NPROP informou_V ontem_ADV que_KS Faria_NPROP Lima_NPROP é_V quem_PRO-KS deveria_V se_PROPESS pronunciar_V sobre_PREP os_ART funcionários_N que_PRO-KS não_ADV trabalham_V na_PREP+ART empresa_N ._END
+Ontem_ADV ,_PU ele_PROPESS foi_V procurado_PCP pela_PREP+ART manhã_N e_KC pela_PREP+ART tarde_N ._END
+Sua_PROADJ secretária_N informou_V que_KS ele_PROPESS tinha_V compromissos_N e_KC que_KS não_ADV poderia_V falar_V ._END
+admite_V usar_V a_ART Prodam_NPROP para_PREP contratar_V funcionários_N para_PREP o_ART seu_PROADJ gabinete_N ._END
+Segundo_PREP um_ART levantamento_N do_PREP+ART SINDPD_NPROP ,_PU 137_NUM funcionários_N da_PREP+ART Prodam_NPROP prestam_V serviços_N no_PREP+ART gabinete_N do_PREP+ART prefeito_N ._END
+A_ART soma_N de_PREP seus_PROADJ salários_N mensais_ADJ é_V de_PREP 174.088,42_NUM URVs_N ._END
+O_ART verador_N Francisco_NPROP Whitaker_NPROP (_PU PT_NPROP )_PU afirmou_V que_KS vai_V entrar_V com_PREP uma_ART ação_N popular_ADJ contra_PREP o_ART prefeito_N Paulo_NPROP Maluf_NPROP por_PREP causa_PREP da_PREP+ART lista_N de_PREP funcionários_N da_PREP+ART Prodam_NPROP que_PRO-KS não_ADV trabalham_V para_PREP a_ART empresa_N ._END
+Segundo_PREP Whitaker_NPROP ,_PU a_ART contratação_N de_PREP funcionários_N pela_PREP+ART empresa_N para_PREP prestar_V serviço_N em_PREP outros_PROADJ departamentos_N é_V ilegal_ADJ ._END
+Até_PREP o_ART fechamento_N do_PREP+ART balanço_N de_PREP março_N a_ART Prodam_NPROP tinha_V 1.224_NUM funcionários_N ._END
+Desses_PREP+PROSUB ,_PU 404_N prestam_V serviços_N fora_PREP da_PREP+ART empresa_N ._END
+Segundo_PREP o_ART diretor_N administrativo_ADJ da_PREP+ART empresa_N ,_PU Sérgio_NPROP Matheus_NPROP ,_PU "_PU a_ART situação_N é_V normal_ADJ "_PU ._END
+Matheus_NPROP afirma_V que_KS a_ART Prodam_NPROP empresta_V funcionários_N especializados_PCP em_PREP informática_N para_PREP vários_PROADJ departametos_N da_PREP+ART prefeitura_N ._END
+"_PU Os_ART departamentos_N pagam_V para_PREP a_ART Prodam_NPROP o_ART valor_N correspondente_ADJ aos_PREP+ART salários_N dos_PREP+ART funcionários_N "_PU ,_PU diz_V o_ART diretor_N da_PREP+ART empresa_N ._END
+Ao_PREP+ART contrário_N do_PREP+PROSUB que_PRO-KS diz_V o_ART Matheus_NPROP ,_PU o_ART próprio_PROADJ balanço_N de_PREP março_N da_PREP+ART Prodam_NPROP mostra_V que_KS a_ART prefeitura_N não_ADV pagou_V pelos_PREP+ART funcionários_N que_PRO-KS foram_V "_PU emprestados_PCP "_PU ._END
+O_ART salário_N médio_ADJ dos_PREP+ART funcionários_N da_PREP+ART Prodam_NPROP é_V de_PREP 1.085_NUM URVs_N ._END
+O_ART valor_N da_PREP+ART dívida_N da_PREP+ART prefeitura_N daria_V para_PREP pagar_V ,_PU pelo_PREP+ART salário_N médio_ADJ ,_PU 333_NUM funcionários_N por_PREP um_NUM ano_N ._END
+Uma_ART mulher_N de_PREP 23_NUM anos_N foi_V declarada_PCP culpada_PCP e_KC condenada_PCP a_PREP dois_NUM anos_N de_PREP cadeia_N ,_PU em_PREP Londres_NPROP ,_PU depois_PREP de_PREP ter_V prendido_PCP a_ART sua_PROADJ filha_N de_PREP 4_NUM meses_N num_PREP+ART saco_N plástico_ADJ e_KC a_PROPESS deixado_PCP num_PREP+ART contêiner_N de_PREP lixo_N ._END
+A_ART mãe_N alegou_V que_KS só_PDEN queria_V um_ADV pouco_ADV de_PREP paz_N e_KC silêncio_N e_KC que_KS a_ART criança_N estava_V chorando_V muito_ADV ._END
+Segundo_PREP a_ART Justiça_N de_PREP Londres_NPROP ,_PU a_ART criança_N só_PDEN sobreviveu_V porque_KS uma_ART vizinha_N escutou_V "_PU sons_N estranhos_ADJ "_PU vindos_PCP de_PREP uma_ART área_N comunitária_ADJ ._END
+O_ART psiquiatra_N que_PRO-KS examinou_V a_ART mulher_N ,_PU que_PRO-KS não_ADV foi_V identificada_PCP ,_PU concluiu_V que_KS ela_PROPESS é_V sã_ADJ e_KC inteligente_ADJ ._END
+maioria_N absoluta_ADJ das_PREP+ART crianças_N americanas_ADJ com_PREP menos_PREP de_PREP três_NUM anos_N de_PREP idade_N passa_V a_ART maior_ADJ parte_N do_PREP+ART tempo_N em_PREP ambientes_N que_PRO-KS podem_V comprometer_V seu_PROADJ desenvolvimento_N intelectual_ADJ e_KC emocional_ADJ ._END
+A_ART idade_N de_PREP três_NUM anos_N foi_V tomada_PCP como_PREP fronteira_N para_PREP a_ART pesquisa_N a_ART evidência_N científica_ADJ disponível_ADJ mostra_V que_KS os_ART 36_NUM primeiros_ADJ meses_N de_PREP vida_N humana_ADJ determinam_V a_ART estrutura_N do_PREP+ART cérebro_N e_KC a_ART capacidade_N de_PREP aprender_V ._END
+Cerca_PREP de_PREP três_NUM milhões_N de_PREP crianças_N nessa_PREP+PROADJ faixa_N etária_ADJ (_PU um_NUM quarto_N do_PREP+ART total_N )_PU vivem_V na_PREP+ART pobreza_N nos_PREP+ART EUA_NPROP ._END
+Mais_PREP da_PREP+ART metade_N do_PREP+ART total_N passa_V o_ART dia_N sem_PREP a_ART mãe_N nem_KC o_ART pai_N em_PREP casa_N os_ART dois_N trabalham_V fora_ADV ._END
+Nos_PREP+ART EUA_NPROP as_ART empresas_N não_ADV têm_V obrigação_N de_PREP oferecer_V assistência_N aos_PREP+ART filhos_N de_PREP seus_PROADJ funcionários_N e_KC o_ART Estado_N só_PDEN provê_V educação_N pré-escolar_ADJ para_PREP crianças_N entre_PREP 5_NUM e_KC 7_NUM anos_N de_PREP idade_N ._END
+Até_PREP 1993_N ,_PU mulheres_N não_ADV tinham_V direito_N a_PREP qualquer_PROADJ período_N de_PREP licença_N de_PREP seus_PROADJ empregos_N ._END
+Agora_ADV ,_PU está_V em_ADV vigor_ADV lei_N assinada_PCP pelo_PREP+ART presidente_N Clinton_NPROP que_PRO-KS lhes_PROPESS dá_V três_NUM meses_N de_PREP licença_N não_ADV remunerada_PCP após_PREP o_ART parto_N ._END
+Até_PDEN no_PREP+ART aspecto_N de_PREP saúde_N física_ADJ ,_PU a_ART situação_N da_PREP+ART maioria_N das_PREP+ART crianças_N nos_PREP+ART EUA_NPROP é_V ruim_ADJ :_PU 60_NUM %_N delas_PREP+PROPESS não_ADV tomaram_V as_ART vacinas_N recomendadas_PCP indispensáveis_ADJ até_PREP a_ART idade_N de_PREP três_NUM anos_N pelos_PREP+ART médicos_N ._END
+A_ART imunização_N contra_PREP as_ART principais_ADJ doenças_N infantis_ADJ é_V obrigatória_ADJ ._END
+Mas_KC os_ART postos_N de_PREP saúde_N públicos_ADJ só_PDEN as_PROPESS aplicam_V nas_PREP+ART crianças_N quando_ADV solicitados_PCP pelos_PREP+ART pais_N ._END
+,_PU as_ART vacinas_N são_V dadas_PCP em_PREP consultórios_N particulares_ADJ ._END
+O_ART relatório_N da_PREP+ART Carnegie_NPROP faz_V várias_PROADJ recomendações_N ._END
+A_ART principal_N delas_PREP+PROPESS é_V que_KS empresas_N e_KC governos_N se_PROPESS unam_V para_PREP que_KS todas_PROADJ as_ART crianças_N de_PREP três_NUM anos_N possam_V passar_V o_ART dia_N em_PREP ambiente_N que_PRO-KS estimule_V sua_PROADJ inteligência_N ._END
+O_ART Diário_NPROP Oficial_NPROP da_NPROP China_NPROP afirmou_V que_KS a_ART mudança_N na_PREP+ART política_N estudantil_ADJ tentar_V manter_V alto_ADJ o_ART nível_N de_PREP educação_N do_PREP+ART país_N ._END
+Sorteio_N De_PREP Logus_NPROP -_PU ,_PU na_PREP+ART rod_N ._END
+Castelo_NPROP Branco_NPROP ,_PU vai_V sortear_V um_ART Logus_NPROP Cl_NPROP 1.8_N no_PREP+ART Dia_NPROP das_NPROP Mães_NPROP ._END
+Para_PREP participar_V ,_PU os_ART consumidores_N devem_V trocar_V notas_N de_PREP compras_N por_PREP cupons_N ._END
+A_PREP cada_PROADJ Cr$_CUR 20_NUM mil_NUM gastos_PCP ,_PU o_ART consumidor_N ganha_V um_ART cupom_N ._END
+O_ART sorteio_N será_V no_PREP+ART dia_N 30_N de_PREP maio_N às_PREP+ART 14h_N ._END
+Os_ART cupons_N podem_V ser_V depositados_PCP até_PREP às_PREP+ART 12h_N desse_PREP+PROADJ dia_N ._END
+A_ART Carnegie_NPROP Foundation_NPROP é_V uma_ART entidade_N filantrópica_ADJ que_PRO-KS tem_V se_PROPESS dedicado_PCP em_PREP especial_ADV a_PREP construir_V e_KC manter_V 3.000_NUM blbliotecas_N públicas_ADJ nos_PREP+ART EUA_NPROP ._END
+O_ART estudo_N "_PU Pontos_NPROP de_NPROP Partida_NPROP Enfrentando_NPROP as_NPROP Necessidades_NPROP de_NPROP Nossas_NPROP Crianças_NPROP Mais_NPROP Jovens_NPROP :_PU "_PU foi_V seu_PROADJ primeiro_ADJ esforço_N na_PREP+ART educação_N pré-escolar_ADJ ._END
+Entre_PREP as_ART pessoas_N que_PRO-KS participaram_V do_PREP+ART grupo_N que_PRO-KS realizou_V a_ART pesquisa_N estão_V o_ART médico_N Jonas_NPROP Salk_NPROP ,_PU o_ART atual_ADJ secretário_N da_PREP+ART Educação_N dos_PREP+ART EUA_NPROP ,_PU Richard_NPROP Riley_NPROP ,_PU e_KC o_ART presidente_N da_PREP+ART Northern_NPROP Telecom_NPROP ,_PU Owen_NPROP Butler_NPROP ._END
+A_ART Carnegie_NPROP patrocinar_V o_ART estudo_N depois_KS que_KS cientistas_N das_PREP+ART áreas_N de_PREP biologia_N molecular_ADJ e_KC neurologia_N conseguiram_V provar_V que_KS as_ART experiências_N infantis_ADJ até_PREP os_ART três_NUM anos_N influenciam_V de_PREP forma_N decisiva_ADJ como_PRO-KS as_ART células_N cerebrais_ADJ vão_V se_PROPESS desenvolver_V e_KC quantas_PROADJ conexões_N existirão_V entre_PREP eles_PROPESS ._END
+Os_ART cientistas_N descobriram_V que_KS quando_ADV o_ART cérebro_N amadurece_V os_ART neurônios_N subutilizados_PCP e_KC as_ART conexões_N não_ADV ativadas_PCP nos_PREP+ART primeiros_ADJ 36_NUM meses_N são_V naturalmente_ADV "_PU podados_PCP "_PU ._END
+Também_PDEN descobriram_V que_KS o_ART estresse_N nos_PREP+ART três_NUM primeiros_ADJ anos_N ativa_V hormônios_N que_PRO-KS prejudicam_V a_ART memória_N e_KC a_ART capacidade_N de_PREP aprendizagem_N ._END
+Os_ART brasileiros_N estão_V se_PROPESS difundindo_V rapidamente_ADV em_PREP uma_PROSUB das_PREP+ART profissões_N que_PRO-KS gera_V mais_PROADJ empregos_N para_PREP imigrantes_N legais_ADJ e_KC ilegais_ADJ em_PREP Nova_NPROP York_NPROP :_PU a_PROSUB de_PREP motorista_N de_PREP táxi_N ._END
+Alguns_PROADJ brasileiros_N já_ADV montaram_V até_PDEN companhias_N organizadas_PCP que_PRO-KS distribuem_V trabalhos_N para_PREP outros_PROADJ taxistas_N ,_PU todos_PROSUB do_PREP+ART Brasil_NPROP ._END
+A_ART Andréa_NPROP Car_NPROP Service_NPROP ,_PU por_PDEN exemplo_PDEN ,_PU é_V uma_ART empresa_N dirigida_PCP por_PREP um_ART brasileiro_N que_PRO-KS tem_V 45_NUM imigrantes_N de_PREP vários_PROADJ Estados_N do_PREP+ART país_N ._END
+Outra_PROADJ companhia_N ,_PU a_ART Advance_NPROP Capital_NPROP ,_PU tem_V 20_NUM motoristas_N brasileiros_ADJ ._END
+"_PU É_V uma_PROSUB das_PREP+ART profissões_N mais_ADV fáceis_ADJ para_PREP quem_PRO-KS chega_V nos_PREP+ART EUA_NPROP "_PU ,_PU diz_V Alexandre_NPROP Scotton_NPROP ,_PU dono_N da_PREP+ART Andréa_NPROP Car_NPROP Service_NPROP ._END
+"_PU Black_N cars_N "_PU ._END
+Há_V também_PDEN um_ART número_N grande_ADJ de_PREP independentes_N que_PRO-KS sequer_PDEN têm_V autorização_N para_PREP transportar_V pessoas_N ._END
+A_ART maioria_N dos_PREP+ART taxistas_N brasileiros_ADJ não_ADV tem_V um_ART "_PU green_NPROP card_NPROP "_PU ou_KC permissão_N para_PREP trabalhar_V nos_PREP+ART EUA_NPROP ._END
+Mesmo_PDEN assim_PDEN conseguem_V registro_N na_PREP+ART profissão_N ._END
+Basta_V levar_V a_ART carteira_N de_PREP motorista_N brasileira_ADJ ao_PREP+ART departamento_N de_PREP trânsito_N da_PREP+ART cidade_N com_PREP uma_ART tradução_N do_PREP+ART seu_PROADJ conteúdo_N fornecida_PCP pelo_PREP+ART Consulado_NPROP do_NPROP Brasil_NPROP e_KC fazer_V um_ART teste_N escrito_PCP ,_PU em_PREP português_N ._END
+Com_PREP a_ART nova_ADJ carteira_N ,_PU os_ART imigrantes_N já_ADV podem_V se_PROPESS registrar_V na_PREP+ART Taxi_NPROP and_NPROP Limousine_NPROP Commission_NPROP (_PU TLC_NPROP )_PU ,_PU responsável_ADJ pela_PREP+ART atividade_N em_PREP Nova_NPROP York_NPROP ._END
+O_ART maior_ADJ problema_N é_V o_ART dinheiro_N ._END
+O_ART registro_N ,_PU com_PREP todas_PROADJ as_ART taxas_N ,_PU sai_V por_PREP US$_CUR 1.600_NUM (_PU cerca_PREP de_PREP Cr$_CUR 2_NUM milhões_N )_PU ._END
+Cerca_PREP de_PREP desse_PREP+PROADJ total_N são_V brasileiros_ADJ ._END
+Entre_PREP os_PROSUB mais_PREP de_PREP 70_NUM mil_NUM motoristas_N que_PRO-KS trabalham_V com_PREP "_PU black_N cars_N "_PU ,_PU o_ART número_N de_PREP brasileiros_N é_V estimado_PCP em_PREP mais_PREP de_PREP 4.000_N ._END
+A_ART frota_N de_PREP "_PU black_N cars_N "_PU tem_V cerca_PREP de_PREP 45_NUM mil_NUM veículos_N que_PRO-KS operam_V em_PREP Nova_NPROP York_NPROP e_KC arredores_N ._END
+Os_ART táxis_N amarelos_ADJ concentram_V -se_PROPESS em_PREP Manhattan_NPROP ._END
+Muitos_PROADJ brasileiros_N tem_V carro_N próprio_PROADJ ,_PU adquirido_PCP por_PREP leasing_N ,_PU onde_ADV-KS pagam_V prestações_N enquanto_KS usam_V o_ART veículo_N ._END
+Eles_PROPESS trabalham_V para_PREP empresas_N que_PRO-KS distribuem_V os_ART pedidos_N dos_PREP+ART passageiros_N pelo_PREP+ART rádio_N ,_PU pagando_V uma_ART comissão_N ou_KC taxa_N fixa_PCP pelo_PREP+ART serviço_N ._END
+Outros_PROSUB usam_V os_ART carros_N das_PREP+ART próprias_PROADJ empresas_N de_PREP rádio-taxi_N até_PREP conseguirem_V um_ART leasing_N ._END
+Entre_PREP os_ART motoristas_N dos_PREP+ART táxis_N amarelos_ADJ ,_PU o_ART número_N de_PREP brasileiros_N de_PREP carros_N é_V irrisório_ADJ ._END
+Eles_PROPESS geralmente_ADV trabalham_V para_PREP frotas_N de_PREP veículos_N ,_PU segundo_PREP o_ART Taxi_NPROP Cab_NPROP Board_NPROP of_NPROP Trade_NPROP ,_PU que_PRO-KS representa_V os_ART donos_N de_PREP frotas_N ._END
+Os_ART motoristas_N que_PRO-KS trabalham_V para_PREP frotas_N de_PREP táxis_N amarelos_ADJ em_PREP Nova_NPROP York_NPROP pagam_V às_PREP+ART empresas_N que_PRO-KS detêm_V os_ART direitos_N sobre_PREP os_ART carros_N uma_ART taxa_N de_PREP mais_PREP de_PREP US$_CUR 100_NUM (_PU Cr$_CUR 130_NUM mil_NUM )_PU por_PREP dia_N para_PREP usar_V o_ART veículo_N por_PREP 12_NUM horas_N ._END
+Segundo_PREP a_ART Taxi_NPROP and_NPROP Limousine_NPROP Commission_NPROP ,_PU o_ART salário_N médio_ADJ de_PREP um_ART motorista_N que_PRO-KS trabalha_V para_PREP uma_PROSUB dessas_PREP+PROADJ frotas_N é_V de_PREP US$_CUR 1.500_NUM (_PU Cr$_CUR 1,9_NUM milhão_N )_PU por_PREP mês_N ._END
+O_ART rendimento_N é_V baixo_ADJ se_KS comparado_PCP à_PREP+ART situação_N dos_PREP+ART "_PU black_N cars_N "_PU ,_PU a_ART maioria_N é_V de_PREP seu_PROADJ próprio_PROADJ veículo_N e_KC onde_ADV-KS trabalham_V cerca_PREP de_PREP 4.000_NUM brasileiros_N ._END
+Os_ART maiores_ADJ rendimentos_N são_V conseguidos_PCP pelos_PREP+ART donos_N de_PREP táxis_N amarelos_ADJ em_PREP Manhattan_NPROP ,_PU que_PRO-KS chegam_V a_PREP faturar_V mais_PREP de_PREP US$_CUR 3,5_NUM mil_NUM (_PU Cr$_CUR 4,5_NUM milhões_N )_PU por_PREP mês_N ._END
+Segundo_PREP as_ART estatísticas_N federais_ADJ americanas_ADJ ,_PU a_ART profissão_N de_PREP motorista_N de_PREP táxi_N é_V uma_PROSUB das_PREP+ART mais_ADV perigosas_ADJ nos_PREP+ART EUA_NPROP ._END
+Nova_NPROP York_NPROP ,_PU é_V a_ART segunda_ADJ mais_ADV arriscada_PCP ,_PU só_PDEN perdendo_V para_PREP a_PROSUB de_PREP balconista_N de_PREP lojas_N de_PREP bebidas_N nos_PREP+ART bairros_N afastados_PCP de_PREP Manhattan_NPROP ._END
+No_PREP+ART ano_N passado_PCP ,_PU 42_NUM motoristas_N foram_V assassinados_PCP violentamente_ADV em_PREP Nova_NPROP York_NPROP ,_PU segundo_PREP o_ART jornal_N dos_PREP+ART taxistas_N "_PU Taxi_NPROP Talk_NPROP "_PU ._END
+mais_PREP de_PREP 1.000_NUM taxistas_N foram_V roubados_PCP no_PREP+ART mesmo_PROADJ período_N ._END
+Segundo_PREP a_ART TLC_NPROP ,_PU 926_NUM pessoas_N registraram_V reclamações_N por_PREP este_PROADJ motivo_N no_PREP+ART ano_N passado_PCP contra_PREP motoristas_N de_PREP táxis_N amarelos_ADJ ._END
+O_ART paulistano_N João_NPROP Carlos_NPROP Bignardi_NPROP ,_PU 34_NUM ,_PU é_V um_ART imigrante_N bem-sucedido_ADJ ._END
+Chegou_V em_PREP Nova_NPROP York_NPROP em_PREP 87_N e_KC entrou_V no_PREP+ART ramo_N dos_PREP+ART táxis_N ._END
+Começou_V alugando_V um_ART carro_N e_KC oito_NUM meses_N depois_ADV já_ADV tinha_V o_ART seu_PROSUB ._END
+Há_V três_NUM anos_N é_V dono_N da_PREP+ART empresa_N Advance_NPROP Capital-Radio_NPROP Taxi_NPROP Inc._NPROP ._END
+Bignardi_NPROP tem_V 5.000_NUM clientes_N ._END
+todos_PROADJ os_ART seus_PROADJ motoristas_N são_V brasileiros_ADJ ?_PU
+Isso_PROSUB não_ADV é_V uma_ART regra_N ,_PU mas_KC um_ART fato_N ._END
+Um_PROSUB passa_V a_ART informação_N para_PREP o_ART outro_PROSUB e_KC acaba_V acontecendo_V essa_PROADJ concentração_N ._END
+Quem_PROSUB são_V os_ART seus_PROADJ clientes_N ?_PU
+Tenho_V cerca_PREP de_PREP 5.000_NUM clientes_N registrados_PCP ._END
+A_ART maioria_N é_V brasileira_ADJ ._END
+Recebo_V cerca_PREP de_PREP 150_NUM chamadas_N por_PREP dia_N ._END
+Muitas_PROSUB à_PREP+ART noite_N ,_PU de_PREP go-go_N girls_N "_PU brasileiras_ADJ ._END
+Os_ART motoristas_N que_PRO-KS têm_V carro_N pagam_V taxa_N semanal_ADJ de_PREP US$_CUR 70_NUM (_PU Cr$_CUR 91_NUM mil_NUM )_PU para_PREP eu_PROPESS distribuir_V as_ART chamadas_N telefônicas_ADJ ,_PU dar_V apoio_N com_PREP a_ART garagem_N da_PREP+ART empresa_N e_KC cuidar_V da_PREP+ART burocracia_N ._END
+Outras_PROADJ empresas_N trabalham_V com_PREP comissão_N de_PREP 30_NUM %_N ._END
+Algumas_PROSUB cobram_V 60_NUM %_N ,_PU mas_KC emprestam_V o_ART carro_N ._END
+Planos_N imediatos_ADJ ,_PU mas_KC cheguei_V a_PREP um_ART impasse_N ._END
+Se_KS investir_V já_ADV no_PREP+ART aumento_N da_PREP+ART clientela_N não_ADV vou_V ter_V carros_N para_PREP atender_V -la_PROPESS ._END
+Primeiro_ADV vou_V aumentar_V a_ART frota_N ,_PU mesmo_KS que_KS fique_V ociosa_ADJ ._END
+Outro_PROADJ ramo_N de_PREP atividade_N em_PREP Nova_NPROP York_NPROP que_PRO-KS concentra_V um_ART número_N grande_ADJ de_PREP brasileiros_N é_V o_PROSUB de_PREP carrinhos_N de_PREP cachorro-quente_N ._END
+Eles_PROPESS geralmente_ADV trabalham_V sem_PREP registro_N ,_PU para_PREP empresas_N que_PRO-KS detém_V "_PU frotas_N "_PU de_PREP carrinhos_N ._END
+O_ART mineiro_N Nilson_NPROP Alencar_NPROP ,_PU 29_NUM ,_PU de_PREP Belo_NPROP Horizonte_NPROP ,_PU trabalha_V para_PREP uma_PROSUB dessas_PREP+PROADJ empresas_N na_PREP+ART esquina_N da_PREP+ART 5ª_NPROP Avenida_NPROP com_PREP a_ART rua_NPROP 53_NPROP ._END
+Segundo_PREP ele_PROPESS ,_PU "_PU dá_V para_PREP ganhar_V uns_ART US$_CUR 1.000_NUM por_PREP mês_N "_PU ._END
+Alencar_NPROP chegou_V aos_PREP+ART EUA_NPROP em_PREP dezembro_N passado_PCP e_KC conhece_V muito_ADV mal_ADV o_ART inglês_N ._END
+Mas_KC já_ADV aprendeu_V todas_PROADJ as_ART palavras_N que_PRO-KS precisa_V para_PREP trabalhar_V ._END
+Na_PREP+ART semana_N passada_PCP ,_PU cerca_PREP de_PREP 500_NUM vendedores_N de_PREP cachorro-quente_N fizeram_V um_ART protesto_N na_PREP+ART 5ª_N Avenida_N contra_PREP a_ART prefeitura_N de_PREP Nova_NPROP York_NPROP ._END
+O_ART prefeito_N Rudolph_NPROP Giuliani_NPROP decidiu_V fazer_V valer_V uma_ART decisão_N municipal_ADJ de_PREP tirar_V os_ART carrinhos_N das_PREP+ART esquinas_N movimentadas_PCP ._END
+A_ART prefeitura_N alega_V que_KS eles_PROPESS atrapalham_V a_ART circulação_N das_PREP+ART pessoas_N ._END
+Dezenas_N de_PREP executivos_N que_PRO-KS trabalham_V na_PREP+ART região_N da_PREP+ART 5ª_N Avenida_N fazem_V filas_N na_PREP+ART hora_N do_PREP+ART almoço_N para_PREP comer_V um_ART cachorro-quente_N ._END
+semana_N ,_PU muitos_PROADJ carrinhos_N voltaram_V a_PREP descumprir_V a_ART ordem_N da_PREP+ART prefeitura_N e_KC reapareceram_V nas_PREP+ART esquinas_N ._END
+Os_ART usuários_N da_PREP+ART via_N Dutra_NPROP (_PU Br-116_NPROP )_PU estão_V buscando_V vias_N alternativas_ADJ para_PREP escapar_V do_PREP+ART tráfego_N da_PREP+ART rodovia_N ,_PU considerada_PCP uma_PROSUB das_PREP+ART mais_ADV perigosas_ADJ do_PREP+ART país_N ._END
+O_ART medo_N de_PREP dirigir_V na_PREP+ART Dutra_NPROP ,_PU rodovia_N com_PREP uma_ART média_N de_PREP 70_NUM mil_NUM veículo/dia_N ,_PU alterou_V os_ART hábitos_N dos_PREP+ART motoristas_N da_PREP+ART região_N ._END
+Ele_PROPESS andou_V na_PREP+ART Dutra_NPROP com_PREP a_ART reportagem_N da_PREP+ART Folha_NPROP ._END
+Para_PREP ele_PROPESS ,_PU a_ART rodovia_N tem_V só_PDEN 35_NUM quilômetros_N ,_PU ou_PDEN seja_PDEN ,_PU a_ART distância_N entre_PREP a_ART saída_N de_PREP São_NPROP José_NPROP ,_PU onde_ADV-KS mora_V ,_PU até_PREP Trabalhadores_NPROP ._END
+"_PU Por_PREP segurança_N ,_PU prefiro_V pagar_V US$_CUR 1_NUM de_PREP pedágio_N do_PRO-KS que_PRO-KS seguir_V em_ADV frente_ADV "_PU ,_PU diz_V o_ART piloto_N ._END
+A_ART psicóloga_N Rosely_NPROP Viana_NPROP Ribeiro_NPROP ,_PU 29_NUM ,_PU considera_V o_ART quilômetro_N entre_PREP a_ART saída_N para_PREP Dutra_NPROP em_PREP São_NPROP José_NPROP (_PU 152_N )_PU ,_PU e_KC o_ART viaduto_N da_PREP+ART Alpargatas_NPROP (_PU 153_N )_PU como_PREP o_PROPESS mais_ADV "_PU pré-disposto_ADJ "_PU a_PREP acidentes_N ._END
+Ela_PROPESS prefere_V rodar_V dois_NUM quilômetros_N a_ADV mais_ADV pela_PREP+ART região_N sul_ADJ da_PREP+ART cidade_N se_PROPESS "_PU aventurar_V "_PU pela_PREP+ART rodovia_N ._END
+O_ART inspetor-chefe_N da_PREP+ART Polícia_NPROP Rodoviária_NPROP Federal_NPROP ,_PU Reinaldo_NPROP Reis_NPROP da_NPROP Silva_NPROP ,_PU relacionou_V em_PREP um_ART "_PU manual_N de_PREP sobrevivência_N "_PU dicas_N para_PREP escapar_V de_PREP acidentes_N ._END
+PÁG_N ._END
+Sete_NUM assaltantes_N roubar_V carro-forte_N ;_PU um_PROSUB morreu_V durante_PREP troca_N de_PREP tiros_N com_PREP vigias_N ._END
+As_ART camisinhas_N importadas_PCP não_ADV foram_V submetidas_PCP aos_PREP+ART testes_N obrigatórios_ADJ no_PREP+ART Inmetro_NPROP (_PU certificação_N )_PU e_KC havia_V suspeita_N de_PREP que_KS elas_PROPESS estavam_V fora_PREP dos_PREP+ART padrões_N da_PREP+ART legislação_N brasileira_ADJ ._END
+Os_ART preservativos_N foram_V liberadas_PCP no_PREP+ART dia_N 4_N de_PREP fevereiro_N ,_PU sem_PREP realização_N dos_PREP+ART exames_N ,_PU por_PREP determinação_N do_PREP+ART presidente_N do_PREP+ART Inmetro_NPROP ,_PU Arnaldo_NPROP Pereira_NPROP Ribeiro_NPROP ._END
+Segundo_PREP ele_PROPESS ,_PU a_ART exigência_N do_PREP+ART selo_N de_PREP qualidade_N do_PREP+ART Inmetro_NPROP nos_PREP+ART preservativos_N foi_V uma_ART "_PU vitória_N elogiada_PCP em_PREP todo_PROADJ o_ART mundo_N pelas_PREP+ART entidades_N de_PREP defesa_N do_PREP+ART consumidor_N "_PU ._END
+A_ART certificação_N do_PREP+ART Inmetro_NPROP é_V obrigatória_ADJ desde_PREP 89_N ._END
+As_ART mudanças_N entraram_V em_ADV vigor_ADV através_PREP da_PREP+ART Portaria_N 88_N ,_PU da_PREP+ART própria_PROADJ Secretaria_NPROP de_NPROP Vigilância_NPROP Sanitária_NPROP ._END
+Para_PREP alguns_PROADJ técnicos_N e_KC fabricantes_N ,_PU a_ART Portaria_N 88_N foi_V integralmente_ADV revogada_PCP pela_PREP+ART portaria_N publicada_PCP no_PREP+ART última_ADJ dia_N 10_N ._END
+Sodré_NPROP não_ADV vai_V tão_ADV longe_ADV ._END
+Em_PREP sua_PROADJ opinião_N ,_PU as_ART regras_N que_PRO-KS definem_V os_ART padrões_N de_PREP qualidade_N das_PREP+ART camisinhas_N continua_V em_ADV vigor_ADV ._END
+Existe_V dúvida_N em_PREP relação_PREP à_PREP+ART fiscalização_N ._END
+"_PU A_ART portaria_N tira_V a_ART competência_N do_PREP+ART Inmetro_NPROP e_KC não_ADV coloca_V nada_PROSUB no_PREP+ART lugar_N "_PU ,_PU afirma_V ._END
+Segundo_PREP ele_PROPESS a_ART fabricação_N e_KC importação_N para_PREP venda_N não_ADV estão_V dispensadas_PCP da_PREP+ART certificação_N obrigatória_ADJ ._END
+"_PU Não_ADV é_V isto_PROSUB que_PRO-KS está_V escrito_PCP no_PREP+ART Diário_NPROP Oficial_NPROP "_PU ,_PU contesta_V José_NPROP Gonçalves_NPROP Araújo_NPROP ,_PU diretor_N de_PREP vendas_N da_PREP+ART Inal_NPROP ,_PU uma_PROSUB das_PREP+ART fabricantes_N nacionais_ADJ de_PREP preservativos_N ._END
+"_PU Estou_V surpreso_ADJ ,_PU as_ART regras_N sobre_PREP certificação_N foram_V exaustivamente_ADV discutidas_PCP entre_PREP fabricante_N ,_PU governo_N e_KC entidades_N de_PREP defesa_N do_PREP+ART consumidor_N "_PU ,_PU afirma_V ._END
+Ao_PREP liberar_V as_PROPESS preservativos_N coreanos_ADJ ,_PU o_ART Inmetro_NPROP abriu_V um_ART precedente_N para_PREP outras_PROADJ empresas_N ._END
+A_ART Blausiegel_NPROP ,_PU importadora_N das_PREP+ART camisinhas_N Preserv_NPROP ,_PU encaminhou_V um_ART fax_N ao_PREP+ART presidente_N do_PREP+ART Inmetro_NPROP no_PREP+ART dia_N 8_N de_PREP fevereiro_N pedindo_V tratamento_N idêntico_ADJ ao_PREP+ART dispensado_PCP às_PREP+ART camisinhas_N coreanas_ADJ ._END
+"_PU Aguardamos_V com_PREP urgência_N a_ART devida_PCP autorização_N para_PREP que_KS possamos_V comercializar_V nossos_PROADJ preservativos_N sem_PREP a_ART certificação_N do_PREP+ART Inmetro_NPROP "_PU ,_PU diz_V o_ART fax_N ._END
+O_ART sócio-diretor_N da_PREP+ART empresa_N Marcelo_NPROP Hahn_NPROP explica_V que_KS encaminhou_V o_ART documento_N para_PREP protestar_V contra_PREP a_ART liberação_N dos_PREP+ART preservativos_N coreanos_ADJ e_KC garante_V que_KS manterá_V a_ART certificação_N do_PREP+ART Inmetro_NPROP ._END
+Colaborou_V Aureliano_NPROP Biancarelli_NPROP ._END
+Vira-Lata_NPROP acabara_V de_PREP ser_V contratado_PCP como_PREP jardineiro_N quando_ADV-KS conheceu_V a_ART empregada_N Madalena_NPROP ,_PU uma_ART mulata_N de_PREP predicados_N ._END
+Quando_KS os_ART dois_N se_PROPESS abraçavam_V ,_PU já_ADV sem_PREP roupa_N ,_PU Vira-Lata_NPROP sacou_V do_PREP+ART bolso_N uma_ART camisinha_N ._END
+Madalena_NPROP não_ADV se_PROPESS intimidou_V ._END
+"_PU Deixa_V que_KS eu_PROPESS coloco_V pra_PREP você_PROPESS ._END
+E_KC fez_V isso_PROSUB com_PREP a_ART boca_N depois_PREP de_PREP assoprar_V -la_PROPESS ._END
+Vira-Lata_NPROP já_ADV foi_V presidiário_N como_PREP eles_PROPESS ,_PU é_V violento_ADJ e_KC não_ADV abre_V mão_N de_PREP dois_NUM princípios_N :_PU acha_V que_KS quem_PRO-KS aplica_V droga_N na_PREP+ART veia_N é_V um_ART babaca_N e_KC só_PDEN transa_V de_PREP camisinha_N ._END
+Vira-Lata_NPROP foi_V criado_PCP pelo_PREP+ART compositor_N e_KC saxofonista_N Paulo_NPROP Garfunkel_NPROP ,_PU o_ART Magrão_NPROP ,_PU e_KC o_ART desenhista_N Libero_NPROP Malavoglia_NPROP ._END
+O_ART herói_N estrelou_V seu_PROADJ primeiro_ADJ gibi_N em_PREP 1991_N e_KC aguardava_V uma_ART segunda_ADJ missão_N quando_KS a_ART dupla_N foi_V procurada_PCP pelo_PREP+ART médico_N Drauzio_NPROP Varella_NPROP ,_PU 50_NUM ,_PU cancerologista_N e_KC especialista_N em_PREP Aids_N ._END
+Varella_NPROP vem_V trabalhando_V há_V anos_N com_PREP os_ART presos_N da_PREP+ART Casa_NPROP de_NPROP Detenção_NPROP e_KC queria_V uma_ART história_N em_PREP quadrinhos_N que_PRO-KS mostrasse_V como_ADV-KS evitar_V a_ART Aids_N ._END
+"_PU Queria_V um_ART gibi_N que_PRO-KS a_ART malandragem_N gostasse_V de_PREP ler_V "_PU ,_PU pediu_V o_ART médico_N ._END
+O_ART herói_N enfrenta_V inimigos_N maldosos_ADJ ,_PU tem_V a_ART proteção_N dos_PREP+ART guias_N e_KC vive_V cenas_N de_PREP tórridas_ADJ cenas_N de_PREP sexo_N com_PREP Madalena_NPROP e_KC a_ART filha_N do_PREP+ART patrão_N ._END
+Sempre_ADV de_PREP camisinha_N ._END
+Seus_PROADJ criadores_N pensaram_V nos_PREP+ART detalhes_N :_PU Madalena_NPROP aparece_V de_PREP pernas_N abertas_PCP em_PREP poster_N de_PREP página_N picotada_PCP ,_PU de_KS forma_KS que_KS seus_PROADJ leitores_N possam_V ter_V sua_PROADJ companhia_N afixada_PCP na_PREP+ART parede_N da_PREP+ART cela_N ._END
+A_ART última_ADJ página_N do_PREP+ART gibi_N é_V dedicada_PCP a_PREP curtas_ADJ informações_N e_KC cuidados_N sobre_PREP a_ART Aids_N ._END
+Segundo_PREP Varella_NPROP ,_PU algumas_PROADJ revistas_N já_ADV foram_V mostradas_PCP aos_PREP+ART presos_N e_KC fizeram_V muito_PROADJ sucesso_N ._END
+Os_ART primeiros_ADJ 4.500_NUM exemplares_N foram_V financiados_PCP pelo_PREP+ART Colégio_NPROP Objetivo_NPROP ._END
+A_ART idéia_N agora_ADV é_V vender_V a_ART revista_N em_PREP plásticos_N fechados_PCP nas_PREP+ART bancas_N ,_PU de_PREP forma_PREP a_PREP financiar_V novas_ADJ edições_N ._END
+Ao_ADV mesmo_ADV tempo_ADV ,_PU a_ART dupla_N está_V criando_V outro_PROADJ gibi_N para_PREP operários_N e_KC um_ART terceiro_N para_PREP estudantes_N ._END
+"_PU Vira-Lata_NPROP é_V um_ART herói_N brasileiro_ADJ ,_PU um_ART guerreiro_N urbano_ADJ ,_PU um_ART andarilho_N justiceiro_ADJ ,_PU filhos_N de_PREP todas_PROADJ as_ART raças_N "_PU ,_PU define_V seu_PROADJ criador_N ,_PU Paulo_NPROP Garfunkel_NPROP ._END
+"_PU É_V natural_ADJ que_KS recebêssemos_V críticas_N "_PU ,_PU disse_V ._END
+As_ART camisinhas_N nacionais_ADJ sofrem_V cerca_PREP de_PREP 45_NUM %_N de_PREP impostos_N e_KC são_V obrigadas_PCP a_PREP utilizar_V dois_NUM terços_N do_PREP+ART Látex_N brasileiro_ADJ ,_PU um_PROSUB dos_PREP+ART mais_ADV caros_ADJ do_PREP+ART mundo_N ._END
+Wildney_NPROP Peres_NPROP Contrera_NPROP ,_PU vice-presidente_N do_PREP+ART Gapa_NPROP paulista_ADJ (_PU Grupo_NPROP de_NPROP Apoio_NPROP à_NPROP Prevenção_NPROP à_NPROP Aids_NPROP )_PU disse_V que_KS os_ART programas_N preventivos_ADJ "_PU não_ADV podem_V ser_V interrompidos_PCP em_PREP nome_N de_PREP interesses_N particulares_ADJ ou_KC de_PREP outro_PROADJ órgão_N "_PU ._END
+Elisabete_NPROP Inglese_NPROP ,_PU da_PREP+ART área_N de_PREP prevenção_N à_PREP+ART Aids_N da_PREP+ART Secretaria_NPROP de_NPROP Estado_NPROP ,_PU disse_V que_KS "_PU os_ART melhores_ADJ preservativos_N estouram_V quando_KS são_V mal_ADV colocados_PCP "_PU ._END
+Segundo_PREP ela_PROPESS ,_PU a_ART desinformação_N da_PREP+ART população_N sobre_PREP o_ART uso_N da_PREP+ART camisinha_N é_V mais_ADV importante_ADJ que_KS a_ART discussão_N da_PREP+ART qualidade_N ._END
+O_ART Gapa_NPROP distribuiu_V em_PREP São_NPROP Paulo_NPROP 20_NUM mil_NUM camisinhas_N das_PREP+ART 6_NUM milhões_N importadas_PCP até_PREP agora_ADV pelo_PREP+ART ministério_N ._END
+Ninguém_PROSUB reclamou_V ._END
+O_ART secretário_N municipal_ADJ do_PREP+ART Verde_NPROP e_NPROP do_NPROP Meio_NPROP Ambiente_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU Werner_NPROP Zulauf_NPROP (_PU foto_N )_PU ,_PU 57_NUM ,_PU disse_V que_KS deverá_V aprovar_V até_PREP o_ART final_N da_PREP+ART semana_N o_ART Rima_NPROP (_PU relatório_NPROP de_NPROP impacto_NPROP ambiental_NPROP )_PU das_PREP+ART obras_N de_PREP extensão_N da_PREP+ART avenida_N Faria_NPROP Lima_NPROP ._END
+..._END operários_N morreram_V queimados_PCP no_PREP+ART sábado_N à_PREP+ART tarde_N devido_PREP à_PREP+ART explosão_N de_PREP uma_ART caldeira_N que_PRO-KS fornecia_V vapor_N para_PREP a_ART empresa_N de_PREP laticínios_N Barbosa_NPROP e_KC Marques_NPROP ,_PU em_PREP Governador_NPROP Valadares_NPROP (_PU MG_NPROP )_PU ._END
+A_ART polícia_N abriu_V inquérito_N para_PREP investigar_V o_ART caso_N ._END
+O_ART corpo_N de_PREP Nelson_NPROP Azevedo_NPROP ficou_V 27_NUM horas_N e_KC 30_NUM minutos_N esperando_V remoção_N para_PREP o_ART Instituto_NPROP Médico_NPROP Legal_NPROP no_PREP+ART hospital_N Ermelino_NPROP Matarrazo_NPROP (_PU zona_N leste_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ._END
+Segundo_PREP o_ART IML_NPROP ,_PU o_ART carro_N que_PRO-KS faria_V a_ART remoção_N sofreu_V acidente_N ._END
+Pelo_PDEN menos_PDEN uma_NUM pessoa_N é_V contaminada_PCP pelo_PREP+ART vírus_N da_PREP+ART Aids_N em_PREP São_NPROP José_NPROP do_NPROP Rio_NPROP Preto_NPROP (_PU SP_NPROP )_PU todos_PROADJ os_ART dias_N ,_PU segundo_PREP levantamento_N do_PREP+ART Escritório_NPROP Regional_NPROP de_NPROP Saúde_NPROP ._END
+A_ART cidade_N é_V a_ART terceira_N do_PREP+ART país_N em_PREP incidência_N de_PREP Aids_N ._END
+O_ART município_N enviou_V ao_PREP+ART solicitação_N de_PREP verba_N de_PREP US$_CUR 500_NUM mil_NUM para_PREP combater_V a_ART doença_N ._END
+Cerca_PREP de_PREP 70_NUM %_N da_PREP+ART verba_N deve_V ser_V liberada_PCP através_PREP de_PREP convênio_N com_PREP o_ART Banco_NPROP Mundial_NPROP ._END
+Funcionários_N e_KC usuários_N do_PREP+ART Hospital_NPROP São_NPROP José_NPROP ,_PU em_PREP São_NPROP Vicente_NPROP ,_PU criaram_V o_ART Movimento_N SOS_NPROP Hospital_NPROP ._END
+O_ART objetivo_N é_V coletar_V dinheiro_N para_PREP a_ART manutenção_N do_PREP+ART único_ADJ hospital_N que_PRO-KS atende_V previdenciários_N na_PREP+ART cidade_N ,_PU e_KC que_PRO-KS está_V sob_PREP intervenção_N da_PREP+ART prefeitura_N desde_PREP janeiro_N de_PREP 93_N ._END
+A_ART Prefeitura_N de_PREP Cubatão_NPROP vai_V iniciar_V neste_PREP+PROADJ semestre_N a_ART construção_N de_PREP uma_ART estrada_N de_PREP três_NUM quilômetros_N que_PRO-KS ligará_V os_ART bairros_N de_PREP Vila_NPROP Natal_NPROP e_KC Vila_NPROP Esperança_NPROP ._END
+Os_ART custos_N da_PREP+ART obra_N não_ADV foram_V divulgados_PCP ._END
+A_ART pista_N terá_V sete_NUM metros_N de_PREP largura_N e_KC uma_NUM ciclovia_N com_PREP dois_NUM metros_N ._END
+O_ART IPT_NPROP (_PU Instito_NPROP de_NPROP Pesquisas_NPROP Tecnológicas_NPROP )_PU da_PREP+ART USP_NPROP vai_V iniciar_V amanhã_ADV a_ART segunda_ADJ vistoria_N no_PREP+ART Solar_NPROP do_NPROP Visconde_NPROP de_NPROP Indaiatuba_NPROP ,_PU no_PREP+ART centro_N de_PREP Campinas_NPROP ._END
+A_ART vistoria_N busca_V saber_V se_KS as_ART estruturas_N das_PREP+ART paredes_N do_PREP+ART prédio_N foram_V abaladas_PCP pelo_PREP+ART incêndio_N ocorrido_PCP na_PREP+ART semana_N retrasada_ADJ ._END
+A_ART Unicamp_NPROP inicia_V suas_PROADJ aulas_N hoje_ADV ,_PU com_PREP 16_NUM mil_NUM alunos_N ._END
+A_ART rede_N estadual_ADJ também_PDEN volta_V hoje_ADV ,_PU com_PREP 44_NUM mil_NUM estudantes_N ._END
+Os_ART calouros_N da_PREP+ART Puccamp_NPROP estavam_V espalhados_PCP por_PREP toda_PROADJ a_ART cidade_N ,_PU fazendo_V pedágios_N ._END
+A_PREP partir_PREP de_PREP hoje_ADV ,_PU os_ART 2.487_NUM ônibus_N da_PREP+ART frota_N de_PREP Belo_NPROP Horizonte_NPROP serão_V obrigados_PCP a_PREP circular_V com_PREP cartazes_N contendo_V os_ART horários_N das_PREP+ART 189_NUM linhas_N que_PRO-KS trafegam_V na_PREP+ART cidade_N ._END
+Segundo_PREP a_ART BHTrans_NPROP ,_PU a_ART medida_N permitirá_V que_KS o_ART usuário_N se_PROPESS mantenha_V informado_PCP dos_PREP+ART horários_N de_PREP partida_N ._END
+Quatro_NUM pessoas_N morreram_V afogadas_PCP neste_PREP+PROADJ fim-de-semana_N na_PREP+ART região_N metropolitana_ADJ de_PREP Belo_NPROP Horizonte_NPROP e_KC no_PREP+ART Parque_NPROP do_NPROP Caraça_NPROP ,_PU no_PREP+ART interior_N ._END
+Com_PREP estas_PROADJ mortes_N ,_PU subiu_V para_PREP o_ART número_N de_PREP afogados_N em_PREP fevereiro_N ._END
+A_ART tarifa_N dos_PREP+ART ônibus_N urbanos_ADJ de_PREP Fortaleza_NPROP passou_V de_PREP Cr$_CUR 180,00_NUM para_PREP Cr$_CUR 250,00_NUM ._END
+As_ART tarifas_N de_PREP ônibus_N intermunicipais_ADJ e_KC da_PREP+ART região_N metropolitana_ADJ também_PDEN estão_V mais_ADV caras_ADJ desde_PREP hoje_ADV ._END
+O_ART reajuste_N foi_V de_PREP 39,97_NUM %_N ._END
+Às_PREP+ART 10_NUM horas_N ,_PU foi_V realizado_PCP um_ART workshop_N com_PREP o_ART tema_N "_PU Modelos_NPROP de_NPROP Aproveitamento_NPROP de_NPROP Plantas_NPROP Medicinais_NPROP do_NPROP Nordeste_NPROP Brasileiro_NPROP "_PU ._END
+Duzentos_NUM agentes_N de_PREP saúde_N fizeram_V ontem_ADV um_ART arrastão_N contra_PREP o_ART cólera_N no_PREP+ART bairro_N Parque_NPROP de_NPROP Santo_NPROP Amaro_NPROP ,_PU em_PREP Fortaleza_NPROP ._END
+Eles_PROPESS alertaram_V a_ART população_N sobre_PREP os_ART riscos_N da_PREP+ART doença_N e_KC os_ART meios_N de_PREP evitar_V -la_PROPESS ._END
+No_PREP+ART último_ADJ domingo_N ,_PU os_ART agentes_N visitaram_V o_ART bairro_N Serviluz_NPROP ._END
+A_ART Sudene_NPROP vai_V liberar_V esta_PROADJ semana_N Cr$_CUR 8_NUM milhões_N para_PREP a_ART Superintendência_NPROP de_NPROP Administração_NPROP do_NPROP Meio_NPROP Ambiente_NPROP investir_V na_PREP+ART reserva_N ecológica_ADJ da_PREP+ART Mata_NPROP do_NPROP Pau_NPROP Ferro_NPROP ,_PU em_PREP Areia_NPROP (_PU 121_NUM km_N João_NPROP Pessoa_NPROP )_PU ._END
+A_ART Mata_NPROP do_NPROP Pau_NPROP Ferro_NPROP foi_V transformada_PCP em_PREP parque_N estadual_ADJ em_PREP 93_N ._END
+O_ART secretário_N de_PREP Segurança_N de_PREP Alagoas_NPROP ,_PU Ruben_NPROP Quintela_NPROP ,_PU 71_NUM ,_PU decidiu_V ontem_ADV publicar_V no_PREP+ART Diário_NPROP Oficial_NPROP lista_N de_PREP carros_N roubados_PCP recuperados_PCP pela_PREP+ART polícia_N ._END
+A_ART medida_N visa_V eliminar_V as_ART denúncias_N de_PREP que_KS policiais_N estariam_V utilizando_V os_ART carros_N em_PREP proveito_N próprio_PROADJ ._END
+Uma_ART comissão_N presidida_PCP pelo_PREP+ART corregedor_N geral_N da_PREP+ART Polícia_NPROP Civil_NPROP ,_PU delegado_N Osvaldo_NPROP Rodrigues_NPROP ,_PU investiga_V desde_PREP a_ART semana_N passada_PCP quais_PRO-KS são_V os_ART policiais_N que_PRO-KS estão_V utilizando_V os_ART carros_N recuperados_PCP antes_KS que_KS seus_PROADJ verdadeiros_ADJ donos_N os_PROPESS resgatem_V nas_PREP+ART delegacias_N ._END
+Segundo_PREP a_ART Secretaria_NPROP Municipal_NPROP de_NPROP Educação_NPROP ,_PU o_ART adiamento_N se_PROPESS deve_V à_PREP+ART falta_N de_PREP professores_N e_KC à_PREP+ART ampliação_N de_PREP quatro_NUM escolas_N ._END
+No_PREP+ART dia_N 13_N ,_PU haverá_V concurso_N para_PREP contratar_V 80_NUM professores_N ._END
+O_ART governo_N e_KC o_ART Banco_NPROP Mundial_NPROP assinaram_V um_ART convênio_N no_PREP+ART valor_N de_PREP US$_CUR 20_NUM milhões_N para_PREP aplicação_N na_PREP+ART educação_N básica_ADJ ._END
+O_ART projeto_N Nordeste_NPROP Educação_NPROP Básica_NPROP visa_V à_PREP+ART formação_N de_PREP professores_N ,_PU à_PREP+ART compra_N de_PREP material_N didático_ADJ e_KC à_PREP+ART reforma_N e_KC ampliação_N de_PREP escolas_N ._END
+Segundo_PREP a_ART Naturatins_NPROP ,_PU a_ART reserva_N tem_V hoje_ADV ocupações_N e_KC loteamentos_N clandestinos_ADJ ._END
+Os_ART técnicos_N têm_V três_NUM meses_N para_PREP apresentar_V um_ART parecer_N técnico_ADJ sobre_PREP a_ART divisão_N da_PREP+ART reserva_N em_PREP três_NUM aéreas_N :_PU exploração_N científica_ADJ ,_PU preservação_N permanente_ADJ e_KC exploração_N agropecuária_ADJ ,_PU urbana_ADJ e_KC de_PREP ecoturismo_N ._END
+A_ART reserva_N representa_V 0,7_NUM %_N do_PREP+ART cerrado_N nacional_ADJ ._END
+A_ART Telapará_NPROP anulou_V anteontem_ADV o_ART concurso_N público_ADJ para_PREP preenchimento_N de_PREP 300_NUM vagas_N ._END
+Estavam_V inscritos_PCP 24.687_NUM candidatos_N ._END
+Seis_NUM adolescentes_N serão_V contratados_PCP pela_PREP+ART Cosanpa_NPROP (_PU Companhia_NPROP de_NPROP Saneamento_NPROP do_NPROP Pará_NPROP )_PU ,_PU com_PREP carteira_N assinada_PCP ,_PU através_PREP de_PREP convênio_N com_PREP a_ART Funcap_NPROP (_PU Fundação_NPROP da_NPROP Criança_NPROP e_NPROP do_NPROP Adolescente_NPROP do_NPROP Pará_NPROP )_PU ._END
+A_ART entidade_N estadual_ADJ mantém_V hoje_ADV 506_NUM adolescentes_N empregados_PCP ._END
+O_ART secretário_N de_PREP Saúde_N de_PREP Belém_NPROP ,_PU Willy_NPROP Trindade_NPROP ,_PU disse_V que_KS os_ART hospitais_N privados_PCP conveniados_PCP com_PREP o_ART Sus_NPROP (_PU Sistema_NPROP Único_NPROP de_NPROP Saúde_NPROP )_PU não_ADV têm_V interesse_N em_PREP prestar_V serviços_N de_PREP emergência_N ._END
+Segundo_PREP ele_PROPESS ,_PU os_ART medicamentos_N são_V caros_ADJ e_KC os_ART preços_N não_ADV são_V atualizados_PCP na_PREP+ART hora_N do_PREP+ART pagamento_N ._END
+O_ART promotor_N Raimundo_NPROP Moraes_NPROP ,_PU de_PREP Barcarena_NPROP (_PU 40_NUM km_N de_PREP Belém_NPROP )_PU ,_PU pedirá_V a_ART revisão_N da_PREP+ART licença_N ambiental_ADJ prévia_ADJ concedida_PCP à_PREP+ART empresa_N Rio_NPROP Capim_NPROP Caulim_NPROP ._END
+A_ART revisão_N permitirá_V a_ART convocação_N de_PREP audiências_N públicas_ADJ para_PREP esclarecer_V o_ART impacto_N social_ADJ e_KC ambiental_ADJ do_PREP+ART projeto_N ._END
+O_ART diretor_N do_PREP+ART Fórum_NPROP de_PREP Itaiatuba_NPROP ,_PU Mairton_NPROP Carneiro_NPROP ,_PU informou_V que_KS o_ART Tribunal_NPROP de_NPROP Justiça_NPROP indeferiu_V pedido_N feito_PCP pelo_PREP+ART empresário_N Aldo_NPROP Inácio_NPROP para_PREP sustar_V a_ART ação_N movida_PCP contra_PREP ele_PROPESS por_PREP crime_N de_PREP contravenção_N ._END
+alegou_V que_KS o_ART jogo_N do_N bicho_N faz_V parte_N da_PREP+ART cultura_N do_PREP+ART brasileiro_N ._END
+O_ART governo_N estadual_ADJ cedeu_V por_PREP 20_NUM anos_N o_ART cais_N Flutuante_NPROP do_PREP+ART rio_N Cuiabá_NPROP à_PREP+ART prefeitura_N para_PREP ser_V utilizado_PCP na_PREP+ART implantação_N do_PREP+ART projeto_N de_PREP recuperação_N urbana_ADJ ._END
+O_ART GOF_NPROP (_PU Grupo_NPROP de_NPROP Operações_NPROP da_NPROP Fronteira_NPROP )_PU apreendeu_V neste_PREP+PROADJ fim-de-semana_N 353_NUM caixas_N de_PREP munição_N que_PRO-KS estavam_V sendo_V contrabandeadas_PCP do_PREP+ART Paraguai_NPROP ._END
+A_ART apreensão_N foi_V realizada_PCP na_PREP+ART Br-_NPROP 463_NPROP ,_PU que_PRO-KS dá_V acesso_N à_PREP+ART cidade_N de_PREP Pedro_NPROP Juan_NPROP Caballero_NPROP ,_PU no_PREP+ART Paraguai_NPROP ._END
+O_ART projeto_N de_PREP Lei_NPROP de_NPROP Zoneamento_NPROP de_PREP Goiânia_NPROP deverá_V ser_V votado_PCP na_PREP+ART Câmara_N esta_PROADJ semana_N ._END
+O_ART vereador_N Anselmo_NPROP Pereira_NPROP (_PU PPR_NPROP )_PU já_ADV deu_V parecer_N favorável_ADJ ._END
+O_ART projeto_N trata_V de_PREP problemas_N como_ADV-KS preservação_N dos_PREP+ART fundos_N de_PREP vales_N ,_PU permeabilização_N do_PREP+ART solo_N ,_PU uso_N e_KC ocupação_N racional_ADJ ._END
+Até_PREP o_ART final_N de_PREP março_N deverão_V desembarcar_V em_PREP Goiás_NPROP os_ART primeiros_ADJ exemplares_N de_PREP bovinos_N de_PREP primeira_ADJ linha_N importados_PCP da_PREP+ART França_NPROP e_KC Alemanha_NPROP por_PREP produtores_N locais_ADJ ._END
+Os_ART animais_N serão_V adquiridos_PCP com_PREP financiamento_N direto_ADJ de_PREP empresas_N alemãs_ADJ e_KC francesas_ADJ ._END
+mais_PREP de_PREP 60_NUM entidades_N nacionais_ADJ e_KC internacionais_ADJ participam_V ,_PU na_PREP+ART segunda-feira_N ,_PU do_PREP+ART lançamento_N da_PREP+ART campanha_N "_PU Billings_NPROP Eu_NPROP Te_NPROP Quero_NPROP Viva_NPROP ,_PU "_PU ._END
+O_ART coordenador_N da_PREP+ART campanha_N ,_PU Carlos_NPROP Bocuhy_NPROP ,_PU da_PREP+ART Pró-Mix_NPROP ,_PU disse_V que_KS a_ART Billings_NPROP pode_V vir_V a_PREP ser_V o_ART único_ADJ reservatório_N de_PREP água_N da_PREP+ART região_N metropolitana_ADJ de_PREP São_NPROP Paulo_NPROP ._END
+A_ART OAB_NPROP (_PU Ordem_NPROP dos_NPROP Advogados_NPROP do_NPROP Brasil_NPROP )_PU ,_PU a_ART SBPC_NPROP (_PU Sociedade_NPROP Brasileira_NPROP para_NPROP o_NPROP Progresso_NPROP da_NPROP Ciência_NPROP )_PU e_KC a_ART ABI_NPROP (_PU Associação_NPROP Brasileira_NPROP de_NPROP Imprensa_NPROP )_PU já_ADV aderiram_V ao_PREP+ART movimento_N ._END
+O_ART Grupo_NPROP Gay_NPROP da_PREP+ART Bahia_NPROP (_PU GGB_NPROP )_PU divulgou_V ontem_ADV os_ART ganhadores_N do_PREP+ART troféu_N Pau_NPROP de_NPROP Sebo_NPROP ,_PU concedido_PCP ,_PU segundo_PREP o_ART presidente_N do_PREP+ART GGB_NPROP ,_PU Luiz_NPROP Mott_NPROP ,_PU 47_NUM ,_PU aos_PREP+PROSUB que_PRO-KS "_PU insultaram_V ou_KC aviltaram_V os_ART homossexuais_N "_PU ._END
+a_ART lista_N o_ART papa_N João_NPROP Paulo_NPROP 2º_NPROP e_KC o_ART deputado_N Nélson_NPROP Jobim_NPROP -_PU um_PROSUB ,_PU diz_V Mott_NPROP ,_PU por_PREP ver_V no_PREP+ART homossexualismo_N "_PU uma_ART desordem_N moral_ADJ "_PU ,_PU e_KC o_ART outro_PROSUB ,_PU "_PU por_PREP excluir_V da_PREP+ART reforma_N constitucional_ADJ a_ART proibição_N de_PREP discriminação_N "_PU ._END
+troféu_N Triângulo_NPROP Rosa_NPROP -_PU para_PREP os_PROSUB que_PRO-KS defenderam_V os_ART homossexuais_N -_PU foi_V dado_PCP ao_PREP+ART budista_N Dalai_NPROP Lama_NPROP ,_PU ao_PREP+ART governador_N do_PREP+ART Ceará_NPROP ,_PU Ciro_NPROP Gomes_NPROP ,_PU e_KC ao_PREP+ART deputado_N Fábio_NPROP Feldman_NPROP ._END
+Assim_ADV é_V que_KS determinados_PCP homens_N públicos_ADJ são_V conhecidos_PCP por_PREP sua_PROADJ atuação_N no_PREP+ART mundo_N econômico_ADJ ,_PU outros_PROSUB na_PREP+ART área_N de_PREP saúde_N ,_PU da_PREP+ART educação_N ,_PU dos_PREP+ART aposentados_N e_KC por_ADV aí_ADV a_ADV fora_ADV constituindo_V seus_PROADJ nichos_N de_PREP mercado_N ._END
+Quando_KS a_ART capacidade_N ,_PU em_PREP sentido_N amplo_ADJ ,_PU desses_PREP+PROADJ políticos_N não_ADV é_V grande_ADJ ,_PU o_PRO-KS que_PRO-KS os_PROPESS impede_V de_PREP disputar_V parcela_N de_PREP eleitores_N onde_ADV-KS outros_PROSUB agem_V com_PREP maior_ADJ inteligência_N ,_PU resta_V -lhes_PROPESS o_ART ataque_N a_PREP instituições_N sérias_ADJ como_PREP forma_N de_PREP se_PROPESS colocar_V na_PREP+ART mídia_N ._END
+Este_PROSUB é_V o_ART caso_N típico_ADJ do_PREP+ART deputado_N Hélio_NPROP Bicudo_NPROP (_PU PT-SP_NPROP )_PU que_PRO-KS ,_PU de_PREP promotor_N a_PREP deputado_N federal_ADJ ,_PU galgou_V carreira_N mercê_PREP de_PREP ataques_N às_PREP+ART polícias_N militares_ADJ ._END
+O_PRO-KS que_PRO-KS vem_V chamando_V a_ART atenção_N é_V a_ART atuação_N do_PREP+ART nosso_PROADJ ministro_N da_PREP+ART Justiça_N ,_PU Maurício_NPROP Corrêa_NPROP ._END
+Reconduzido_PCP ao_PREP+ART cargo_N em_PREP função_PREP do_PREP+ART lamentável_ADJ episódio_N da_PREP+ART Candelária_N ,_PU do_PREP+PRO-KS qual_PRO-KS soube_V tirar_V proveito_N político_ADJ ,_PU comparecendo_V ao_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP e_KC colocando_V em_PREP dúvida_N a_ART capacidade_N daquele_PREP+PROADJ Estado_N em_PREP lidar_V com_PREP aquela_PROADJ atuação_N que_PRO-KS ,_PU ao_PREP+ART final_N ,_PU conseguiu_V apurar_V e_KC deter_V os_ART criminosos_N ,_PU o_PRO-KS que_PRO-KS ,_PU aliás_PDEN ,_PU era_V de_PREP sua_PROADJ única_ADJ competência_N ._END
+Já_KS que_KS estava_V no_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP poderia_V ter_V feito_PCP análise_N "_PU in_ADV loco_ADV "_PU do_PREP+ART tráfico_N de_PREP drogas_N ,_PU isto_PROSUB sim_ADV seria_V de_PREP sua_PROADJ competência_N ,_PU mas_KC não_ADV o_PROSUB fez_V ._END
+Talvez_ADV não_ADV tivesse_V obtido_PCP "_PU autorização_N "_PU para_PREP percorrer_V os_ART morros_N ._END
+Fortalecido_PCP no_PREP+ART cargo_N e_KC baseado_PCP em_PREP informações_N imprecisas_ADJ ,_PU invadiu_V a_ART Venezuela_NPROP para_PREP assumir_V o_ART massacre_N dos_PREP+ART ianomâmis_N ,_PU como_KS se_PROPESS ocorrido_PCP em_PREP território_N nacional_ADJ ,_PU quase_ADV criando_V um_ART incidente_N internacional_ADJ ._END
+Recentemente_ADV trouxe_V a_PREP público_N um_ART "_PU quase_ADV "_PU golpe_N de_PREP Estado_N ,_PU até_PREP agora_ADV não_ADV explicado_PCP ._END
+Ministro_N exemplar_ADJ ,_PU mesmo_PDEN no_PREP+ART Carnaval_NPROP continuou_V a_PREP assessorar_V nosso_PROADJ presidente_N ,_PU estando_V lado_ADV a_ADV lado_ADV com_PREP ele_PROPESS na_PREP+ART Marquês_NPROP de_NPROP Sapucaí_NPROP ,_PU no_PREP+ART camarote_N da_PREP+ART Liga_NPROP das_NPROP Escolas_NPROP de_NPROP Samba_NPROP ,_PU patrocinadas_PCP por_PREP bicheiros_N ,_PU e_KC deu_V no_PREP+PRO-KS que_PRO-KS deu_V ..._END
+Mas_KC ,_PU se_KS não_ADV bastasse_V tudo_PROADJ isso_PROSUB ,_PU ainda_ADV é_V patrono_N das_PREP+ART seguintes_ADJ idéias_N ,_PU que_PRO-KS virão_V num_PREP+ART verdadeiro_ADJ embrulho_N antiviolência_ADJ :_PU extinguir_V as_ART polícias_N militares_ADJ e_KC soltar_V os_ART bandidos_N para_PREP solucionar_V o_ART problema_N de_PREP vagas_N em_PREP presídios_N ._END
+Vejam_V que_KS idéia_N fabulosa_ADJ ._END
+Com_PREP este_PROADJ currículo_N ,_PU ainda_ADV sonha_V ser_V indicado_PCP para_PREP vaga_N no_PREP+ART Supremo_NPROP Tribunal_NPROP Federal_NPROP ,_PU mas_KC lá_ADV ele_PROPESS será_V um_ART juiz_N de_PREP fora_N ._END
+Hélio_NPROP CESAR_NPROP Rosas_NPROP ,_PU 64_NUM ,_PU é_V deputado_N federal_ADJ pelo_PREP+ART PMDB_NPROP de_PREP São_NPROP Paulo_NPROP ._END
+O_ART Conselho_NPROP Especial_NPROP de_NPROP Sentença_NPROP da_PREP+ART 4ª_ADJ Auditoria_N do_PREP+ART TJM_NPROP (_PU Tribunal_NPROP de_NPROP Justiça_NPROP Militar_NPROP )_PU absolveu_V ontem_ADV os_ART cinco_NUM oficiais_N acusados_PCP de_PREP não_ADV terem_V reprimido_PCP o_ART maior_ADJ motim_N da_PREP+ART história_N da_PREP+ART PM_NPROP ._END
+Após_PREP ser_V controlado_PCP ,_PU o_ART comando_N da_PREP+ART PM_NPROP expulsou_V cerca_PREP de_PREP 200_NUM policiais_N ._END
+Por_PREP unanimidade_N ,_PU os_ART cinco_NUM membros_N do_PREP+ART conselho_N (_PU quatro_NUM coronéis_N e_KC a_ART juíza_N auditora_ADJ Matilde_NPROP Hojda_NPROP )_PU consideraram_V que_KS não_ADV havia_V provas_N suficientes_ADJ para_PREP condenar_V os_ART coronéis_N Aluízio_NPROP Silveira_NPROP de_NPROP Carvalho_NPROP Pereira_NPROP ,_PU Francisco_NPROP Lamenza_NPROP ,_PU o_ART tenente-coronel_N Manoel_NPROP Carlos_NPROP Nogueira_NPROP Abissi_NPROP ,_PU o_ART capitão_N Olinto_NPROP Bueno_NPROP Neto_NPROP e_KC o_ART tenente_N Juliano_NPROP Campos_NPROP de_NPROP Azevedo_NPROP ._END
+O_ART julgamento_N durou_V quatro_NUM horas_N ._END
+O_ART promotor_N Luis_NPROP Roque_NPROP Lombardo_NPROP Barbosa_NPROP disse_V que_KS irá_V recorrer_V da_PREP+ART sentença_N ._END
+Ele_PROPESS pediu_V a_ART condenação_N dos_PREP+ART acusados_N a_PREP três_NUM anos_N de_PREP prisão_N ._END
+Uma_ART tentativa_N de_PREP roubo_N a_PREP carro-forte_N às_PREP+ART 8h_N de_PREP ontem_ADV no_PREP+ART Paço_N municipal_N de_PREP São_NPROP Bernardo_NPROP (_PU Grande_ADJ São_NPROP Paulo_NPROP )_PU resultou_V na_PREP+ART morte_N do_PREP+ART assaltante_N Marcelo_NPROP Fernandes_NPROP Gonçalves_NPROP ,_PU 20_NUM ._END
+Outros_PROADJ quatro_NUM assaltantes_N ,_PU que_PRO-KS estavam_V em_PREP uma_ART Saveiro_NPROP preta_ADJ ,_PU e_KC outros_PROADJ dois_N ,_PU que_PRO-KS estavam_V no_PREP+ART saguão_N do_PREP+ART paço_N ,_PU fugiram_V após_PREP troca_N de_PREP tiros_N com_PREP os_ART vigias_N que_PRO-KS transportavam_V o_ART dinheiro_N ._END
+O_ART carro-forte_N transportava_V Cr$_CUR 18_NUM milhões_N ._END
+Os_ART assaltantes_N não_ADV foram_V encontrados_PCP pela_PREP+ART polícia_N ._END
+Foi_V apreendida_PCP uma_ART pistola_N 7.65_N usada_PCP por_PREP Gonçalves_NPROP ._END
+O_ART carro-forte_N da_PREP+ART empresa_N Estrela_NPROP Azul_NPROP ,_PU placas_N LU_N 2012_N ,_PU chegou_V ao_PREP+ART pátio_N da_PREP+ART prefeitura_N ,_PU na_PREP+ART praça_N Samuel_NPROP Sabatini_NPROP ,_PU para_PREP fazer_V a_ART entrega_N do_PREP+ART dinheiro_N ao_PREP+ART posto_N bancário_ADJ do_PREP+ART Banespa_NPROP ,_PU minutos_N após_PREP a_ART entrada_N de_PREP 800_NUM fincionários_N públicos_ADJ que_PRO-KS trabalham_V no_PREP+ART local_N ._END
+Como_KS é_V de_PREP praxe_N ,_PU um_PROSUB deles_PREP+PROPESS saiu_V do_PREP+ART carro-forte_N e_KC foi_V até_PREP o_ART banco_N e_KC certificou_V -se_PROPESS junto_PREP ao_PREP+ART gerente_N que_KS tudo_PROSUB estava_V normal_ADJ ._END
+Depois_ADV ,_PU dois_N deles_PREP+PROPESS ,_PU Wilson_NPROP Silveira_NPROP e_KC Edvilson_NPROP Pinheiro_NPROP ,_PU caminharam_V até_PREP o_ART posto_N escoltando_V José_NPROP Newton_NPROP Batista_NPROP Dias_NPROP ,_PU que_PRO-KS carregava_V o_ART malote_N com_PREP o_ART dinheiro_N ._END
+Nesse_PREP+PROADJ momento_N ,_PU segundo_PREP o_ART vigilante_N que_PRO-KS preferiu_V se_PROPESS identificar_V apenas_PDEN como_PREP Cláudio_NPROP ,_PU o_ART assaltante_N Gonçalves_NPROP entrou_V em_PREP luta_N corporal_ADJ com_PREP Silveira_NPROP ,_PU que_PRO-KS liderava_V o_ART grupo_N ._END
+Gonçalves_NPROP ,_PU que_PRO-KS portava_V uma_ART pistola_N 7.65_N na_PREP+ART cintura_N que_PRO-KS acabou_V sendo_V apreendida_PCP -_PU e_KC outro_PROADJ revólver_N calibre_N 38_N que_PRO-KS até_PREP agora_ADV não_ADV foi_V encontrado_PCP -_PU acabou_V recebendo_V três_NUM tiros_N ._END
+O_ART motorista_N do_PREP+ART carro-forte_N ,_PU João_NPROP Roberto_NPROP de_NPROP Lima_NPROP ,_PU nesse_PREP+PROADJ momento_N olhou_V pelo_PREP+ART retrovisor_N e_KC viu_V a_ART Saveiro_NPROP ,_PU onde_ADV-KS quatro_NUM homens_N estavam_V sentados_PCP ,_PU um_PROSUB deles_PREP+PROPESS portando_V uma_ART metralhadora_N ._END
+Ele_PROPESS disse_V que_KS tentou_V jogar_V o_ART carro-forte_N contra_PREP o_ART carro_N "_PU para_PREP tentar_V pegar_V a_ART quadrilha_N toda_PROADJ "_PU ,_PU mas_KC os_ART assaltantes_N teriam_V fugido_PCP ._END
+Gonçalves_NPROP ,_PU segundo_PREP a_ART polícia_N ,_PU morreu_V a_PREP caminho_N do_PREP+ART pronto-socorro_N do_PREP+ART hospital_N municipal_ADJ ._END
+Apesar_PREP de_PREP sua_PROADJ pouca_ADV idade_N ,_PU ele_PROPESS já_ADV tinha_V passagens_N anteriores_ADJ pela_PREP+ART polícia_N por_PREP crime_N de_PREP porte_N ilegal_ADJ de_PREP arma_N ._END
+Segundo_PREP ele_PROPESS ,_PU esta_PROSUB é_V segunda_ADJ vez_N que_KS é_V vítima_N de_PREP tentativa_N de_PREP assalto_N ._END
+"_PU Apesar_PREP de_PREP todo_PROADJ treinamento_N recebido_PCP ,_PU é_V uma_ART profissão_N muito_ADV perigosa_ADJ "_PU ,_PU admite_V ._END
+O_ART delegado-titular_N do_PREP+ART 1º_ADJ Distrito_NPROP Policial_NPROP ,_PU onde_ADV-KS foi_V registrado_PCP a_ART ocorrência_N ,_PU Vicente_NPROP David_NPROP Vieira_NPROP ,_PU 54_NUM anos_N ,_PU disse_V que_KS o_ART ladrão_N que_PRO-KS foi_V baleado_PCP teve_V uma_ART atitude_N "_PU infantil_ADJ ao_PREP+ART se_PROPESS atracar_V em_PREP luta_N corporal_ADJ com_PREP o_ART vigia_N "_PU ._END
+No_PREP+ART dia_N 3_N de_PREP janeiro_N deste_PREP+PROADJ ano_N ,_PU uma_ART tentativa_N de_PREP roubo_N a_PREP carro-forte_N deixou_V sete_NUM pessoas_N feridas_PCP e_KC também_PDEN um_NUM assaltante_N morto_PCP em_PREP Santo_NPROP André_NPROP ._END
+Seis_NUM homens_N e_KC quatro_NUM mulheres_N armados_PCP invadiram_V ontem_ADV de_PREP madrugada_N o_ART plantão_N do_PREP+ART 62º_ADJ DP_NPROP ,_PU em_PREP Ermelino_NPROP Matarazzo_NPROP (_PU zona_N leste_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ,_PU e_KC tentaram_V libertar_V quatro_NUM presos_N ._END
+Os_ART três_NUM policiais_N de_PREP plantão_N -_PU um_NUM delegado_N ,_PU um_NUM investigador_N e_KC um_NUM escrivão_N -_PU reagiram_V e_KC houve_V tiroteio_N ._END
+Um_PROSUB dos_PREP+ART membros_N da_PREP+ART quadrilha_N foi_V ferido_PCP sem_PREP gravidade_N no_PREP+ART pescoço_N e_KC os_ART outros_PROSUB fugiram_V ._END
+Até_PREP às_PREP+ART 19h_N de_PREP ontem_ADV ,_PU deles_PREP+PROPESS já_ADV haviam_V sido_PCP presos_PCP ._END
+Um_PROSUB dos_PREP+ART invasores_N era_V um_ART Ex-pM_N fardado_PCP ._END
+Os_ART policiais_N do_PREP+ART 62º_ADJ DP_NPROP haviam_V sido_PCP avisados_PCP ,_PU na_PREP+ART madrugada_N de_PREP sexta-feira_N passada_PCP ,_PU da_PREP+ART possibilidade_N de_PREP uma_ART tentativa_N de_PREP resgate_N de_PREP quatro_NUM homens_N ,_PU presos_PCP em_PREP flagrante_N no_PREP+ART dia_N anterior_ADJ ._END
+por_PREP volta_PREP das_PREP+ART 3h_N da_PREP+ART madrugada_N ,_PU duas_NUM mulheres_N e_KC um_NUM homem_N bateram_V à_PREP+ART porta_N da_PREP+ART delegacia_N ,_PU que_PRO-KS estava_V trancada_PCP por_PREP precaução_N ._END
+Eles_PROPESS diziam_V ter_V sofrido_PCP um_ART assalto_N nas_PREP+ART proximidades_N ._END
+Poucos_PROADJ minutos_N depois_ADV ,_PU um_ART homem_N vestido_PCP com_PREP a_ART farda_N da_PREP+ART PM_NPROP entrou_V no_PREP+ART DP_NPROP trazendo_V outro_PROADJ homem_N que_PRO-KS ele_PROPESS dizia_V ter_V prendido_PCP ._END
+Quando_KS chegaram_V perto_PREP do_PREP+ART delegado_N ,_PU que_PRO-KS estava_V sentado_PCP atrás_PREP do_PREP+ART balcão_N do_PREP+ART plantão_N ,_PU o_ART suposto_PCP assaltante_N tirou_V as_ART mãos_N das_PREP+ART costas_N ,_PU onde_ADV-KS escondia_V um_ART revólver_N ,_PU apontou_V para_PREP o_ART delegado_N de_PREP plantão_N José_NPROP Carlos_NPROP Soares_NPROP ,_PU 33_NUM ,_PU e_KC atirou_V ._END
+O_ART delegado_N abaixou_V -se_PROPESS ,_PU pegou_V uma_ART metralhadora_N Beretta_NPROP mm_N e_KC levantou_V -se_PROPESS atirando_V ._END
+Nesse_PREP+PROADJ momento_N ,_PU sete_NUM membros_N da_PREP+ART quadrilha_N estavam_V dentro_PREP do_PREP+ART DP_NPROP ._END
+O_ART escrivão_N e_KC o_ART investigador_N entraram_V no_PREP+ART tiroteio_N ._END
+A_ART quadrilha_N saiu_V correndo_V da_PREP+ART delegacia_N ._END
+Só_PDEN um_PROSUB deles_PREP+PROPESS ficou_V caído_PCP no_PREP+ART chão_N ,_PU atingido_PCP por_PREP uma_ART bala_N no_PREP+ART pescoço_N ._END
+Pouco_ADV depois_ADV ,_PU um_ART Opala_NPROP trazendo_V um_ART homem_N e_KC uma_ART mulher_N parou_V perto_PREP do_PREP+ART carro_N ._END
+A_ART mulher_N era_V Rosana_NPROP Santos_NPROP Cruz_NPROP ,_PU 30_NUM ,_PU dona_N do_PREP+ART carro_N e_KC irmã_N de_PREP um_PROSUB dos_PREP+ART presos_N que_PRO-KS deveriam_V ser_V libertados_PCP ._END
+Na_PREP+ART casa_N de_PREP Rosana_NPROP ,_PU a_ART polícia_N encontrou_V as_ART armas_N cinco_NUM revólveres_N e_KC duas_NUM pistolas_N ._END
+Com_PREP informações_N prestadas_PCP por_PREP Rosana_NPROP ,_PU a_ART polícia_N conseguiu_V prender_V Selma_NPROP Alves_NPROP dos_NPROP Santos_NPROP ,_PU 23_NUM ,_PU Marco_NPROP Antonio_NPROP Paulino_NPROP ,_PU 31_NUM ,_PU Vladimir_NPROP Barbosa_NPROP de_NPROP Morais_NPROP ,_PU 20_NUM ,_PU seu_PROADJ irmão_N Valter_NPROP Barbosa_NPROP de_NPROP Morais_NPROP ,_PU 24_NUM (_PU o_ART Ex-pM_N que_PRO-KS estava_V fardado_PCP )_PU ,_PU Odil_NPROP da_NPROP Silva_NPROP Correia_NPROP ,_PU 24_NUM ,_PU e_KC Gilvan_NPROP de_NPROP Souza_NPROP Freire_NPROP ,_PU 24_NUM ._END
+As_ART salas_N de_PREP aula_N da_PREP+ART rede_N estadual_ADJ de_PREP São_NPROP Paulo_NPROP deverão_V ter_V mais_PROADJ alunos_N este_PROADJ ano_N do_KS que_KS nos_PREP+ART anteriores_N ._END
+Portaria_NPROP da_NPROP Secretaria_NPROP de_NPROP Estado_NPROP da_NPROP Educação_NPROP exige_V que_KS as_ART classes_N tenham_V no_PREP+ART mínimo_N 35_NUM alunos_N matriculados_PCP para_PREP poder_V funcionar_V no_PREP+ART ano_N letivo_ADJ de_PREP 1994_N -_PU que_PRO-KS começa_V hoje_ADV para_PREP 6,5_NUM milhões_N de_PREP estudantes_N e_KC 240_NUM mil_NUM professores_N ._END
+Caso_KS as_ART classes_N não_ADV tenham_V o_ART número_N mínimo_ADJ de_PREP matriculados_N ,_PU os_ART alunos_N são_V encaminhados_PCP a_PREP outra_PROADJ escola_N ._END
+Segundo_PREP o_ART secretário_N da_PREP+ART Educação_N ,_PU Carlos_NPROP Estevam_NPROP Martins_NPROP ,_PU 59_NUM ,_PU há_V "_PU bastante_PROADJ menos_PROADJ classes_N "_PU este_PROADJ ano_N ._END
+Os_ART dados_N serão_V apurados_PCP no_PREP+ART décimo_ADJ dia_N de_PREP aula_N e_KC em_PREP uma_ART auditoria_N que_PRO-KS será_V feita_PCP daqui_PREP a_PREP dois_NUM meses_N ,_PU segundo_PREP Martins_NPROP ._END
+A_PREP seguir_V trechos_N da_PREP+ART entrevista_N ,_PU concedida_PCP à_PREP+ART Folha_NPROP por_PREP Martins_NPROP na_PREP+ART sexta-feira_N passada_PCP ._END
+Começamos_V as_ART aulas_N com_PREP menos_PROADJ classes_N que_KS no_PREP+ART ano_N passado_PCP ._END
+Isso_PROSUB por_PREP causa_PREP da_PREP+ART portaria_N 244_N ?_PU
+É_V ._END

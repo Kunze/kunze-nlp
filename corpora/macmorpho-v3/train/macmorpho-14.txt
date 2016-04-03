@@ -1,0 +1,782 @@
+﻿Uma_ART "_PU homossexualidade_N "_PU recomendada_PCP como_PREP louvável_ADJ e_KC praticada_PCP por_PREP toda_PROADJ elite_N moral_ADJ ,_PU intelectual_ADJ ,_PU política_ADJ ,_PU artística_ADJ ,_PU guerreira_ADJ ,_PU religiosa_ADJ de_PREP uma_ART sociedade_N culturalmente_ADV sofisticada_PCP como_PREP a_ART grega_N ,_PU seria_V a_ART mesma_PROADJ "_PU homossexualidade_N "_PU das_PREP+ART minorias_N "_PU gays_N "_PU ;_PU dos_PREP+ART encontros_N clandestinos_ADJ em_PREP guetos_N :_PU da_PREP+ART culpa_N e_KC da_PREP+ART vergonha_N presentes_ADJ na_PREP+ART esmagadora_ADJ maioria_N dos_PREP+PROSUB que_PRO-KS sentem_V tal_PROADJ tipo_N de_PREP inclinação_N erótica_ADJ ?_PU
+Como_ADV e_KC por_PREP que_PRO-KS ver_V na_PREP+ART "_PU pederastia_N "_PU ,_PU pensada_PCP desta_PREP+PROADJ forma_N ,_PU uma_ART ocorrência_N particular_ADJ de_PREP uma_ART "_PU homossexualidade_N "_PU universal_ADJ ?_PU
+Basta_V falar_V de_PREP "_PU disposição_N ao_PREP+ART prazer_N sensorial_ADJ com_PREP pessoas_N do_PREP+ART mesmo_PROADJ sexo_N "_PU ,_PU para_PREP homogeneizar_V a_ART "_PU pederastia_N "_PU e_KC a_ART "_PU homossexualidade_N "_PU ?_PU
+Duvido_V ._END
+A_ART crença_N de_PREP Dover_NPROP numa_PREP+ART "_PU homossexualidade_N "_PU trans-histórica_ADJ ,_PU igual_ADJ a_PREP ela_PROPESS mesma_PROADJ no_PREP+ART tempo_N e_KC no_PREP+ART espaço_N ,_PU é_V produto_N de_PREP nossa_PROADJ "_PU disposição_N imaginária_ADJ "_PU para_PREP crer_V numa_PREP+ART essência_N da_PREP+ART "_PU homossexualidade_N "_PU que_PRO-KS ,_PU no_KC entanto_KC ,_PU só_PDEN existe_V e_KC tem_V sentido_PCP quando_ADV-KS holisticamente_ADV articulada_PCP ao_PREP+ART vocabulário_N moral_ADJ da_PREP+ART sexualidade_N burguesa_ADJ oitocentista_ADJ ._END
+O_ART uso_N do_PREP+ART termo_N "_PU homossexualidade_N "_PU ,_PU num_PREP+ART estudo_N do_PREP+ART quilate_N de_PREP "_PU A_NPROP Homossexualidade_NPROP Grega_NPROP "_PU ,_PU surpreende_V e_KC mostra_V ,_PU ao_ADV mesmo_ADV tempo_ADV ,_PU a_ART força_N performativa_ADJ das_PREP+ART palavras_N na_PREP+ART construção_N linguística_ADJ de_PREP nossas_PROADJ crenças_N ,_PU desejos_N e_KC subjetividades_N ._END
+Mas_KC ,_PU como_KS mostrou_V Freud_NPROP ,_PU dizemos_V sempre_ADV mais_ADV do_KS que_KS queremos_V dizer_V ._END
+Para_PREP quem_PRO-KS ainda_ADV não_ADV está_V totalmente_ADV convertido_PCP à_PREP+ART cultura_N do_PREP+ART sexo-rei_N ,_PU com_PREP suas_PROADJ homossexualidades_N ,_PU heterossexualidades_N e_KC bissexualidades_N ,_PU a_ART leitura_N deste_PREP+PROADJ livro_N fascinante_ADJ é_V obrigatória_ADJ ._END
+JURANDIR_NPROP Freire_NPROP Costa_NPROP é_V psicanalista_N e_KC professor_N de_PREP medicina_N social_ADJ na_PREP+ART Universidade_NPROP Estadual_NPROP do_NPROP Rio_NPROP de_NPROP Janeiro_NPROP ._END
+Homossexualidade_NPROP na_NPROP Grécia_NPROP Antiga_NPROP ,_PU de_PREP K._NPROP J._NPROP Dover_NPROP ._END
+Tradução_N de_PREP Luiz_NPROP Krausz_NPROP ._END
+Capa_N de_PREP Juan_NPROP Balzi_NPROP ._END
+Nova_NPROP Alexandria_NPROP (_PU r._NPROP Urano_NPROP
+,_PU 215_NUM ,_PU São_NPROP Paulo_NPROP ,_PU tel._N 270-8627_N ,_PU Cep_N 01529-010_N )_PU ._END
+336_NUM págs_N ._END 29_NUM URVs_N
+INTERCOM_NPROP ,_PU Nº_N 2_N ,_PU revista_N da_PREP+ART Sociedade_NPROP Brasileira_NPROP de_NPROP Estudos_NPROP Interdisciplinares_NPROP da_NPROP Comunicação_NPROP ._END
+Editora_NPROP Unimep_NPROP (_PU r._NPROP Rangel_NPROP Pestana_NPROP
+,_PU fax_N 22-8204_N )_PU ._END
+A_ART revista_N ,_PU que_PRO-KS tem_V apoio_N da_PREP+ART SBPC_NPROP ,_PU traz_V o_ART dossiê_N "_PU A_NPROP Comunicação_NPROP na_NPROP Década_NPROP de_NPROP 90:_NPROP impasses_NPROP teóricos_NPROP e_NPROP metodológicos_NPROP "_PU ._END
+Reforma_NPROP Agrária_NPROP ,_PU revista_V da_PREP+ART Associação_NPROP Brasileira_NPROP de_NPROP Reforma_NPROP Agrária_NPROP ._END
+Capa_N de_PREP Moema_NPROP Cavalcanti_NPROP ._END
+Abra_NPROP (_PU r._NPROP Cândido_NPROP Gomide_NPROP
+,_PU 333_NUM ,_PU Campinas_NPROP ,_PU Cep_N 1307-200_N ,_PU tel._N 0192_N 42-6590_N ,_PU fax_N 0192_N 42-7993_N )_PU ._END
+95_NUM págs_N ._END 10_NUM Ufirs_N
+A_ART revista_N traz_V ensaio_N sobre_PREP os_ART "_PU brasiguaios_N "_PU e_KC estatísticas_N sobre_PREP o_ART trabalho_N feminino_ADJ nos_PREP+ART garimpos_N ,_PU entre_PREP outros_PROADJ textos_N ._END
+Faperj_NPROP (_PU av._NPROP Erasmo_NPROP Braga_NPROP
+,_PU 118_NUM ,_PU 6º_ADJ andar_N ,_PU RJ_NPROP ,_PU Cep_N 20020-000_N ,_PU fax._N
+021_N 242-8687_N ._END
+203_NUM págs_N ._END 16_NUM URVs_N
+Textos_N do_PREP+ART seminário_N "_PU Mídia_NPROP e_NPROP Violência_NPROP Urbana_NPROP "_PU (_PU RJ_NPROP ,_PU 1993_N )_PU ;_PU entre_PREP os_ART autores_N ,_PU Gilberto_NPROP Dimenstein_NPROP e_KC Jurandir_NPROP Freire_NPROP Costa_NPROP ._END
+Informação_NPROP E_NPROP Poder_NPROP ,_PU org._N
+de_PREP José_NPROP Paulo_NPROP Cavalcanti_NPROP Filho_NPROP ._END
+Prefácio_N de_PREP Janio_NPROP de_NPROP Freitas_NPROP ._END
+Editora_NPROP Record_NPROP (_PU r._NPROP Argentina_NPROP
+126_NUM págs_N ._END 9_NUM URVs_N
+Coletânea_N de_PREP textos_N de_PREP juristas_N e_KC jornalistas_N brasileiros_ADJ sobre_PREP mídia_N ,_PU baseados_PCP em_PREP palestras_N da_PREP+ART Reunião_N da_PREP+ART SBPC_NPROP de_PREP 1993_N ._END
+Conceitos_NPROP Básicos_NPROP De_NPROP Administração_NPROP -_NPROP Um_NPROP Guia_NPROP Prático_NPROP ,_PU De_PREP Bengt_NPROP Karlof_NPROP ._END
+Nobel_NPROP (_PU r._NPROP Maria_NPROP Antônia_NPROP
+,_PU 108_NUM ,_PU SP_NPROP ,_PU Cep_N 01222_N ,_PU tel._N 011_N 257-2744_N )_PU ._END
+252_NUM págs_N ._END 30_NUM URVs_N
+Guia_N que_PRO-KS decifra_V a_ART linguagem_N da_PREP+ART moderna_ADJ estratégia_N empresarial_ADJ ,_PU explicando_V termos_N técnicos_ADJ e_KC estratégias_N gerenciais_ADJ ._END
+Como_NPROP SE_NPROP Relacionar_NPROP Bem_NPROP No_NPROP Trabalho_NPROP ,_PU de_PREP Donald_NPROP Weiss_NPROP ._END
+Capa_N de_PREP Orlando_NPROP Maver_NPROP ._END
+(_PU r._NPROP Maria_NPROP Antônia_NPROP
+,_PU 108_NUM ,_PU SP_NPROP ,_PU tel._N 011_N 257-2744_N )_PU ._END
+172_NUM págs_N ._END 109_NUM págs_N ._END 12_NUM URVs_N
+Manual_N que_PRO-KS ajuda_V a_PREP construir_V relacionamentos_N melhores_ADJ no_PREP+ART local_N de_PREP trabalho_N ,_PU reduzindo_V a_ART tensão_N e_KC facilitando_V a_ART ascensão_N profissional_ADJ ._END
+1500_NPROP -_NPROP A_NPROP Grande_NPROP Viagem_NPROP -_NPROP Romance_NPROP De_NPROP Ficção_NPROP Histórica_NPROP ,_PU de_PREP Paulo_NPROP Saab_NPROP ._END
+Prefácio_N de_PREP José_NPROP Aparecido_NPROP de_NPROP Oliveira_NPROP ._END
+Editora_NPROP Augustus_NPROP (_PU al._NPROP Palmaris_NPROP
+,_PU 179_NUM tel._N 011_N 61-5306_N )_PU ._END
+Romance_N baseado_PCP em_PREP quatro_NUM anos_N de_PREP pesquisas_N bibliográficas_ADJ sobre_PREP a_ART expedição_N de_PREP Pedro_NPROP Álvares_NPROP Cabral_NPROP ._END
+O_NPROP Fantasma_NPROP Da_NPROP Revolução_NPROP Brasileira_NPROP ,_PU de_PREP Marcelo_NPROP Ridenti_NPROP ._END
+Projeto_N visual_ADJ de_PREP Lourdes_NPROP Guacira_NPROP da_NPROP Silva_NPROP ._END
+Unesp_NPROP (_PU av._NPROP Rio_NPROP Branco_NPROP
+,_PU 1.210_NUM ,_PU São_NPROP Paulo_NPROP ,_PU Cep_N 012206-904_N ,_PU tel./fax_N 011_N 223-9560_N )_PU ._END
+O_ART autor_N analisa_V o_ART caráter_N da_PREP+ART Revolução_NPROP de_NPROP 1964_NPROP desde_PREP os_ART grupos_N guerrilheiros_ADJ até_PREP os_ART artistas_N de_PREP esquerda_N da_PREP+ART época_N ._END
+A_NPROP Aplicação_NPROP DOS_NPROP Princípios_NPROP E_NPROP Normas_NPROP Sobre_NPROP O_NPROP Ecumenismo_NPROP ,_PU do_PREP+ART Cons._NPROP Pontifício_NPROP p'a_NPROP Unidade_NPROP Cristã_NPROP
+._END
+,_PU 100_NUM ,_PU Petrópolis_NPROP ,_PU tel._N 021_N 43-5112_N )_PU ._END
+Preço_N não_ADV definido_PCP ._END
+Orientação_N e_KC normas_N de_PREP aplicacção_N "_PU universais_ADJ "_PU para_PREP a_ART participação_N católica_ADJ na_PREP+ART ação_N ecumênica_ADJ ._END
+Apresentação_N de_PREP Ivo_NPROP Lorscheider_NPROP ._END
+O_NPROP Que_NPROP O_NPROP Povo_NPROP Pergunta_NPROP ,_PU de_PREP Pe._NPROP Artur_NPROP Betti_NPROP ._END
+Ilustrações_N de_PREP José_NPROP Valmeci_NPROP de_NPROP Souza_NPROP ._END
+Editora_NPROP Vozes_NPROP (_PU r._NPROP Frei_NPROP Luís_NPROP
+,_PU 100_NUM ,_PU Petrópolis_NPROP ,_PU Cep_N 25689-900_N ,_PU tel._N 0242_N 43-5112_N ,_PU fax_N 42-0692_N ,_PU caixa_N postal_ADJ 90023_N )_PU ._END
+206_NUM págs_N ._END 7,64_NUM URVs_N
+Cartas_NPROP De_NPROP Um_NPROP Sobrevivente_NPROP ,_PU de_PREP O._NPROP Carl_NPROP Simonton_NPROP ,_PU Reid_NPROP M._NPROP Henson_NPROP e_KC Brenda_NPROP Hampton_NPROP ._END
+Summus_NPROP (_PU r._NPROP Cardoso_NPROP de_NPROP Almeida_NPROP ,_PU 1287_NUM ,_PU SP_NPROP ,_PU tel._N 011_N 872-3322_N ,_PU Cep_N 01295-970_N )_PU ._END
+197_NUM págs_N ._END 14,40_NUM URVs_N
+Relato_N da_PREP+ART experiência_N de_PREP recuperação_N da_PREP+ART saúde_N de_PREP um_ART paciente_N de_PREP câncer_N ,_PU diagnosticado_PCP como_PREP terminal_N ._END
+Educação_NPROP Para_NPROP Uma_NPROP Vida_NPROP Criativa_NPROP ,_PU de_PREP Tsunessaburo_NPROP Makiguti_NPROP ._END
+Tradução_N de_PREP Eliane_NPROP Carpenter_NPROP Fraga_NPROP Lourenço_NPROP ._END
+Record_NPROP (_PU r._NPROP Argentina_NPROP ,_PU 171_NUM ,_PU Rio_NPROP de_NPROP Janeiro_NPROP ,_PU tel._N 021_N 585-2000_N )_PU ._END
+Reunião_N das_PREP+ART anotações_N feitas_PCP por_PREP Makiguti_NPROP ,_PU fundador_N da_PREP+ART Sociedade_NPROP Soka_NPROP Gakkai_NPROP ,_PU organização_N leiga_ADJ do_PREP+ART budismo_N de_PREP Nitiren_NPROP Daishonin_NPROP ._END
+A_ART escritora_N faz_V uma_ART arqueologia_N cultural_ADJ do_PREP+ART "_PU estrangeiro_N "_PU no_PREP+ART Ocidente_NPROP
+Da_PREP+ART
+Julia_NPROP Kristeva_NPROP ,_PU 53_NUM ,_PU possui_V um_ART currículo_N bastante_ADV denso_ADJ para_PREP se_PROPESS tornar_V "_PU maître_N à_N penser_N "_PU ._END
+Pena_N que_KS o_ART mercado_N intelectual_ADJ francês_ADJ esteja_V avesso_ADJ a_PREP esse_PROADJ modelo_N de_PREP personagem_N que_PRO-KS produziu_V tantos_PROADJ encantos_N na_PREP+ART cultura_N de_PREP massas_N até_PREP o_ART fim_N dos_PREP+ART anos_N 70_N ._END
+Mesmo_KC assim_KC ,_PU ela_PROPESS persiste_V ._END
+Escreveu_V "_PU Estrangeiros_NPROP Para_NPROP Nós_NPROP Mesmos_NPROP "_PU ,_PU publicado_PCP em_PREP 1988_N e_KC que_PRO-KS a_ART Rocco_NPROP lança_V em_PREP tradução_N ._END
+refinada_PCP ,_PU elíptico_ADJ em_PREP seus_PROADJ argumentos_N ,_PU o_ART livro_N exibe_V como_PREP objeto_N de_PREP reflexão_N algo_PROSUB hoje_ADV alheio_ADJ ao_PREP+ART cotidiano_N dos_PREP+ART brasileiros_N :_PU a_ART divisão_N do_PREP+ART espaço_N social_ADJ com_PREP uma_ART multidão_N de_PREP imigrantes_N ._END
+Na_PREP+ART França_NPROP ,_PU são_V estrangeiras_ADJ quase_ADV um_NUM décimo_N da_PREP+ART população_N e_KC 7,4_NUM %_N da_PREP+ART mão-de-obra_N ativa_ADJ ._END
+Praticamente_ADV todos_PROSUB "_PU inassimiláveis_ADJ "_PU (_PU negros_N de_PREP Mali_NPROP ,_PU muçulmanos_N da_PREP+ART África_NPROP do_NPROP Norte_NPROP )_PU ,_PU que_PRO-KS escapam_V ao_PREP+ART processo_N do_PREP+ART "_PU melting-pot_N "_PU cultural_ADJ que_PRO-KS neste_PREP+PROADJ século_N absorveu_V ,_PU às_PREP+ART pencas_N ,_PU espanhóis_N ,_PU poloneses_N ou_KC italianos_N ._END
+O_ART exemplo_N mais_ADV banal_ADJ disso_PREP+PROSUB está_V na_PREP+ART Frente_NPROP Nacional_NPROP ,_PU partido_N que_PRO-KS fez_V da_PREP+ART xenofobia_N sua_PROADJ plataforma_N política_ADJ e_KC obteve_V um_NUM décimo_N dos_PREP+ART votos_N nas_PREP+ART legislativas_N de_PREP 93_N ._END
+No_PREP+ART viveiro_N parisiense_ADJ de_PREP idéias_N ,_PU não_ADV se_PROPESS esperaria_V de_PREP Kristeva_NPROP um_ART manifesto_N contra_PREP o_ART racismo_N ou_KC uma_ART postura_N de_PREP afeto_N militante_ADJ para_PREP com_PREP os_ART não-nacionais_N ._END
+Os_ART partidos_N e_KC as_ART ONGs_NPROP (_PU Organizações_NPROP Não-Governamentais_NPROP )_PU ,_PU últimos_ADJ herdeiros_N da_PREP+ART racionalidade_N ,_PU já_ADV preenchem_V este_PROADJ espaço_N de_PREP linguagem_N ._END
+Kristeva_NPROP é_V ,_PU ela_PROPESS própria_PROADJ ,_PU uma_ART estrangeira_N ._END
+Emigrou_V da_PREP+ART Bulgária_NPROP aos_PREP+ART 25_NUM anos_N ,_PU mesmo_KS que_KS este_PROADJ detalhe_N fundamental_ADJ não_ADV apareça_V ,_PU em_PREP nenhum_PROADJ momento_N ,_PU incorporado_PCP à_PREP+ART sua_PROADJ identidade_N como_PREP autora_N ._END
+O_ART estrangeiro_N ,_PU no_PREP+ART texto_N ,_PU está_V sempre_ADV na_PREP+ART terceira_ADJ pessoa_N ._END
+Detalhe_N irrelevante_ADJ para_PREP a_ART semióloga_N ,_PU espécie_N de_PREP musa_N do_PREP+ART estruturalismo_N em_PREP Maio_N de_PREP 68_N ,_PU ex-maoísta_ADJ ,_PU fascinada_PCP há_V década_N e_KC meia_N por_PREP essa_PROADJ miséria_N doutrinária_ADJ que_PRO-KS foram_V os_ART novos_ADJ filósofos_N ,_PU hoje_ADV psicanalista_N e_KC professora_N de_PREP literatura_N ._END
+Sua_PROADJ abordagem_N do_PREP+ART estrangeiro_N toma_V por_PREP base_N uma_ART espécie_N de_PREP arqueologia_N cultural_ADJ ._END
+Não_ADV por_PREP meio_PREP da_PREP+ART história_N dos_PREP+ART confrontos_N e_KC desfechos_N entre_PREP culturas_N e_KC impérios_N ,_PU do_PREP+ART subjugar_N colonial_ADJ que_PRO-KS institucionalizou_V a_ART mentira_N segundo_PREP a_PRO-KS qual_PRO-KS os_ART dominados_N são_V de_PREP qualidade_N étnica_ADJ inferior_ADJ à_PREP+PROSUB dos_PREP+ART dominantes_N ._END
+O_ART trajeto_N implicitamente_ADV seguido_PCP por_PREP Kristeva_NPROP tem_V como_PREP ponto_N de_PREP partida_N o_ART fato_N de_PREP o_ART estrangeiro_N ser_V ,_PU para_PREP nós_PROPESS ,_PU um_ART conteúdo_N que_PRO-KS oscila_V entre_PREP o_ART literal_N e_KC o_ART latente_N ,_PU num_PREP+ART conjunto_N bastante_ADV amplo_ADJ de_PREP modelos_N ,_PU textos_N e_KC narrativas_N ._END
+os_ART discursos_N sobre_PREP "_PU o_ART outro_PROSUB "_PU que_PRO-KS o_ART Ocidente_NPROP acumulou_V as_ART Danaides_NPROP da_PREP+ART tragédia_N grega_ADJ ,_PU passando_V pela_PREP+ART Bíblia_NPROP dos_PREP+ART judeus_N e_KC de_PREP São_NPROP Paulo_NPROP e_KC chegando_V a_PREP Rabelais_NPROP ,_PU Montaigne_NPROP ou_KC Kant_NPROP ._END
+Assim_ADV e_KC por_PREP que_PROSUB não_ADV ?_PU -_PU ,_PU uma_ART releitura_N desse_PREP+PROADJ imenso_ADJ corpus_N é_V virtualmente_ADV capaz_ADJ de_PREP perfilar_V a_ART problematização_N específica_ADJ da_PREP+ART alteridade_N mal_ADV resolvida_PCP ._END
+Ou_PDEN melhor_PDEN ,_PU de_PREP impossível_ADJ solução_N ,_PU já_KS que_KS "_PU o_ART outro_PROSUB "_PU está_V ,_PU em_PREP última_ADJ instância_N ,_PU embutido_PCP em_PREP nós_PROPESS mesmos_PROADJ (_PU Freud_NPROP )_PU ,_PU e_KC também_PDEN porque_KS ,_PU entre_PREP nós_PROPESS e_KC ele_PROPESS ,_PU inexistiria_V dialética_N ou_KC tampouco_ADV a_ART virtualidade_N de_PREP pausas_N relacionais_ADJ para_PREP a_ART formulação_N de_PREP modelos_N de_PREP síntese_N ._END
+A_ART noção_N de_PREP estrangeiro_N "_PU possui_V um_ART significado_N jurídico_ADJ :_PU aquele_PROSUB que_PRO-KS não_ADV tem_V a_ART cidadania_N do_PREP+ART país_N que_PRO-KS habita_V "_PU ,_PU constata_V a_ART autora_N ._END
+Mas_KC ,_PU ao_ADV mesmo_ADV tempo_ADV ,_PU o_ART estrangeiro_N ocupa_V ostensivamente_ADV "_PU o_ART lugar_N da_PREP+ART diferença_N ,_PU e_KC lança_V à_PREP+ART identidade_N do_PREP+ART grupo_N ,_PU tanto_ADV quanto_PREP à_PREP+ART sua_PROADJ própria_N ,_PU desafios_N que_PRO-KS poucos_PROSUB dentre_PREP nós_PROPESS estão_V aptos_ADJ a_PREP aceitar_V "_PU ._END
+As_ART 205_NUM páginas_N do_PREP+ART livro_N correspondem_V ,_PU justamente_ADV ,_PU a_PREP uma_ART aceitação_N desse_PREP+PROADJ desafio_N ._END
+Ao_PREP+ART plano_N etnográfico_ADJ ,_PU sociológico_ADJ ,_PU jurídico_ADJ ou_KC político_ADJ ,_PU Julia_NPROP Kristeva_NPROP contrapõe_V o_ART discurso_N da_PREP+ART crítica_N literária_ADJ ,_PU que_PRO-KS por_PREP sua_PROADJ vez_N se_PROPESS ramifica_V de_PREP maneira_N a_PREP acariciar_V cada_PROADJ uma_PROSUB dessas_PREP+PROADJ pertinências_N academicas_ADJ consagradas_PCP ._END
+Resta_V um_ART ponto_N incômodo_ADJ e_KC fundamental_ADJ :_PU até_PREP que_PROADJ ponto_N a_ART diluição_N pelos_PREP+ART séculos_N da_PREP+ART problemática_N da_PREP+ART alteridade_N não_ADV levaria_V ,_PU justamente_ADV ,_PU à_PREP+ART perda_N da_PREP+ART própria_PROADJ noção_N de_PREP processo_N histórico_ADJ que_PRO-KS parametraria_V os_ART atuais_ADJ modelos_N politicamente_ADV tenebrosos_ADJ de_PREP relacionamento_N com_PREP o_ART estrangeiro_N ?_PU
+Kristeva_NPROP cai_V na_PREP+ART armadilha_N ,_PU sem_PREP no_KC entanto_KC acusar_V a_ART queda_N ._END
+É_V bem_ADV verdade_N que_KS o_ART discurso_N da_PREP+ART psicanálise_N possui_V como_PREP atributo_N a_ART cimentação_N das_PREP+ART fendas_N abertas_PCP pela_PREP+ART negação_N da_PREP+ART historicidade_N ._END
+Mas_KC a_ART conclusão_N subsequente_ADJ seria_V a_PROSUB de_PREP que_KS a_ART alteridade_N problemática_ADJ obedece_V a_PREP um_ART modelo_N único_ADJ e_KC perene_ADJ ,_PU o_PRO-KS que_PRO-KS por_ADV certo_ADV não_ADV é_V verdade_N ._END
+O_ART racismo_N só_PDEN criou_V condições_N de_PREP emergência_N com_PREP a_ART aparição_N do_PREP+ART Estado-nação_N ._END
+A_ART aporia_N não_ADV é_V resolvida_PCP ,_PU o_PRO-KS que_PRO-KS a_ADV rigor_ADV não_ADV é_V importante_ADJ ._END
+É_V um_ART prazer_N reencontrar_V Julia_NPROP Kristeva_NPROP ,_PU sua_PROADJ vivacidade_N pluridisciplinar_ADJ e_KC seu_PROADJ elíptico_ADJ brilhantismo_N ._END
+Estrangeiros_NPROP para_NPROP Nós_NPROP Mesmos_NPROP ,_PU de_PREP Julia_NPROP Kristeva_NPROP ._END
+Tradução_N de_PREP Maria_NPROP Carlota_NPROP Carvalho_NPROP Gomes_NPROP ._END
+,_PU 26_NUM ,_PU 5º_ADJ andar_N ,_PU Rio_NPROP de_NPROP Janeiro_NPROP ,_PU Cep_N 20011-040_N ,_PU tel._N 021_N 507-2000_N ,_PU fax_N 021_N 507-2244_N )_PU ._END
+205_NUM págs_N ._END Preço_N não_ADV definido_PCP
+Especial_ADV para_PREP o_ART "_PU The_NPROP NYT_NPROP Book_NPROP Review_NPROP "_PU ._END
+O_ART reaparecimento_N repentino_ADJ do_PREP+ART nacionalismo_N no_PREP+ART mundo_N ex-comunista_ADJ contrariou_V as_ART expectativas_N e_KC resultou_V numa_PREP+ART série_N de_PREP novos_ADJ livros_N que_PRO-KS procuram_V explicações_N e_KC tratamentos_N para_PREP o_ART fenômeno_N ._END
+Será_V que_KS o_ART nacionalismo_N desvairado_PCP da_PREP+ART espécie_N iugoslava_ADJ vai_V definir_V a_ART ordem_N mundial_ADJ do_PREP+ART Pós-guerra_NPROP Fria_NPROP ,_PU ou_KC ele_PROPESS seria_V apenas_PDEN um_ART acidente_N infeliz_ADJ na_PREP+ART transição_N para_PREP a_ART modernidade_N democrática_ADJ ?_PU
+"_PU Blood_NPROP and_NPROP Belonging_NPROP "_PU afirma_V que_KS a_ART maré_N da_PREP+ART história_N está_V correndo_V no_PREP+ART sentido_N errado_PCP ._END
+Michael_NPROP Ignatieff_NPROP é_V filho_N de_PREP pai_N russo_ADJ e_KC mãe_N inglesa_ADJ ._END
+Foi_V educado_PCP nos_PREP+ART EUA_NPROP e_KC trabalhou_V no_PREP+ART Canadá_NPROP ,_PU na_PREP+ART Grã-Bretanha_NPROP e_KC na_PREP+ART França_NPROP ._END
+Seu_PROADJ livro_N consiste_V de_PREP viagens_N feitas_PCP à_PREP+ART Croácia_NPROP ,_PU Sérvia_NPROP ,_PU Alemanha_NPROP ,_PU Ucrânia_NPROP (_PU onde_ADV-KS procurou_V a_ART fazenda_N que_PRO-KS pertenceu_V a_ART sua_PROADJ família_N )_PU ,_PU Quebec_NPROP ,_PU Curdistão_NPROP e_KC Irlanda_NPROP do_NPROP Norte_NPROP ._END
+O_ART ponto_N forte_ADJ de_PREP seu_PROADJ livro_N está_V nos_PREP+ART retratos_N vívidos_ADJ e_KC resumidos_PCP que_PRO-KS traça_V de_PREP nacionalistas_N contemporâneos_ADJ ._END
+Num_PREP+ART capítulo_N memorável_ADJ sobre_PREP a_ART Croácia_NPROP e_KC a_ART Sérvia_NPROP ,_PU Ignatieff_NPROP visita_V a_ART cidade_N de_PREP Jasenovac_NPROP ,_PU onde_ADV-KS durante_PREP a_ART Segunda_NPROP Guerra_NPROP Mundial_NPROP cerca_PREP de_PREP um_NUM quarto_N de_PREP milhão_N de_PREP pessoas_N quase_ADV todas_PROADJ sérvias_N -_PU foram_V assassinadas_PCP num_PREP+ART campo_N de_PREP concentração_N de_PREP estilo_N nazista_ADJ ,_PU pelo_PREP+ART regime_N fascista_ADJ que_PRO-KS governava_V a_ART Croácia_NPROP na_PREP+ART época_N ._END
+Ignatieff_NPROP vê_V com_PREP ceticismo_N boa_ADJ parte_N do_PREP+PROSUB que_PRO-KS se_PROPESS costuma_V dizer_V sobre_PREP os_ART conflitos_N étnicos_ADJ ._END
+Samuel_NPROP Huntington_NPROP ,_PU professor_N da_PREP+ART Universidade_NPROP Harvard_NPROP ,_PU argumentou_V no_PREP+ART ano_N passado_PCP que_KS de_ADV agora_ADV em_ADV diante_ADV o_ART mundo_N se_PROPESS caracterizará_V pelo_PREP+ART "_PU conflito_N de_PREP civilizações_N "_PU ._END
+A_ART cultura_N tomaria_V o_ART lugar_N da_PREP+ART ideologia_N como_PREP linha_N divisória_ADJ provocadora_ADJ de_PREP conflitos_N ._END
+O_ART melhor_ADJ exemplo_N disso_PREP+PROSUB seria_V a_ART guerra_N religiosa_ADJ travada_PCP entre_PREP católicos_N ,_PU ortodoxos_N e_KC muçumulmanos_N na_PREP+ART Ex-iugoslávia_NPROP ._END
+Mas_KC Ignatieff_NPROP sustenta_V que_KS os_ART sérvios_N e_KC croatas_N (_PU e_KC ,_PU em_PREP grau_N menor_ADJ ,_PU muçulmanos_N bósnios_ADJ )_PU não_ADV se_PROPESS assemelham_V tanto_ADV a_PREP ninguém_PROSUB quanto_PREP a_PREP si_PROPESS mesmos_PROADJ suas_PROADJ línguas_N ,_PU costumes_N ,_PU cultura_N política_ADJ e_KC memórias_N comuns_ADJ ._END
+O_ART conflito_N ,_PU segundo_PREP Ignatieff_NPROP ,_PU é_V movido_PCP pelo_PREP+PROSUB que_PRO-KS Freud_NPROP chama_V de_PREP "_PU o_ART narcismo_N das_PREP+ART diferenças_N menores_ADJ "_PU ,_PU no_PREP+PRO-KS qual_PRO-KS povos_N similares_ADJ exageram_V aquilo_PROSUB que_PRO-KS os_PROPESS diferencia_V ,_PU numa_PREP+ART procura_N por_PREP identidade_N ._END
+O_ART tom_N de_PREP "_PU Blood_NPROP and_NPROP Belonging_NPROP "_PU é_V sombrio_ADJ :_PU Ignatieff_NPROP nota_V que_KS embora_KS antigamente_ADV acreditasse_V que_KS o_ART mundo_N pertence_V a_PREP cosmopolitas_N como_PREP ele_PROPESS ,_PU agora_ADV parece_V que_KS o_ART novo_ADJ nacionalismo_N vence_V em_PREP toda_PROADJ parte_N ._END
+cívico_ADJ e_KC coexistência_N cultural_ADJ são_V o_ART privilégio_N de_PREP apenas_PDEN alguns_PROADJ ricos_N no_PREP+ART mundo_N desenvolvido_PCP ,_PU diz_V ele_PROPESS ,_PU e_KC mesmo_PDEN eles_PROPESS estão_V sob_PREP ameaça_N ._END
+Na_PREP+ART verdade_N ,_PU seu_PROADJ livro_N apresenta_V evidência_N de_PREP que_KS não_ADV existe_V um_ART único_ADJ fenômeno_N que_PRO-KS pode_V ser_V chamado_PCP de_PREP "_PU novo_ADJ nacionalismo_N "_PU ,_PU e_KC que_PRO-KS a_ART paranóia_N dos_PREP+ART sérvios_N não_ADV é_V típica_ADJ de_PREP outros_PROADJ movimentos_N nacionalistas_ADJ ._END
+Três_N dos_PREP+ART seis_NUM nacionalismos_N discutidos_PCP o_ART Quebec_NPROP ,_PU no_PREP+ART Curdistão_NPROP e_KC na_PREP+ART Irlanda_NPROP do_NPROP Norte_NPROP -_PU não_ADV são_V exatamente_ADV novos_ADJ ._END
+importante_ADJ é_V a_ART transformação_N operada_PCP na_PREP+ART consciência_N nacional_ADJ dos_PREP+ART alemães_N ,_PU mesmo_PDEN os_ART liberais_N ,_PU que_PRO-KS nos_PREP+ART últimos_ADJ anos_N começaram_V a_PREP indagar_V -se_PROPESS se_KS é_V possível_ADJ construir_V uma_ART identidade_N nacional_ADJ fundamentada_PCP na_PREP+ART culpa_N e_KC no_PREP+ART arrependimento_N ,_PU e_KC se_KS o_ART multiculturalismo_N não_ADV terá_V limites_N ._END
+Estas_PROSUB são_V dúvidas_N razoáveis_ADJ ,_PU e_KC aqueles_PROSUB que_PRO-KS as_PROPESS colocam_V ,_PU na_PREP+ART Alemanha_NPROP contemporânea_ADJ ,_PU estão_V longe_PREP de_PREP serem_V os_ART jovens_ADJ skinheads_N ou_KC os_ART jovens_ADJ camponeses_N bêbados_ADJ e_KC violentos_ADJ que_PRO-KS ocupam_V as_ART barreiras_N militares_ADJ perto_PREP de_PREP Vukovar_NPROP ou_KC Mostar_NPROP ,_PU na_PREP+ART Ex-iugoslávia_NPROP ._END
+O_ART nacionalismo_N do_PREP+ART Quebec_NPROP tampouco_ADV é_V a_ART revolta_N contra_PREP a_ART modernidade_N que_PRO-KS caracteriza_V os_ART conflitos_N atuais_ADJ em_PREP parte_N da_PREP+ART Europa_NPROP Oriental_NPROP ._END
+Os_ART yuppies_N do_PREP+ART Quebec_NPROP que_PRO-KS Ignatieff_NPROP entrevista_V em_PREP Montreal_NPROP são_V todos_PROADJ produtos_N da_PREP+ART rápida_ADJ modernização_N econômica_ADJ produzida_PCP no_PREP+ART Quebec_NPROP durante_PREP a_ART última_ADJ geração_N ._END
+Em_PREP outras_PROADJ palavras_N ,_PU o_ART nacionalismo_N do_PREP+ART Quebec_NPROP é_V um_ART jogo_N jogado_PCP no_PREP+ART fim_N da_PREP+ART história_N :_PU os_ART quebequenses_N aceitam_V a_ART ordem_N liberal_ADJ global_ADJ na_PREP+ART política_N e_KC na_PREP+ART economia_N (_PU de_ADV fato_ADV ,_PU eles_PROPESS dependem_V do_PREP+ART livre_ADJ comércio_N norte-americano_ADJ para_PREP serem_V independentes_ADJ de_PREP Ontario_NPROP )_PU ,_PU mas_KC querem_V sua_PROADJ versão_N própria_ADJ dela_PREP+PROPESS ._END
+aspecto_N mais_ADV estranho_ADJ e_KC inconsistente_ADJ de_PREP "_PU Blood_NPROP and_NPROP Belonging_NPROP "_PU é_V a_ART nostalgia_N que_PRO-KS o_ART autor_N demonstra_V dos_PREP+ART velhos_ADJ sistemas_N imperiais_ADJ ._END
+É_V verdade_N ,_PU como_KS ele_PROPESS escreve_V ,_PU que_KS o_ART fim_N do_PREP+ART império_N soviético_ADJ "_PU trouxe_V caos_N e_KC violência_N para_PREP os_ART muitos_PROADJ povos_N pequenos_ADJ ,_PU fracos_ADJ demais_ADV para_PREP estabelecerem_V Estados_NPROP próprios_ADJ defensíveis_ADJ "_PU ._END
+Mas_KC isto_PROSUB não_ADV chega_V a_PREP ser_V justificativa_N para_PREP o_ART endosso_N do_PREP+ART imperialismo_N em_PREP nome_N da_PREP+ART estabilidade_N ,_PU e_KC em_PREP outras_PROADJ partes_N do_PREP+ART livro_N Ignatieff_NPROP defende_V as_ART aspirações_N nacionais_ADJ dos_PREP+ART curdos_N ,_PU contra_PREP as_ART posições_N imperiais_ADJ da_PREP+ART Turquia_NPROP e_KC do_PREP+ART Iraque_NPROP ._END
+Desconfio_V que_KS o_ART futuro_N do_PREP+ART cosmopolitismo_N liberal_ADJ seja_V mais_ADV seguro_ADJ do_KS que_KS Ignatieff_NPROP acredita_V ,_PU mas_KC precisamos_V nos_PROPESS manter_V vigilantes_ADJ em_PREP relação_PREP a_PREP seus_PROADJ inimigos_N ._END
+No_PREP+ART tocante_N a_PREP isso_PROSUB ,_PU "_PU Blood_NPROP and_NPROP Belonging_NPROP "_PU presta_V importante_ADJ serviço_N ._END
+Continuo_V um_ART liberal_N ,_PU mas_KC não_ADV posso_V me_PROPESS impedir_V de_PREP pensar_V que_KS os_ART liberalismo_N o_ART governo_N pelas_PREP+ART leis_N ,_PU não_ADV pelos_PREP+ART homens_N ,_PU do_PREP+ART argumento_N em_PREP lugar_N da_PREP+ART força_N -_PU é_V algo_PROSUB que_PRO-KS se_PROPESS opõe_V à_PREP+ART natureza_N humana_ADJ e_KC só_PDEN é_V mantido_PCP através_PREP de_PREP uma_ART luta_N contra_PREP essa_PROADJ natureza_N ._END
+De_PREP qualquer_PROADJ modo_N ,_PU pregações_N soam_V vazias_ADJ ._END
+Uma_ART barreira_N de_PREP incompreensão_N separa_V os_ART esfomeados_N dos_PREP+ART saciados_N ..._END
+central_ADJ )_PU ,_PU eu_PROPESS me_PROPESS deparei_V com_PREP os_ART esfomeados_N ,_PU pessoas_N cuja_PRO-KS sobrevivência_N continuará_V em_PREP risco_N até_KS que_KS conquistem_V sua_PROADJ autodeterminação_N ,_PU seja_V em_PREP sua_PROADJ própria_ADJ nação-Estado_N ou_KC no_PREP+ART interior_N de_PREP outra_PROSUB ._END
+Em_PREP todo_PROADJ lugar_N onde_ADV-KS fui_V ,_PU encontrei_V uma_ART luta_N sendo_V travada_PCP entre_PREP os_PROSUB que_PRO-KS crêem_V que_KS uma_ART nação_N deva_V abrigar_V a_PREP todos_PROSUB e_KC que_KS a_ART raça_N ,_PU cor_N ,_PU ou_KC religião_N não_ADV devem_V constituir_V barreira_N ,_PU e_KC aqueles_PROSUB que_PRO-KS querem_V que_KS sua_PROADJ nação_N abrigue_V apenas_PDEN aos_PREP+ART seus_PROSUB ._END
+É_V a_ART luta_N entre_PREP a_ART nação_N cívica_ADJ e_KC a_ART nação_N étnica_ADJ ._END
+Eu_PROPESS sei_V de_PREP que_PRO-KS lado_N estou_V ._END
+Também_PDEN sei_V que_PRO-KS lado_N está_V ganhando_V neste_PREP+PROADJ momento_N ._END
+Tradução_N de_PREP Clara_NPROP Allain_NPROP
+,_PU 2.073_NUM ,_PU SP_NPROP ,_PU tel._N 011_N 285-4033_N )_PU
+-_PU ,_PU de_PREP Michael_NPROP Ignatieff_NPROP ._END
+Farrar,_NPROP Straus_NPROP &_NPROP Giroux_NPROP ,_PU Nova_NPROP York_NPROP ,_PU EUA_NPROP ._END
+US$_CUR 21_NUM ._END
+Dunning_NPROP inventa_V detetive_N alfarrabista_ADJ
+O_ART escritor_N John_NPROP Dunning_NPROP conseguiu_V inovar_V em_PREP pelo_PDEN menos_PDEN um_NUM ponto_N no_PREP+ART romance_N que_PRO-KS introduz_V o_ART personagem_N Cliff_NPROP Janeway_NPROP ._END
+Provavelmente_ADV é_V o_ART primeiro_ADJ detetive_N de_PREP ficção_N que_PRO-KS coleciona_V livros_N raros_ADJ ._END
+O_ART policial-alfarrabista_N Janeway_NPROP é_V mais_PROADJ um_PROSUB na_PREP+ART enorme_ADJ galeria_N de_PREP detetives_N com_PREP hobby_N ou_KC profissão_N exótica_ADJ que_PRO-KS o_ART romance_N policial_ADJ anglo-americano_ADJ produziu_V ._END
+Não_ADV chega_V a_PREP ser_V marcante_ADJ ._END
+Mas_KC "_PU Edições_NPROP Perigosas_NPROP "_PU merece_V ser_V lido_PCP pelo_PREP+ART enredo_N bem_ADV trabalhado_PCP ._END
+O_ART charme_N do_PREP+ART policial_N sua_PROADJ capacidade_N de_PREP atrair_V leitores_N bem_ADV diferentes_ADJ entre_PREP si_PROPESS ,_PU sejam_V ou_KC tipos_N menos_ADV pretensiosos_ADJ -_PU pode_V vir_V de_PREP vários_PROADJ fatores_N ._END
+Os_ART candidatos_N a_PREP escrever_V um_ART policial_N precisam_V criar_V um_ART tipo_N atraente_ADJ ._END
+Sherlock_NPROP Holmes_NPROP ,_PU de_PREP Conan_NPROP Doyle_NPROP ,_PU era_V assim_ADV ,_PU do_PREP+ART mesmo_PROADJ modo_N que_PRO-KS o_ART Nero_NPROP Wolfe_NPROP dRe_NPROP Stout_NPROP ou_KC o_ART casal_N Nick_NPROP e_KC Nora_NPROP Charles_NPROP ,_PU ou_KC Sam_NPROP Spade_NPROP ,_PU de_PREP Dashiell_NPROP Hammett_NPROP ._END
+Mesmo_ADV os_ART detetives_N implausíveis_ADJ de_PREP Agatha_NPROP Christie_NPROP podem_V ter_V qualidades_N redentoras_ADJ ._END
+Janeway_NPROP não_ADV tem_V quase_ADV nada_PROSUB do_PREP+ART charme_N de_PREP um_PROSUB desses_PREP+PROSUB ._END
+Tenta_V ser_V engraçadinho_ADJ como_PREP o_ART Philip_NPROP Marlowe_NPROP de_PREP Raymond_NPROP Chandler_NPROP ,_PU mas_KC acaba_V lembrando_V o_ART Ed_NPROP Mort_NPROP de_PREP Luis_NPROP Fernando_NPROP Veríssimo_NPROP ._END
+Os_ART grandes_ADJ autores_N do_PREP+ART gênero_N também_PDEN recriam_V lugares_N ,_PU como_PREP a_ART especialíssima_ADJ Califórnia_NPROP de_PREP Chandler_NPROP e_KC Hammett_NPROP ._END
+A_ART Denver_NPROP de_PREP Dunning_NPROP poderia_V ser_V Carapicuíba_NPROP que_PRO-KS a_ART história_N seria_V a_ART mesma_PROSUB ._END
+Em_PREP compensação_N ,_PU a_ART caracterização_N do_PREP+ART mundo_N dos_PREP+PROSUB que_PRO-KS vendem_V e_KC compram_V livros_N raros_ADJ é_V perfeita_ADJ ._END
+Haveria_V algum_PROADJ interesse_N em_PREP sua_PROADJ morte_N ,_PU ou_KC foi_V um_ART assassinato_N gratuito_ADJ ?_PU
+As_ART pistas_N surgem_V de_PREP modo_N natural_ADJ ,_PU são_V convincentes_ADJ e_KC o_ART autor_N não_ADV nega_V informações_N que_PRO-KS permitam_V ao_PREP+ART leitor_N chegar_V a_PREP conclusões_N ._END
+Os_ART personagens_N agem_V de_PREP modo_N realista_ADJ e_KC um_ART interlúdio_N romântico_ADJ complica_V a_ART apuração_N ._END
+Mesmo_PDEN assim_PDEN o_ART final_N têm_V surpresas_N ._END
+John_NPROP Dunning_NPROP não_ADV chega_V a_PREP Chandler_NPROP ,_PU mas_KC também_PDEN não_ADV é_V um_ART reles_ADJ S._NPROP Van_NPROP Dine_NPROP ._END
+Edições_NPROP Perigosas_NPROP ,_PU de_PREP John_NPROP Dunning_NPROP ._END
+Foto_N de_PREP capa_N de_PREP Cláudia_NPROP Jaguaribe_NPROP ._END
+Tradução_N de_PREP Celso_NPROP Nogueira_NPROP ._END
+Companhia_NPROP das_NPROP Letras_NPROP (_PU r._NPROP Tupi_NPROP
+342_NUM págs_N ._END 16_NUM URVs_N
+Teoria_NPROP da_NPROP Democracia_NPROP ,_PU de_PREP Giovanni_NPROP Sartori_NPROP ._END
+Capa_N de_PREP Ary_NPROP Normanha_NPROP ._END
+Ática_NPROP (_PU r._NPROP Barão_NPROP de_NPROP Iguape_NPROP
+,_PU 110_NUM ,_PU São_NPROP Paulo_NPROP ,_PU tel._N fax_N 011_N 277-4146_N ,_PU Cep_N 01507-900_N )_PU ._END
+336_NUM págs_N ._END Preço_N não_ADV definido_PCP
+A_ART beleza_N simples_ADJ supera_V a_PROSUB excessiva_ADJ
+Colunista_N da_PREP+ART Folha_NPROP
+"_PU Shibumi_N "_PU é_V uma_ART palavra_N japonesa_ADJ difícil_ADJ de_PREP traduzir_V ._END
+"_PU Os_ART japoneses_N usam_V esta_PROADJ palavra_N para_PREP sua_PROADJ arquitetura_N "_PU ,_PU disse_V ele_PROPESS ._END
+Por_PREP causa_N disso_PREP+PROSUB ,_PU a_ART beleza_N das_PREP+ART casas_N japonesas_ADJ aparentemente_ADV vazias_ADJ -_PU é_V muito_ADV mais_ADV sofisticada_PCP que_KS a_PROSUB das_PREP+ART casas_N ocidentais_ADJ ,_PU sempre_ADV cheias_ADJ de_PREP pratarias_N ,_PU objetos_N ,_PU quadros_N ,_PU confusão_N visual_ADJ ._END
+"_PU Um_ART bom_ADJ guerreiro_N da_PREP+ART luz_N precisa_V ser_V "_PU shibumi_N "_PU ;_PU simplifica_V sua_PROADJ vida_N ,_PU mas_KC mantém_V o_ART detalhe_N ,_PU a_ART elegância_N e_KC a_ART delicadeza_N ._END
+Vida_N doce_ADJ pode_V servir_V de_PREP estímulo_N para_PREP mutações_N
+Pesquisa_N com_PREP bactérias_N apóia_V hipótese_N herética_ADJ sobre_PREP evolução_N e_KC abre_V porta_N para_PREP estudo_N do_PREP+ART câncer_N
+Uma_ART pesquisa_N recente_ADJ em_PREP uma_ART universidade_N canadense_ADJ acertou_V os_ART dois_NUM proverbiais_ADJ coelhos_N com_PREP uma_ART só_PDEN cajadada_N :_PU fez_V uma_ART importante_ADJ contribuição_N teórica_ADJ para_PREP a_ART biologia_N e_KC abriu_V o_ART caminho_N para_PREP futuras_ADJ aplicações_N em_PREP medicina_N ._END
+A_ART descoberta_N de_PREP um_ART novo_ADJ mecanismo_N para_PREP mutações_N genéticas_ADJ em_PREP bactérias_N deu_V um_ART importante_ADJ estímulo_N a_PREP uma_ART herética_ADJ complementação_N (_PU e_KC não_ADV contestação_N )_PU da_PREP+ART teoria_N darwiniana_ADJ da_PREP+ART evolução_N ._END
+Mutações_N são_V mudanças_N no_PREP+ART código_N genético_ADJ de_PREP um_ART ser_N vivo_ADJ responsáveis_ADJ pelo_PREP+ART surgimento_N de_PREP novas_ADJ características_N que_PRO-KS podem_V ou_KC não_ADV ser_V benéficas_ADJ ._END
+O_PRO-KS que_PRO-KS define_V se_KS uma_ART mutação_N é_V vantajosa_ADJ ou_KC não_ADV a_PREP um_ART indivíduo_N ,_PU ou_KC à_PREP+ART sua_PROADJ espécie_N ,_PU é_V o_ART meio_N ambiente_N ._END
+Para_PREP um_ART esquimó_N que_PRO-KS vive_V no_PREP+ART gelo_N ,_PU não_ADV adiantaria_V nada_PROSUB poder_V comer_V terra_N ,_PU já_KS que_KS ele_PROPESS não_ADV teria_V acesso_N à_PREP+ART essa_PROADJ fonte_N de_PREP "_PU comida_N "_PU ._END
+O_ART naturalista_N britânico_ADJ Charles_NPROP Darwin_NPROP (_PU 1809-1882_N )_PU criou_V o_ART conceito_N de_PREP "_PU seleção_N natural_ADJ "_PU para_PREP explicar_V como_ADV-KS a_ART evolução_N dos_PREP+ART seres_N vivos_ADJ acontece_V tendo_V por_PREP base_N essas_PROADJ diferenças_N ._END
+Segundo_PREP Darwin_NPROP ,_PU as_ART diferenças_N dão_V a_PREP alguns_PROADJ indivíduos_N vantagens_N sobre_PREP os_ART outros_PROSUB ,_PU e_KC só_PDEN os_PROSUB mais_ADV aptos_ADJ sobrevivem_V ._END
+Mutações_N em_PREP bactérias_N foram_V o_ART objeto_N da_PREP+ART pesquisa_N feita_PCP na_PREP+ART Universidade_NPROP de_NPROP Alberta_NPROP ,_PU em_PREP Edmonton_NPROP ,_PU Canadá_NPROP ,_PU pela_PREP+ART bioquímica_N Susan_NPROP Rosenberg_NPROP ._END
+"_PU As_ART mutações_N ocorrem_V por_PREP um_ART mecanismo_N diferente_ADJ daquele_PREP+PROSUB que_PRO-KS ocorre_V no_PREP+ART crescimento_N bacteriano_ADJ normal_ADJ "_PU ,_PU disse_V Rosenberg_NPROP em_PREP entrevista_N à_PREP+ART Folha_NPROP ._END
+Essas_PROADJ mutações_N acontecem_V em_PREP células_N que_PRO-KS não_ADV estão_V se_PROPESS dividindo_V ,_PU como_KS seria_V de_PREP se_PROPESS esperar_V ._END
+O_ART câncer_N ,_PU que_PRO-KS consiste_V na_PREP+ART multiplicação_N alucinada_PCP de_PREP células_N ,_PU pode_V acontecer_V em_PREP células_N que_PRO-KS naturalmente_ADV não_ADV se_PROPESS dividem_V ._END
+Vem_V daí_PREP+ADV o_ART valor_N potencial_ADJ da_PREP+ART pesquisa_N canadense_ADJ ._END
+Há_V alguns_PROADJ anos_N ,_PU pesquisadores_N nos_PREP+ART EUA_NPROP ,_PU principalmente_ADV John_NPROP Cairns_NPROP e_KC seus_PROADJ colegas_N ,_PU sugeriram_V que_KS algumas_PROADJ bactérias_N tinham_V a_ART capacidade_N de_PREP "_PU escolher_V "_PU mutações_N vantajosas_ADJ para_PREP se_PROPESS adaptarem_V ao_PREP+ART ambiente_N ._END
+A_ART hipótese_N é_V uma_ART heresia_N em_PREP termos_N darwinianos_ADJ ,_PU pois_KC o_ART consenso_N entre_PREP os_ART biólogos_N é_V que_KS as_ART mutações_N ocorrem_V ,_PU e_KC um_ART ser_N vivo_ADJ não_ADV tem_V como_ADV-KS "_PU escolher_V -las_PROPESS "_PU ._END
+A_ART hipótese_N lembra_V uma_ART teoria_N alternativa_ADJ para_PREP a_ART evolução_N ,_PU proposta_PCP pelo_PREP+ART naturalista_N francês_ADJ Jean_NPROP Baptiste_NPROP Pierre_NPROP Antoine_NPROP de_NPROP Monet_NPROP (_PU 1744-1829_N )_PU ,_PU mais_ADV conhecido_PCP pelo_PREP+ART seu_PROADJ título_N ,_PU Chevalier_NPROP de_NPROP Lamarck_NPROP ._END
+As_ART bactérias_N "_PU lamarckistas_ADJ "_PU de_PREP John_NPROP Cairns_NPROP desenvolveram_V mutações_N para_PREP poder_V aproveitar_V comida_N disponível_ADJ em_PREP abundância_N no_PREP+ART ambiente_N ,_PU um_ART tipo_N de_PREP açúcar_N ._END
+"_PU O_ART experimento_N sugere_V que_KS populações_N de_PREP bactérias_N tenham_V algum_PROADJ modo_N de_PREP produzir_V (_PU ou_KC reter_V seletivamente_ADV )_PU apenas_PDEN as_ART mutações_N mais_ADV apropriadas_PCP "_PU ,_PU escreveu_V Cairns_NPROP em_PREP 1988_N ._END
+A_ART pesquisa_N de_PREP Rosenberg_NPROP dá_V suporte_N ao_PREP+ART trabalho_N de_PREP Cairns_NPROP ,_PU pois_KC as_ART mutações_N vantajosas_ADJ só_PDEN ocorreram_V depois_KS que_KS as_ART bactérias_N tiveram_V contato_N com_PREP o_ART meio_N ,_PU "_PU aprendendo_V "_PU a_PREP comer_V açúcar_N ._END
+Saber_V se_KS essas_PROADJ bactérias_N são_V mesmo_PDEN "_PU lamarckistas_N "_PU vai_V depender_V de_PREP mais_PROADJ pesquisa_N ._END
+Essa_PROSUB é_V a_ART área_N do_PREP+ART estudo_N menos_ADV documentada_PCP ,_PU diz_V Rosenberg_NPROP ._END
+Evolução_N -_PU Processo_N pelo_PREP+PRO-KS qual_PRO-KS os_ART seres_N vivos_ADJ surgiram_V na_PREP+ART Terra_NPROP e_KC se_PROPESS diversificaram_V e_KC mudaram_V com_PREP o_ART tempo_N ._END
+Seleção_N natural_ADJ -_PU Modo_N pelo_PREP+PRO-KS qual_PRO-KS efeitos_N do_PREP+ART ambiente_N levam_V a_PREP graus_N diferentes_ADJ de_PREP sucesso_N reprodutivo_ADJ entre_PREP indivíduos_N de_PREP uma_ART população_N de_PREP organismos_N com_PREP diferentes_PROADJ características_N hereditárias_ADJ ._END
+Essa_PROADJ hipótese_N para_PREP explicar_V a_ART evolução_N foi_V proposta_PCP pelos_PREP+ART naturalistas_N britânicos_ADJ Charles_NPROP Darwin_NPROP e_KC Alfred_NPROP Wallace_NPROP ._END
+Mutação_N -_PU Mudança_N repentina_ADJ em_PREP um_ART gene_N (_PU a_ART unidade_N do_PREP+ART código_N genético_ADJ )_PU capaz_ADJ de_PREP alterar_V as_ART características_N hereditárias_ADJ de_PREP um_ART organismo_N ._END
+Mutações_N no_PREP+ART código_N genético_ADJ podem_V ser_V provocadas_PCP por_PREP radiações_N ou_KC substâncias_N químicas_ADJ "_PU mutagênicas_ADJ "_PU ._END
+Bactéria_N -_PU Organismo_N microscópico_ADJ de_PREP apenas_PDEN uma_ART célula_N que_PRO-KS não_ADV tem_V um_ART núcleo_N distinto_ADJ e_KC que_PRO-KS se_PROPESS reproduz_V geralmente_ADV por_PREP divisão_N celular_ADJ ._END
+São_V pequenas_ADJ ,_PU na_PREP+ART ordem_N de_PREP milésimos_N de_PREP milímetros_N ,_PU e_KC podem_V viver_V no_PREP+ART ar_N ,_PU no_PREP+ART solo_N ,_PU na_PREP+ART água_N ou_KC no_PREP+ART gelo_N ._END
+Muitas_PROSUB são_V causadoras_ADJ de_PREP doenças_N ,_PU como_PREP cólera_N ,_PU hanseníase_N ,_PU tuberculose_N ou_KC sífilis_N ._END
+Lamarckismo_NPROP -_PU Mecanismo_N que_PRO-KS explica_V a_ART evolução_N biológica_ADJ proposto_PCP pelo_PREP+ART francês_N Lamarck_NPROP ._END
+Genética_N -_PU Estudo_N de_PREP como_ADV-KS os_ART traços_N físicos_ADJ ,_PU bioquímicos_ADJ e_KC de_PREP comportamento_N são_V transmitidos_PCP dos_PREP+ART pais_N aos_PREP+ART filhos_N ._END
+A_ART palavra_N foi_V criada_PCP em_PREP 1906_N pelo_PREP+ART biólogo_N britânico_ADJ William_NPROP Bateson_NPROP ._END
+Câncer_N -_PU Crescimento_N de_PREP tecido_N no_PREP+ART organismo_N resultante_ADJ de_PREP uma_ART proliferação_N contínua_ADJ de_PREP células_N anormais_ADJ que_PRO-KS têm_V a_ART capacidade_N de_PREP invadir_V e_KC destruir_V outros_PROADJ tecidos_N ._END
+Os_ART vários_PROADJ tipos_N da_PREP+ART doença_N podem_V ser_V classificados_PCP de_PREP acordo_PREP com_PREP o_ART tipo_N de_PREP tecido_N ou_KC a_ART célula_N de_PREP origem_N ._END
+Fazer_V ginástica_N é_V melhor_ADV para_PREP os_ART ossos_N do_KS que_KS correr_V ,_PU dizem_V cientistas_N da_PREP+ART Universidade_NPROP do_NPROP Oregon_NPROP (_PU EUA_NPROP )_PU ._END
+A_ART maioria_N das_PREP+ART mulheres_N que_PRO-KS corriam_V tinha_V problemas_N hormonais_ADJ que_PRO-KS poderiam_V levar_V a_ART fraqueza_N óssea_ADJ ._END
+Entre_PREP as_ART ginastas_N ,_PU a_ART massa_N óssea_ADJ era_V cerca_PREP de_PREP 20_NUM %_N maior_ADJ ._END
+Jogadores_N de_PREP baseball_N deveriam_V proteger_V melhor_ADV seus_PROADJ olhos_N ,_PU sugere_V um_ART artigo_N no_PREP+ART "_PU New_NPROP England_NPROP Journal_NPROP of_NPROP Medicine_NPROP "_PU ._END
+Segundo_PREP eles_PROPESS ,_PU de_PREP 21_NUM feridos_N ,_PU 14_N usavam_V capacetes_N ,_PU mas_KC só_PDEN um_N tinha_V óculos_N protetores_ADJ ._END
+Em_PREP 1991_N ,_PU o_ART baseball_N foi_V responsável_ADJ por_PREP 18_NUM %_N dos_PREP+ART ferimentos_N nos_PREP+ART olhos_N de_PREP esportistas_N nos_PREP+ART EUA_NPROP ._END
+O_ART norte_N do_PREP+ART Chile_NPROP ,_PU com_PREP mais_PREP de_PREP 300_NUM dias_N anuais_ADJ de_PREP céu_N aberto_PCP ,_PU vai_V se_PROPESS converter_V na_PREP+ART maior_ADJ janela_N da_PREP+ART Terra_NPROP para_PREP o_ART cosmo_N ._END
+A_PREP 2.640_NUM metros_N de_PREP altitude_N ,_PU na_PREP+ART zona_N de_PREP Paranal_NPROP (_PU 1.250_NUM km_N ao_PREP+ART norte_N da_PREP+ART capital_N Santiago_NPROP )_PU ,_PU um_ART consórcio_N internacional_ADJ pretende_V construir_V o_ART telescópio_N mais_ADV potente_ADJ do_PREP+ART planeta_N ,_PU o_ART ESO-VLT_NPROP ._END
+Ele_PROPESS terá_V potência_N equivalente_ADJ à_PREP+ART um_ART instrumento_N com_PREP uma_ART lente_N de_PREP 16,4_NUM metros_N de_PREP diâmetro_N ._END
+"_PU Vivemos_V em_PREP uma_ART época_N perigosa_ADJ ._END
+O_ART homem_N dominou_V a_ART natureza_N antes_KS que_KS tenha_V compreendido_PCP a_PREP dominar_V -se_PROPESS a_PREP si_PROPESS mesmo_PROADJ ._END
+Albert_NPROP Schweitzer_NPROP (_PU 1875-1965_N )_PU
+médico_N francês_ADJ
+No_PREP+ART princípio_N do_PREP+ART ano_N passado_PCP apareceu_V no_PREP+ART sudoeste_N dos_PREP+ART EUA_NPROP misteriosa_ADJ doença_N respiratória_ADJ com_PREP alta_ADJ mortalidade_N (_PU 75_NUM %_N )_PU ._END
+Os_ART pacientes_N ,_PU entre_PREP 20_NUM e_KC 40_NUM anos_N ,_PU manifestavam_V infiltrações_N no_PREP+ART pulmão_N ,_PU com_PREP edema_N não_ADV cardíaco_ADJ ._END
+As_ART autoridades_N sanitárias_ADJ ,_PU em_ADV particular_ADV o_ART CDC_NPROP (_PU Centros_NPROP de_NPROP Controle_NPROP e_NPROP Prevenção_NPROP de_NPROP Doenças_NPROP )_PU logo_ADV se_PROPESS mobilizaram_V ,_PU e_KC seus_PROADJ especialistas_N reconheceram_V a_ART implicação_N de_PREP um_ART vírus_N do_PREP+ART grupo_N Hanta_NPROP ,_PU do_PREP+PRO-KS qual_PRO-KS são_V reservatórios_N naturais_ADJ roedores_N silvestres_ADJ ,_PU no_PREP+ART caso_N um_ART camundongo_N (_PU maniculatus_N )_PU ,_PU que_PRO-KS às_ADV vezes_ADV se_PROPESS aproxima_V das_PREP+ART residências_N ._END
+O_ART achado_N intrigou_V os_ART especialistas_N porque_KS nos_PREP+ART EUA_NPROP não_ADV havia_V registro_N da_PREP+ART presença_N desse_PREP+PROADJ tipo_N de_PREP vírus_N e_KC nem_ADV de_PREP moléstias_N a_PREP ele_PROPESS ligada_PCP ._END
+Também_PDEN essa_PROADJ doença_N não_ADV havia_V sido_PCP reconhecida_PCP ,_PU na_PREP+ART forma_N pulmonar_ADJ ,_PU em_PREP outras_PROADJ partes_N do_PREP+ART mundo_N ._END
+Os_ART hantavírus_N existem_V em_PREP roedores_N selvagens_ADJ ,_PU como_PREP camundongos_N ,_PU arganazes_N etc_PDEN ._END
+O_ART Rattus_N norvegicus_N também_PDEN é_V portador_ADJ do_PREP+ART vírus_N ,_PU e_KC alguns_PROSUB supõem_V que_KS ele_PROPESS contaminou_V o_ART mundo_N através_PREP das_PREP+ART embarcações_N ._END
+Conhecem_V -se_PROPESS hoje_ADV vários_PROADJ tipos_N de_PREP hantavírus_N ,_PU que_PRO-KS se_PROPESS distinguem_V por_PREP provas_N sorológicas_ADJ e_KC pelas_PREP+ART doenças_N que_PRO-KS produzem_V ._END
+Os_ART vírus_N Hanta_NPROP se_PROPESS espalham_V na_PREP+ART Ásia_NPROP e_KC na_PREP+ART Europa_NPROP ._END
+O_ART interesse_N ocidental_ADJ por_PREP eles_PROPESS data_N de_PREP 1951_N ,_PU quando_ADV-KS soldados_N dos_PREP+ART EUA_NPROP que_PRO-KS lutavam_V na_PREP+ART Coréia_NPROP foram_V vitimados_PCP pela_PREP+ART chamada_N febre_ADJ hemorrágica_ADJ com_PREP insuficiência_N renal_ADJ (_PU HFRS_NPROP )_PU ,_PU que_PRO-KS mata_V em_PREP 7_NUM %_N dos_PREP+ART casos_N ._END
+As_ART tentativas_N de_PREP isolar_V e_KC identificar_V esses_PROADJ vírus_N malograram_V até_PREP 1976_N ,_PU quando_ADV-KS Ho_NPROP Wang_NPROP Lee_NPROP conseguiu_V isolar_V -lo_PROPESS de_PREP um_ART Apodemus_N agrarius_N ,_PU camundongo_N da_PREP+ART região_N do_PREP+ART rio_N Hantaan_NPROP ._END
+Em_PREP 1984_N George_NPROP French_NPROP e_KC colaboradores_N cultivaram_V o_ART vírus_N em_PREP células_N ._END
+A_PREP partir_PREP daí_PREP+ADV os_ART cientistas_N isolaram_V vários_PROADJ outros_PROADJ tipos_N ._END
+O_ART vírus_N norte-americano_ADJ foi_V classificado_PCP no_PREP+ART grupo_N Hanta_NPROP pelos_PREP+ART meios_N imunológicos_ADJ comuns_ADJ ,_PU mas_KC sua_PROADJ identificação_N exigiu_V magnífico_ADJ esforço_N de_PREP investigação_N científica_ADJ ,_PU porque_KS a_ART amostra_N não_ADV é_V cultivável_ADJ ._END
+Essa_PROADJ tarefa_N foi_V realizada_PCP por_PREP Stuart_NPROP Nichol_NPROP e_KC colaboradores_N ,_PU cujo_PRO-KS trabalho_N foi_V publicado_PCP em_PREP "_PU Science_NPROP "_PU
+Na_PREP+ART falta_N do_PREP+ART vírus_N ,_PU que_PRO-KS não_ADV é_V cultivável_ADJ ,_PU Nichol_NPROP teve_V de_PREP recorrer_V a_PREP técnicas_N de_PREP biologia_N molecular_ADJ ,_PU a_PREP partir_PREP de_PREP tecidos_N de_PREP pacientes_N e_KC de_PREP camundongos_N naturalmente_ADV infectados_PCP ,_PU para_PREP comparação_N ._END
+técnicas_N envolvem_V multiplicação_N dos_PREP+ART genes_N do_PREP+ART vírus_N presentes_ADJ nos_PREP+ART tecidos_N e_KC na_PREP+ART separação_N ou_KC extração_N de_PREP seus_PROADJ fragmentos_N até_PREP recompor_V o_ART vírus_N ._END
+O_ART feito_N de_PREP Nichol_NPROP despertou_V muito_PROADJ entusiasmo_N na_PREP+ART comunidade_N científica_ADJ ,_PU a_PREP ponto_PREP de_PREP figurar_V entre_PREP os_ART candidatos_N ao_PREP+ART título_N de_PREP "_PU Molécula_NPROP do_NPROP Ano_NPROP "_PU ._END
+A_PREP respeito_N da_PREP+ART nova_ADJ doença_N ,_PU que_PRO-KS não_ADV é_V transmitida_PCP pelo_PREP+ART simples_ADJ contato_N ,_PU James_NPROP M._NPROP Hughes_NPROP ,_PU que_PRO-KS participou_V da_PREP+ART equipe_N de_PREP Nichol_NPROP ,_PU escreveu_V na_PREP+ART mesma_PROADJ revista_N (_PU p._N
+850_N )_PU artigo_N sobre_PREP doenças_N emergentes_ADJ ,_PU como_PREP agora_ADV ,_PU e_KC chama_V a_ART atencão_N para_PREP a_ART necessidade_N de_PREP apurar_V bem_ADV os_ART diagnósticos_N ,_PU não_ADV se_PROPESS deixando_V o_ART clínico_N levar_V pela_PREP+ART semelhança_N com_PREP outros_PROADJ males_N ,_PU mas_KC ficando_V atento_ADJ às_PREP+ART peculiaridades_N ._END
+Estas_PROSUB ,_PU quando_KS não_ADV puderem_V ser_V explicadas_PCP ,_PU devem_V induzir_V o_ART responsável_N a_PREP procurar_V os_ART serviços_N especializados_PCP ._END
+Assim_ADV se_PROPESS torna_V possível_ADJ caracterizar_V as_ART doenças_N novas_ADJ ,_PU pois_KC ,_PU como_KS afirma_V recente_ADJ relatório_N (_PU 1992_N )_PU da_PREP+ART Comissão_NPROP do_NPROP Instituto_NPROP de_NPROP Medicina_NPROP ,_PU dos_PREP+ART EUA_NPROP ,_PU "_PU embora_KS seja_V impossível_ADJ prever_V a_ART eventual_ADJ emergência_N (_PU de_PREP micróbios_N patogênicos_ADJ )_PU no_PREP+ART tempo_N e_KC no_PREP+ART local_N ,_PU podemos_V estar_V certos_ADJ de_PREP que_KS novas_ADJ doenças_N aparecerão_V "_PU ._END
+Quanto_PREP à_PREP+ART transmissão_N do_PREP+ART novo_ADJ tipo_N de_PREP hantavírus_N ,_PU nada_PROSUB se_PROPESS sabe_V ._END
+Mas_KC é_V certo_ADJ que_KS ele_PROPESS já_ADV foi_V isolado_PCP de_PREP um_ART gato_N doméstico_ADJ ,_PU que_PRO-KS pode_V ter_V se_PROPESS contaminado_PCP com_PREP os_ART roedores_N que_PRO-KS eventualmente_ADV atacou_V ._END
+New_NPROP Scientist_NPROP
+O_ART número_N de_PREP 9_N de_PREP abril_N traz_V a_ART notícia_N de_PREP que_PRO-KS arqueólogos_N finalmente_ADV decifraram_V ,_PU com_PREP o_ART auxílio_N de_PREP computadores_N ,_PU uma_ART inscrição_N feita_PCP na_PREP+ART Idade_NPROP Média_NPROP na_PREP+ART pedra_N de_PREP uma_ART igreja_N em_PREP Hackness_NPROP ,_PU no_PREP+ART Reino_NPROP Unido_NPROP ._END
+Outras_PROADJ partes_N permanecem_V sem_PREP sentido_N aparente_ADJ ,_PU embora_KS se_PROPESS conheçam_V as_ART letras_N do_PREP+ART alfabeto_N usado_PCP ._END
+Ciência_NPROP Hoje_NPROP
+A_ART edição_N de_PREP abril_N da_PREP+ART revista_N da_PREP+ART Sociedade_NPROP Brasileira_NPROP para_NPROP o_NPROP Progresso_NPROP da_NPROP Ciência_NPROP traz_V artigo_N que_PRO-KS descreve_V dois_NUM cadáveres_N com_PREP idade_N entre_PREP 800_NUM e_KC 1.000_NUM anos_N ,_PU em_PREP bom_ADJ estado_N ,_PU encontrados_PCP em_PREP escavações_N no_PREP+ART norte_N de_PREP Minas_NPROP Gerais_NPROP ._END
+Eles_PROPESS foram_V achados_PCP por_PREP arqueólogos_N do_PREP+ART Museu_NPROP de_NPROP História_NPROP Natural_NPROP da_NPROP Universidade_NPROP Federal_NPROP de_PREP Minas_NPROP Gerais_NPROP ._END
+Em_PREP citações_N científicas_ADJ ,_PU convenciona_V -se_PROPESS que_KS o_ART primeiro_ADJ número_N ,_PU em_PREP negrito_N ,_PU indica_V o_ART volume_N ._END
+O_ART último_N fornece_V a_ART página_N ._END
+"_PU (260,28)_N "_PU quer_V dizer_V página_N 28_N do_PREP+ART volume_N 260_N ._END
+Nature_NPROP
+Segundo_PREP o_ART autor_N ,_PU compostos_N que_PRO-KS provocam_V câncer_N em_PREP roedores_N nem_ADV sempre_ADV têm_V o_ART mesmo_PROADJ efeito_N em_PREP seres_N humanos_ADJ ._END
+Além_PREP disso_PREP+PROSUB ,_PU alguns_PROADJ cancerígenos_N estão_V tão_ADV disseminados_PCP que_KS a_ART proibição_N legal_ADJ não_ADV surte_V nenhum_PROADJ efeito_N ._END
+The_NPROP New_NPROP England_NPROP Journal_NPROP of_NPROP Medicine_NPROP
+Em_PREP 21_N de_PREP abril_N ,_PU a_ART revista_N traz_V editorial_N que_PRO-KS critica_V o_ART patamar_N de_PREP 35_NUM anos_N ,_PU a_PREP partir_PREP do_PREP+PRO-KS qual_PRO-KS se_PROPESS recomenda_V o_ART exame_N pré-natal_ADJ conhecido_PCP como_PREP amniocentese_N ._END
+É_V só_PDEN nessa_PREP+PROADJ idade_N que_PRO-KS os_ART riscos_N envolvidos_PCP no_PREP+ART exame_N passam_V a_PREP ser_V menores_ADJ que_KS os_ART riscos_N de_PREP o_ART feto_N ter_V síndrome_N de_N Down_N ._END
+Para_PREP a_ART revista_N ,_PU o_ART exame_N deveria_V ficar_V a_PREP critério_N dos_PREP+ART casais_N ,_PU em_PREP qualquer_PROADJ idade_N ._END
+Revistas_N importadas_PCP de_PREP ciência_N podem_V ser_V encontradas_PCP em_PREP várias_PROADJ bancas_N paulistanas_ADJ ,_PU como_PREP Cidade_NPROP Jardim_NPROP (_PU tel._N
+212-7121_N )_PU ,_PU Jardins_NPROP (_PU tel._N
+282-5143_N )_PU e_KC Villaboim_NPROP (_PU tel._N
+Science_NPROP
+No_PREP+ART número_N de_PREP 8_N de_PREP abril_N ,_PU um_ART pesquisador_N da_PREP+ART Universidade_NPROP de_NPROP Utrecht_NPROP (_PU Holanda_NPROP )_PU mostra_V como_ADV-KS é_V possível_ADJ quantificar_V o_ART aquecimento_N global_ADJ ao_PREP longo_PREP dos_PREP+ART últimos_ADJ cem_NUM anos_N através_PREP da_PREP+ART medida_N do_PREP+ART recuo_N de_PREP geleiras_N ._END
+O_ART cientista_N estudou_V geleiras_N da_PREP+ART América_NPROP do_NPROP Norte_NPROP ,_PU da_PREP+ART Europa_NPROP ,_PU da_PREP+ART Ásia_NPROP e_KC da_PREP+ART África_NPROP ._END
+O_ART implante_N de_PREP ouro_N traz_V de_ADV volta_ADV a_ART audição_N ?_PU
+O_ART implante_N de_PREP ouro_N traz_V de_ADV volta_ADV toda_PROADJ a_ART audição_N ?_PU
+Iara_NPROP Tábox_NPROP ,_PU 33_NUM ,_PU artista_N plástica_ADJ ,_PU São_NPROP Paulo_NPROP (_PU SP_NPROP )_PU
+Luís_NPROP Antônio_NPROP da_NPROP Costa_NPROP Monteiro_NPROP ,_PU otorrinolaringologista_N do_PREP+ART Hospital_NPROP das_NPROP Clínicas_NPROP ,_PU responde_V :_PU
+"_PU Para_PREP algumas_PROADJ doenças_N que_PRO-KS provocam_V surdez_N (_PU como_PREP a_ART otosclerose_N ou_KC otoespongiose_N )_PU ,_PU recomenda_V -se_PROPESS uma_ART cirurgia_N que_PRO-KS substitui_V um_ART ossinho_N do_PREP+ART ouvido_N médio_ADJ (_PU o_ART estribo_N )_PU por_PREP uma_ART prótese_N a_ART cise_N chama_V estapedectomia_N ._END
+Em_PREP 95_NUM %_N dos_PREP+ART casos_N ,_PU os_ART resultados_N do_PREP+ART implante_N são_V bons_ADJ ,_PU com_PREP melhora_V na_PREP+ART audição_N ._END
+"_PU O_ART fator_N limitante_ADJ do_PREP+ART resultado_N do_PREP+ART implante_N não_ADV é_V o_ART material_N de_PREP que_PRO-KS é_V feita_PCP a_ART prótese_N ,_PU mas_KC as_ART condições_N do_PREP+ART ouvido_N em_PREP que_PRO-KS ela_PROPESS é_V implantada_PCP e_KC a_ART técnica_N do_PREP+ART cirurgião_N ._END
+Correspondência_N para_PREP a_ART seção_N "_PU Sem_NPROP Mistério_NPROP "_PU deve_V ser_V encaminhada_PCP à_PREP+ART Editoria_NPROP de_NPROP Ciência_NPROP (_PU al._NPROP Barão_NPROP de_NPROP Limeira_NPROP
+,_PU 425_NUM ,_PU 4º_ADJ andar_N ,_PU Cep_N 01290-900_N ,_PU São_NPROP Paulo_NPROP -_PU SP_NPROP )_PU ,_PU com_PREP nome_N ,_PU idade_N ,_PU profissão_N e_KC endereço_N ._END
+Não_ADV serão_V respondidas_PCP cartas_N com_PREP pedidos_N de_PREP aconselhamento_N médico_ADJ ou_KC psíquico_ADJ ._END
+Confira_V a_ART inteligência_N de_PREP seu_PROADJ cão_N
+Psicólogo_N canadense_ADJ propõe_V classificação_N de_PREP raças_N caninas_ADJ de_PREP acordo_PREP com_PREP a_ART capacidade_N de_PREP executar_V tarefas_N
+Do_PREP+ART "_PU Usa_NPROP Today_NPROP "_PU ._END
+Você_PROPESS achava_V estranho_ADJ a_ART cachorra_N Lassie_NPROP ,_PU estrela_N do_PREP+ART seriado_N de_PREP televisão_N com_PREP seu_PROADJ nome_N ,_PU saber_V que_KS precisava_V sair_V correndo_V em_PREP busca_N de_PREP ajuda_N quando_KS o_ART garoto_N Timmy_NPROP ,_PU seu_PROADJ dono_N ,_PU caía_V em_PREP algum_PROADJ buraco_N ?_PU
+O_ART ranking_N está_V no_PREP+ART livro_N "_PU A_NPROP Inteligência_NPROP dos_NPROP Cães_NPROP "_PU ,_PU escrito_PCP por_PREP Stanley_NPROP Coren_NPROP ._END
+Qual_PROSUB é_V o_ART cachorro_N mais_ADV inteligente_ADJ ?_PU
+O_ART border_N collie_N (_PU veja_V a_ART classificação_N à_PREP+ART direita_N )_PU ._END
+E_KC qual_PRO-KS é_V o_PROSUB que_PRO-KS marca_V menos_PROADJ pontos_N entre_PREP as_ART 133_NUM raças_N classificadas_PCP ?_PU
+Coren_NPROP o_PROPESS considera_V "_PU um_ART perfeito_ADJ acessório_N de_PREP moda_N "_PU ._END
+Coren_NPROP é_V professor_N de_PREP psicologia_N da_PREP+ART Universidade_NPROP da_NPROP Colúmbia_NPROP Britânica_NPROP (_PU oeste_N do_PREP+ART Canadá_NPROP )_PU e_KC também_PDEN treinador_N de_PREP cachorros_N ._END
+Para_PREP realizar_V o_ART ranking_N de_PREP QI_N ,_PU ele_PROPESS consultou_V cerca_PREP de_PREP cem_NUM especialistas_N em_PREP cães_N ._END
+Eles_PROPESS julgaram_V as_ART raças_N de_PREP acordo_PREP com_PREP sua_PROADJ capacidade_N de_PREP executar_V tarefas_N e_KC obedecer_V ordens_N ._END
+Só_KS que_KS um_ART cachorro_N esperto_ADJ nem_ADV sempre_ADV é_V o_ART melhor_ADJ cachorro_N ._END
+"_PU Escolha_V um_ART cachorro_N em_PREP função_PREP de_PREP seu_PROADJ estilo_N de_PREP vida_N "_PU ,_PU aconselha_V Coren_NPROP ._END
+"_PU Um_ART border_N collie_N é_V um_ART péssimo_ADJ cachorro_N para_PREP uma_ART pessoa_N que_PRO-KS trabalha_V fora_ADV ._END
+Se_KS você_PROPESS tem_V um_ART cachorro_N (_PU esperto_ADJ )_PU ..._END você_PROPESS tem_V de_PREP passar_V muito_PROADJ tempo_N com_PREP ele_PROPESS "_PU ,_PU alerta_V o_ART psicólogo_N da_PREP+ART Colúmbia_NPROP Britânica_NPROP ._END
+Outro_PROADJ alerta_N de_PREP Stanley_NPROP Coren_NPROP :_PU um_ART doberman_N que_PRO-KS fica_V sozinho_ADJ em_PREP casa_N "_PU não_ADV vai_V parar_V quieto_ADJ até_PREP destruir_V tudo_PROSUB na_PREP+ART casa_N ou_KC conseguir_V escapar_V "_PU ._END
+Coren_NPROP tem_V um_ART cairn_N terrier_N e_KC um_ART cavalier_N King_N Charles_N spaniel_N ._END
+Estão_V no_PREP+ART meio_N da_PREP+ART escala_N de_PREP QI_N (_PU no_PREP+ART 35º_ADJ e_KC no_PREP+ART 44º_ADJ lugares_N ,_PU respectivamente_ADV )_PU ._END
+Ele_PROPESS já_ADV teve_V muitos_PROADJ cachorros_N ,_PU mas_KC sempre_ADV gostou_V de_PREP todos_PROSUB ._END
+The_NPROP INTELLIGENCE_NPROP Of_NPROP DOGS_NPROP (_PU A_NPROP Inteligência_NPROP dos_NPROP Cães_NPROP )_PU ,_PU The_NPROP Free_NPROP Press_NPROP ,_PU US$_CUR 22.95_NUM ._END
+Border_N collie_N
+Poodle_N ou_KC caniche_N
+Retriever_N
+Doberman_N pinscher_N
+Shetland_N sheepdog_N (_PU pastor_N da_PREP+ART ilha_N de_PREP Shetland_NPROP )_PU
+Retriever_N do_N Labrador_N
+Rottweiler_N
+Australian_N cattle_N dog_N (_PU boiadeiro_N australiano_ADJ )_PU
+Schnauzer_N miniatura_N spaniel_N
+Springer_N spaniel_N inglês_N
+Pastor_N belga-tervuren_N
+Schipperkee_N
+Pastor_N belga-greendahl_N
+Collie_N
+Keeshond_N
+Pointer_N alemão_N de_N pêlo_N curto_N
+Flat-coated_N retriever_N
+Schnauzer_N standard_N
+Spaniel_N bretão_N
+Cocker_N spaniel_N americano_N
+Weimaraner_N
+Pastor_N belga-malinois_N
+Berner_N Sennenhund_N (_PU boiadeiro_N de_PREP Berna_NPROP )_PU
+Lulu_N da_N Pomerânia_N
+Irish_N water_N spaniel_N (_PU spaniel_N d'_N águas_N irlandesas_ADJ )_PU
+Chesapeake_N Bay_N retriever_N (_PU retriever_N da_PREP+ART baía_N de_PREP Chesapeake_NPROP )_PU
+Puli_N
+Yorkshire_N terrier_N
+Schnauzer_N gigante_N
+Cão_N d'_N águas_N português_ADJ
+Airedale_N terrier_N
+Bouvier_N des_N Flandres_N (_PU boiadeiro_N de_PREP Flandres_NPROP )_PU
+Border_N terrier_N
+Welsh_N springer_N spaniel_N
+Samoieda_N
+Field_N spaniel_N
+Terra-nova_N
+Australian_N terrier_N
+American_N Staffordshire_N terrier_N
+Setter_N Gordon_N
+Bearded_N collie_N
+Cairn_N terrier_N
+Kerry_N blue_N terrier_N
+Norsk_N elghund_N (_PU norwegian_N elkhound_N )_PU
+Silky_N terrier_N
+Pinscher_N miniatura_N
+Setter_N inglês_N
+Pharaoh_N hound_N
+Clumber_N
+Norwich_N terrier_N
+Dálmata_N
+Bedlington_N terrier_N
+Fox_N terrier_N de_N pêlo_N liso_N
+Curly-coated_N retriever_N
+Irish_N wolfhound_N
+Kuvasz_N
+Saluki_N
+Spitz_N finlandês_ADJ
+Pointer_N
+Cavalier_N King_N Charles_N spaniel_N
+Coonhound_N black_N and_N tan_N tan_N
+American_N water_N spaniel_N
+Husky_N siberiano_N
+English_N toy_N spaniel_N
+Dogue_N alemão_ADJ
+Bassê_N
+Staffordshire_N bull_N terrier_N
+Malamute_N do_N Alasca_N
+Shar-pei_N
+Fox_N terrier_N de_N pêlo_N duro_N
+Rhodesian_N Ridgeback_N
+Ibizan_N hound_N
+Welsh_N terrier_N
+Irish_N terrier_N
+Boston_N terrier_N
+Akita_N
+Skye_N terrier_N
+Sealyham_N terrier_N
+Pug_N
+Buldogue_N francês_ADJ
+Griffon_N de_N Bruxelas_N
+Maltês_N
+Chinês_N crested_N dog_N
+Dandio_N Dinmont_N terrier_N
+Basset_N Vendeano_N
+Spaniel_N japonês_N
+Lakeland_N terrier_N
+Old_N English_N sheepdog_N (_PU conhecido_PCP como_PREP bobtail_N )_PU
+Cão_N dos_N Pirineus_N
+Terrier_N escocês_N
+São_N Bernardo_N
+Bull_N terrier_N
+Chihuahua_N
+Lhasa_N apso_N
+Shih-tzu_N
+Basset_N hound_N
+Mastim_N inglês_N
+Beagle_N
+Pequinês_N
+Bloodhound_N
+Borzói_N
+inglês_ADJ
+Afghan_N hound_N
+Fonte_NPROP (_PU tradução_N )_PU :_PU Hilda_NPROP Drumond_NPROP
+Os_ART testemunhos_N do_PREP+ART massacre_N
+Evidências_N apontam_V que_KS 16_NUM índios_N ianomâmi_ADJ foram_V vítimas_N de_PREP um_ART ataque_N covarde_ADJ de_PREP invasores_N de_PREP terras_N
+De_PREP algum_PROADJ tempo_N para_PREP cá_ADV tornou_V -se_PROPESS comum_ADJ a_ART divulgação_N de_PREP notícias_N e_KC matèrias_N tendenciosas_ADJ a_PREP respeito_N da_PREP+ART situação_N das_PREP+ART terras_N indígenas_ADJ no_PREP+ART Brasil_NPROP e_KC da_PREP+ART atuação_N do_PREP+ART Ministério_NPROP Público_NPROP Federal_NPROP na_PREP+ART defesa_N dos_PREP+ART interesses_N e_KC direitos_N das_PREP+ART populações_N indígenas_ADJ ._END
+Entretanto_KC ,_PU ninguém_PROSUB ainda_ADV tinha_V chegado_PCP ao_PREP+ART ponto_N de_PREP dizer_V ,_PU com_PREP ênfase_N e_KC autoridade_N ,_PU tantas_PROADJ falsidades_N sobre_PREP fatos_N de_PREP que_PRO-KS nada_PROSUB conhece_V como_KS fez_V um_ART senhor_N de_PREP nome_N Janer_NPROP Cristaldo_NPROP ,_PU que_PRO-KS se_PROPESS diz_V doutor_N em_PREP letras_N francesas_ADJ ,_PU na_PREP+ART Folha_NPROP do_PREP+ART último_ADJ domingo_N (_PU 24.05_N )_PU ,_PU de_PREP que_PRO-KS serviu_V para_PREP publicar_V no_PREP+ART caderno_N Mais!_NPROP
+um_ART artigo_N de_PREP "_PU menos!_NPROP "_PU denominado_PCP "_PU Os_NPROP bastidores_NPROP do_NPROP ianoblefe_NPROP "_PU ._END
+Em_PREP respeito_N aos_PREP+ART leitores_N da_PREP+ART Folha_NPROP ,_PU é_V necessário_ADJ restabelecer_V a_ART verdade_N sobre_PREP os_ART fatos_N comprovados_PCP relativos_ADJ à_PREP+ART chacina_N de_PREP Haximu_NPROP ._END
+território_N venezuelano_ADJ ._END
+Na_PREP+ART reunião_N do_PREP+ART Comando_NPROP do_NPROP Pelotão_NPROP com_PREP pilotos_N da_PREP+ART FAB_NPROP ,_PU foi_V plotado_PCP no_PREP+ART mapa_N do_PREP+ART exército_N o_ART local_N em_PREP que_PRO-KS teria_V ocorrido_PCP a_ART chacina_N ,_PU com_PREP a_ART garantia_N dada_PCP pelos_PREP+ART militares_N de_PREP que_KS a_ART área_N se_PROPESS encontrava_V na_PREP+ART faixa_N de_PREP fronteira_N ,_PU em_PREP território_N brasileiro_ADJ ._END
+Portanto_KC ,_PU se_KS houve_V invasão_N da_PREP+ART Venezuela_NPROP ela_PROPESS se_PROPESS deu_V por_PREP imprecisão_N nas_PREP+ART informações_N transmitidas_PCP pelos_PREP+ART responsáveis_N pela_PREP+ART guarda_N de_PREP nossas_PROADJ tênues_ADJ fronteiras_N amazônicas_ADJ ._END
+Feito_PCP o_ART levantamento_N "_PU in_ADV loco_ADV "_PU das_PREP+ART provas_N colhidas_PCP em_PREP Haximu_NPROP duas_NUM malocas_N destruídas_PCP e_KC uma_ART ossada_N humana_ADJ encontrada_PCP num_PREP+ART tapiri_N -_PU foi_V instaurado_PCP inquérito_N policial_ADJ para_PREP apurar_V os_ART fatos_N na_PREP+ART Polícia_NPROP Federal_NPROP em_PREP Roraima_NPROP ._END
+Após_ADV 30_NUM dias_N de_PREP exaustivas_ADJ investigações_N ,_PU o_ART delegado_N Curtrim_NPROP ,_PU que_PRO-KS presidia_V o_ART inquérito_N ,_PU apresentou_V bem_ADV fundamentado_PCP relatório_N sobre_PREP a_ART chacina_N ocorrida_PCP em_PREP Haximu_NPROP ,_PU dentro_PREP do_PREP+ART prazo_N legal_ADJ ,_PU com_PREP base_N em_PREP farta_ADJ testemunhal_ADJ ,_PU em_PREP três_NUM laudos_N periciais_ADJ ,_PU com_PREP dois_N dos_PREP+ART autores_N confessos_ADJ do_PREP+ART genocídio_N presos_PCP por_PREP ordem_N do_PREP+ART juiz_N federal_ADJ de_PREP Roraima_NPROP ._END
+A_ART ação_N da_PREP+ART Polícia_NPROP Federal_NPROP neste_PREP+PROADJ caso_N foi_V acompanhada_PCP pelo_PREP+ART sereno_ADJ e_KC eficiente_ADJ trabalho_N de_PREP três_NUM procuradores_N da_PREP+ART República_NPROP ,_PU especialmente_ADV designados_PCP para_PREP o_ART caso_N ,_PU que_PRO-KS formularam_V uma_ART extensa_ADJ denúncia_N contra_PREP quatro_NUM garimpeiros_N por_PREP sete_NUM crimes_N diferentes_ADJ ,_PU desde_PREP contrabando_N ,_PU ocultação_N de_PREP cadáver_N até_PREP formação_N de_PREP quadrilha_N ou_KC bando_N ,_PU além_PREP do_PREP+ART genocídio_N ._END
+Quanto_PREP aos_PREP+ART outros_PROADJ 19_NUM integrantes_N do_PREP+ART bando_N que_PRO-KS participaram_V do_PREP+ART massacre_N ,_PU não_ADV foi_V possível_ADJ ,_PU até_PREP hoje_ADV ,_PU identificar_V -los_PROPESS e_KC denunciar_V -los_PROPESS à_PREP+ART Justiça_NPROP ,_PU pois_KC dele_PREP+PROPESS só_PDEN se_PROPESS conhece_V a_ART alcunha_N ._END
+O_ART crime_N de_PREP genocídio_N caracteriza_V -se_PROPESS no_PREP+ART plano_N do_PREP+ART direito_N internacional_ADJ como_PREP delito_N contra_PREP a_ART humanidade_N ._END
+Inicialmente_ADV previsto_PCP na_PREP+ART Convenção_NPROP Mundial_NPROP para_NPROP a_NPROP Prevenção_NPROP e_NPROP Repressão_NPROP do_NPROP crime_NPROP de_NPROP Genocídio_NPROP (_PU ONU_NPROP ,_PU 1948_N )_PU ,_PU como_PREP reflexo_N do_PREP+ART julgamento_N dos_PREP+ART crimes_N perpetrados_PCP pelos_PREP+ART nazistas_N no_PREP+ART Tribunal_NPROP de_NPROP Nuremberg_NPROP ,_PU tinha_V como_PREP característica_N a_ART possibilidade_N de_PREP intervenção_N da_PREP+ART ONU_NPROP em_PREP Estados_NPROP soberanos_N desde_KS que_KS ,_PU comprovadamente_ADV ,_PU estes_PROSUB estimulassem_V ou_KC fossem_V coniventes_ADJ com_PREP práticas_N genocidas_ADJ ._END
+Somente_ADV a_PREP partir_PREP do_PREP+ART advento_N da_PREP+ART Lei_N nº_N 2.889/56_N foi_V incorporado_PCP ao_PREP+ART ordenamento_N jurídico_ADJ interno_ADJ um_ART outro_PROADJ tipo_N penal_ADJ do_PREP+ART genocídio_N ,_PU quando_KS se_PROPESS passou_V a_PREP punir_V a_ART ação_N de_PREP pessoas_N físicas_ADJ (_PU não_ADV de_PREP governos_N )_PU que_PRO-KS ,_PU com_PREP a_ART intenção_N de_PREP destruir_V ,_PU no_PREP+ART todo_PROSUB ou_KC em_PREP parte_N ,_PU grupo_N nacional_ADJ ,_PU étnico_ADJ ,_PU racial_ADJ ou_KC religioso_ADJ ,_PU matar_V membros_N do_PREP+ART grupo_N ,_PU causar_V lesão_N grave_ADJ à_PREP+ART integridade_N física_ADJ ou_KC mental_ADJ de_PREP membros_N do_PREP+ART grupo_N ._END
+Mas_KC ,_PU onde_ADV estão_V as_ART provas_N materiais_ADJ do_PREP+ART genocídio_N ?_PU
+-_PU indagam_V os_ART novos_ADJ especialistas_N em_PREP processo_N penal_ADJ ._END
+Elas_PROPESS estão_V evidentemente_ADV nos_PREP+ART autos_N do_PREP+ART processo_N criminal_ADJ ,_PU que_PRO-KS nenhum_PROSUB de_PREP seus_PROADJ detratores_N teve_V a_ART paciência_N de_PREP ler_V ._END
+Está_V no_PREP+ART exame_N de_PREP corpo_N de_PREP delito_N realizado_PCP pelo_PREP+ART Instituto_NPROP de_NPROP Criminalística_NPROP da_NPROP Polícia_NPROP Federal_NPROP em_PREP Brasília_NPROP ,_PU que_PRO-KS atesta_V a_ART morte_N violenta_ADJ de_PREP uma_ART jovem_N índia_ADJ ,_PU entre_PREP 18_NUM e_KC 22_NUM anos_N ,_PU por_PREP disparos_N de_PREP arma_N de_PREP fogo_N do_PREP+ART tipo_N espingarda_N ._END
+Está_V no_PREP+ART laudo_N de_PREP exame_N de_PREP lesões_N corporais_ADJ em_PREP três_NUM sobreviventes_N feridos_PCP do_PREP+ART massacre_N ,_PU dentre_PREP os_PRO-KS quais_PRO-KS uma_ART criança_N de_PREP cinco_NUM anos_N atingida_PCP no_PREP+ART olho_N direito_ADJ por_PREP projéteis_N (_PU chumbo_N )_PU disparados_PCP por_PREP uma_ART carabina_N 12_N ._END
+Apesar_PREP das_PREP+ART cremações_N dos_PREP+ART corpos_N dos_PREP+ART índios_N mortos_PCP terem_V destruído_PCP parte_N dos_PREP+ART vestígios_N e_KC do_PREP+ART corpo_N de_PREP delito_N ,_PU estes_PROSUB não_ADV desapareceram_V de_PREP todo_PROSUB ,_PU de_PREP acordo_PREP com_PREP a_ART tradição_N ianomâmi_ADJ ._END
+A_ART perícia_N tècnica_ADJ examinou_V cinzas_N mescladas_PCP com_PREP 118_NUM fragmentos_N de_PREP ossos_N carbonizados_PCP ,_PU dois_NUM dentes_N semicalcinados_PCP e_KC fios_N de_PREP cabelos_N ,_PU tendo_V os_ART senhores_N peritos_N afirmado_PCP que_KS o_ART material_N serviria_V com_PREP amostra_N padrão_ADJ de_PREP ossos_N carbonizados_PCP sabidamente_ADV humanos_ADJ ._END
+Os_ART depoimentos_N de_PREP seis_NUM índios_N sobreviventes_ADJ ao_PREP+ART massacre_N ,_PU traduzidos_PCP por_PREP funcionário_N da_PREP+ART Funai_NPROP ,_PU com_PREP grande_ADJ conhecimento_N da_PREP+ART língua_N e_KC costumes_N dos_PREP+ART índios_N ianomâmi_ADJ ,_PU inteiramente_ADV a_ART materialidade_N do_PREP+ART crime_N ,_PU tal_PROSUB como_KS constou_V da_PREP+ART denúncia_N ._END
+Além_PREP dos_PREP+ART depoimentos_N dos_PREP+ART índios_N ,_PU os_ART réus_N confessaram_V sua_PROADJ participação_N no_PREP+ART crime_N ._END
+O_ART denunciado_N Pedro_NPROP Prancheta_NPROP afirma_V ,_PU sem_PREP remorso_N ,_PU que_KS eles_PROPESS "_PU saíram_V no_PREP+ART rastro_N dos_PREP+ART índios_N e_KC após_PREP três_NUM horas_N de_PREP caminhada_N encontraram_V umas_ART barraquinhas_N no_PREP+ART meio_N da_PREP+ART mata_N e_KC alí_ADV estavam_V os_ART índios_N ,_PU onde_ADV-KS haviam_V algumas_PROADJ crianças_N brincando_V ,_PU ocasião_N em_PREP que_PRO-KS os_ART garimpeiros_N ficaram_V todos_PROSUB de_PREP um_ART lado_N e_KC atiraram_V por_PREP alguns_PROADJ minutos_N matando_V todos_PROSUB os_PROSUB que_PRO-KS alí_ADV se_PROPESS encontravam_V ,_PU tendo_V sabido_PCP ,_PU através_PREP de_PREP "_PU Japão_NPROP "_PU que_KS "_PU Goiano_NPROP Doido_NPROP "_PU meteu_V uma_ART faca_N numa_PREP+ART criancinha_N ,_PU e_KC ele_PROPESS só_PDEN ouviu_V ela_PROPESS gritar_V e_KC logo_ADV após_ADV saíram_V todos_PROSUB correndo_V com_PREP medo_N dos_PREP+ART outros_PROADJ índios_N em_PREP direção_N às_PREP+ART malocas_N e_KC na_PREP+ART ocasião_N atearam_V fogo_N nas_PREP+ART mesmas_PROSUB ,_PU antes_ADV porém_KC deram_V vários_PROADJ tiros_N em_PREP panelas_N e_KC em_PREP tudo_PROSUB que_PRO-KS viam_V pela_PREP+ART frente_N e_KC em_ADV seguida_ADV retornaram_V aos_PREP+ART seus_PROADJ barracos_N "_PU ._END
+Outro_PROADJ ponto_N equivocado_PCP do_PREP+ART eminente_ADJ jurista_N é_V o_PROSUB de_PREP questionar_V as_ART fotos_N das_PREP+ART cabaças_N contendo_V as_ART cinzas_N como_PREP meio_N de_PREP prova_N idôneo_ADJ ._END
+As_ART fotos_N tomadas_PCP isoladamente_ADV ,_PU talvez_ADV não_ADV ._END
+No_PREP+ART caso_N ,_PU elas_PROPESS são_V mera_ADJ manifestação_N visual_ADJ de_PREP um_ART processo_N ritual_ADJ de_PREP cremação_N amplamente_ADV registrado_PCP e_KC atestado_PCP num_PREP+ART laudo_N antropológico_ADJ e_KC cuidadosamente_ADV elaborado_PCP ,_PU o_PRO-KS qual_PRO-KS ,_PU dentro_PREP de_PREP um_ART auto_N de_PREP constatação_N ,_PU constitui_V meio_N de_PREP prova_N pericial_ADJ expressamente_ADV admitido_PCP no_PREP+ART Código_NPROP de_NPROP Processo_NPROP Penal_NPROP ._END
+Comprovada_PCP a_ART existência_N do_PREP+ART genocídio_N e_KC de_PREP sua_PROADJ autoria_N ,_PU por_PREP que_PRO-KS a_ART Justiça_N brasileira_ADJ estaria_V processando_V garimpeiros_N brasileiros_ADJ que_PRO-KS cometeram_V crime_N contra_PREP a_ART vida_N de_PREP índios_N ianomâmi_ADJ na_PREP+ART Venezuela_NPROP ?_PU
+Por_PREP uma_ART simples_ADJ razão_N ._END
+da_PREP+ART lei_N brasileira_ADJ previsto_PCP no_PREP+ART art._N 7º_N do_PREP+ART Código_NPROP Penal_NPROP Brasileiro_NPROP (_PU Decreto-Lei_NPROP 2.848_N de_PREP 1940_N )_PU ,_PU onde_ADV-KS são_V arrolados_PCP os_ART crimes_N que_PRO-KS ficam_V sujeitos_N à_PREP+ART lei_N brasileira_ADJ ,_PU embora_KS cometidos_PCP no_PREP+ART estrangeiro_N ._END
+Dentre_PREP eles_PROPESS destacam_V -se_PROPESS os_ART crimes_N praticados_PCP contra_PREP a_ART vida_N ou_KC a_ART liberdade_N do_PREP+ART presidente_N da_PREP+ART República_NPROP e_KC o_PROSUB de_PREP genocídio_N ,_PU quando_KS o_ART agente_N for_V brasileiro_ADJ ou_KC domiciliano_ADJ no_PREP+ART Brasil_NPROP ._END
+(_PU Vide_V entre_PREP outros_PROSUB Damásio_NPROP de_NPROP Jesus_NPROP ,_PU no_PREP+ART seu_PROADJ Código_NPROP Penal_NPROP Anotado_NPROP )_PU ._END
+Quanto_PREP ao_PREP+ART receio_N de_PREP muitos_PROSUB de_PREP que_KS a_ART demarcação_N de_PREP extensas_ADJ áreas_N indígenas_ADJ nas_PREP+ART faixas_N de_PREP fronteira_N venha_V a_PREP provocar_V o_ART desmembramento_N do_PREP+ART país_N ou_KC a_ART intervenção_N de_PREP forças_N estrangeiras_ADJ ,_PU é_V bom_ADJ que_KS se_PROPESS diga_V ,_PU em_PREP nome_N da_PREP+ART verdade_N ,_PU que_KS a_ART Constituição_NPROP Federal_NPROP reconhece_V aos_PREP+ART índios_N os_ART direitos_N originários_ADJ sobre_PREP as_ART terras_N que_PRO-KS tradicionalmente_ADV ocupam_V ,_PU estejam_V ou_KC não_ADV situadas_PCP nas_PREP+ART faixas_N de_PREP fronteira_N ,_PU e_KC garante_V às_PREP+ART comunidades_N indígenas_ADJ o_ART direito_N à_PREP+ART posse_N permanente_ADJ e_KC ao_PREP+ART usufruto_N exclusivo_ADJ das_PREP+ART riquezas_N naturais_ADJ nelas_PREP+PROPESS existentes_ADJ ,_PU já_KS que_KS o_ART domínio_N pleno_ADJ dessas_PREP+PROADJ terras_N pertence_V exclusivamente_ADV à_PREP+ART União_NPROP Federal_NPROP ,_PU como_ADV-KS é_V o_ART caso_N das_PREP+ART terras_N devolutas_ADJ situadas_PCP nas_PREP+ART faixas_N de_PREP fronteira_N ,_PU consideradas_PCP essenciais_ADJ à_PREP+ART defesa_N do_PREP+ART território_N nacional_ADJ nos_PREP+ART exatos_ADJ termos_N do_PREP+ART art._N 20_N ,_PU incisos_N 2º_N e_KC 9º_N e_KC art._N 231_N da_PREP+ART Constituição_NPROP ._END
+se_PROPESS pode_V admitir_V a_ART boa-fé_N numa_PREP+ART insimuação_N leviana_ADJ de_PREP que_PRO-KS o_ART regular_ADJ cumprimento_N da_PREP+ART lei_N ,_PU através_PREP da_PREP+ART denúncia_N do_PREP+ART Ministério_NPROP Público_NPROP Federal_NPROP contra_PREP brasileiros_N por_PREP crime_N de_PREP genocídio_N e_KC a_ART consequente_ADJ instrução_N do_PREP+ART processo_N criminal_ADJ ,_PU ainda_ADV em_PREP andamento_N na_PREP+ART Justica_NPROP Federal_NPROP ,_PU poderia_V ,_PU em_PREP algum_PROADJ momento_N ,_PU colocar_V em_PREP risco_N a_ART segurança_N do_PREP+ART país_N ._END
+Ouso_V afirmar_V o_ART contrário_N :_PU o_PROSUB de_PREP que_PRO-KS põe_V em_PREP risco_N as_ART relações_N bilaterais_ADJ entre_PREP Brasil_NPROP e_KC Venezuela_NPROP e_KC poderia_V favorecer_V a_ART hipótese_N de_PREP uma_ART intervenção_N externa_ADJ no_PREP+ART país_N ,_PU seria_V o_ART não_ADV cumprimento_V das_PREP+ART garantias_N constitucionais_ADJ de_PREP respeito_N aos_PREP+ART direitos_N humanos_ADJ e_KC das_PREP+ART minorias_N étnicas_ADJ ,_PU fundadas_PCP em_PREP tratados_N internacionais_ADJ ,_PU que_PRO-KS o_ART Brasil_NPROP se_PROPESS obrigou_V a_PREP cumprir_V ._END
+Se_KS não_ADV for_V modificado_PCP o_ART quadro_N de_PREP impunidade_N existente_ADJ em_PREP relação_PREP aos_PREP+ART tantos_PROADJ massacres_N ocorridos_PCP no_PREP+ART país_N ,_PU seja_V de_PREP índios_N ,_PU crianças_N ,_PU presos_N ou_KC trabalhadores_N comuns_ADJ ,_PU poderemos_V assistir_V aqui_ADV ,_PU quem_PRO-KS sabe_V ,_PU a_PREP um_ART desfile_N de_PREP boinas_N azuis_ADJ ,_PU a_PREP exemplo_N do_PREP+PROSUB que_PRO-KS hoje_ADV acontece_V no_PREP+ART Iraque_NPROP e_KC na_PREP+ART Bósnia_NPROP ._END
+os_PROSUB que_PRO-KS duvidam_V ,_PU lamento_V informar_V que_KS 16_NUM índios_N ianomâmi_ADJ morreram_V vítimas_N de_PREP um_ART ataque_N covarde_ADJ de_PREP invasores_N de_PREP suas_PROADJ terras_N ._END
+Os_ART sobreviventes_N cremaram_V seus_PROADJ mortos_N e_KC procuram_V reconstruir_V suas_PROADJ vidas_N ._END
+Como_KS afirma_V o_ART procurador_N da_PREP+ART República_NPROP Luciano_NPROP Mariz_NPROP Maia_NPROP ,_PU um_PROSUB dos_PREP+ART autores_N da_PREP+ART denúncia_N :_PU "_PU Das_PREP+ART balas_N dos_PREP+ART garimpeiros_N os_ART ianomâmi_N estão_V tentando_V se_PROPESS recuperar_V ._END
+AURÉLIO_NPROP VIRGÍLIO_NPROP Veiga_NPROP Rios_NPROP é_V procurador_N da_PREP+ART República_NPROP ,_PU membro_N efetivo_ADJ da_PREP+ART Câmara_NPROP de_NPROP Coordenação_NPROP e_NPROP Revisão_NPROP dos_NPROP Direitos_NPROP das_NPROP Comunidades_NPROP Indígenas_NPROP e_NPROP das_NPROP Minorias_NPROP do_NPROP Ministério_NPROP Público_NPROP Federal_NPROP ._END
+Professor_N de_PREP Filosofia_N
+A_ART volta_N da_PREP+ART filosofia_N ao_PREP+ART segundo_ADJ grau_N é_V uma_ART causa_N justa_ADJ ,_PU se_KS concorrer_V para_PREP formar_V o_ART espírito_N crítico_ADJ entre_PREP aquele_PROSUB que_PRO-KS estão_V se_PROPESS tornando_V pessoas_N e_KC cidadãos_N ,_PU isto_PDEN é_PDEN ,_PU sujeitos_N no_PREP+ART plano_N moral_ADJ e_KC político_ADJ ._END
+Mas_KC ,_PU dada_PCP a_ART devastação_N que_PRO-KS o_ART ensino_N sofreu_V no_PREP+ART Brasil_NPROP sob_PREP a_ART ditadura_N e_KC que_PRO-KS os_ART tíbios_ADJ governos_N da_PREP+ART restauração_N democrática_ADJ não_ADV se_PROPESS atreveram_V a_PREP reverter_V ,_PU será_V fantasioso_ADJ esperar_V muito_PROSUB da_PREP+ART filosofia_N ,_PU sozinha_ADJ ._END
+Por_PREP isso_PROSUB ,_PU proponho_V uma_ART ação_N combinada_PCP entre_PREP professores_N de_PREP filosofia_N ,_PU história_N e_KC português_N ,_PU para_PREP seguindo_V as_ART interfaces_N dessas_PREP+PROADJ disciplinas_N -_PU oferecer_V aos_PREP+ART jovens_N uma_ART visão_N crítica_ADJ da_PREP+ART ação_N humana_ADJ sob_PREP seus_PROADJ vários_PROADJ aspectos_N :_PU teórico_N ,_PU rememorado_N ,_PU imaginado_N ._END
+Professora_N de_PREP Filosofia_N
+Há_V sempre_ADV o_ART risco_N do_PREP+ART curso_N de_PREP filosofia_N no_PREP+ART 2º_ADJ grau_N virar_V uma_ART espécie_N de_PREP terapia_N em_PREP grupo_N ,_PU os_ART alunos_N em_PREP roda_N discutindo_V os_ART problemas_N da_PREP+ART adolescência_N ._END
+Ou_KC então_PDEN ,_PU no_PREP+ART extremo_ADJ oposto_N ,_PU o_ART curso_N cai_V num_PREP+ART amontoado_N de_PREP temas_N abstratos_ADJ e_KC distantes_ADJ para_PREP alunos_N entediados_PCP ._END
+Em_PREP ambos_PROADJ os_ART casos_N ,_PU a_ART obrigatoriedade_N do_PREP+ART ensino_N só_PDEN contribuiria_V para_PREP a_ART opinião_N de_PREP que_PRO-KS filosofia_N é_V conversa_N para_PREP boi_N dormir_V ._END
+Nesse_PREP+PROADJ caso_N ,_PU a_ART filosofia_N seria_V bem_ADV vinda_PCP ao_PREP+ART 2º_ADJ grau_N ,_PU especialmente_ADV num_PREP+ART momento_N em_PREP que_PRO-KS o_ART hábito_N da_PREP+ART leitura_N e_KC a_ART curiosidade_N intelectual_ADJ andam_V tão_ADV em_ADV baixa_ADV ._END
+Chefe_N do_PREP+ART Depto._NPROP de_NPROP Filosofia_NPROP
+Existem_V a_PREP meu_PROADJ ver_N três_NUM argumentos_N a_PREP favor_N da_PREP+ART obrigatoriedade_N da_PREP+ART filosofia_N no_PREP+ART 2º_ADJ grau_N ._END
+Primeiro_N ,_PU a_ART filosofia_N é_V principalmente_ADV exercício_N da_PREP+ART reflexão_N crítica_ADJ ,_PU e_KC nesse_PREP+PROADJ sentido_N ,_PU além_PREP de_PREP despertar_V nos_PREP+ART estudantes_N uma_ART atitude_N propícia_ADJ para_PREP seu_PROADJ desenvolvimento_N intelectual_ADJ ,_PU pode_V também_PDEN preparar_V -los_PROPESS para_PREP a_ART prática_N democrática_ADJ pluralista_ADJ e_KC eticamente_ADV responsável_ADJ ._END
+Explicitar_V essa_PROADJ relação_N pode_V complementar_V a_ART formação_N científica_ADJ dos_PREP+ART estudantes_N ,_PU ajudando_V -os_PROPESS a_PREP compreender_V idéias_N fundamentais_ADJ que_PRO-KS estão_V na_PREP+ART base_N das_PREP+ART ciências_N às_PREP+ART quais_PRO-KS eles_PROPESS são_V introduzidos_PCP no_PREP+ART segundo_ADJ grau_N ._END
+Por_ADV último_ADV ,_PU a_ART filosofia_N tem_V um_ART evidente_ADJ papel_N de_PREP unificação_N da_PREP+ART visão_N cultural_ADJ dos_PREP+ART estudantes_N ,_PU auxiliando_V -os_PROPESS a_PREP entender_V as_ART conexões_N conceituais_ADJ e_KC históricas_ADJ entre_PREP sociedade_N ,_PU ciência_N ,_PU técnica_N e_KC arte_N ._END
+Sartori_NPROP faz_V faxina_N na_PREP+ART teoria_N da_PREP+ART democracia_N
+A_ART editora_N Ática_NPROP lança_V ensaio_N sobre_PREP política_N do_PREP+ART pensador_N italiano_ADJ
+Foi_V essa_PROADJ preocupação_N que_PRO-KS levou_V Giovanni_NPROP Sartori_NPROP a_PREP publicar_V este_PROADJ livro_N ,_PU em_PREP 1987_N ._END
+Ele_PROPESS já_ADV havia_V tratado_PCP do_PREP+ART tema_N em_PREP 1962_N ._END
+Mas_KC foram_V exatamente_ADV as_ART confrontações_N dos_PREP+ART anos_N 60_N ,_PU com_PREP o_ART avanço_N das_PREP+ART posições_N críticas_ADJ mais_ADV radicais_ADJ ,_PU que_PRO-KS no_PREP+ART seu_PROADJ entender_N danificaram_V o_PRO-KS que_PRO-KS realmente_ADV importa_V numa_PREP+ART teoria_N :_PU o_ART significado_N unívoco_ADJ e_KC rigoroso_ADJ dos_PREP+ART conceitos_N e_KC a_ART consistência_N nas_PREP+ART relações_N entre_PREP eles_PROPESS ._END
+A_ART tarefa_N deste_PREP+PROADJ livro_N ,_PU portanto_KC ,_PU é_V de_PREP faxina_N intelectual_ADJ ._END
+É_V preciso_ADJ varrer_V os_ART cacos_N imprestáveis_ADJ e_KC limpar_V meticulosamente_ADV as_ART peças_N manchadas_PCP pelo_PREP+ART uso_N indevido_ADJ ._END
+Mas_KC não_ADV é_V mera_ADJ mania_N de_PREP limpeza_N que_PRO-KS move_V Sartori_NPROP ._END
+É_V a_ART convicção_N de_PREP que_KS a_ART clareza_N nas_PREP+ART idéias_N é_V condição_N básica_ADJ para_PREP o_ART próprio_PROADJ exercício_N da_PREP+ART democracia_N ._END
+Na_PREP+ART concepção_N de_PREP teoria_N a_PREP que_PRO-KS ele_PROPESS adere_V a_ART clara_ADJ definição_N dos_PREP+ART conceitos_N é_V requisito_N para_PREP a_ART argumentação_N racional_ADJ ;_PU e_KC o_ART exato_ADJ oposto_N disso_PREP+PROSUB é_V o_ART confronto_N "_PU ideologizado_PCP "_PU de_PREP concepções_N que_PRO-KS ele_PROPESS abomina_V ._END
+Em_PREP primeiro_ADJ lugar_N ,_PU trata_V -se_PROPESS de_PREP bem_ADV demarcar_V o_ART terreno_N do_PREP+ART debate_N ._END
+E_KC esta_PROSUB significa_V ,_PU em_PREP termos_N mínimos_ADJ ,_PU soberania_N popular_ADJ mais_KC liberdades_N ._END
+Não_ADV basta_V enfatizar_V a_ART igualdade_N ,_PU tema_N clássico_ADJ da_PREP+ART democracia_N ._END
+Não_ADV há_V passagem_N linear_ADJ da_PREP+ART igualdade_N para_PREP a_ART liberdade_N ._END
+Portanto_KC ,_PU não_ADV é_V suficiente_ADJ assinalar_V onde_ADV-KS reside_V o_ART fundamento_N do_PREP+ART poder_N (_PU a_ART soberania_N popular_ADJ )_PU ._END
+É_V preciso_ADJ também_PDEN assegurar_V -se_PROPESS de_PREP que_KS esse_PROADJ poder_N tenha_V limites_N ._END
+E_KC esses_PROADJ limites_N não_ADV são_V intrínsecos_ADJ à_PREP+ART soberania_N popular_ADJ ,_PU têm_V que_KS ser_V estabelecidos_PCP constitucionalmente_ADV ,_PU na_PREP+ART forma_N de_PREP leis_N ._END
+Em_PREP termos_N sumários_N ,_PU a_ART democracia_N acaba_V sendo_V analisada_PCP por_PREP Sartori_NPROP como_PREP um_ART método_N de_PREP escolha_N competitiva_ADJ de_PREP lideranças_N que_PRO-KS respondam_V perante_PREP os_ART liderados_N e_KC de_PREP formação_N de_PREP instâncias_N decisórias_ADJ (_PU por_PDEN exemplo_PDEN ,_PU comitês_N )_PU de_PREP tal_PROADJ modo_N que_PRO-KS as_ART decisões_N sejam_V simultaneamente_ADV eficazes_ADJ e_KC sujeitas_PCP ao_PREP+ART controle_N dos_PREP+ART cidadãos_N ._END
+Grande_ADJ parte_N do_PREP+ART esforço_N de_PREP Sartori_NPROP consiste_V em_PREP fixar_V algumas_PROADJ distinções_N básicas_ADJ :_PU entre_PREP concepções_N normativas_ADJ e_KC concepções_N descritivas_ADJ por_PREP um_ART lado_N ,_PU e_KC entre_PREP questões_N de_PREP forma_N e_KC questões_N de_PREP conteúdo_N no_PREP tocante_PREP à_PREP+ART organização_N política_ADJ ,_PU pelo_PREP+ART outro_PROSUB ._END
+Bons_ADJ tempos_N ,_PU suspirarão_V alguns_PROSUB ,_PU quando_ADV-KS era_V o_ART avanço_N do_PREP+ART marxismo_N ,_PU real_ADJ ou_KC suposto_PCP ,_PU que_PRO-KS ainda_ADV mantinha_V teóricos_N liberais_ADJ em_PREP sobressalto_N ;_PU em_PREP trabalhos_N mais_ADV recentes_ADJ Sartori_NPROP já_ADV se_PROPESS pergunta_V se_KS a_ART democracia_N liberal_ADJ ,_PU que_PRO-KS vê_V como_PREP vitoriosa_ADJ ,_PU saberá_V "_PU resistir_V a_PREP si_PROPESS mesma_PROADJ "_PU ,_PU saberá_V jogar_V bem_ADV o_ART seu_PROADJ jogo_N ._END
+Para_PREP ele_PROPESS o_ART radicalismo_N dos_PREP+ART anos_N 60_N teve_V efeitos_N danosos_ADJ na_PREP+ART teoria_N democrática_ADJ ,_PU não_ADV tanto_ADV por_PREP ter_V demolido_PCP algo_PROSUB mas_KC por_PREP ter_V gerado_PCP a_ART confusão_N nas_PREP+ART idéias_N ._END
+Daí_PREP+ADV o_ART empenho_N em_PREP recompor_V as_ART bases_N do_PREP+ART debate_N ._END
+Sartori_NPROP distingue_V entre_PREP o_PROSUB que_PRO-KS é_V formal_ADJ e_KC o_PROSUB que_PRO-KS é_V substantivo_ADJ na_PREP+ART organização_N política_ADJ para_PREP melhor_ADV poder_V combinar_V -los_PROPESS ,_PU contestando_V assim_ADV a_ART desqualificação_N do_PREP+ART "_PU meramente_ADV formal_ADJ "_PU em_PREP nome_N do_PREP+ART "_PU substantivo_N "_PU ._END
+Formal_ADJ (_PU isto_PDEN é_PDEN ,_PU relativa_ADJ a_PREP uma_ART forma_N de_PREP estado_N e_KC ao_PREP+ART modo_N como_ADV-KS devem_V ser_V criadas_PCP as_ART normas_N que_PRO-KS obrigam_V a_PREP todos_PROSUB )_PU é_V a_ART dimensão_N normativa_ADJ do_PREP+ART liberalismo_N ._END
+Substantiva_ADJ (_PU isto_PDEN é_PDEN ,_PU relativa_ADJ ao_PREP+ART caráter_N social_ADJ do_PREP+ART estado_N e_KC ao_PREP+ART conteúdo_N que_PRO-KS deve_V ser_V estabelecido_PCP nessas_PREP+PROADJ normas_N )_PU é_V a_ART dimensão_N normativa_ADJ da_PREP+ART democracia_N ._END
+Ambas_PROADJ as_ART dimensões_N remetem_V a_PREP ideais_N fundantes_ADJ :_PU a_ART liberdade_N e_KC a_ART igualdade_N ._END
+O_ART problema_N de_PREP uma_ART boa_ADJ concepção_N de_PREP democracia_N política_ADJ consiste_V em_PREP combinar_V -las_PROPESS sem_PREP confundir_V -las_PROPESS ,_PU e_KC de_PREP um_ART modo_N que_PRO-KS aponte_V para_PREP soluções_N institucionais_ADJ viáveis_ADJ e_KC não_ADV apenas_PDEN desejáveis_ADJ ._END
+Nesse_PREP+PROADJ mesmo_PROADJ compasso_N valores_N e_KC fatos_N devem_V ser_V distinguidos_PCP ,_PU mas_KC também_PDEN tendo_V em_PREP vista_N algo_PROSUB mais_PROADJ do_KS que_KS sua_PROADJ mera_ADJ separação_N ._END
+A_ART questão_N central_ADJ em_PREP Sartori_NPROP é_V :_PU "_PU como_ADV e_KC em_PREP que_PROADJ medida_N ideais_ADJ são_V realizados_PCP e_KC realizáveis_ADJ ?_PU "_PU Dar_V conta_N disso_PREP+PROSUB ,_PU no_PREP+ART plano_N teórico_ADJ ,_PU implica_V encontrar_V um_ART modo_N de_PREP reamarrar_V vertentes_N em_PREP que_PRO-KS se_PROPESS dividiu_V a_ART teoria_N democrática_ADJ empírica_ADJ por_PREP um_ART lado_N e_KC normativa_ADJ pelo_PREP+ART outro_PROSUB ,_PU para_PREP construir_V uma_ART teoria_N que_PRO-KS seja_V simultaneamente_ADV descritiva_ADJ e_KC prescritiva_ADJ ._END
+Do_PREP+ART contrário_N não_ADV há_V como_ADV-KS enfrentar_V a_ART questão_N decisiva_ADJ ,_PU que_PRO-KS ,_PU em_PREP outro_PROADJ contexto_N ,_PU Sartori_NPROP define_V como_PREP a_PROSUB da_PREP+ART "_PU gestão_N dos_PREP+ART ideais_N "_PU ._END
+Essa_PROADJ gestão_N é_V difícil_ADJ porque_KS também_PDEN na_PREP+ART passagem_N dos_PREP+ART ideais_N à_PREP+ART prática_N não_ADV há_V trânsito_N linear_ADJ ,_PU ao_PREP+ART contrário_N do_PREP+PROSUB que_PRO-KS ,_PU segundo_PREP ele_PROPESS ,_PU parecem_V supor_V as_ART diversas_PROADJ modalidades_N de_PREP absoutismo_N normativo_ADJ ._END
+Nessa_PREP+PROADJ mesma_PROADJ linha_N ,_PU Sartori_NPROP recusa_V quaisquer_PROADJ argumentos_N a_PREP favor_N da_PREP+ART democracia_N (_PU ou_KC de_PREP outras_PROADJ propostas_N )_PU em_PREP termos_N absolutos_ADJ ._END
+A_ART racionalidade_N prudente_ADJ recomenda_V a_ART solução_N democrática_ADJ em_PREP termos_N estritamente_ADV comparativos_ADJ ,_PU no_PREP+ART confronto_N com_PREP todas_PROADJ as_ART outras_PROSUB ,_PU começando_V pelo_PREP+ART seu_PROADJ exato_ADJ oposto_N ,_PU a_ART autocracia_N ._END
+Não_ADV é_V casual_ADJ que_KS Sartori_NPROP seja_V sensível_ADJ tanto_KC às_PREP+ART distinções_N analíticas_ADJ quanto_KC aos_PREP+ART problemas_N das_PREP+ART adequadas_PCP recombinações_N dos_PREP+ART termos_N ._END
+A_ART insistente_ADJ busca_N do_PREP+ART rigor_N nos_PREP+ART termos_N traz_V a_ART marca_N de_PREP uma_ART formação_N próxima_ADJ às_PREP+ART correntes_N da_PREP+ART filosofia_N analítica_ADJ de_PREP língua_N inglesa_ADJ (_PU o_PRO-KS que_PRO-KS deve_V ter_V facilitado_PCP sua_PROADJ assimilação_N pelo_PREP+ART ambiente_N acadêmico_ADJ norte-americano_ADJ )_PU ._END
+A_ART grande_ADJ tradição_N do_PREP+ART realismo_N político_ADJ ,_PU que_PRO-KS desemboca_V neste_PREP+PROADJ século_N nos_PREP+ART grandes_ADJ "_PU elitistas_N "_PU como_PREP Mosca_NPROP ,_PU Pareto_NPROP e_KC Schumpeter_NPROP ,_PU também_PDEN está_V muito_ADV presente_ADJ nele_PREP+PROPESS ,_PU temperada_PCP pelas_PREP+ART preocupações_N liberal-democráticas_ADJ ._END
+É_V na_PREP+ART combinação_N desses_PREP+PROADJ traços_N que_PRO-KS reside_V o_ART interesse_N da_PREP+ART argumentação_N dura_ADJ e_KC provocante_ADJ deste_PREP+PROADJ livro_N ,_PU que_PRO-KS realmente_ADV vale_V a_ART pena_N ler_V ._END
+Gabriel_NPROP Cohn_NPROP é_V professor_N do_PREP+ART Departamento_NPROP de_NPROP Ciência_NPROP Política_NPROP da_PREP+ART USP_NPROP e_KC editor_N da_PREP+ART revista_N "_PU Lua_NPROP Nova_NPROP "_PU ,_PU do_PREP+ART Cedec_NPROP ._END
+CÉLINE_NPROP 1_N ;_PU CÉLINE_NPROP 2_N
+Dois_NUM novos_ADJ livros_N sobre_PREP o_ART escritor_N Louis-Ferdinand_NPROP Céline_NPROP (_PU foto_N )_PU aparecem_V na_PREP+ART França_NPROP :_PU o_ART ensaio_N "_PU Les_NPROP Fictions_NPROP du_NPROP Politique_NPROP Chez_NPROP L._NPROP -_NPROP F._NPROP Céline_NPROP
+"_PU (_PU As_NPROP Ficções_NPROP do_NPROP Político_NPROP em_NPROP L._NPROP -_NPROP F._NPROP Céline_NPROP
+)_PU ,_PU de_PREP Yves_NPROP Pagès_NPROP (_PU ed._N
+Seuil_NPROP )_PU ,_PU sobre_PREP suas_PROADJ influências_N anarquistas_ADJ ,_PU e_KC a_ART biografia_N "_PU Céline_NPROP -_NPROP Entre_NPROP Haines_NPROP et_NPROP Passions_NPROP "_PU (_PU Entre_NPROP Ódios_NPROP e_NPROP Paixões_NPROP )_PU ,_PU de_PREP Philippe_NPROP Alméras_NPROP (_PU ed._N
+Robert_NPROP Laffont_NPROP )_PU ._END
+Sobre_PREP o_ART autor_N de_PREP "_PU Morte_NPROP a_NPROP Crédito_NPROP "_PU ,_PU também_PDEN está_V sendo_V lançado_PCP na_PREP+ART França_NPROP ,_PU pela_PREP+ART editora_N Gallimard_NPROP ,_PU "_PU Elizabeth_NPROP et_NPROP Louis_NPROP "_PU ,_PU entrevistas_N com_PREP a_ART bailarina_N americana_ADJ Elizabeth_NPROP Craig_NPROP sobre_PREP seu_PROADJ relacionamento_N com_PREP Céline_NPROP ._END
+A_ART Imago_NPROP lança_V este_PROADJ mês_N a_ART famosa_ADJ correspondência_N entre_PREP Sigmund_NPROP Freud_NPROP (_PU foto_N )_PU e_KC seu_PROADJ discípulo_N Sandor_NPROP Ferenczi_NPROP ,_PU editada_PCP no_PREP+ART ano_N passado_PCP nos_PREP+ART EUA_NPROP ._END
+A_ART editora_N acaba_V de_PREP acertar_V também_PDEN dois_NUM outros_PROADJ lançamentos_N em_PREP psicanálise_N :_PU "_PU Psicanálise_NPROP e_NPROP Judaísmo:_NPROP Ressonâncias_NPROP "_PU ,_PU de_PREP Renato_NPROP Mezan_NPROP ,_PU e_KC "_PU Freud,_NPROP Nietzsche_NPROP e_NPROP Outros_NPROP Alemães_NPROP "_PU ,_PU ensaios_N de_PREP Paulo_NPROP César_NPROP Souza_NPROP ._END
+A_ART Iluminuras_NPROP está_V preparando_V para_PREP junho_N a_ART publicação_N de_PREP uma_ART reunião_N de_PREP ensaios_N do_PREP+ART escritor_N argentino_ADJ Ricardo_NPROP Piglia_NPROP ._END
+Vai_V se_PROPESS chamar_V "_PU O_NPROP Laboratório_NPROP do_NPROP Escritor_NPROP "_PU ._END
+Até_PREP o_ART fim_N deste_PREP+PROADJ mês_N ,_PU a_ART editora_N lança_V "_PU Conversas_NPROP sobre_NPROP a_NPROP Poesia_NPROP "_PU ,_PU de_PREP Frederich_NPROP Schlegel_NPROP ,_PU e_KC "_PU De_NPROP Profundis_NPROP e_NPROP Outros_NPROP Poemas_NPROP "_PU ,_PU de_PREP Georg_NPROP Trakl_NPROP ._END
+Plantando_V nos_PREP+ART campos_N da_PREP+ART arara_N
+Editoria_N :_PU Mais!_NPROP
+PáGINA_N :_PU 6-16_N
+Projeto_N prevê_V o_ART plantio_N de_PREP mudas_N da_PREP+ART palmeira_N cujo_PRO-KS fruto_N é_V alimento_N das_PREP+ART araras-azuis_N de_PREP lear_N ,_PU ameaçadas_PCP de_PREP extinção_N
+Neste_PREP+PROADJ exato_ADJ momento_N uma_ART expedição_N com_PREP oito_NUM pesquisadores_N brasileiros_ADJ e_KC norte-americanos_ADJ vasculha_V a_ART área_N conhecida_PCP como_PREP Raso_NPROP da_NPROP Catarina_NPROP ,_PU no_PREP+ART interior_N da_PREP+ART Bahia_NPROP ,_PU para_PREP coletar_V sementes_N da_PREP+ART palmeira_N licuri_N (_PU coronata_N )_PU ._END
+As_ART sementes_N coletadas_PCP vão_V ser_V desenvolvidas_PCP em_PREP viveiros_N e_KC reintroduzidas_PCP na_PREP+ART região_N para_PREP consumo_N das_PREP+ART araras_N ._END
+Os_ART últimos_ADJ 70_NUM exemplares_N selvagens_ADJ da_PREP+ART arara-azul_N de_PREP lear_N vivem_V no_PREP+ART sertão_N baiano_ADJ ._END
+O_ART projeto_N está_V sendo_V pilotado_PCP pelo_PREP+ART pesquisador_N norte-americano_ADJ Charles_NPROP Munn_NPROP ,_PU 39_NUM ,_PU do_PREP+ART Wild_NPROP Life_NPROP Conservation_NPROP Society_NPROP ,_PU de_PREP Nova_NPROP York_NPROP ._END
+A_ART entidade_N atualmente_ADV desenvolve_V 165_NUM projetos_N de_PREP conservação_N em_PREP 45_NUM países_N ,_PU quase_ADV todos_PROSUB tropicais_ADJ ._END
+Em_PREP entrevista_N por_PREP telefone_N à_PREP+ART Folha_NPROP ,_PU Munn_NPROP se_PROPESS colocou_V como_PREP um_ART consultor_N que_PRO-KS vai_V ajudar_V com_PREP know-how_N pesquisadores_N brasileiros_ADJ ._END
+Mas_KC sua_PROADJ participação_N não_ADV é_V só_PDEN essa_PROSUB :_PU através_PREP dele_PREP+PROPESS estão_V sendo_V carreados_PCP inicialmente_ADV para_PREP a_ART preservação_N das_PREP+ART araras_N de_PREP lear_N US$_CUR 60_NUM mil_NUM ,_PU provenientes_ADJ de_PREP entidades_N ambientalistas_ADJ e_KC de_PREP criadores_N internacionais_ADJ ._END
+Essa_PROADJ verba_N será_V suficiente_ADJ para_PREP iniciar_V o_ART projeto_N ,_PU acredita_V Danilo_NPROP Viana_NPROP Lima_NPROP ,_PU 30_NUM ,_PU engenheiro_N agrônomo_ADJ que_PRO-KS vai_V desenvolver_V na_PREP+ART Fazenda_NPROP Piauí_NPROP ,_PU em_PREP Ituberá_NPROP (_PU sul_N da_PREP+ART Bahia_NPROP )_PU ,_PU as_ART mudas_N de_PREP licuri_N ._END
+"_PU Vamos_V coletar_V as_ART sementes_N na_PREP+ART restinga_N e_KC no_PREP+ART semi-árido_N ,_PU porque_KS lá_ADV as_ART palmeiras_N já_ADV estão_V mais_ADV adaptadas_PCP ao_PREP+ART clima_N inóspito_ADJ e_KC ,_PU possivelmente_ADV ,_PU terão_V menos_PROADJ dificuldades_N "_PU ,_PU disse_V Viana_NPROP Lima_NPROP ._END
+Faz_V três_NUM anos_N que_PRO-KS não_ADV chove_V na_PREP+ART região_N ._END
+De_PREP acordo_PREP com_PREP o_ART engenheiro_N agrônomo_ADJ ,_PU é_V necessária_ADJ a_ART reintrodução_N monitorada_PCP da_PREP+ART palmeira_N porque_KS ela_PROPESS não_ADV está_V conseguindo_V se_PROPESS regenerar_V naturalmente_ADV e_KC ,_PU com_PREP isso_PROSUB ,_PU vai_V levar_V as_ART araras_N à_PREP+ART extinção_N ._END
+"_PU Por_PREP falta_N de_PREP ração_N e_KC capim_N ,_PU bodes_N e_KC bois_N que_PRO-KS são_V criados_PCP na_PREP+ART região_N comem_V o_ART licuri_N quando_KS ele_PROPESS começa_V a_PREP germinar_V ._END
+Para_PREP salvar_V as_ART araras_N ,_PU o_ART ponto_N de_PREP partida_N é_V conseguir_V alimentos_N para_PREP elas_PROPESS ._END
+Sem_PREP alimentação_N ,_PU outros_PROADJ esforços_N podem_V ser_V inúteis_ADJ "_PU ,_PU afirmou_V Viana_NPROP Lima_NPROP ._END
+O_ART primeiro_ADJ container_N com_PREP germinadores_N para_PREP as_ART mudas_N já_ADV foi_V adquirido_PCP pelo_PREP+ART projeto_N ._END
+A_ART estimativa_N dos_PREP+ART pesquisadores_N é_V de_PREP que_KS ,_PU em_PREP dois_NUM anos_N ,_PU as_ART palmeiras_N comecem_V a_PREP ser_V transferidas_PCP dos_PREP+ART viveiros_N no_PREP+ART sul_N da_PREP+ART Bahia_NPROP e_KC transportadas_PCP em_PREP caminhões_N para_PREP o_ART sertão_N ._END
+Já_KC o_ART ciclo_N reprodutivo_ADJ dessas_PREP+PROADJ palmeiras_N deve_V se_PROPESS completar_V em_PREP oito_NUM ou_KC dez_NUM anos_N ._END
+A_ART tecnologia_N de_PREP transplante_N das_PREP+ART palmeiras_N adultas_ADJ vai_V ser_V adquirida_PCP na_PREP+ART Universidade_NPROP da_NPROP Florida_NPROP ,_PU em_PREP Fort_NPROP Lauderdale_NPROP (_PU EUA_NPROP )_PU ,_PU com_PREP o_ART professor_N Alan_NPROP W._NPROP Meerow_NPROP ,_PU também_PDEN integrante_ADJ do_PREP+ART projeto_N de_PREP preservação_N ._END
+Frutos_N amarrados_PCP
+Enquanto_KS as_ART palmeiras_N não_ADV crescerem_V ,_PU as_ART araras_N vão_V ser_V alimentadas_PCP com_PREP cachos_N de_PREP frutos_N de_PREP licuri_N ,_PU que_PRO-KS ficarão_V amarrados_PCP nos_PREP+ART troncos_N das_PREP+ART palmeiras_N na_PREP+ART região_N ._END
+Para_PREP se_PROPESS alimentar_V ,_PU hoje_ADV as_ART araras_N voam_V cerca_PREP de_PREP 60_NUM quilômetros_N ,_PU distância_N que_PRO-KS separa_V os_ART barrancos_N onde_ADV-KS fizeram_V seus_PROADJ ninhos_N e_KC os_ART locais_N seguros_ADJ com_PREP palmeiras_N de_PREP licuri_N ._END
+Pedro_NPROP Lima_NPROP ,_PU 36_NUM ,_PU ornitólogo_N "_PU emprestado_PCP "_PU da_PREP+ART Empresa_NPROP de_NPROP Proteção_NPROP Ambiental_NPROP do_NPROP Pólo_NPROP Petroquímico_NPROP de_NPROP Camaçari_NPROP ao_PREP+ART projeto_N de_PREP preservação_N ,_PU afirma_V que_KS somente_PDEN um_ART estudo_N mais_ADV detalhado_PCP dessas_PREP+PROADJ araras-azuis_N poderá_V salvar_V -las_PROPESS ._END
+Segundo_PREP ele_PROPESS ,_PU "_PU pouco_PROSUB se_PROPESS sabe_V dos_PREP+ART hábitos_N dessas_PREP+PROADJ aves_N "_PU ._END
+É_V verdade_N ._END
+Até_PDEN o_ART tempo_N de_PREP vida_N desses_PREP+PROADJ bichos_N gera_V polêmica_N entre_PREP especialistas_N ._END
+Werner_NPROP Bokermann_NPROP ,_PU chefe_N do_PREP+ART setor_N de_PREP aves_N ,_PU arrisca_V que_KS ela_PROPESS "_PU pode_V viver_V 20_NUM anos_N ou_KC mais_PROSUB "_PU ._END
+Munn_NPROP acredita_V que_KS em_PREP cativeiro_N uma_ART arara-azul_N de_PREP lear_N vive_V cerca_PREP de_PREP 65_NUM anos_N ._END
+Em_PREP ambiente_N selvagem_ADJ ,_PU "_PU uns_ART 35_NUM anos_N "_PU ._END
+Para_PREP Pedro_NPROP Lima_NPROP ,_PU uma_ART arara_N solta_PCP e_KC com_PREP alimentação_N abundante_ADJ vive_V por_PREP volta_PREP de_PREP 80_NUM anos_N ._END
+De_PREP acordo_PREP com_PREP o_ART ornitólogo_N Lima_NPROP ,_PU fora_ADV a_ART falta_N de_PREP alimentos_N ,_PU os_ART principais_ADJ inimigos_N dessas_PREP+PROADJ araras-azuis_N são_V os_ART contrabandistas_N ._END
+Na_PREP+ART Europa_NPROP ,_PU um_ART exemplar_N vale_V hoje_ADV entre_PREP US$_CUR 25_NUM mil_NUM e_KC US$_CUR 50_NUM mil_NUM ,_PU embora_KS nem_ADV US$_CUR fiquem_V nas_PREP+ART mãos_N do_PREP+ART caçador_N ._END
+Lima_NPROP conta_V também_PDEN que_KS há_V cerca_PREP de_PREP uns_ART 50_NUM anos_N as_ART araras_N faziam_V parte_N ,_PU por_PREP falta_N de_PREP opção_N ,_PU do_PREP+ART cardápio_N dos_PREP+ART sertanejos_N que_PRO-KS moravam_V na_PREP+ART região_N de_PREP Canudos_NPROP ,_PU Monte_NPROP Santo_NPROP e_KC Euclides_NPROP da_NPROP Cunha_NPROP ._END
+"_PU Antes_ADV ,_PU eles_PROPESS caçavam_V as_ART araras_N para_PREP comer_V ._END
+Hoje_ADV ,_PU alguns_PROADJ poucos_PROSUB caçam_V para_PREP vender_V ._END
+A_ART sorte_N é_V que_KS elas_PROPESS vivem_V em_PREP encostas_N e_KC barrancos_N de_PREP difícil_ADJ acesso_N para_PREP os_ART caçadores_N "_PU ._END
+Munn_NPROP pretende_V transferir_V aos_PREP+ART pesquisadores_N brasileiros_ADJ o_ART know-how_N de_PREP identificação_N de_PREP araras_N que_PRO-KS adquiriu_V no_PREP+ART Peru_NPROP e_KC na_PREP+ART Bacia_NPROP Amazônica_NPROP ._END
+Nestes_PREP+PROADJ locais_N ,_PU elas_PROPESS são_V identificadas_PCP por_PREP fotos_N ,_PU sem_PREP serem_V capturadas_PCP ou_KC marcadas_PCP ._END
+"_PU O_ART bico_N da_PREP+ART arara_N tem_V tantas_PROADJ informações_N quanto_PREP o_ART rosto_N ou_KC a_ART impressão_N digital_ADJ de_PREP um_ART ser_N humano_ADJ ._END
+As_ART ranhuras_N ,_PU manchas_N ,_PU furos_N e_KC formatos_N diferentes_ADJ do_PREP+ART bico_N servem_V para_PREP fazermos_V a_ART listagem_N das_PREP+ART araras_N "_PU ,_PU disse_V ._END
+Em_PREP comparação_N com_PREP outras_PROADJ espécies_N de_PREP animais_N ,_PU a_ART preservação_N da_PREP+ART arara-azul_N de_PREP lear_N acaba_V sendo_V uma_ART tarefa_N fácil_ADJ ,_PU segundo_PREP os_ART pesquisadores_N ._END
+"_PU Ela_PROPESS só_PDEN precisa_V de_PREP comida_N e_KC um_ADV pouco_ADV de_PREP proteção_N ._END
+Seu_PROADJ hábitat_N não_ADV tem_V que_KS ser_V reconstituído_PCP ._END
+Até_PDEN a_ART população_N deve_V ajudar_V ._END
+Eu_PROPESS pude_V perceber_V :_PU os_ART moradores_N são_V muito_ADV orgulhosos_ADJ de_PREP ter_V as_ART araras_N como_PREP vizinhas_N "_PU ,_PU afirmou_V Munn_NPROP ._END
+Ave_N é_V a_PROSUB mais_ADV acrobática_ADJ de_PREP todos_PROADJ os_ART tipos_N de_PREP araras_N
+Do_PREP+ART enviado_N especial_ADJ
+Das_PREP+ART 16_NUM espécies_N que_PRO-KS existem_V no_PREP+ART mundo_N ,_PU a_ART leari_N é_V a_ART arara_N que_PRO-KS tem_V o_ART vôo_N mais_ADV acrobático_ADJ ,_PU na_PREP+ART opinião_N do_PREP+ART biólogo_N Charles_NPROP Munn_NPROP ._END
+"_PU É_V impressionante_ADJ ._END
+Essa_PROADJ arara_N voando_V parece_V um_ART falcão_N ,_PU um_ART avião_N de_PREP caça_N ,_PU de_PREP tão_ADV rápida_ADJ ._END
+As_ART outras_PROSUB lembram_V cargueiros_N pesados_PCP ._END
+Segundo_PREP ele_PROPESS ,_PU isso_PROSUB acontece_V porque_KS a_ART arara-azul_N de_PREP lear_N vive_V em_PREP barrancos_N e_KC precipícios_N e_KC foi_V obrigada_PCP a_PREP aprender_V a_PREP trocar_V de_PREP rota_N muito_ADV rápido_ADJ ._END
+Elas_PROPESS são_V espetaculares_ADJ "_PU ._END
+O_ART ornitólogo_N Pedro_NPROP Lima_NPROP explica_V que_KS existem_V quatro_NUM espécies_N de_PREP araras-azuis_N no_PREP+ART Brasil_NPROP :_PU Cyanopsitta_N spixii_N ,_PU Anodorhynchus_N leari_N ,_PU Anodorhyncus_N hyacinthinus_N e_KC a_ART Anodhorhyncus_N glaucus_N ._END
+A_ART spixxi_N ,_PU que_PRO-KS cerca_PREP de_PREP 57_NUM cm_N ,_PU está_V praticamente_ADV extinta_PCP ._END
+Os_ART pesquisadores_N conhecem_V a_ART existência_N de_PREP um_ART único_ADJ indíviduo_N dessa_PREP+PROADJ espécie_N que_PRO-KS vive_V com_PREP outras_PROADJ araras_N em_PREP Curaçar_NPROP ,_PU na_PREP+ART divisa_N da_PREP+ART Bahia_NPROP com_PREP Pernambuco_NPROP ._END
+Sobre_PREP a_ART hyachintinus_N sabe_V -se_PROPESS um_ADV pouco_ADV mais_ADV ._END
+Ela_PROPESS mede_V 93_NUM cm_N e_KC pesa_V ,_PU em_PREP média_N ,_PU 1,5_NUM kg_N ._END
+Essa_PROADJ arara_N vive_V no_PREP+ART mato-grossense_ADJ e_KC também_PDEN na_PREP+ART divisa_N da_PREP+ART Bahia_NPROP com_PREP o_ART Piauí_NPROP ._END
+Sabe_V -se_PROPESS que_KS ela_PROPESS está_V à_PREP+ART beira_N da_PREP+ART extinção_N e_KC mede_V cerca_PREP de_PREP 68_NUM cm_N ._END
+Uma_ART curiosidade_N :_PU o_ART Zôo_NPROP do_NPROP Bronx_NPROP ,_PU em_PREP Nova_NPROP York_NPROP ,_PU onde_ADV-KS fica_V a_ART sede_N da_PREP+ART Wild_NPROP Life_NPROP Conservation_NPROP Society_NPROP ,_PU não_ADV mantém_V em_PREP exposição_N nenhuma_PROADJ arara_N ._END
+"_PU As_ART araras_N precisam_V ser_V protegidas_PCP no_PREP+ART campo_N ._END
+Existem_V araras_N que_PRO-KS podem_V ser_V vistas_PCP pelas_PREP+ART crianças_N em_PREP cativeiros_N de_PREP criadores_N em_PREP qualquer_PROADJ lugar_N da_PREP+ART cidade_N "_PU ,_PU disse_V Charles_NPROP Munn_NPROP ._END
+A_ART bioquímica_N da_PREP+ART agressão_N
+PáGINA_N :_PU 6-15_N
+Especial_ADV para_PREP a_ART Folha_NPROP
+O_ART vertiginoso_ADJ desenvolvimento_N das_PREP+ART neurociências_N nos_PREP+ART EUA_NPROP pôde_V ser_V avaliado_PCP pelos_PREP+ART 22_NUM mil_NUM cientistas_N que_PRO-KS compareceram_V à_PREP+ART última_ADJ reunião_N anual_ADJ da_PREP+ART "_PU Society_NPROP of_NPROP Neurosciences_NPROP "_PU em_PREP Washington_NPROP ,_PU no_PREP+ART final_N de_PREP 93_N ._END
+Tão_ADV grande_ADJ número_N de_PREP participantes_N já_ADV começa_V a_PREP perturbar_V a_ART organização_N das_PREP+ART reuniões_N e_KC já_ADV levou_V alguns_PROADJ membros_N a_PREP propor_V sua_PROADJ divisão_N (_PU regionalização_N ,_PU especialização_N etc._PDEN )_PU
+._END Um_PROSUB dos_PREP+ART assuntos_N tratados_PCP foi_V a_ART agressão_N e_KC sua_PROADJ bioquímica_N ._END
+A_ART serotonina_N figura_V como_PREP agente_N numa_PREP+PROSUB das_PREP+ART principais_ADJ hipóteses_N sobre_V a_ART causa_N da_PREP+ART depressão_N ;_PU sua_PROADJ deficiência_N seria_V fator_N depressivo_ADJ cujos_PRO-KS efeitos_N se_PROPESS procura_V combater_V com_PREP drogas_N que_PRO-KS inibem_V a_ART enzima_N que_PRO-KS a_PROPESS decompõe_V ._END
+A_ART serotonina_N é_V neurotransmissor_ADJ (_PU substância_N que_PRO-KS estabelece_V comunicação_N entre_PREP as_ART células_N nervosas_ADJ )_PU muito_ADV espalhado_PCP no_PREP+ART cérebro_N ,_PU onde_ADV-KS interage_V com_PREP 14_NUM receptores_N e_KC participa_V da_PREP+ART instalação_N de_PREP diversos_PROADJ estados_N mentais_ADJ ._END
+Sabe_V -se_PROPESS que_KS uma_ART baixa_N acentuada_PCP na_PREP+ART serotonina_N pode_V tornar_V uma_ART pessoa_N terrivelmente_ADV agressiva_ADJ ,_PU mas_KC as_ART pesquisas_N sobre_PREP a_ART causa_N disso_PREP+PROSUB não_ADV têm_V sido_PCP fáceis_ADJ porque_KS há_V vários_PROADJ tipos_N de_PREP receptores_N envolvidos_PCP nos_PREP+ART efeitos_N ._END
+Diante_PREP do_PREP+ART malogro_N dos_PREP+ART estudos_N bioquímicos_ADJ ,_PU Hen_NPROP apelou_V para_PREP um_ART modelo_N animal_ADJ de_PREP camundongos_N "_PU nocauteados_PCP "_PU ,_PU isto_PDEN é_PDEN ,_PU animais_N em_PREP que_PRO-KS destruiu_V um_ART gene_N ligado_PCP ao_PREP+ART receptor_N da_PREP+ART serotonina_N ._END
+A_PREP partir_PREP desses_PREP+PROADJ animais_N nocauteados_PCP ,_PU criou_V linhagens_N específicas_ADJ para_PREP cada_PROADJ tipo_N de_PREP serotonina_N ._END
+Os_ART camundongos_N nocauteados_PCP não_ADV manifestavam_V alteração_N apreciável_ADJ no_PREP+ART comportamento_N e_KC respondiam_V normalmente_ADV a_PREP testes_N de_PREP ansiedade_N e_KC atividade_N ._END
+Quando_KS ,_PU porém_KC ,_PU os_ART animais_N antes_ADV submetidos_PCP a_PREP um_ART teste_N de_PREP isolamento_N por_PREP quatro_NUM semanas_N e_KC depois_ADV expostos_PCP a_PREP um_ART outro_PROADJ camundongo_N ,_PU normal_ADJ ,_PU nocauteado_N revela_V violenta_ADJ agressão_N contra_PREP o_ART estranho_N ._END
+Hen_NPROP não_ADV pode_V ainda_ADV afirmar_V que_KS o_ART comportamento_N do_PREP+ART nocauteado_N reflita_V aumento_N da_PREP+ART "_PU agressão_N pura_ADJ "_PU ,_PU e_KC por_PREP isso_PROSUB delineou_V um_ART outro_PROADJ teste_N ,_PU em_PREP que_PRO-KS camundongos_N previamente_ADV estressados_PCP com_PREP exposição_N a_PREP forte_N ruído_PCP eram_V colocados_PCP em_PREP amplas_ADJ gaiolas_N abertas_PCP ._END
+Os_ART camundongos_N normais_ADJ ,_PU em_PREP gaiolas_N desse_PREP+PROADJ gênero_N ,_PU procuram_V ficar_V perto_PREP das_PREP+ART paredes_N ,_PU pois_KC naturalmente_ADV temem_V os_ART espaços_N grandes_ADJ e_KC abertos_PCP ._END
+A_ART descoberta_N de_PREP uma_ART deleção_N de_PREP gene_N relacionada_PCP a_PREP comportamentos_N dos_PREP+ART pacientes_N propiciará_V ,_PU segundo_KS afirma_V John_NPROP Mann_NPROP a_PREP Barinaga_NPROP ,_PU estudos_N mais_ADV apurados_PCP do_PREP+ART receptor_N correspondente_ADJ no_PREP+ART homem_N e_KC poderá_V servir_V de_PREP guia_N para_PREP o_ART tratamento_N ._END
+Diversos_PROADJ quadros_N patológicos_ADJ poderão_V estar_V associados_PCP a_PREP esses_PROADJ genes_N ._END
+As_ART coisas_N se_PROPESS complicam_V ,_PU porém_KC ,_PU porque_KS o_ART gene_N investigado_PCP por_PREP Hen_NPROP não_ADV é_V o_ART único_N associado_ADJ à_PREP+ART agressividade_N ._END
+Uma_ART luz_N contra_PREP radicais_N livres_ADJ
+Químicos_N da_PREP+ART USP_NPROP testam_V se_KS luminescência_N de_PREP vaga-lumes_N é_V uma_ART adaptação_N contra_PREP efeito_N tóxico_ADJ do_PREP+ART oxigênio_N
+Da_PREP+ART
+O_ART brilho_N dos_PREP+ART vaga-lumes_N pode_V ter_V sido_PCP uma_ART adaptação_N evolutiva_ADJ contra_PREP a_ART intoxicação_N por_PREP radicais_N livres_ADJ ,_PU tidos_PCP e_KC havidos_PCP como_PREP os_ART "_PU vilões_N "_PU responsáveis_ADJ pelo_PREP+ART envelhecimento_N ._END
+Essa_PROADJ hipótese_N está_V sendo_V testada_PCP pela_PREP+ART equipe_N do_PREP+ART bioquímico_N Etelvino_NPROP Bechara_NPROP ,_PU do_PREP+ART Instituto_NPROP de_NPROP Química_NPROP da_PREP+ART USP_NPROP ._END
+Pode_V parecer_V estranho_ADJ ,_PU mas_KC a_ART molécula_N necessária_ADJ para_PREP os_ART seres_N que_PRO-KS respiram_V obterem_V sua_PROADJ energia_N o_ART oxigênio_N -_PU deixa_V como_PREP resíduo_N do_PREP+ART processo_N os_ART radicais_N livres_ADJ estruturas_N que_PRO-KS têm_V facilidade_N de_PREP reagir_V e_KC "_PU corroer_V "_PU (_PU ou_KC oxidar_V )_PU membranas_N ,_PU proteínas_N e_KC até_PDEN o_ART material_N genético_ADJ ._END
+É_V o_ART "_PU preço_N "_PU que_PRO-KS o_ART organismo_N paga_V pela_PREP+ART energia_N que_PRO-KS obtém_V (_PU veja_V quadro_N ao_PREP+ART lado_N )_PU ._END
+Mas_KC os_ART radicais_N livres_ADJ também_PDEN podem_V ter_V efeitos_N benéficos_ADJ ._END
+A_ART destruição_N de_PREP invasores_N do_PREP+ART organismo_N ,_PU por_PDEN exemplo_PDEN ,_PU é_V realizada_PCP por_PREP células_N de_PREP defesa_N que_PRO-KS os_PROPESS englobam_V e_KC bombardeiam_V com_PREP os_ART tais_PROADJ radicais_N livres_ADJ ._END
+Eles_PROPESS oxidam_V e_KC destroem_V o_ART invasor_N ._END
+Segundo_PREP Bechara_NPROP ,_PU são_V uma_ART faca_N de_PREP dois_NUM gumes_N ._END
+Nos_PREP+ART vaga-lumes_N ,_PU a_ART luz_N é_V produzida_PCP em_PREP células_N especiais_ADJ chamadas_PCP fotocitos_N -_PU em_PREP uma_ART reação_N química_ADJ que_PRO-KS consome_V oxigênio_N ._END
+"_PU Tenho_V a_ART preocupação_N de_PREP testar_V a_ART hipótese_N de_PREP que_KS a_ART emissão_N de_PREP luz_N ,_PU a_ART bioluminescência_N ,_PU tenha_V surgido_PCP ao_PREP longo_PREP do_PREP+ART processo_N evolutivo_ADJ para_PREP minimizar_V os_ART efeitos_N tóxicos_ADJ do_PREP+ART oxigênio_N "_PU ,_PU diz_V Bechara_NPROP ._END
+"_PU Sabe_V -se_PROPESS hoje_ADV que_KS uma_ART série_N de_PREP enzimas_N e_KC vitaminas_N controlam_V a_ART ação_N tóxica_ADJ do_PREP+ART oxigênio_N ._END
+A_ART reação_N é_V controlada_PCP por_PREP uma_ART enzima_N a_ART luciferase_N ._END
+"_PU A_ART luciferase_N catalisa_V uma_ART reação_N que_PRO-KS usa_V oxigênio_N ,_PU ela_PROPESS esgota_V o_ART oxigênio_N que_PRO-KS existe_V dentro_PREP da_PREP+ART célula_N ._END
+Nesse_PREP+PROADJ caso_N ,_PU a_ART luciferase_N atuaria_V como_PREP enzima_N antioxidante_ADJ ._END
+Em_PREP um_ART experimento_N ,_PU vaga-lumes_N foram_V expostos_PCP a_PREP uma_ART atmosfera_N com_PREP 100_NUM %_N de_PREP oxigênio_N e_KC mediu_V -se_PROPESS a_ART luz_N emitida_PCP ._END
+Verificou_V -se_PROPESS que_KS eles_PROPESS produzem_V mais_PROADJ enzimas_N que_PRO-KS atuam_V como_PREP antioxidantes_N e_KC mais_ADV luciferase_N ._END
+"_PU Já_ADV demonstrei_V que_KS o_ART oxigênio_N induz_V a_ART síntese_N das_PREP+ART enzimas_N antioxidantes_ADJ e_KC da_PREP+ART luciferase_N ,_PU sugerindo_V fortemente_ADV que_KS a_ART luciferase_N esteja_V envolvida_PCP na_PREP+ART desintoxicação_N contra_PREP o_ART oxigênio_N "_PU ,_PU diz_V Bechara_NPROP ._END
+Outro_PROADJ experimento_N está_V testando_V se_KS ,_PU com_PREP pouco_PROADJ oxigênio_N ,_PU cai_V a_ART produção_N da_PREP+ART luciferase_N ._END
+Para_PREP gerar_V a_ART luz_N ,_PU a_ART reação_N do_PREP+ART oxigênio_N com_PREP a_ART luciferina_N também_PDEN consome_V energia_N "_PU química_ADJ "_PU a_ART forma_N da_PREP+ART substância_N ATP_N ._END
+"_PU Esse_PROADJ fato_N abriu_V um_ART vasto_ADJ campo_N de_PREP aplicação_N tecnológica_ADJ para_PREP essas_PROADJ substâncias_N "_PU ,_PU afirma_V o_ART químico_N ._END
+A_ART luciferina_N e_KC a_ART luciferase_N são_V retiradas_PCP dos_PREP+ART vaga-lumes_N e_KC acrescentadas_PCP a_PREP amostras_N onde_ADV-KS se_PROPESS quer_V verificar_V o_ART nível_N de_PREP atividade_N de_PREP seres_N vivos_ADJ representado_PCP pelo_PREP+ART teor_N de_PREP ATP_N ._END
+Para_PREP isso_PROSUB ,_PU basta_V medir_V a_ART luz_N emitida_PCP com_PREP fotômetros_N ou_KC através_PREP de_PREP filmes_N fotográficos_ADJ ._END
+"_PU Isso_PROSUB pode_V ser_V usado_PCP na_PREP+ART medida_N da_PREP+ART contaminação_N por_PREP bactérias_N em_PREP água_N tratada_PCP ,_PU alimentos_N ,_PU medicamentos_N ,_PU e_KC para_PREP controle_N da_PREP+ART higiene_N industrial_ADJ ou_KC hospitalar_ADJ em_ADV geral_ADV "_PU ,_PU afirma_V Bechara_NPROP ._END
+Dos_PREP+ART 74_NUM trabalhos_N sobre_PREP luciferina_N e_KC luciferase_N registrados_PCP no_PREP+ART banco_N de_PREP dados_N do_PREP+ART "_PU Chemical_NPROP Abstract_NPROP "_PU durante_PREP cinco_NUM anos_N ,_PU até_PREP junho_N de_PREP 1993_N ,_PU 25_N se_PROPESS referiam_V a_PREP aplicações_N desse_PREP+PROADJ tipo_N ._END
+Vinte_NUM outras_PROADJ publicações_N estavam_V relacionadas_PCP ao_PREP+ART estudo_N da_PREP+ART molécula_N da_PREP+ART luciferase_N ._END
+Isso_PROSUB porque_KS também_PDEN é_V possível_ADJ usar_V -la_PROPESS na_PREP+ART engenharia_N genética_ADJ ._END
+Para_PREP obter_V uma_ART bactéria_N capaz_ADJ de_PREP produzir_V insulina_N humana_ADJ ,_PU por_PDEN exemplo_PDEN ,_PU insere_V -se_PROPESS o_ART gene_N da_PREP+ART insulina_N na_PREP+ART bactéria_N ._END
+Um_ART problema_N da_PREP+ART bioengenharia_N é_V saber_V quanta_PRO-KS insulina_N é_V produzida_PCP ._END
+"_PU O_ART gene_N da_PREP+ART luciferase_N do_PREP+ART vaga-lume_N tem_V sido_PCP usado_PCP como_PREP "_PU repórter_N "_PU da_PREP+ART síntese_N de_PREP proteínas_N "_PU ,_PU explica_V Bechara_NPROP ._END
+"_PU Você_PROPESS adiciona_V luciferina_N e_KC vê_V a_ART luz_N ._END
+Você_PROPESS sabe_V que_KS está_V havendo_V a_ART produção_N de_PREP insulina_N pela_PREP+ART emissão_N de_PREP luz_N "_PU ,_PU conclui_V Bechara_NPROP ._END
+"_PU Trenzinho_N "_PU emite_V duas_NUM cores_N
+Elas_PROPESS têm_V 11_NUM pares_N de_PREP lanternas_N verde-amareladas_ADJ ao_PREP longo_PREP do_PREP+ART corpo_N e_KC uma_PROSUB avermelhada_PCP na_PREP+ART cabeça_N ._END
+Segundo_PREP o_ART bioquímico_N Etelvino_NPROP Bechara_NPROP ,_PU que_PRO-KS estuda_V no_PREP+ART Parque_NPROP Nacional_NPROP das_NPROP Emas_NPROP (_PU GO_NPROP )_PU esses_PROADJ "_PU trenzinhos_N "_PU (_PU ou_KC fengodídeos_N ,_PU um_PROSUB dos_PREP+ART três_NUM tipos_N de_PREP vaga-lumes_N )_PU ,_PU a_ART lanterna_N vermelha_ADJ é_V usada_PCP na_PREP+ART captura_N de_PREP presas_N que_PRO-KS não_ADV enxergam_V o_ART vermelho_N cupins_N ,_PU piolhos-de-cobra_N ou_KC tatus-bolas_N ._END
+Já_KC as_ART lanternas_N que_PRO-KS ela_PROPESS exibe_V ao_PREP longo_PREP do_PREP+ART corpo_N são_V usadas_PCP para_PREP atrair_V o_ART macho_N alado_ADJ que_PRO-KS tem_V um_ART sistema_N luminoso_ADJ diferente_ADJ ._END
+Já_ADV foram_V catalogadas_PCP três_NUM novas_ADJ espécies_N de_PREP trenzinhos_N ,_PU que_PRO-KS os_ART indígenas_N costumam_V chamar_V de_PREP buijejas_N ._END
+O_ART viajante_N português_ADJ Gabriel_NPROP de_NPROP Souza_NPROP descrevia_V uma_ART "_PU estranha_ADJ criatura_N "_PU com_PREP uma_ART luz_N de_PREP rubi_N ,_PU achada_PCP na_PREP+ART Bahia_NPROP ._END
+(_PU HGz_NPROP )_PU
+Guerra_N entre_PREP bactérias_N preserva_V os_ART intestinos_N
+PáGINA_N :_PU 6-14_N
+UFMG_NPROP combate_V diarréia_N infantil_ADJ estimulando_V a_ART concorrência_N "_PU ecológica_ADJ "_PU entre_PREP os_ART germes_N
+Guerra_N e_KC elegância_N não_ADV costumam_V andar_V aos_PREP+ART pares_N ,_PU mas_KC cientistas_N do_PREP+ART Laboratório_NPROP de_NPROP Gnotobiologia_NPROP da_PREP+ART Universidade_NPROP Federal_NPROP de_NPROP Minas_NPROP Gerais_NPROP (_PU UFMG_NPROP )_PU conseguiram_V reunir_V -las_PROPESS para_PREP enfrentar_V a_ART principal_ADJ causa_N de_PREP mortalidade_N entre_PREP recém-nascidos_N no_PREP+ART Brasil_NPROP ,_PU a_ART diarréia_N ._END
+No_PREP+ART mundo_N da_PREP+ART pesquisa_N ,_PU costuma_V -se_PROPESS qualificar_V como_PREP "_PU elegantes_ADJ "_PU as_ART soluções_N simples_ADJ e_KC iluminadoras_ADJ ._END
+É_V difícil_ADJ encontrar_V adjetivo_N melhor_ADJ para_PREP descrever_V a_ART idéia_N de_PREP derrotar_V os_ART germes_N que_PRO-KS causam_V a_ART diarréia_N obrigando_V -os_PROPESS a_PREP combater_V seus_PROADJ próprios_PROADJ semelhantes_N ._END
+e_KC mocinhos_N desta_PREP+PROADJ história_N com_PREP final_N feliz_ADJ os_ART pesquisadores_N conseguiram_V impedir_V a_ART diarréia_N em_PREP 25_NUM %_N das_PREP+ART crianças_N -_PU pertencem_V à_PREP+ART mesma_PROADJ espécie_N ,_PU a_PROSUB da_PREP+ART bactéria_N Escherichia_N coli_N (_PU ou_KC E._N coli_N )_PU ._END
+Todo_PROADJ ser_N humano_ADJ carrega_V uma_ART população_N de_PREP E._N coli_N entre_PREP os_ART 100_NUM trilhões_N de_PREP bactérias_N de_PREP seu_PROADJ tubo_N digestivo_ADJ ._END
+Normalmente_ADV ,_PU elas_PROPESS não_ADV representam_V perigo_N ._END
+Algumas_PROADJ linhagens_N ,_PU porém_KC ,_PU podem_V provocar_V diarréias_N ,_PU pois_KC produzem_V substâncias_N irritantes_ADJ chamadas_PCP de_PREP toxinas_N ._END
+Em_PREP bebês_N ,_PU especialmente_ADV os_PROSUB de_PREP países_N mais_ADV pobres_ADJ ,_PU podem_V trazer_V complicações_N e_KC até_PDEN a_ART morte_N :_PU 25_NUM %_N a_PREP 30_NUM %_N dos_PREP+ART óbitos_N por_PREP diarréia_N são_V de_PREP responsabilidade_N de_PREP E._N coli_N ._END
+As_ART crianças_N vêm_V ao_PREP+ART mundo_N desprovidas_PCP de_PREP flora_N intestinal_ADJ ._END
+Começa_V então_ADV uma_ART espécie_N de_PREP loteria_N nas_PREP+ART suas_PROADJ barrigas_N ,_PU cujo_PRO-KS comportamento_N vai_V depender_V em_PREP grande_ADJ parte_N das_PREP+ART espécies_N e_KC linhagens_N de_PREP bactérias_N que_PRO-KS iniciarem_V a_ART colonização_N ._END
+O_ART microbiologista_N francês_ADJ radicado_PCP no_PREP+ART Brasil_NPROP Jaques_NPROP Nicoli_NPROP ,_PU 44_NUM ,_PU explica_V que_KS algumas_PROADJ linhagens_N inofensivas_ADJ são_V também_PDEN "_PU antagonistas_ADJ "_PU das_PREP+ART mais_ADV ameaçadoras_ADJ ._END
+O_PRO-KS que_PRO-KS ele_PROPESS e_KC seu_PROADJ grupo_N fizeram_V foi_V selecionar_V 102_NUM bebês_N nascidos_PCP em_PREP Belo_NPROP Horizonte_NPROP e_KC dar_V para_PREP metade_N deles_PREP+PROPESS (_PU o_ART grupo_N experimental_ADJ )_PU ,_PU duas_NUM horas_N após_PREP o_ART parto_N ,_PU uma_ART dose_N de_PREP aproximadamente_ADV 1_NUM milhão_N de_PREP E._N coli_N de_PREP uma_ART linhagem_N comprovadamente_ADV inócua_ADJ (_PU faltava_V -lhes_PROPESS uma_ART peça_N fundamental_ADJ na_PREP+ART maquinaria_N genética_ADJ das_PREP+ART agressoras_N ,_PU os_ART plasmídios_N )_PU ._END
+Todas_PROADJ as_ART 102_N tinham_V nascido_PCP de_PREP parto_N normal_ADJ ._END
+O_ART acompanhamento_N clínico_ADJ ,_PU realizado_PCP durante_PREP um_NUM ano_N ,_PU revelou_V que_KS apenas_PDEN 48_NUM %_N das_PREP+ART crianças_N do_PREP+ART grupo_N experimental_ADJ tinham_V apresentado_PCP diarréia_N ,_PU contra_PREP 73_NUM %_N do_PREP+ART grupo_N de_PREP controle_N ._END
+Segundo_PREP Nicoli_NPROP ,_PU houve_V uma_ART falha_N no_PREP+ART estudo_N que_PRO-KS tornou_V impossível_ADJ estabelecer_V quais_PROADJ espécies_N de_PREP bactérias_N provocaram_V as_ART diarréias_N ._END
+Como_KS a_ART porcentagem_N de_PREP crianças_N protegidas_PCP corresponde_V aproximadamente_ADV à_PREP+ART participação_N da_PREP+ART E._N coli_N nas_PREP+ART diarréias_N em_ADV geral_ADV ,_PU Nicoli_NPROP diz_V que_KS obteve_V uma_ART "_PU indicação_N "_PU ,_PU não_ADV uma_ART "_PU prova_N "_PU ,_PU de_PREP que_KS as_ART bactérias_N inoculadas_PCP mantiveram_V afastadas_PCP as_PREP E._N coli_N patogênicas_ADJ ._END
+"_PU Não_ADV estamos_V inventando_V nada_PROSUB ,_PU só_PDEN tentando_V favorecer_V o_PRO-KS que_PRO-KS acontece_V naturalmente_ADV "_PU ,_PU diz_V Nicoli_NPROP ._END
+Ele_PROPESS admite_V que_KS não_ADV se_PROPESS sabe_V ainda_ADV como_ADV-KS se_PROPESS dá_V esse_PROADJ processo_N de_PREP competição_N entre_PREP as_ART linhagens_N ,_PU muito_ADV menos_ADV por_PREP que_PRO-KS as_ART E._N coli_N inofensivas_ADJ vencem_V a_ART disputa_N pela_PREP+ART ocupação_N do_PREP+ART ecossistema_N intestinal_ADJ ._END
+Uma_ART hipótese_N ,_PU levantada_PCP pelo_PREP+ART pesquisador_N francês_ADJ Pierre_NPROP Raibaud_NPROP (_PU um_PROSUB dos_PREP+ART nove_NUM co-autores_N do_PREP+ART trabalho_N de_PREP Nicoli_NPROP ,_PU aceito_V para_PREP publicação_N pela_PREP+ART revista_N alemã_ADJ "_PU Microecology_NPROP and_NPROP Therapy_NPROP "_PU )_PU ,_PU é_V a_PROSUB de_PREP que_KS as_ART E._N coli_N usadas_PCP têm_V um_ART componente_N a_PREP menos_PREP a_PREP duplicar_V os_ART plasmídios_N -_PU na_PREP+ART hora_N de_PREP reproduzir_V -se_PROPESS ._END
+Isto_PROSUB permite_V economia_N de_PREP energia_N ,_PU em_PREP tese_N ,_PU e_KC portanto_KC uma_ART reprodução_N mais_ADV eficiente_ADJ e_KC rápida_ADJ ._END
+Ou_PDEN seja_PDEN ,_PU têm_V uma_ART espécie_N de_PREP vantagem_N "_PU ecológica_ADJ "_PU ._END
+Sabe_V -se_PROPESS até_PREP que_KS ela_PROPESS ocorre_V também_PDEN entre_PREP espécies_N diferentes_ADJ ._END
+Portanto_KC ,_PU quanto_KS maior_ADJ for_V a_ART biodiversidade_N intestinal_ADJ ,_PU menor_ADJ é_V a_ART chance_N de_PREP que_KS a_ART pessoa_N ou_KC criança_N -_PU venha_V a_PREP padecer_V com_PREP diarréias_N de_PREP origem_N bacteriana_ADJ ._END
+Nicoli_NPROP e_KC seus_PROADJ colaboradores_N na_PREP+ART UFMG_NPROP querem_V agora_ADV identificar_V os_ART antagonistas_N de_PREP outras_PROADJ bactérias_N ,_PU inclusive_PDEN do_PREP+ART vibrião_N do_PREP+ART cólera_N ._END
+Se_KS continuar_V dando_V certo_ADJ ,_PU a_ART microecologia_N pode_V se_PROPESS tornar_V um_ART manancial_N de_PREP terapias_N alternativas_ADJ à_PREP+ART faca_N de_PREP dois_NUM gumes_N dos_PREP+ART antibióticos_N que_PRO-KS debelam_V as_ART infecções_N agudas_ADJ ,_PU mas_KC favorecem_V o_ART surgimento_N de_PREP linhagens_N resistentes_ADJ ._END
+Saiba_V o_PRO-KS que_PRO-KS é_V gnotobiologia_N
+Gnotobiologia_N :_PU esta_PROADJ palavra_N estranha_ADJ foi_V criada_PCP a_PREP partir_PREP de_PREP um_ART termo_N grego_ADJ (_PU que_PRO-KS quer_V dizer_V "_PU conhecido_N "_PU )_PU para_PREP batizar_V o_ART ramo_N da_PREP+ART biologia_N que_PRO-KS trabalha_V com_PREP cobaias_N sem_PREP germes_N ,_PU ou_PDEN seja_PDEN ,_PU cujo_PRO-KS estado_N microbiológico_ADJ é_V conhecido_PCP ._END
+Em_PREP outras_PROADJ palavras_N ,_PU se_PROPESS infectar_V seu_PROADJ ratinho_N com_PREP uma_ART determinada_PCP linhagem_N de_PREP bactéria_N ,_PU o_ART pesquisador_N pode_V ter_V certeza_N de_PREP que_KS nenhuma_PROADJ outra_PROSUB estará_V interferindo_V em_PREP seu_PROADJ experimento_N ._END
+Foi_V esse_PROSUB o_ART tipo_N de_PREP animal_N usado_PCP na_PREP+ART pesquisa_N com_PREP as_ART diarréias_N provocadas_PCP por_PREP bactérias_N ,_PU antes_PREP do_PREP+ART estudo_N clínico_ADJ com_PREP os_ART 102_NUM bebês_N ._END
+A_ART importação_N recente_ADJ de_PREP 30_NUM animais_N da_PREP+ART Alemanha_NPROP ,_PU por_PDEN exemplo_PDEN ,_PU custou_V US$_CUR 2.000_NUM ._END
+O_ART criador_N do_PREP+ART Laboratório_NPROP de_NPROP Gnotobiologia_NPROP foi_V o_ART médico_N nutricionista_N Ênio_NPROP Cardillo_NPROP Vieira_NPROP ,_PU que_PRO-KS lidava_V inicialmente_ADV com_PREP caramujos_N desprovidos_PCP de_PREP germes_N ._END
+Segundo_PREP Nicoli_NPROP ,_PU foi_V a_ART existência_N desse_PREP+PROADJ núcleo_N que_PRO-KS permitiu_V a_ART realização_N em_PREP Belo_NPROP Horizonte_NPROP ,_PU pela_PREP+ART primeira_ADJ vez_N no_PREP+ART hemisfério_N Sul_ADJ ,_PU do_PREP+ART 11º_ADJ Simpósio_NPROP Internacional_NPROP de_NPROP Gnotobiologia_NPROP ,_PU em_PREP junho_N do_PREP+ART ano_N passado_PCP ._END
+(_PU ML_NPROP )_PU
+nova_ADJ maneira_N de_PREP desbloquear_V artérias_N é_V descrita_PCP na_PREP+ART revista_N "_PU The_NPROP Lancet_NPROP "_PU ,_PU em_PREP esforço_N conjunto_N de_PREP cientistas_N dos_PREP+ART EUA_NPROP e_KC da_PREP+ART Alemanha_NPROP ._END
+Elas_PROPESS usaram_V ultra-sonografia_N para_PREP abrir_V caminho_N através_PREP de_PREP um_ART coágulo_N em_PREP uma_PROSUB das_PREP+ART artérias_N coronárias_ADJ de_PREP uma_ART mulher_N de_PREP 48_NUM anos_N ,_PU pouco_ADV depois_PREP de_PREP um_ART ataque_N do_PREP+ART coração_N ._END
+A_ART mulher_N obteve_V alta_N em_PREP dez_NUM dias_N ._END
+Segundo_PREP os_ART especialistas_N ,_PU a_ART técnica_N pode_V ser_V uma_ART alternativa_N aos_PREP+ART métodos_N usuais_ADJ ._END
+Fósseis_N de_PREP um_ART dinossauro_N que_PRO-KS ainda_ADV não_ADV havia_V completado_PCP o_ART seu_PROADJ desenvolvimento_N foram_V descobertos_PCP em_PREP uma_ART zona_N desértica_ADJ na_PREP+ART Argentina_NPROP por_PREP um_ART grupo_N de_PREP arqueólogos_N da_PREP+ART Universidade_NPROP de_NPROP Cuyo_NPROP ._END
+Artigo_N de_PREP cientistas_N austríacos_ADJ na_PREP+ART revista_N "_PU Nature_NPROP "_PU analisa_V dados_N de_PREP uma_NUM década_N sobre_PREP as_ART avalanches_N ,_PU que_PRO-KS matam_V cerca_PREP de_PREP 150_NUM esquiadores_N por_PREP ano_N ._END
+Segundo_PREP os_ART especialistas_N da_PREP+ART Universidade_NPROP de_NPROP Innsbruck_NPROP ,_PU mais_PROADJ vidas_N poderiam_V ser_V salvas_PCP através_PREP de_PREP uma_ART ação_N imediata_ADJ ._END
+Um_ART esquiador_N enterrado_PCP no_PREP+ART gelo_N tem_V 92_NUM %_N de_PREP chances_N de_PREP sobreviver_V ,_PU se_KS resgatado_PCP em_PREP 15_NUM minutos_N ._END
+As_ART chances_N caem_V para_PREP 30_NUM %_N se_KS o_ART resgate_N ocorrer_V em_PREP 35_NUM minutos_N ._END
+Qual_PROADJ a_ART diferença_N entre_PREP os_ART sistemas_N NTSC_NPROP e_KC PAL_NPROP ?_PU
+Cleber_NPROP O._NPROP F._NPROP Branquinho_NPROP ,_PU 22_NUM ,_PU comerciante_N ,_PU Fronteira_NPROP MG_NPROP )_PU
+Nelson_NPROP Zuanella_NPROP ,_PU da_PREP+ART Escola_NPROP Politécnica_NPROP da_PREP+ART USP_NPROP ,_PU responde_V :_PU
+"_PU Por_PREP questões_N de_PREP compatibilidade_N ,_PU a_ART TV_N em_PREP cores_N foi_V concebida_PCP como_PREP uma_ART TV_N em_PREP branco_N e_KC preto_N à_PREP+PRO-KS qual_PRO-KS se_PROPESS adicionam_V cores_N posteriormente_ADV como_PREP uma_ART foto_N colorida_PCP com_PREP um_ART pincel_N ._END
+A_ART diferença_N entre_PREP os_ART sistemas_N NTSC_NPROP e_KC PAL_NPROP (_PU supondo_V ambos_PROSUB no_PREP+ART mesmo_PROADJ padrão_N de_PREP B&P_NPROP ,_PU por_PDEN exemplo_PDEN ,_PU padrão_N M_N )_PU está_V apenas_PDEN no_PREP+ART modo_N como_ADV-KS se_PROPESS adiciona_V cor_N à_PREP+ART imagem_N ,_PU idêntica_ADJ nos_PREP+ART dois_NUM casos_N ._END
+Antes_PREP disso_PREP+PROSUB ,_PU os_ART dois_NUM "_PU sinais_N de_PREP cor_N "_PU são_V combinados_PCP entre_PREP si_PROPESS ._END
+"_PU No_PREP+ART NTSC_NPROP ,_PU a_ART combinação_N se_PROPESS faz_V da_PREP+ART mesma_PROADJ maneira_N em_PREP todas_PROADJ as_ART "_PU linhas_N "_PU da_PREP+ART imagem_N aquelas_PROSUB vistas_PCP quando_KS se_PROPESS está_V muito_ADV próximo_PREP da_PREP+ART tela_N ._END
+No_PREP+ART PAL_NPROP ,_PU numa_PREP+ART linha_N a_ART combinação_N se_PROPESS faz_V exatamente_ADV como_PREP no_PREP+ART NTSC_NPROP ,_PU mas_KC ,_PU na_PREP+ART linha_N seguinte_ADJ ,_PU um_PROSUB dos_PREP+ART sinais_N de_PREP cor_N é_V invertido_PCP antes_PREP da_PREP+ART combinação_N ._END
+"_PU Esse_PROADJ artifício_N faz_V com_PREP que_KS uma_ART eventual_ADJ distorção_N no_PREP+ART sinal_N completo_ADJ (_PU comum_ADJ na_PREP+ART transmissão_N )_PU resulte_V em_PREP efeitos_N opostos_PCP em_PREP duas_NUM linhas_N consecutivas_ADJ ._END
+No_PREP+ART receptor_N PAL_NPROP ,_PU uma_ADV vez_ADV recuperado_PCP o_ART sinal_N de_PREP cor_N ,_PU o_ART correspondente_N a_PREP uma_ART linha_N é_V "_PU somado_PCP "_PU ao_PREP+ART correspondente_N à_PREP+ART linha_N anterior_ADJ ,_PU que_PRO-KS está_V "_PU memorizado_PCP "_PU ._END
+Como_KS as_ART eventuais_ADJ distorções_N eram_V opostas_PCP ,_PU na_PREP+ART soma_N elas_PROPESS se_PROPESS cancelam_V ,_PU e_KC seu_PROADJ efeito_N desaparece_V ._END
+Isso_PROSUB não_ADV acontece_V no_PREP+ART NTSC_NPROP ,_PU que_PRO-KS não_ADV usa_V o_ART artifício_N da_PREP+ART inversão_N ._END
+Correspondência_N para_PREP a_ART seção_N "_PU Sem_NPROP Mistério_NPROP "_PU deve_V ser_V encaminhada_PCP à_PREP+ART Editora_NPROP de_NPROP Ciência_NPROP (_PU al._NPROP Barão_NPROP de_NPROP Limeira_NPROP
+Não_ADV serão_V respondidas_PCP cartas_N com_PREP pedidos_N de_PREP aconselhamento_N médico_ADJ ou_KC psíquico_ADJ ._END
+A_ART árvore_N altiva_ADJ é_V a_PROSUB que_PRO-KS não_ADV tem_V frutos_N
+PáGINA_N :_PU 6-13_N
+Colunista_N da_PREP+ART Folha_NPROP
+Um_ART mestre_N budista_ADJ viajava_V a_PREP pé_N com_PREP seus_PROADJ discípulos_N ,_PU quando_KS reparou_V que_KS discutiam_V entre_PREP si_PROPESS quem_PRO-KS era_V o_ART maior_ADJ entre_PREP eles_PROPESS ._END
+-_PU Pratico_V meditação_N há_V quinze_NUM anos_N ,_PU dizia_V um_PROSUB ._END
+Faço_V caridade_N desde_KS que_KS saí_V da_PREP+ART casa_N de_PREP meus_PROADJ pais_N ,_PU dizia_V outro_PROSUB ._END
+Sempre_ADV segui_V os_ART ensinamentos_N de_PREP Buda_NPROP ,_PU dizia_V um_ART terceiro_N ._END
+Ao_PREP+ART meio-dia_N ,_PU pararam_V debaixo_PREP de_PREP uma_ART macieira_N para_PREP descansar_V ._END
+Então_ADV ,_PU o_ART mestre_N falou_V :_PU
+Quando_KS uma_ART árvore_N está_V carregada_PCP de_PREP frutos_N ,_PU seus_PROADJ ramos_N se_PROPESS abaixam_V e_KC tocam_V o_ART chão_N ._END
+Desta_PREP+PROADJ maneira_N ,_PU o_ART verdadeiro_ADJ sábio_N é_V aquele_PROSUB que_PRO-KS é_V humilde_ADJ ._END
+Dessa_PREP+PROADJ maneira_N ,_PU o_ART tolo_N sempre_ADV crê_V ser_V maior_ADJ que_KS seu_PROADJ próximo_N ._END
+A_ART utilidade_N do_PREP+ART corpo_N inocente_ADJ
+A_ART busca_N de_PREP um_ART corretivo_N para_PREP os_ART desvios_N que_PRO-KS comprometem_V a_ART conduta_N humana_ADJ esconde_V o_ART interesse_N pela_PREP+ART padronização_N
+Há_V vinte_NUM anos_N ,_PU mais_ADV ou_ADV menos_ADV ,_PU Habermas_NPROP perguntava_V se_KS as_ART sociedades_N complexas_ADJ seriam_V capazes_ADJ de_PREP formar_V uma_ART identidade_N racional_ADJ de_PREP si_PROPESS mesmas_PROADJ ._END
+O_ART problema_N ,_PU então_ADV ,_PU era_V saber_V :_PU primeiro_ADV ,_PU como_ADV-KS os_ART grupos_N sociais_ADJ ,_PU separados_PCP por_PREP diferenças_N de_PREP interesses_N ,_PU poderiam_V aceitar_V um_ART ponto_N de_PREP vista_N ético_ADJ posto_PCP acima_PREP das_PREP+ART diferenças_N ;_PU segundo_ADV ,_PU como_ADV-KS os_ART indivíduos_N ,_PU descritos_PCP como_PREP joguetes_N de_PREP forças_N ocultas_PCP a_ART luta_N de_PREP classes_N ,_PU a_ART evolução_N das_PREP+ART espécies_N ,_PU as_ART leis_N da_PREP+ART economia_N ,_PU as_ART leis_N da_PREP+ART história_N ,_PU as_ART moções_N inconscientes_ADJ etc_PDEN ._END -_PU poderiam_V guardar_V a_ART noção_N de_PREP responsabilidade_N por_PREP suas_PROADJ escolhas_N humanas_ADJ ._END
+O_ART tempo_N passou_V :_PU a_ART questão_N continua_V ._END
+A_ART política_N persiste_V em_PREP baixa_N ,_PU os_ART indivíduos_N se_PROPESS atomizam_V ,_PU os_ART grupos_N radicalizam_V seus_PROADJ particularismos_N e_KC do_PREP+ART vazio_N moral_ADJ vem_V emergindo_V a_ART engenharia_N humana_ADJ e_KC a_ART tecnologia_N dos_PREP+ART corpos_N ._END
+Nos_PREP+ART últimos_ADJ meses_N ,_PU a_ART imprensa_N publicou_V sucessivas_ADJ matérias_N sobre_PREP a_ART determinação_N genética_ADJ e_KC o_ART controle_N psicofarmacológico_ADJ das_PREP+ART condutas_N humanas_ADJ ._END
+Os_ART chamados_N "_PU deprimidos_PCP "_PU e_KC os_ART supostos_PCP "_PU homossexuais_N "_PU são_V as_ART estrelas_N do_PREP+ART espetáculo_N ._END
+Os_ART deprimidos_N ,_PU diz_V -se_PROPESS ,_PU são_V pessoas_N com_PREP distúrbios_N no_PREP+ART funcionamento_N do_PREP+ART neutransmissor_N conhecido_PCP por_PREP serotonina_N ;_PU os_ART "_PU homossexuais_N "_PU são_V portadores_ADJ de_PREP especificidades_N genéticas_ADJ no_PREP+ART cromossoma_N X._N
+Para_PREP os_PROSUB primeiros_ADJ ,_PU já_ADV sabemos_V ,_PU PROZAC_NPROP !_PU
+;_PU para_PREP os_PROSUB segundos_ADJ ,_PU bem_ADV ,_PU aí_ADV varia_V conforme_PREP o_ART gosto_N de_PREP cada_PROADJ um_PROSUB ._END
+Os_ART militantes_N "_PU gays_ADJ "_PU acham_V que_KS isso_PROSUB é_V motivo_N para_PREP reivindicarem_V respeito_N moral_ADJ por_PREP suas_PROADJ preferências_N sexuais_ADJ ;_PU já_ADV alguns_PROADJ "_PU heterossexuais_N "_PU vêem_V nisso_PREP+PROSUB uma_ART boa_ADJ razão_N para_PREP abortarem_V fetos_N com_PREP tal_PROADJ "_PU malformação_N genética_ADJ "_PU ._END
+A_ART tolice_N beira_V a_ART insensatez_N ._END
+Nada_PROSUB ,_PU na_PREP+ART imagem_N de_PREP sujeito_N que_PRO-KS temos_V de_PREP nós_PROPESS mesmos_PROADJ ,_PU é_V fixo_ADJ e_KC imutável_ADJ ._END
+Assim_ADV como_ADV aprendemos_V a_PREP ver_V -nos_PROPESS como_PREP seres_N que_PRO-KS falam_V e_KC agem_V segundo_PREP intenções_N moralmente_ADV dirigidas_PCP podemos_V aprender_V a_PREP nos_PROPESS como_PREP feixes_N nervosos_ADJ que_PRO-KS reagem_V à_PREP+ART estímulos_N mecânicos_ADJ ou_KC neuroquímicos_ADJ ._END
+A_ART psicofarmacologia_N pode_V muito_ADV bem_ADV descobrir_V as_ART drogas_N que_PRO-KS diminuam_V a_ART "_PU depressão_N "_PU dos_PREP+ART indivíduos_N ;_PU a_ART genética_N pode_V determinar_V qual_PRO-KS a_ART origem_N cromossômica_ADJ de_PREP cada_PROADJ suspiro_N ,_PU grito_N ou_KC gemido_N que_PRO-KS venhamos_V a_PREP dar_V ._END
+O_PRO-KS que_PRO-KS nenhuma_PROSUB das_PREP+ART duas_N pode_V fazer_V é_V criar_V um_ART sujeito_N moralmente_ADV responsável_ADJ pelo_PREP+PROSUB que_PRO-KS faz_V ,_PU diz_V ou_KC sofre_V ,_PU se_KS insistir_V em_PREP desconhecer_V ou_KC não_ADV discutir_V as_ART razões_N de_PREP nossos_PROADJ feitos_N ,_PU discursos_N ou_KC sofrimentos_N ._END
+Muitos_PROADJ cientistas_N sabem_V disso_PREP+PROSUB ;_PU a_ART maioria_N dos_PREP+ART ideólogos_N faz_V de_PREP conta_N que_KS não_ADV ._END
+Vou_V direto_N aos_PREP+ART nove_NUM fora_N !_PU
+Em_PREP que_PROSUB importa_V saber_V qual_PRO-KS a_ART pretensa_ADJ singularidade_N genética_ADJ de_PREP homens_N e_KC mulheres_N que_PRO-KS sentem_V atração_N sexual_ADJ e_KC amorosa_ADJ por_PREP outros_PROSUB do_PREP+ART mesmo_PROADJ sexo_N biológico_ADJ ?_PU
+Alguma_PROADJ vez_N na_PREP+ART história_N os_ART oprimidos_N conseguiram_V a_ART benevolência_N dos_PREP+ART opressores_N reclamando_V igualdade_N de_PREP tratamento_N humano_ADJ ,_PU em_PREP nome_N da_PREP+ART "_PU naturalidade_N "_PU de_PREP suas_PROADJ características_N físico-morais_ADJ !_PU
+Do_PREP+ART mesmo_PROADJ modo_N ,_PU faz_V diferença_N e_KC muita_ADV -_PU dizer_V que_KS podemos_V sentir_V tristeza_N por_PREP vários_PROADJ motivos_N e_KC que_KS ,_PU em_PREP alguns_PROADJ casos_N ,_PU é_V moralmente_ADV aconselhável_ADJ usar_V medicamentos_N para_PREP aliviar_V o_ART sofrimento_N e_KC dizer_V que_KS "_PU depressão_N "_PU é_V uma_ART questão_N de_PREP reequilíbrio_N do_PREP+ART metabolismo_N da_PREP+ART serotonina_N ._END
+Todos_PROSUB são_V casos_N de_PREP "_PU depressão_N "_PU ;_PU todos_PROSUB possuem_V causas_N e_KC razões_N completamente_ADV diversas_ADJ ,_PU que_PRO-KS pedem_V intervenções_N diversificadas_PCP ._END
+Inventando_V a_ART idéia_N de_PREP que_KS existe_V "_PU um_ART deprimido_N "_PU ou_KC "_PU um_ART homossexual_N "_PU criamos_V ficções_N teóricas_ADJ que_PRO-KS ,_PU em_ADV seguida_ADV ,_PU tornam_V -se_PROPESS realidades_N humanas_ADJ ._END
+Um_ART dia_N ,_PU para_PREP os_PROSUB que_PRO-KS não_ADV sabem_V ,_PU a_ART psiquiatria_N criou_V "_PU regicidas_N "_PU ,_PU "_PU loucos_N morais_ADJ "_PU ,_PU ou_KC "_PU criminosos_N natos_ADJ "_PU reconhecíveis_ADJ pelo_PREP+ART rosto_N ,_PU pelo_PREP+ART tamanho_N do_PREP+ART crânio_N ,_PU pelo_PREP+ART peso_N do_PREP+ART cérebro_N e_KC tudo_PROADJ isso_PROSUB "_PU cientificamente_ADV comprovado_PCP "_PU ._END
+Tais_PROADJ idéias_N caducaram_V e_KC nenhum_PROADJ ganho_N moral_ADJ surgiu_V dessa_PREP+PROADJ definição_N do_PREP+ART sujeito_N enquanto_PREP realidade_N biológica_ADJ ._END
+Hormônios_N e_KC genes_N não_ADV criam_V valores_N ._END
+Não_ADV sabemos_V o_PRO-KS que_PRO-KS é_V sofrer_V porque_KS conhecemos_V a_ART físico-química_N da_PREP+ART serotonina_N ;_PU temos_V interesse_N no_PREP+ART conhecimento_N da_PREP+ART serotonina_N por_KS que_KS sabemos_V o_PRO-KS que_PRO-KS é_V sofrer_V ._END
+Da_PREP+ART mesma_PROADJ maneira_N ,_PU só_PDEN temos_V interesse_N em_PREP conhecer_V "_PU genes_N de_PREP homossexuais_N "_PU ,_PU porque_KS discriminamos_V moralmente_ADV pessoas_N que_PRO-KS amam_V outras_PROSUB do_PREP+ART mesmo_PROADJ sexo_N biológico_ADJ ._END
+Sem_PREP isso_PROSUB ,_PU essa_PROADJ pesquisa_N seria_V absolutamente_ADV inútil_ADJ e_KC sem_PREP sentido_N ._END
+Já_ADV nos_PROPESS ensinaram_V que_KS somos_V objetos_N de_PREP outros_PROADJ objetos_N ;_PU agora_ADV começam_V a_PREP ensinar_V como_ADV-KS nossos_PROADJ sentimentos_N são_V fabricados_PCP e_KC quais_PRO-KS são_V os_ART armazéns_N de_PREP peças_N de_PREP reposição_N ._END
+É_V preciso_ADJ mais_ADV do_KS que_KS cadeias_N genéticas_ADJ e_KC antidepressivos_N para_PREP fazer_V homens_N responsáveis_ADJ por_PREP seus_PROADJ atos_N morais_ADJ ._END
+JURANDIR_NPROP Freire_NPROP Costa_NPROP é_V psicanalista_N ,_PU autor_N de_PREP "_PU A_NPROP Inocência_NPROP e_NPROP o_NPROP Vício_NPROP "_PU (_PU editora_N Relume_NPROP Dumará_NPROP )_PU
+Julián_NPROP Ríos_NPROP e_KC o_ART livro-mundo_N
+PáGINA_N :_PU 6-9_N
+O_ART escritor_N ,_PU um_PROSUB dos_PREP+ART mais_ADV inventivos_ADJ autores_N de_PREP língua_N espanhola_ADJ hoje_ADV ,_PU fala_V de_PREP sua_PROADJ obra_N e_KC de_PREP literatura_N brasileira_ADJ
+Os_ART leitores_N de_PREP Jorge_NPROP Luis_NPROP Borges_NPROP admiram_V também_PDEN suas_PROADJ declarações_N irônicas_ADJ ._END
+Borges_NPROP ,_PU no_PREP+ART seu_PROADJ habitual_ADJ tom_N de_PREP ironia_N ,_PU respendeu_V :_PU "_PU Meus_PROADJ sinceros_ADJ pêsames_N ._END
+Borges_NPROP ,_PU cego_N desde_PREP 1955_N ,_PU não_ADV pôde_V ler_V os_ART melhores_ADJ escritores_N espanhóis_ADJ da_PREP+ART segunda_ADJ metade_N deste_PREP+PROADJ século_N :_PU Luiz_NPROP Martim_NPROP Santos_NPROP ,_PU Juan_NPROP Goytisolo_NPROP e_KC Julián_NPROP Ríos_NPROP ._END
+Galego_NPROP de_NPROP Vigo_NPROP ,_PU Ríos_NPROP é_V considerado_PCP por_PREP Carlos_NPROP Fuentes_NPROP o_ART mais_ADV inventivo_ADJ e_KC criativo_ADJ escritor_N de_PREP língua_N espanhola_ADJ ._END
+Fuentes_NPROP não_ADV exagera_V ._END
+Ríos_NPROP ,_PU além_PREP de_PREP ser_V um_ART escritor_N prolixo_ADJ ,_PU é_V um_ART adepto_N caloroso_ADJ do_PREP+ART pluralismo_N cultural_ADJ e_KC um_ART cultor_N de_PREP neologismos_N ._END
+Em_PREP cada_PROADJ frase_N que_PRO-KS escreve_V há_V um_ART "_PU calembour_N "_PU ;_PU qualquer_PROADJ um_PROSUB de_PREP seus_PROADJ livros_N é_V uma_ART festa_N de_PREP chistes_N e_KC de_PREP palavras_N em_PREP que_PRO-KS participam_V "_PU o_ART idioma_N espanhol_ADJ e_KC seus_PROADJ coadjuvantes_N "_PU ._END
+Sua_PROADJ carreira_N literária_ADJ começou_V em_PREP parceria_N com_PREP Octavio_NPROP Paz_NPROP ._END
+Deste_PREP+PROADJ dueto_N nasceu_V o_ART livro_N "_PU Solo_NPROP a_NPROP Dos_NPROP Voces_NPROP "_PU (_PU 1973_N )_PU ,_PU publicado_PCP no_PREP+ART Brasil_NPROP em_PREP 1987_N (_PU Ríos_NPROP desconhecia_V a_ART tradução_N brasileira_ADJ )_PU ._END
+O_ART ciclo_N romanesco_ADJ de_PREP "_PU Larva_NPROP "_PU ainda_ADV resultará_V em_PREP dois_NUM livros_N que_PRO-KS ele_PROPESS está_V preparando_V ,_PU "_PU Belles_NPROP Lettres_NPROP "_PU e_KC "_PU Auto_NPROP de_NPROP Fenix_NPROP "_PU ._END
+Joyceano_NPROP até_PREP a_ART medula_N ,_PU Julián_NPROP Ríos_NPROP também_PDEN concilia_V o_ART ensaio_N com_PREP a_ART ficção_N no_PREP+ART livro_N "_PU Ulysses_NPROP Ilustrado_NPROP "_PU ,_PU feito_PCP em_PREP colaboração_N com_PREP o_ART artista_N plástico_ADJ Eduardo_NPROP Arroyo_NPROP ._END
+"_PU Um_ART gole_N do_PREP+ART melhor_ADJ Rioja_NPROP para_PREP o_ART grande_ADJ Rosa_NPROP "_PU ,_PU disse_V Rios_NPROP ,_PU antes_PREP dessa_PREP+PROADJ entrevista_N realizada_PCP durante_PREP a_ART 10ª_ADJ Feira_NPROP Internacional_NPROP do_NPROP Livro_NPROP em_PREP Miami_NPROP ._END
+Uma_ART pergunta_N inevitável_ADJ :_PU você_PROPESS é_V considerado_PCP um_ART escritor_N de_PREP vanguarda_N numa_PREP+ART época_N em_PREP que_PRO-KS a_ART cultura_N da_PREP+ART imagem_N é_V predominante_ADJ ._END
+A_ART literatura_N sobrevive_V à_PREP+ART mídia_N eletrônica_ADJ ?_PU
+Um_ART escritor_N exigente_ADJ pede_V um_ART leitor_N exigente_ADJ e_KC isso_PROSUB independe_V do_PREP+ART império_N televisivo_ADJ ._END
+Os_ART bons_ADJ leitores_N brasileiros_ADJ devem_V lembrar_V -se_PROPESS do_PREP+ART início_N do_PREP+ART "_PU Brás_NPROP Cubas_NPROP de_PREP Machado_NPROP ,_PU em_PREP que_PRO-KS o_ART narrador_N tem_V a_ART esperança_N de_PREP ter_V dez_NUM ou_KC cinco_NUM leitores_N ;_PU ele_PROPESS cita_V Stendhal_NPROP ,_PU que_PRO-KS nutria_V um_ADV pouco_ADV mais_ADV de_PREP esperança_N ,_PU ou_PDEN seja_PDEN ,_PU ter_V cem_NUM leitores_N ..._END
+Hoje_ADV ,_PU Machado_NPROP tem_V muitos_PROADJ milhares_N de_PREP leitores_N no_PREP+ART Brasil_NPROP e_KC no_PREP+ART mundo_N ._END
+Além_PREP disso_PREP+PROSUB ,_PU não_ADV considero_V a_ART televisão_N ,_PU o_ART cinema_N ou_KC o_ART vídeo_N ,_PU e_KC sim_ADV a_ART confusão_N que_PRO-KS muitos_PROADJ leitores_N fazem_V ,_PU pois_KC não_ADV sabem_V ou_KC não_ADV querem_V distinguir_V a_ART literatura_N da_PREP+ART pseudoliteratura_N ,_PU um_ART lixo_N de_PREP papel_N em_PREP que_PRO-KS se_PROPESS imprimem_V palavras_N sem_PREP risco_N ,_PU sem_PREP ousadia_N ,_PU sem_PREP invenção_N ._END
+Textos_N que_PRO-KS podem_V ser_V vistos_PCP e_KC não_ADV lidos_PCP ..._END
+Livros_N que_PRO-KS querem_V imitar_V a_ART televisão_N ,_PU querem_V ser_V o_ART sucedâneo_N da_PREP+ART TV_N ,_PU do_PREP+ART cinema_N ._END
+Eu_PROPESS costumo_V dizer_V que_KS não_ADV quero_V um_ART leitor_N médio_ADJ ,_PU quero_V -o_PROPESS por_PREP inteiro_N ._END
+Quando_KS um_ART autor_N escreve_V um_ART livro_N que_PRO-KS é_V taxado_PCP de_PREP complicado_PCP ou_KC obscuro_ADJ eu_PROPESS me_PROPESS lembro_V de_PREP uma_ART citação_N de_PREP Shakespeare_NPROP :_PU "_PU Não_ADV existe_V obscuridade_N ,_PU sim_ADV ignorância_N ._END
+"_PU Na_PREP+ART Espanha_NPROP traduz_V -se_PROPESS qualquer_PROADJ coisa_N dos_PREP+ART Estados_NPROP Unidos_NPROP ,_PU toneladas_N de_PREP tontices_N chegam_V de_PREP todas_PROADJ as_ART latitudes_N ..._END
+Tertúlias_N de_PREP palavras_N sem_PREP melodia_N ..._END
