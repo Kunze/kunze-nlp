@@ -1,13 +1,13 @@
 import assert = require('assert');
 import Corpus = require("../src/Corpus");
-import CorpusReader = require("../src/CorpusReader");
+import CorpusReader = require("../src/CorpusReaders/CorpusReader");
 import Corpora = require("../src/Corpora");
 import IReadFile = require("../src/IReadFile");
 import sinon = require("sinon");
 import TaggedToken = require("../src/TaggedToken");
 import StartToken = require("../src/StartToken");
  
-describe("corpora", () => {
+describe("Corpora", () => {
     let corpus1 = new Corpus("", new CorpusReader());
     let corpus2 = new Corpus("", new CorpusReader());
 

@@ -13,7 +13,7 @@
     "sinon": "^1.17.3"
   },
   "scripts": {
-    "test": "tsc && mocha \"build/test\" --harmony",
+    "test": "tsc && mocha \"build/test\" --recursive --harmony",
     "start": "tsc && node --harmony \"build/src/Main.js\"",
     "install": "tsc"
   },
