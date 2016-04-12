@@ -9,7 +9,7 @@ let questionGenerator = DefaultQuestionGeneratorFactory.create();
 defaultViterbiTagger.generateModel().then(tagger => {
     console.time("tagger");
     
-    let phrases = "O leão caça mas a caça é ilegal.";
+    let phrases = "Este lugar parecia ser uma brecha entre a realidade e o faminto nada do além.";
     let tokens = tagger.tag(phrases);
     let text = new Text(tokens);
 

@@ -9,6 +9,7 @@ import TaggedToken = require("../../TaggedToken");
 import IFeature = require("../Features/IFeature");
 import Feature = require("../Features/Feature");
 import BlankSpaceProbabilityToken = require("../../BlankSpaceProbabilityToken");
+import Token = require("../../Token");
 
 interface Data {
     tokens: ProbabilityToken[],
@@ -45,13 +46,16 @@ class ViterbiTagger implements IPartOfSpeechTagger {
                         this._emissions.add(first);
                     }
 
-                    if (second.isEndPoint()) {
-                        index++;
+                    //se a ultima palavra for uma entity, não haverá "second"
+                    if (second) {
+                        if (second.isEndPoint()) {
+                            index++;
 
-                        this._emissions.add(second);
+                            this._emissions.add(second);
+                        }
+
+                        this._transitions.add(first, second);
                     }
-
-                    this._transitions.add(first, second);
                 }
 
                 resolve(this);
@@ -96,7 +100,7 @@ class ViterbiTagger implements IPartOfSpeechTagger {
 
                     if (transitionToSecondTag) {
                         secondProbabilityToken.applyTransition(transitions);
-                        
+
                         var possibleTag: Data = {
                             tokens: [...firstProbabilityToken.tokens, secondProbabilityToken],
                             lastTag: secondProbabilityToken,
@@ -134,7 +138,7 @@ class ViterbiTagger implements IPartOfSpeechTagger {
 
             if (transitionToSecondTag) {
                 firstProbabilityToken.applyTransition(startTag);
-                
+
                 results.push({
                     tokens: [firstProbabilityToken],
                     lastTag: firstProbabilityToken,
@@ -156,25 +160,58 @@ class ViterbiTagger implements IPartOfSpeechTagger {
         return tokens;
     }
 
+    private applyEntityRecognizer(tokens: Token[]) {
+        for (var firstIndex = 0; firstIndex < tokens.length; firstIndex++) {
+            var firstWord = tokens[firstIndex];
+            if (firstWord.isBlankSpace()) {
+                continue;
+            }
+
+            var wordTokens = [firstWord.getWord()];
+            var stopIndex = firstIndex + 5; //não quero checar todas as combinações
+
+            for (var secondIndex = firstIndex + 1; (secondIndex < tokens.length) && (secondIndex < stopIndex); secondIndex++) {
+                var nextToken = tokens[secondIndex];
+                wordTokens.push(nextToken.getWord());
+
+                if (nextToken.isBlankSpace()) {
+                    continue;
+                };
+
+                let words = wordTokens.join(""), entity;
+                if (entity = this._emissions.get(words)) {
+                    var removeCount = (secondIndex - firstIndex) + 1;
+                    tokens.splice(firstIndex, removeCount, new Token(words));
+                };
+            }
+        }
+    }
+
     public tag(text: string): ProbabilityToken[] {
         let phrases = this._sentence.split(text), tokenResults = [];
         for (let phrase of phrases) {
             let arrayOfProbabilityTokens: ProbabilityToken[][] = []; //all unigram possible paths
-            for (let token of this._tokenizer.tokens(phrase)) {
+            let tokens = this._tokenizer.tokens(phrase);
+
+            this.applyEntityRecognizer(tokens);
+
+            for (let token of tokens) {
                 if (token.isBlankSpace()) {
                     arrayOfProbabilityTokens.push([new BlankSpaceProbabilityToken()]);
                     continue;
                 }
 
-                var tags: ProbabilityToken[] = [];
-                var unigram = this._emissions.get(token.getWord());
+                let tags: ProbabilityToken[] = [];
+                let word = token.getWord();
+                let unigram = this._emissions.get(word);
 
+                //pego todas as classes gramaticais para uma palavra e adiciono num array de classes
                 if (unigram) {
-                    unigram.getProbabilityTokens(token.getWord()).forEach(probabilityToken => {
+                    unigram.getProbabilityTokens(word).forEach(probabilityToken => {
                         tags.push(probabilityToken);
                     });
                 } else {
-                    this.getOpenClassProbabilityTokens(token.getWord()).forEach(closedTag => {
+                    this.getOpenClassProbabilityTokens(word).forEach(closedTag => {
                         tags.push(closedTag);
                     });
                 }
@@ -182,8 +219,14 @@ class ViterbiTagger implements IPartOfSpeechTagger {
                 arrayOfProbabilityTokens.push(tags);
             }
 
+            var sum = 1;
+            for (let i of arrayOfProbabilityTokens) {
+                sum *= i.length;
+            }
+            console.log(`Número total de combinações: ${sum}`);
+
             var mostProbablyTags = this.applyViterbi(arrayOfProbabilityTokens);
-            
+
             //adiciono os blank-space
             for (let emission of arrayOfProbabilityTokens) {
                 let isBlankSpace = emission.find((e) => {
