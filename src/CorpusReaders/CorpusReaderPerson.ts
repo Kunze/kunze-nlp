@@ -7,9 +7,9 @@ class CorpusReaderPerson implements ICorpusReader {
 	public read(text: string): TaggedToken[] {
 		let tokens: TaggedToken[] = [];
 		
-        for(let person of text.trim().split("\r\n")) {
+        for(let person of text.trim().split("\n")) {
             tokens.push(new StartToken());
-            tokens.push(new TaggedToken(person, "NPROP", "PERSON"));
+            tokens.push(new TaggedToken(person.replace("\r", ""), "NPROP", "PERSON"));
             tokens.push(new EndToken());
         }
 

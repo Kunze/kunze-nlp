@@ -19,4 +19,13 @@ describe("tokenizer", () => {
         
        assert.equal(tokens.length, 8);
     });
+    
+    it("must ignore empty spaces at the end of phrase", function() {
+       let text = "Meu nome é Murilo     ." 
+       
+       let tokenizer = new Tokenizer();
+       let tokens = tokenizer.tokens(text);
+        
+       assert.equal(tokens.length, 9);
+    });
 });

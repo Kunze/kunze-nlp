@@ -9,7 +9,7 @@ let questionGenerator = DefaultQuestionGeneratorFactory.create();
 defaultViterbiTagger.generateModel().then(tagger => {
     console.time("tagger");
     
-    let phrases = "Este lugar parecia ser uma brecha entre a realidade e o faminto nada do além.";
+    let phrases = "Murilo Kunze gosta de programar.";
     let tokens = tagger.tag(phrases);
     let text = new Text(tokens);
 

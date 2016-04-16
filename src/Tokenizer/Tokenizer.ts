@@ -4,7 +4,7 @@ import Token = require("../Token");
 class Tokenizer implements ITokenizer {
     //essa regex ta uma merda
     //arrumar mais tarde
-    private splitRegex: RegExp = /([^\s]+?)(\s|,|.$)/g;
+    private splitRegex: RegExp = /([^\s]+)(\s|,|.$)/g;
 
     //Exemplo: Meu email é murilokunze@hotmail.com, e meu nome é Murilo.
     //["Meu", " "], ["email", " "], 
