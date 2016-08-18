@@ -1,12 +1,13 @@
 import IQuestionGenerator = require("../IQuestionGenerator");
 import NP_VP_CONJ_NPVP_Generator = require("../Generator/NP_VP_CONJ_NP_VP_Generator");
-import DefaultShiftReduceParserFactory = require("../../Parser/Factory/DefaultShiftReduceParserFactory");
+// import DefaultShiftReduceParserFactory = require("../../Parser/Factory/DefaultShiftReduceParserFactory");
 import ParsedNode = require("../../ParsedNode");
 import QuestionToken = require("../QuestionToken");
 
 module NP_VP_CONJ_NP_VP_GeneratorFactory {
     export var create = (): IQuestionGenerator => {
-        let parser = DefaultShiftReduceParserFactory.create();
+        // let parser = DefaultShiftReduceParserFactory.create();
+        let parser = null;
         let transformers = [
             (parsedNode: ParsedNode) => {
                 let question = new QuestionToken(parsedNode);

@@ -14,7 +14,7 @@ Roberto Fernando Henrique da Silva
 `;
 
         let tokens = corpusReader.read(text);
-console.log(JSON.stringify(tokens, null, 2))
+
         assert.equal(tokens.length, 12); //tem um START e END para cade pessoa
         assert(tokens[0].toString(), "Murilo Kunze_NPROP#PERSON");
         assert(tokens[1].toString(), "Barbara Aparecida Zils_NPROP#PERSON");

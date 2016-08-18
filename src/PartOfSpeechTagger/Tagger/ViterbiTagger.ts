@@ -3,19 +3,11 @@ import PhraseBreaking = require("../../PhraseBreaking/PhraseBreaking");
 import Tokenizer = require("../../Tokenizer/Tokenizer");
 import IPartOfSpeechTagger = require("../IPartOfSpeechTagger");
 import ProbabilityToken = require("../../ProbabilityToken");
-import ITransitionDatabase = require("../InMemoryDatabase/ITransitionDatabase");
-import IEmissionDatabase = require("../InMemoryDatabase/IEmissionDatabase");
+import ITransitionDatabase = require("../InMemoryDatabase/TransitionDatabase");
+import IEmissionDatabase = require("../InMemoryDatabase/EmissionDatabase");
 import TaggedToken = require("../../TaggedToken");
-import IFeature = require("../Features/IFeature");
-import Feature = require("../Features/Feature");
 import BlankSpaceProbabilityToken = require("../../BlankSpaceProbabilityToken");
 import Token = require("../../Token");
-
-interface Data {
-    tokens: ProbabilityToken[],
-    lastTag: ProbabilityToken,
-    probability: number
-}
 
 class ViterbiTagger implements IPartOfSpeechTagger {
     private _sentence = new PhraseBreaking();
@@ -24,14 +16,10 @@ class ViterbiTagger implements IPartOfSpeechTagger {
     // private CLOSED_CLASS = ["START", "PREP+PROADJ", "PREP+ART", "PREP+PROPERS",
     //     "PREP\+PROSUB", "PRO-KS", "ADV-KS-REL", "ADV-KS",
     //     "PROADJ", "PU", "PREP", "PROPESS", "PROSUB", "VAUX", "PDEN", "KS", "ART", "KC", "END"];
-    private features: IFeature[] = [];
 
     constructor(private _corpora: Corpora,
         private _emissions: IEmissionDatabase,
         private _transitions: ITransitionDatabase) {
-        this.features = [
-            new Feature()
-        ]
     }
 
     public generateModel(): Promise<IPartOfSpeechTagger> {
@@ -68,13 +56,18 @@ class ViterbiTagger implements IPartOfSpeechTagger {
     /*
         arrayOfProbabilityTokens = ["N", "NPROP"], ["V", "VAUX"], ["PREP", "PREP+ART"]
     */
-    private applyViterbi(arrayOfProbabilityTokens: ProbabilityToken[][]): Data {
-        var process = (results: Data[], arrayOfProbabilityTokens: ProbabilityToken[][]) => {
+    private applyViterbi(arrayOfProbabilityTokens: ProbabilityToken[][]): ProbabilityToken[] {
+        var copy = arrayOfProbabilityTokens.slice();
+
+        var process = (results: ProbabilityToken[][], arrayOfProbabilityTokens: ProbabilityToken[][]) => {
             if (!arrayOfProbabilityTokens.length) {
-                return results[0];
+                //só haverá 1 resultado se o último token for um END
+                var mostlyProbableTokens = results[0];
+                mostlyProbableTokens.shift(); //removo o START
+                
+                return mostlyProbableTokens;
             }
 
-            var first: Data[] = results;
             var next: ProbabilityToken[];
             while (arrayOfProbabilityTokens.length) {
                 var array = arrayOfProbabilityTokens[0];
@@ -89,32 +82,29 @@ class ViterbiTagger implements IPartOfSpeechTagger {
                 break;
             }
 
-            var possibleTags: Data[] = [];
-            for (let firstProbabilityToken of first) { // ["N", "NPROP"]
-                var lastT = firstProbabilityToken.tokens[firstProbabilityToken.tokens.length - 1];
+            var possibleTags: ProbabilityToken[][] = [];
+            for (let firstProbabilityToken of results) { // ["N", "NPROP"]
+                var transitions = this._transitions.get(firstProbabilityToken[firstProbabilityToken.length -1].getTag());
 
                 for (let secondProbabilityTokenx of next) { // ["V", "VAUX"]
                     var secondProbabilityToken = secondProbabilityTokenx.copy();
-                    var transitions = this._transitions.get(firstProbabilityToken.lastTag.getTag());
                     var transitionToSecondTag = transitions.getTag(secondProbabilityToken.getTag());
 
                     if (transitionToSecondTag) {
                         secondProbabilityToken.applyTransition(transitions);
 
-                        var possibleTag: Data = {
-                            tokens: [...firstProbabilityToken.tokens, secondProbabilityToken],
-                            lastTag: secondProbabilityToken,
-                            probability: secondProbabilityToken.getProbability()
-                        };
+                        var possibleTag: ProbabilityToken[] = [...firstProbabilityToken, secondProbabilityToken];
+
                         var result = possibleTags.find(result => {
-                            return result.lastTag.getTag() === secondProbabilityToken.getTag();
+                            return result[result.length -1].getTag() === secondProbabilityToken.getTag();
                         });
 
                         if (result) {
-                            if (result.probability > secondProbabilityToken.getProbability()) {
+                            if (result[result.length -1].getProbability() > secondProbabilityToken.getProbability()) {
                                 continue;
                             }
 
+                            //sobreescrevo o resultado
                             result = possibleTag;
                         }
                         else {
@@ -127,27 +117,9 @@ class ViterbiTagger implements IPartOfSpeechTagger {
             return process(possibleTags, arrayOfProbabilityTokens);
         };
 
-        var temporaryTokens = arrayOfProbabilityTokens.slice(0),
-            firstProbabilityTokens = temporaryTokens.shift(),
-            results: Data[] = [];
+        let startToken = new ProbabilityToken("", "START", 1, true);
 
-        var startTag = this._transitions.get("START");
-
-        for (let firstProbabilityToken of firstProbabilityTokens) {
-            var transitionToSecondTag = startTag.getTag(firstProbabilityToken.getTag());
-
-            if (transitionToSecondTag) {
-                firstProbabilityToken.applyTransition(startTag);
-
-                results.push({
-                    tokens: [firstProbabilityToken],
-                    lastTag: firstProbabilityToken,
-                    probability: firstProbabilityToken.getProbability()
-                });
-            }
-        }
-
-        return process(results, temporaryTokens);
+        return process([[startToken]], copy);
     }
 
     private getOpenClassProbabilityTokens(word: string): ProbabilityToken[] {
@@ -205,27 +177,23 @@ class ViterbiTagger implements IPartOfSpeechTagger {
                 let word = token.getWord();
                 let unigram = this._emissions.get(word);
 
-                //pego todas as classes gramaticais para uma palavra e adiciono num array de classes
                 if (unigram) {
-                    unigram.getProbabilityTokens(word).forEach(probabilityToken => {
-                        tags.push(probabilityToken);
-                    });
+                    tags = unigram.getProbabilityTokens(word);
                 } else {
-                    this.getOpenClassProbabilityTokens(word).forEach(closedTag => {
-                        tags.push(closedTag);
-                    });
+                    //unknow words
+                    tags = this.getOpenClassProbabilityTokens(word)
                 }
 
                 arrayOfProbabilityTokens.push(tags);
             }
 
-            var sum = 1;
-            for (let i of arrayOfProbabilityTokens) {
-                sum *= i.length;
-            }
-            console.log(`Número total de combinações: ${sum}`);
+            // var sum = 1;
+            // for (let i of arrayOfProbabilityTokens) {
+            //     sum *= i.length;
+            // }
+            // console.log(`Número total de combinações: ${sum}`);
 
-            var mostProbablyTags = this.applyViterbi(arrayOfProbabilityTokens);
+            var mostProbablyTokens: ProbabilityToken[] = this.applyViterbi(arrayOfProbabilityTokens);
 
             //adiciono os blank-space
             for (let emission of arrayOfProbabilityTokens) {
@@ -237,26 +205,13 @@ class ViterbiTagger implements IPartOfSpeechTagger {
                     tokenResults.push(new BlankSpaceProbabilityToken())
                 }
                 else {
-                    tokenResults.push(mostProbablyTags.tokens.shift());
+                    tokenResults.push(mostProbablyTokens.shift());
                 }
             }
         }
 
         return tokenResults;
     }
-
-    // private applyFeatures(probabilityTokens: ProbabilityToken[],
-    //     arrayOfProbabilityTokens: ProbabilityToken[][],
-    //     results: ProbabilityToken[][]): boolean {
-    //     let apply = false;
-    //     for (let feature of this.features) {
-    //         if (feature.apply(probabilityTokens, arrayOfProbabilityTokens, results)) {
-    //             apply = true;
-    //         }
-    //     }
-
-    //     return apply;
-    // }
 }
 
 export = ViterbiTagger;

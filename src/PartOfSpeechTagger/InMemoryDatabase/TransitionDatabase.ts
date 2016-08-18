@@ -1,9 +1,8 @@
-import ITransitionDatabase = require("./ITransitionDatabase");
 import Counter = require("../Counters/Counter");
 import Token = require("../../Token");
 import TaggedToken = require("../../TaggedToken");
 
-class TransitionDatabase implements ITransitionDatabase {
+class TransitionDatabase {
     private _bigrams: Counter[] = [];
 
     public add(first: TaggedToken, second: TaggedToken) {

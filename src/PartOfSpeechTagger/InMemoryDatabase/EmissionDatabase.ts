@@ -1,9 +1,8 @@
-import IEmissionDatabase = require("./IEmissionDatabase");
 import EmissionCounter = require("../Counters/EmissionCounter");
 import TaggedToken = require("../../TaggedToken");
 import Token = require("../../Token");
 
-class EmissionDatabase implements IEmissionDatabase {
+class EmissionDatabase {
     private _collection: LokiCollection<EmissionCounter>;
 
     constructor(private _db: Loki) {

@@ -6,7 +6,7 @@ import CorpusReader = require("../../CorpusReaders/CorpusReader");
 import CorpusReaderPerson = require("../../CorpusReaders/CorpusReaderPerson");
 import ViterbiTagger = require("../Tagger/ViterbiTagger");
 import TransitionDatabase = require("../InMemoryDatabase/TransitionDatabase");
-import UnigramDatabaseFactory = require("./UnigramDatabaseFactory");
+import UnigramDatabaseFactory = require("./EmissionDatabaseFactory");
 
 module DefaultViterbiTaggerFactory {
     export var create = (): IPartOfSpeechTagger => {

@@ -1,11 +1,11 @@
 import assert = require("assert");
 import IParser = require("../src/Parser/IParser");
 import ParsedNode = require("../src/ParsedNode");
-import ShiftReduceParser = require("../src/Parser/ShiftReduceParser");
+import CYKParser = require("../src/Parser/CYKParser");
 import GrammarReader = require("../src/GrammarReader");
 import ProbabilityToken = require("../src/ProbabilityToken");
 
-describe("ShiftReducerPaser", () => {
+describe("CYKParser", () => {
     it("parse into a tree", () => {
         let tokens = [
             createToken("O", "ART"),
@@ -31,9 +31,9 @@ VP -> V NP
 PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
 
         let grammarReader = new GrammarReader();
-        let shiftReduce = new ShiftReduceParser(grammarReader);
+        let parser = new CYKParser(grammarReader);
 
-        let sentences: ParsedNode[] = shiftReduce.parse(tokens, grammar);
+        let sentences: ParsedNode[] = parser.parse(tokens, grammar);
         let sentence = sentences[0];
         assert.equal(sentence.getNodeName(), "S");
 

@@ -1,9 +1,6 @@
 import ProbabilityToken = require("./ProbabilityToken");
 import IString = require("./IString");
 
-//verificar possibilidade de mudar o nome para 'Sentence' 
-//e ignorar frases sem sujeito ou predicado
-//http://www.eurocentres.com/blog/?p=1148
 class Phrase implements IString {
     constructor(private _tokens: ProbabilityToken[]) {
         //toda frase termina em pontuação
@@ -31,16 +28,9 @@ class Phrase implements IString {
         return this._tokens;
     }
 
-    public getProbability() {
-        return this._tokens.reduce((previous, current, index, array) => {
-            return previous * current.getProbability();
-        }, 1);
-    }
-
     public toJSON() {
         return {
             phrase: this.toString(),
-            probability: this.getProbability(),
             tokens: this._tokens
         };
     }
