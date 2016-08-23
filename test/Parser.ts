@@ -20,8 +20,7 @@ describe("CYKParser", () => {
             createBlankSpace(),
             createToken("no", "PREP+ART"),
             createBlankSpace(),
-            createToken("parque", "N"),
-            createToken(".", "END")
+            createToken("parque", "N")
         ]
 
         let grammar = `

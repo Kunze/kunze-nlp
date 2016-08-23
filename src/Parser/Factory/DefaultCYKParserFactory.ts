@@ -1,8 +1,10 @@
 import CYKParser = require("../CYKParser");
 import GrammarReader = require("../../GrammarReader");
 
-class DefaultCYKParser {
-    public create(): CYKParser {
+module DefaultCYKParserFactory {
+    export var create = (): CYKParser => {
         return new CYKParser(new GrammarReader());
     }
 }
+
+export = DefaultCYKParserFactory;

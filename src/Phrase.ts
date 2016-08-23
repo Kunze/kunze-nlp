@@ -18,8 +18,8 @@ class Phrase implements IString {
         return result.join("");
     }
 
-    public getTokens(ignoreBlankSpace?: boolean): ProbabilityToken[] {
-        if (ignoreBlankSpace === true || ignoreBlankSpace === undefined || ignoreBlankSpace === null) {
+    public getTokens(ignoreBlankSpace: boolean = true): ProbabilityToken[] {
+        if (ignoreBlankSpace) {
             return this._tokens.filter((token: ProbabilityToken) => {
                 return !(token.isBlankSpace());
             });
