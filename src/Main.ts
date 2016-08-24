@@ -24,13 +24,13 @@ PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
     for (let phrase of text.getPhrases()) {
         let parsedNodes = parser.parse(phrase.getTokens(), grammar)
         
-    //     for (let token of phrase.getTokens()) {
-    //         console.log(`word:         ${token.getWord()}`);
-    //         console.log(`tag:          ${token.getTag()}`);
-    //         console.log(`known word:   ${token.getKnown()}`);
-    //         console.log(`probability:  ${token.getProbability()}`);
-    //         console.log("-----------------------------------------");
-    //     }
+        for (let token of phrase.getTokens()) {
+            console.log(`word:         ${token.getWord()}`);
+            console.log(`tag:          ${token.getTag()}`);
+            console.log(`known word:   ${token.getKnown()}`);
+            console.log(`probability:  ${token.getProbability()}`);
+            console.log("-----------------------------------------");
+        }
     }
     console.timeEnd("tagger");
 });

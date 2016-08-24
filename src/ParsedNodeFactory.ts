@@ -1,10 +1,13 @@
 import ProbabilityToken = require("./ProbabilityToken");
 import ParsedNode = require("./ParsedNode");
+import ParsedNodeCollection = require("./ParsedNodeCollection");
 
-// class ParsedNodeFactory {
-//     public static from(tokenResult: ProbabilityToken) {
-//         return new ParsedNode(tokenResult.getWord(), tokenResult.getTag(), []);
-//     }
-// }
+class ParsedNodeFactory {
+    public static create(parsedNodesCollection: ParsedNodeCollection, tag: string): ParsedNode {
+        let nodeText = parsedNodesCollection.getText();
 
-// export = ParsedNodeFactory;
+        return new ParsedNode(nodeText, tag, parsedNodesCollection.getNodes())
+    }
+}
+
+export = ParsedNodeFactory;
