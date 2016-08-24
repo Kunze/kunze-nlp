@@ -5,9 +5,8 @@ import TaggedToken = require("./TaggedToken");
 import DefaultCYKParserFactory = require("./Parser/Factory/DefaultCYKParserFactory");
 
 let defaultViterbiTagger = DefaultViterbiTaggerFactory.create();
-// let questionGenerator = DefaultQuestionGeneratorFactory.create();
+let questionGenerator = DefaultQuestionGeneratorFactory.create();
 let parser = DefaultCYKParserFactory.create();
-
 
 defaultViterbiTagger.generateModel().then(tagger => {
     console.time("tagger");
@@ -24,6 +23,11 @@ PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
     for (let phrase of text.getPhrases()) {
         let parsedNodes = parser.parse(phrase.getTokens(), grammar)
         
+        //pode ter várias arvóres (ambiguidade)
+        for(let tree of parsedNodes) {
+
+        }
+
         for (let token of phrase.getTokens()) {
             console.log(`word:         ${token.getWord()}`);
             console.log(`tag:          ${token.getTag()}`);

@@ -63,7 +63,14 @@ class CYKParser implements IParser {
             }
         }
 
-        return P;
+        let trees = P[P.length - 1][0];
+
+        if (trees) {
+            return trees;
+        }
+
+        //<TODO> retornar as partes que conseguiu encontrar
+        throw new Error("Invalid grammar");
     }
 
     private initializeArray(length: number): any[] {
