@@ -11,7 +11,7 @@ describe("Corpora", () => {
     let corpus1 = new Corpus("", new CorpusReader());
     let corpus2 = new Corpus("", new CorpusReader());
 
-    it("must mix tokens from both corpus and return 12 tokens", (done) => {
+    it("Mix tokens from both corpus and return 12 tokens", (done) => {
         sinon.stub(corpus1, "readFile", () => {
             return new Promise<TaggedToken[]>((resolve) => {
                 let tokens = [new StartToken(), new TaggedToken("Meu", "PROPRESS"), new TaggedToken("nome", "N"), new TaggedToken("é", "V"), new TaggedToken("Murilo", "NPROP"), new TaggedToken(".", "END")];

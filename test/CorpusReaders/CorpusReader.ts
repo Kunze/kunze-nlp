@@ -2,7 +2,7 @@ import CorpusReader = require("../../src/CorpusReaders/CorpusReader");
 import assert = require('assert');
 
 describe("CorpusReader", () => {
-    it("must generate 8 tokens", () => {
+    it("Generate 8 tokens", () => {
         let corpusReader = new CorpusReader();
         let text = "Sem_PREP constranger_V ,_PU comando_V homens_N livres_ADJ ._END";
         let tokens = corpusReader.read(text);
@@ -10,7 +10,7 @@ describe("CorpusReader", () => {
         assert.equal(tokens.length, 8);
     });
 
-    it("must generate correct word and tags", () => {
+    it("Generate correct word and tags", () => {
         let corpusReader = new CorpusReader();
         let text = "Sem_PREP constranger_V ,_PU comando_V homens_N livres_ADJ ._END";
         let tokens = corpusReader.read(text);
@@ -25,7 +25,7 @@ describe("CorpusReader", () => {
         assert.equal(tokens[7].toString(), "._END");
     });
 
-    it("Must identify PERSON", () => {
+    it("Identify PERSON", () => {
         let corpusReader = new CorpusReader();
         let text = "Meu_PROADJ nome_N é_V Murilo Kunze_NPROP#PERSON._END";
         let tokens = corpusReader.read(text);
@@ -38,7 +38,7 @@ describe("CorpusReader", () => {
         assert.equal(tokens[5].toString(), "._END");
     });
 
-    it("Must identify a LOCATION", () => {
+    it("Identify a LOCATION", () => {
         let corpusReader = new CorpusReader();
         let text = "Ele_PROPESS mora_V no_PREP+ART Rio de Janeiro_N#LOCATION._END";
         let tokens = corpusReader.read(text);
@@ -51,7 +51,7 @@ describe("CorpusReader", () => {
         assert.equal(tokens[5].toString(), "._END");
     });
 
-    it("Must identify a CHARACTER", () => {
+    it("Identify a CHARACTER", () => {
         let corpusReader = new CorpusReader();
         let text = "O_ART gato de botas_N#CHARACTER é_V um_ART gato_N._END";
         let tokens = corpusReader.read(text);

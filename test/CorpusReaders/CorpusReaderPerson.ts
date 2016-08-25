@@ -3,7 +3,7 @@ import CorpusReaderPerson = require("../../src/CorpusReaders/CorpusReaderPerson"
 import assert = require('assert');
 
 describe("CorpusReaderPerson", () => {
-    it("must identify 4 people", () => {
+    it("Identify 4 people", () => {
         let corpusReader = new CorpusReaderPerson();
         let text = 
 `
@@ -12,7 +12,6 @@ Barbara Aparecida Zils
 José da Silva
 Roberto Fernando Henrique da Silva
 `;
-
         let tokens = corpusReader.read(text);
 
         assert.equal(tokens.length, 12); //tem um START e END para cade pessoa

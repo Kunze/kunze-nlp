@@ -3,7 +3,7 @@ import Counter = require("../src/PartOfSpeechTagger/Counters/Counter");
 import TaggedToken = require("../src/TaggedToken");
 
 describe("BigramCounter", () => {
-    it("should count correct", () => {
+    it("Count correct", () => {
         let firstTag = new TaggedToken("O", "ART");
         let secondTag = new TaggedToken("Murilo", "NPROP");
         let newSecondTag = new TaggedToken("Brasil", "N");        

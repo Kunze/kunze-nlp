@@ -5,7 +5,7 @@ import GrammarRule = require("../src/GrammarRule");
 import GrammarRulesProxy = require("../src/GrammarRulesProxy");
 
 describe("GrammarReader", () => {
-    it("should parse into 4 rules", () => {
+    it("Parse into 4 rules", () => {
         let grammar = `
 S -> NP VP
 NP -> NPROP

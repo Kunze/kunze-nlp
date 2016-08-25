@@ -6,24 +6,18 @@ import GrammarReader = require("../src/GrammarReader");
 import ProbabilityToken = require("../src/ProbabilityToken");
 
 describe("CYKParser", () => {
-    it("parse into a tree", () => {
+    it("Parse into a tree", () => {
         let tokens = [
             createToken("O", "ART"),
-            createBlankSpace(),
             createToken("cachorro", "N"),
-            createBlankSpace(),
             createToken("viu", "V"),
-            createBlankSpace(),
             createToken("o", "ART"),
-            createBlankSpace(),
             createToken("homem", "N"),
-            createBlankSpace(),
             createToken("no", "PREP+ART"),
-            createBlankSpace(),
             createToken("parque", "N")
         ]
 
-        let grammar = `
+    let grammar = `
 S -> NP VP
 NP -> ART N | NP PP
 VP -> V NP
@@ -34,15 +28,15 @@ PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
 
         let sentences: ParsedNode[] = parser.parse(tokens, grammar);
         let sentence = sentences[0];
-        assert.equal(sentence.getNodeName(), "S");
 
         let oCachorro = sentence.node(0);
+        
+        assert.equal(sentence.getNodeName(), "S");
+
         assert.equal(oCachorro.getNodeName(), "NP");
         assert.equal(oCachorro.toString(), "O cachorro");
 
-        assert.equal(sentence.node(1).getNodeName(), "BLANK-SPACE");
-        
-        let viuOHomemNoParque = sentence.node(2);
+        let viuOHomemNoParque = sentence.node(1);
         assert.equal(viuOHomemNoParque.getNodeName(), "VP");
         assert.equal(viuOHomemNoParque.toString(), "viu o homem no parque");
 
@@ -50,9 +44,7 @@ PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
         assert.equal(viu.getNodeName(), "V");
         assert.equal(viu.toString(), "viu");
 
-        assert.equal(viuOHomemNoParque.node(1).getNodeName(), "BLANK-SPACE");
-
-        let oHomemNoParque = viuOHomemNoParque.node(2);
+        let oHomemNoParque = viuOHomemNoParque.node(1);
         assert.equal(oHomemNoParque.getNodeName(), "NP");
         assert.equal(oHomemNoParque.toString(), "o homem no parque");
 
@@ -60,18 +52,35 @@ PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
         assert.equal(oHomem.getNodeName(), "NP");
         assert.equal(oHomem.toString(), "o homem");
 
-        assert.equal(oHomemNoParque.node(1).getNodeName(), "BLANK-SPACE");
-
-        let noParque = oHomemNoParque.node(2);
+        let noParque = oHomemNoParque.node(1);
         assert.equal(noParque.getNodeName(), "PP");
         assert.equal(noParque.toString(), "no parque");
     });
 
+    it("Throw exception", () => {
+        let tokens = [
+            createToken("O", "ART"),
+            createToken("viu", "V"),
+            createToken("homem", "N"),
+            createToken("parque", "N")
+        ]
+
+    let grammar = `
+S -> NP VP
+NP -> ART N | NP PP
+VP -> V NP
+PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
+
+        let grammarReader = new GrammarReader();
+        let parser = new CYKParser(grammarReader);
+        let func = () => {
+            console.log(parser.parse(tokens, grammar))
+        };
+
+        assert.throws(func, Error, "Invalid grammar");
+    });
+
     function createToken(word: string, tag: string) {
         return new ProbabilityToken(word, tag, 1, true);
-    }
-
-    function createBlankSpace() {
-        return new ProbabilityToken(" ", "BLANK-SPACE", 1, true);
     }
 });

@@ -20,21 +20,9 @@ class CYKParser implements IParser {
             });
         }
 
-        // let the input be a string S consisting of n characters: a1 ... an.
-        // let the grammar contain r nonterminal symbols R1 ... Rr.
-        // This grammar contains the subset Rs which is the set of start symbols.
-        // let P[n,n,r] be an array of booleans. Initialize all elements of P to false.
-        // for each i = 1 to n
-        //   for each unit production Rj -> ai
-        //     set P[1,i,j] = true
         let P = this.initializeArray(tokens.length);
         P = this.fillFirstLine(P, tokens);
 
-        // for each i = 2 to n -- Length of span
-        //   for each j = 1 to n-i+1 -- Start of span
-        //     for each k = 1 to i-1 -- Partition of span
-        //       for each production RA -> RB RC
-        //         if P[k,j,B] and P[i-k,j+k,C] then set P[i,j,A] = true
         for (var i = 2; i <= tokens.length; i++) { //percorre as linhas
             for (var j = 1; j <= (tokens.length - i) + 1; j++) { //percorre as colunas
                 for (var k = 1; k <= i - 1; k++) {
@@ -48,13 +36,13 @@ class CYKParser implements IParser {
                     //múltiplico todas as combinações possiveis
                     for (let firstToken of first) {
                         for (let secondToken of second) {
-                            //se existir uma combinação salvo num array
                             let parsedNodeCollection = new ParsedNodeCollection([firstToken, secondToken]);
                             let nodeTag = "";
 
                             if (nodeTag = grammarRules.get(parsedNodeCollection.getTags())) {
                                 let parsedNode = ParsedNodeFactory.create(parsedNodeCollection, nodeTag);
-
+                            
+                                //se existir uma combinação salvo num array
                                 P[i - 1][j - 1].push(parsedNode);
                             }
                         }
@@ -64,8 +52,8 @@ class CYKParser implements IParser {
         }
 
         let trees = P[P.length - 1][0];
-
-        if (trees) {
+        
+        if (trees.length) {
             return trees;
         }
 
