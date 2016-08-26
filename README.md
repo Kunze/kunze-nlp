@@ -22,11 +22,6 @@ defaultViterbiTagger.generateModel().then(tagger => {
     let phrases = "O cachorro viu o homem no parque. Murilo Kunze gosta de programar.";
     let tokens = tagger.tag(phrases);
     let text = new Text(tokens);
-    let grammar = `
-S -> NP VP
-NP -> NPROP | ART N | ART NP | ART NPROP | NP PP
-VP -> V NP | V PP | V ADJ
-PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N | PREP V | PREP+ART V | PREP VP`;
 
     for (let phrase of text.getPhrases()) {
         console.log("-".repeat(50));
