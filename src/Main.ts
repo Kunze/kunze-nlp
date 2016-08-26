@@ -11,29 +11,31 @@ let parser = DefaultCYKParserFactory.create();
 defaultViterbiTagger.generateModel().then(tagger => {
     console.time("tagger");
     
-    let phrases = "O cachorro viu o homem no parque.";
+    let phrases = "O cachorro viu o homem no parque. Murilo Kunze gosta de programar.";
     let tokens = tagger.tag(phrases);
     let text = new Text(tokens);
     let grammar = `
 S -> NP VP
-NP -> ART N | NP PP
-VP -> V NP
-PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
+NP -> NPROP | ART N | ART NP | ART NPROP | NP PP
+VP -> V NP | V PP | V ADJ
+PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N | PREP V | PREP+ART V | PREP VP`;
 
     for (let phrase of text.getPhrases()) {
-        let parsedNodes = parser.parse(phrase.getTokens(), grammar)
-        
-        //pode ter várias arvóres (ambiguidade)
-        for(let tree of parsedNodes) {
+        console.log("-".repeat(50));
+        console.log(`Text: ${phrase.toString()} \n`)
+        console.log("Questions:")
 
+        for(let question of questionGenerator.generate(phrase.getTokens())) {
+            console.log(question);
         }
 
         for (let token of phrase.getTokens()) {
+            console.log("-".repeat(40));
+            
             console.log(`word:         ${token.getWord()}`);
             console.log(`tag:          ${token.getTag()}`);
             console.log(`known word:   ${token.getKnown()}`);
             console.log(`probability:  ${token.getProbability()}`);
-            console.log("-----------------------------------------");
         }
     }
     console.timeEnd("tagger");

@@ -14,7 +14,7 @@ class ParsedNodeCollection {
         return this.parsedNodes.filter((parsedResult, index, array) => {
             return !(parsedResult.isBlankSpace());
         }).map((parsedResult, index, array) => {
-            return parsedResult.getNodeName();
+            return parsedResult.getTag();
         }).join(" ");
     }
 

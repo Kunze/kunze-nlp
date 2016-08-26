@@ -2,6 +2,7 @@ import IParser = require("./IParser");
 import ProbabilityToken = require("../ProbabilityToken");
 import ParsedNode = require("../ParsedNode");
 import GrammarReader = require("../GrammarReader");
+import GrammarRulesProxy = require("../GrammarRulesProxy");
 import ParsedNodeCollection = require("../ParsedNodeCollection");
 import ParsedNodeFactory = require("../ParsedNodeFactory");
 
@@ -21,7 +22,7 @@ class CYKParser implements IParser {
         }
 
         let P = this.initializeArray(tokens.length);
-        P = this.fillFirstLine(P, tokens);
+        P = this.fillFirstLine(P, tokens, grammarRules);
 
         for (var i = 2; i <= tokens.length; i++) { //percorre as linhas
             for (var j = 1; j <= (tokens.length - i) + 1; j++) { //percorre as colunas
@@ -75,13 +76,14 @@ class CYKParser implements IParser {
         return P;
     }
 
-    private fillFirstLine(P: any[], tokens: ProbabilityToken[]): any[] {
+    private fillFirstLine(P: any[], tokens: ProbabilityToken[], grammarProxy: GrammarRulesProxy): any[] {
         for (var index = 0; index < tokens.length; index++) {
             var token = tokens[index];
+            var terminalTag = grammarProxy.get(token.getTag());
 
             //gravo num array pois nos próximos passos podem haver mais de um ParsedNode
             P[0][index] = [
-                new ParsedNode(token.getWord(), token.getTag())
+                new ParsedNode(token.getWord(),terminalTag ? terminalTag : token.getTag())
             ];
         }
 

@@ -31,29 +31,29 @@ PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
 
         let oCachorro = sentence.node(0);
         
-        assert.equal(sentence.getNodeName(), "S");
+        assert.equal(sentence.getTag(), "S");
 
-        assert.equal(oCachorro.getNodeName(), "NP");
+        assert.equal(oCachorro.getTag(), "NP");
         assert.equal(oCachorro.toString(), "O cachorro");
 
         let viuOHomemNoParque = sentence.node(1);
-        assert.equal(viuOHomemNoParque.getNodeName(), "VP");
+        assert.equal(viuOHomemNoParque.getTag(), "VP");
         assert.equal(viuOHomemNoParque.toString(), "viu o homem no parque");
 
         let viu = viuOHomemNoParque.node(0);
-        assert.equal(viu.getNodeName(), "V");
+        assert.equal(viu.getTag(), "V");
         assert.equal(viu.toString(), "viu");
 
         let oHomemNoParque = viuOHomemNoParque.node(1);
-        assert.equal(oHomemNoParque.getNodeName(), "NP");
+        assert.equal(oHomemNoParque.getTag(), "NP");
         assert.equal(oHomemNoParque.toString(), "o homem no parque");
 
         let oHomem = oHomemNoParque.node(0);
-        assert.equal(oHomem.getNodeName(), "NP");
+        assert.equal(oHomem.getTag(), "NP");
         assert.equal(oHomem.toString(), "o homem");
 
         let noParque = oHomemNoParque.node(1);
-        assert.equal(noParque.getNodeName(), "PP");
+        assert.equal(noParque.getTag(), "PP");
         assert.equal(noParque.toString(), "no parque");
     });
 

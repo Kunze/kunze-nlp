@@ -1,7 +1,7 @@
 # kunze-automatic-question-generator
 This library have been made in typescript and nodejs. It will be used for gererating automatic questions from a text in portuguese (pt-br). It is currently a simple part of a speech tagger, but further features like parsing and question generation will be developed in the near future. This library works through a corpora (corpora/macmorpho-v3/train) and uses a probabilistic bigram to solve part of the speech tags, even for unknown words. Actually I am using a brazilian portuguese corpus named Macmorpho-v3 (http://nilc.icmc.usp.br/macmorpho)
 
-Temporary tests: http://nlp-murilokunze.rhcloud.com/
+Temporary tests: http://www.murilokunze.com.br
 
 <strong>Getting part of speech tags from text</strong>
 
@@ -10,32 +10,36 @@ import DefaultViterbiTaggerFactory = require("./PartOfSpeechTagger/Factory/Defau
 import DefaultQuestionGeneratorFactory = require("./QuestionGenerator/Factory/DefaultQuestionGeneratorFactory");
 import Text = require("./Text");
 import TaggedToken = require("./TaggedToken");
+import DefaultCYKParserFactory = require("./Parser/Factory/DefaultCYKParserFactory");
 
 let defaultViterbiTagger = DefaultViterbiTaggerFactory.create();
 let questionGenerator = DefaultQuestionGeneratorFactory.create();
+let parser = DefaultCYKParserFactory.create();
 
 defaultViterbiTagger.generateModel().then(tagger => {
     console.time("tagger");
     
-    let phrases = "A caça é ilegal. O leão caça a lebre.";
+    let phrases = "O cachorro viu o homem no parque. Murilo Kunze gosta de programar.";
     let tokens = tagger.tag(phrases);
     let text = new Text(tokens);
+    let grammar = `
+S -> NP VP
+NP -> NPROP | ART N | ART NP | ART NPROP | NP PP
+VP -> V NP | V PP | V ADJ
+PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N | PREP V | PREP+ART V | PREP VP`;
 
     for (let phrase of text.getPhrases()) {
-        console.log(phrase.toString(), `\nProbability: ${phrase.getProbability()}\n`);
-
-        console.log("Questions:")
-        for (let question of questionGenerator.generate(phrase.getTokens(false))) {
-            console.log(question.toString());
+        for(let question of questionGenerator.generate(phrase.getTokens())) {
+            console.log(question);
         }
-        console.log("-------------------------------------------\n");
 
         for (let token of phrase.getTokens()) {
+            console.log("-----------------------------------------");
+            
             console.log(`word:         ${token.getWord()}`);
             console.log(`tag:          ${token.getTag()}`);
             console.log(`known word:   ${token.getKnown()}`);
             console.log(`probability:  ${token.getProbability()}`);
-            console.log("-----------------------------------------");
         }
     }
     console.timeEnd("tagger");
@@ -48,76 +52,84 @@ Just run ```npm start```.
 
 The result should be as shown below:
 ```
-A caça é ilegal.
-Probability: 0.6988733535074627
+--------------------------------------------------
+Text: O cachorro viu o homem no parque.
 
 Questions:
-------------------------------------------
-
-word:         A
-tag:          ART
-known word:   true
-probability:  0.7625080622869252
------------------------------------------
-word:         caça
-tag:          N
-known word:   true
-probability:  0.9285714285714286
------------------------------------------
-word:         é
-tag:          V
-known word:   true
-probability:  0.9870490286771508
------------------------------------------
-word:         ilegal
-tag:          ADJ
-known word:   true
-probability:  1
------------------------------------------
-word:         .
-tag:          END
-known word:   true
-probability:  1
------------------------------------------
-O leão caça a lebre.
-Probability: 0.021929756414838162
-
-Questions:
-Quem caça a lebre?
-O leão caça a lebre?
-------------------------------------------
-
+Quem viu o homem no parque?
+O cachorro viu o homem no parque?
+----------------------------------------
 word:         O
 tag:          ART
 known word:   true
-probability:  0.9394943848018602
------------------------------------------
-word:         leão
+probability:  0.26922951930994393
+----------------------------------------
+word:         cachorro
 tag:          N
 known word:   true
-probability:  0.42857142857142855
------------------------------------------
-word:         caça
+probability:  0.8143329241809083
+----------------------------------------
+word:         viu
 tag:          V
 known word:   true
-probability:  0.07142857142857142
------------------------------------------
-word:         a
+probability:  0.07634641716111365
+----------------------------------------
+word:         o
 tag:          ART
 known word:   true
-probability:  0.7625080622869252
------------------------------------------
-word:         lebre
+probability:  0.18582526882479022
+----------------------------------------
+word:         homem
 tag:          N
 known word:   true
-probability:  1
------------------------------------------
+probability:  0.7042879344267315
+----------------------------------------
+word:         no
+tag:          PREP+ART
+known word:   true
+probability:  0.12819540639411717
+----------------------------------------
+word:         parque
+tag:          N
+known word:   true
+probability:  0.27139855005460867
+----------------------------------------
 word:         .
 tag:          END
 known word:   true
-probability:  1
------------------------------------------
-tagger: 62.479ms
+probability:  0.10144980152967373
+--------------------------------------------------
+Text: Murilo Kunze gosta de programar.
+
+Questions:
+Quem gosta de programar?
+Murilo Kunze gosta de programar?
+----------------------------------------
+word:         Murilo Kunze
+tag:          NPROP
+known word:   true
+probability:  0.07437569406873772
+----------------------------------------
+word:         gosta
+tag:          V
+known word:   true
+probability:  0.09714904577918276
+----------------------------------------
+word:         de
+tag:          PREP
+known word:   true
+probability:  0.10937642560856944
+----------------------------------------
+word:         programar
+tag:          V
+known word:   true
+probability:  0.08880982082104785
+----------------------------------------
+word:         .
+tag:          END
+known word:   true
+probability:  0.02329477463103311
+tagger: 45.707ms
 ```
 
 <strong>Tagset</strong>

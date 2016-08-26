@@ -1,16 +1,17 @@
-import IQuestionGenerator = require("../IQuestionGenerator");
+import ITransformer = require("../ITransformer");
 import QuestionGenerator = require("../QuestionGenerator");
-import NP_VP_CONJ_NP_VP_GeneratorFactory = require("./NP_VP_CONJ_NP_VP_GeneratorFactory");
-import NP_VP_GeneratorFactory = require("./NP_VP_GeneratorFactory");
+import DefaultCYKParserFactory = require("../../Parser/Factory/DefaultCYKParserFactory");
+import SubjectTransformer = require("./SubjectTransformer");
 
 module DefaultQuestionGeneratorFactory {
     export var create = () => {
-        let generators: IQuestionGenerator[] = [
-            NP_VP_CONJ_NP_VP_GeneratorFactory.create(),
-            NP_VP_GeneratorFactory.create()
+        let generators: ITransformer[] = [
+            new SubjectTransformer()
         ];
         
-        return new QuestionGenerator(generators);
+        let parser = DefaultCYKParserFactory.create();
+
+        return new QuestionGenerator(parser, generators);
     }
 } 
 

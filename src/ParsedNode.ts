@@ -2,29 +2,33 @@ import ProbabilityToken = require("./ProbabilityToken");
 import IString = require("./IString");
 
 class ParsedNode implements IString {
-    constructor(private text: string, private nodeName: string, private parsedNodes?: ParsedNode[]) {
+    constructor(private text: string, private tag: string, private parsedNodes?: ParsedNode[]) {
         if (!(parsedNodes)) {
             this.parsedNodes = [];
         }
     }
 
-    public getNodeName(): string {
-        return this.nodeName;
+    public getTag(): string {
+        return this.tag;
+    }
+
+    public setNodeName(nodeName: string) {
+        this.tag = nodeName;
     }
 
     public isTag(tag: string) {
-        return this.nodeName === tag;
+        return this.tag === tag;
     }
-    
+
     public isEnd() {
-        return this.nodeName === "END"
+        return this.tag === "END"
     }
 
     public isBlankSpace() {
-        return this.nodeName === "BLANK-SPACE"
+        return this.tag === "BLANK-SPACE"
     }
 
-    public nodes() {
+    public getNodes(): ParsedNode[] {
         return this.parsedNodes;
     }
 
@@ -34,6 +38,14 @@ class ParsedNode implements IString {
 
     public getText() {
         return this.text;
+    }
+
+    public setText(text: string) {
+        this.text = text;
+    }
+
+    public clearNodes() {
+        this.parsedNodes = [];
     }
 
     public toString(): string {

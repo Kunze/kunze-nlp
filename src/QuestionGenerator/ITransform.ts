@@ -1,8 +1,7 @@
 import ParsedNode = require("../ParsedNode");
-import QuestionToken = require("./QuestionToken");
 
 interface ITransform {
-    (parsedNodes: ParsedNode): QuestionToken;
+    (parsedNodes: ParsedNode): string;
 }
 
 export = ITransform;
