@@ -29,12 +29,16 @@ VP -> V NP | V PP | V ADJ
 PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N | PREP V | PREP+ART V | PREP VP`;
 
     for (let phrase of text.getPhrases()) {
+        console.log("-".repeat(50));
+        console.log(`Text: ${phrase.toString()} \n`)
+        console.log("Questions:")
+
         for(let question of questionGenerator.generate(phrase.getTokens())) {
             console.log(question);
         }
 
         for (let token of phrase.getTokens()) {
-            console.log("-----------------------------------------");
+            console.log("-".repeat(40));
             
             console.log(`word:         ${token.getWord()}`);
             console.log(`tag:          ${token.getTag()}`);
