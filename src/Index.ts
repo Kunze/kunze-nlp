@@ -3,3 +3,4 @@ export import DefaultQuestionGeneratorFactory = require("./QuestionGenerator/Fac
 export import Text = require("./Text");
 export import DefaultCYKParserFactory = require("./Parser/Factory/DefaultCYKParserFactory");
 export import TextGrammarProvider = require("./Parser/TextGrammarProvider");
+export import CYKParser = require("./Parser/CYKParser");
