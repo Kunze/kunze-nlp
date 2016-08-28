@@ -1,5 +1,6 @@
 import assert = require("assert");
 import IParser = require("../src/Parser/IParser");
+import TextGrammarProvider = require("../src/Parser/TextGrammarProvider");
 import ParsedNode = require("../src/ParsedNode");
 import CYKParser = require("../src/Parser/CYKParser");
 import GrammarReader = require("../src/GrammarReader");
@@ -17,20 +18,19 @@ describe("CYKParser", () => {
             createToken("parque", "N")
         ]
 
-    let grammar = `
+        let grammarReader = new GrammarReader();
+        let grammar =`
 S -> NP VP
 NP -> ART N | NP PP
 VP -> V NP
-PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
-
-        let grammarReader = new GrammarReader();
-        let parser = new CYKParser(grammarReader);
-
-        let sentences: ParsedNode[] = parser.parse(tokens, grammar);
+PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`.trim();
+        let grammarProvider = new TextGrammarProvider(grammar);
+        let parser = new CYKParser(grammarReader, grammarProvider);
+        let sentences: ParsedNode[] = parser.parse(tokens);
         let sentence = sentences[0];
 
         let oCachorro = sentence.node(0);
-        
+
         assert.equal(sentence.getTag(), "S");
 
         assert.equal(oCachorro.getTag(), "NP");
@@ -65,16 +65,16 @@ PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
             createToken("parque", "N")
         ]
 
-    let grammar = `
+        let grammarReader = new GrammarReader();
+                let grammar =`
 S -> NP VP
 NP -> ART N | NP PP
 VP -> V NP
-PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`;
-
-        let grammarReader = new GrammarReader();
-        let parser = new CYKParser(grammarReader);
+PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`.trim();
+        let grammarProvider = new TextGrammarProvider(grammar);
+        let parser = new CYKParser(grammarReader, new TextGrammarProvider(grammar));
         let func = () => {
-            console.log(parser.parse(tokens, grammar))
+            console.log(parser.parse(tokens))
         };
 
         assert.throws(func, Error, "Invalid grammar");

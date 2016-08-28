@@ -9,16 +9,8 @@ class QuestionGenerator implements IQuestionGenerator {
     }
 
     public generate(tokens: ProbabilityToken[]): string[] {
-        //<TODO> criar um grammar provider
-        let grammar = `
-S -> NP VP
-CONJP -> KC S
-NP -> NPROP | ART N | NP PP
-VP -> V NP | V PP | V ADJ
-PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N | PREP V | PREP+ART V | PREP VP`
-
         //pode ter vários ambiguos
-        let parsedNodes = this.parser.parse(tokens, grammar);
+        let parsedNodes = this.parser.parse(tokens);
         let arrayOfQuestions: string[] = [];
 
         for (let transformer of this.transformers) {

@@ -1,4 +1,5 @@
 import IParser = require("./IParser");
+import IGrammarProvider = require("./IGrammarProvider");
 import ProbabilityToken = require("../ProbabilityToken");
 import ParsedNode = require("../ParsedNode");
 import GrammarReader = require("../GrammarReader");
@@ -7,19 +8,16 @@ import ParsedNodeCollection = require("../ParsedNodeCollection");
 import ParsedNodeFactory = require("../ParsedNodeFactory");
 
 class CYKParser implements IParser {
-    constructor(private grammarReader: GrammarReader) {
+    constructor(private grammarReader: GrammarReader, private grammarProvider: IGrammarProvider) {
 
     }
 
-    public parse(probabilityTokens: ProbabilityToken[], grammar: string, removeEndToken: boolean = true): ParsedNode[] {
+    public parse(probabilityTokens: ProbabilityToken[]): ParsedNode[] {
+        let grammar = this.grammarProvider.provide();
         let grammarRules = this.grammarReader.parse(grammar);
-        let tokens = probabilityTokens;
-
-        if (removeEndToken) {
-            tokens = probabilityTokens.filter((token) => {
-                return !token.isEndPoint();
-            });
-        }
+        let tokens = probabilityTokens.filter((token) => {
+            return !token.isEndPoint();
+        });
 
         let P = this.initializeArray(tokens.length);
         P = this.fillFirstLine(P, tokens, grammarRules);
@@ -42,7 +40,7 @@ class CYKParser implements IParser {
 
                             if (nodeTag = grammarRules.get(parsedNodeCollection.getTags())) {
                                 let parsedNode = ParsedNodeFactory.create(parsedNodeCollection, nodeTag);
-                            
+
                                 //se existir uma combinação salvo num array
                                 P[i - 1][j - 1].push(parsedNode);
                             }
@@ -53,13 +51,13 @@ class CYKParser implements IParser {
         }
 
         let trees = P[P.length - 1][0];
-        
+
         if (trees.length) {
             return trees;
         }
 
         //<TODO> retornar as partes que conseguiu encontrar
-        throw new Error("Invalid grammar");
+        throw new Error("Grammar not recognized");
     }
 
     private initializeArray(length: number): any[] {
@@ -83,7 +81,7 @@ class CYKParser implements IParser {
 
             //gravo num array pois nos próximos passos podem haver mais de um ParsedNode
             P[0][index] = [
-                new ParsedNode(token.getWord(),terminalTag ? terminalTag : token.getTag())
+                new ParsedNode(token.getWord(), terminalTag ? terminalTag : token.getTag())
             ];
         }
 

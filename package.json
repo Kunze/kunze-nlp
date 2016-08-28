@@ -1,6 +1,6 @@
 {
   "name": "kunze-nlp",
-  "version": "1.2.3",
+  "version": "1.3.0",
   "description": "Kunze natural language processing",
   "main": "build/src/Index.js",
   "typings": "build/src/Index.d.ts",
