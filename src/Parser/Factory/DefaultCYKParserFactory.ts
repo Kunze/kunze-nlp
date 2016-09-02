@@ -1,6 +1,5 @@
 import CYKParser = require("../CYKParser");
-import GrammarReader = require("../../GrammarReader");
-import TextGrammarProvider = require("../TextGrammarProvider");
+import GrammarBuilder = require("../../Parser/GrammarBuilder");
 
 module DefaultCYKParserFactory {
     export var create = (): CYKParser => {
@@ -11,7 +10,7 @@ NP -> N | NPROP | ART N | ART NPROP | ART NP | NP PP
 VP -> V NP | V PP | V ADJ
 PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N | PREP V | PREP+ART V | PREP VP`;
 
-        return new CYKParser(new GrammarReader(), new TextGrammarProvider(grammar.trim()));
+        return new CYKParser(grammar.trim());
     }
 }
 

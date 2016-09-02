@@ -1,9 +1,7 @@
 import assert = require("assert");
 import IParser = require("../src/Parser/IParser");
-import TextGrammarProvider = require("../src/Parser/TextGrammarProvider");
 import ParsedNode = require("../src/ParsedNode");
 import CYKParser = require("../src/Parser/CYKParser");
-import GrammarReader = require("../src/GrammarReader");
 import ProbabilityToken = require("../src/ProbabilityToken");
 
 describe("CYKParser", () => {
@@ -18,14 +16,12 @@ describe("CYKParser", () => {
             createToken("parque", "N")
         ]
 
-        let grammarReader = new GrammarReader();
-        let grammar =`
+        let grammar = `
 S -> NP VP
 NP -> ART N | NP PP
 VP -> V NP
 PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`.trim();
-        let grammarProvider = new TextGrammarProvider(grammar);
-        let parser = new CYKParser(grammarReader, grammarProvider);
+        let parser = new CYKParser(grammar);
         let sentences: ParsedNode[] = parser.parse(tokens);
         let sentence = sentences[0];
 
@@ -65,14 +61,12 @@ PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`.trim();
             createToken("parque", "N")
         ]
 
-        let grammarReader = new GrammarReader();
-                let grammar =`
+        let grammar = `
 S -> NP VP
 NP -> ART N | NP PP
 VP -> V NP
 PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`.trim();
-        let grammarProvider = new TextGrammarProvider(grammar);
-        let parser = new CYKParser(grammarReader, new TextGrammarProvider(grammar));
+        let parser = new CYKParser(grammar);
         let func = () => {
             console.log(parser.parse(tokens))
         };

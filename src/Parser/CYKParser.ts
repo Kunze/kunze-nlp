@@ -1,20 +1,18 @@
 import IParser = require("./IParser");
-import IGrammarProvider = require("./IGrammarProvider");
 import ProbabilityToken = require("../ProbabilityToken");
 import ParsedNode = require("../ParsedNode");
-import GrammarReader = require("../GrammarReader");
+import GrammarBuilder = require("./GrammarBuilder");
 import GrammarRulesProxy = require("../GrammarRulesProxy");
 import ParsedNodeCollection = require("../ParsedNodeCollection");
 import ParsedNodeFactory = require("../ParsedNodeFactory");
 
 class CYKParser implements IParser {
-    constructor(private grammarReader: GrammarReader, private grammarProvider: IGrammarProvider) {
+    constructor(private grammar: string) {
 
     }
 
     public parse(probabilityTokens: ProbabilityToken[]): ParsedNode[] {
-        let grammar = this.grammarProvider.provide();
-        let grammarRules = this.grammarReader.parse(grammar);
+        let grammarRules = GrammarBuilder.fromText(this.grammar);
         let tokens = probabilityTokens.filter((token) => {
             return !token.isEndPoint();
         });

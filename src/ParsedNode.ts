@@ -48,6 +48,23 @@ class ParsedNode implements IString {
         this.parsedNodes = [];
     }
 
+    /**
+    * Get first child parsedNode tags
+    */
+    public getFirstChildTagName() {
+        let tags = "";
+
+        for (let node of this.parsedNodes) {
+            if (!tags) {
+                tags = node.getTag();
+            } else {
+                tags = `${tags} ${node.getTag()}`;
+            }
+        }
+
+        return tags;
+    }
+
     public toString(): string {
         if (this.text) {
             return this.text;
