@@ -2,7 +2,7 @@ import IParser = require("./IParser");
 import ProbabilityToken = require("../ProbabilityToken");
 import ParsedNode = require("../ParsedNode");
 import GrammarBuilder = require("./GrammarBuilder");
-import GrammarRulesProxy = require("../GrammarRulesProxy");
+import Grammar = require("../Grammar");
 import ParsedNodeCollection = require("../ParsedNodeCollection");
 import ParsedNodeFactory = require("../ParsedNodeFactory");
 
@@ -72,7 +72,7 @@ class CYKParser implements IParser {
         return P;
     }
 
-    private fillFirstLine(P: any[], tokens: ProbabilityToken[], grammarProxy: GrammarRulesProxy): any[] {
+    private fillFirstLine(P: any[], tokens: ProbabilityToken[], grammarProxy: Grammar): any[] {
         for (var index = 0; index < tokens.length; index++) {
             var token = tokens[index];
             var terminalTag = grammarProxy.get(token.getTag());

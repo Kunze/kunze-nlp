@@ -32,7 +32,7 @@ NP -> ART N | NP PP | ART N
 VP -> V NP
 PP -> PREP+ART N`.trim();
 
-        let grammarRulesProxy = GrammarBuilder.fromParsedNodes(nodes);
-        assert.equal(grammarRulesProxy.toGrammar(), expected)
+        let grammar = GrammarBuilder.fromParsedNodes(nodes);
+        assert.equal(grammar.toGrammar(), expected)
     });
 });

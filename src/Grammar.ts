@@ -1,7 +1,7 @@
 import GrammarRule = require("./GrammarRule");
 import ProbabilityToken = require("./ProbabilityToken");
 
-class GrammarRulesProxy {
+class Grammar {
     private rules: GrammarRule[] = [];
 
     public getRule(index: number): GrammarRule {
@@ -49,4 +49,4 @@ class GrammarRulesProxy {
     }
 }
 
-export = GrammarRulesProxy;
+export = Grammar;

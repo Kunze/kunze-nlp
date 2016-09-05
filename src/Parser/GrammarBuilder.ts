@@ -1,13 +1,13 @@
 import ParsedNode = require("../ParsedNode");
-import GrammarRulesProxy = require("../GrammarRulesProxy");
+import Grammar = require("../Grammar");
 
 class GrammarBuilder {
-    public static fromParsedNodes(parsedNodes: ParsedNode[]): GrammarRulesProxy {
-        let grammarRulesProxy = new GrammarRulesProxy();
+    public static fromParsedNodes(parsedNodes: ParsedNode[]): Grammar {
+        let grammar = new Grammar();
 
         let func = (parsedNode: ParsedNode) => {
             if (parsedNode.getNodes().length > 0) {
-                grammarRulesProxy.add(parsedNode.getTag(), parsedNode.getFirstChildTagName())
+                grammar.add(parsedNode.getTag(), parsedNode.getFirstChildTagName())
 
                 for (let node of parsedNode.getNodes()) {
                     func(node);
@@ -19,12 +19,12 @@ class GrammarBuilder {
             func(node);
         }
 
-        return grammarRulesProxy;
+        return grammar;
     }
 
-    public static fromText(grammar: string): GrammarRulesProxy {
-        let lines = grammar.split(/\n/g),
-            grammarRulesProxy = new GrammarRulesProxy();
+    public static fromText(grammarText: string): Grammar {
+        let lines = grammarText.split(/\n/g),
+            grammar = new Grammar();
 
         for (let line of lines) {
             if (!(line.trim())) {
@@ -37,11 +37,11 @@ class GrammarBuilder {
             let rules = lineSplittedByArrow[1].trim();
 
             for (let rule of rules.split("|")) { // V | V PP |
-                grammarRulesProxy.add(grammarRuleName, rule.trim()); //V
+                grammar.add(grammarRuleName, rule.trim()); //V
             }
         }
 
-        return grammarRulesProxy;
+        return grammar;
     }
 }
 
