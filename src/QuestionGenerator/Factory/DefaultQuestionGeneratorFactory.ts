@@ -1,18 +1,17 @@
 import ITransformer = require("../ITransformer");
 import QuestionGenerator = require("../QuestionGenerator");
-import DefaultCYKParserFactory = require("../../Parser/Factory/DefaultCYKParserFactory");
+import CorporaCYKParserFactory = require("../../Parser/Factory/CorporaCYKParserFactory");
 import SubjectTransformer = require("./SubjectTransformer");
+import IQuestionGenerator = require("../IQuestionGenerator");
 
-module DefaultQuestionGeneratorFactory {
-    export var create = () => {
-        let generators: ITransformer[] = [
-            new SubjectTransformer()
-        ];
-        
-        let parser = DefaultCYKParserFactory.create();
+export var create = () : Promise<IQuestionGenerator> => {
+    let generators: ITransformer[] = [
+        new SubjectTransformer()
+    ];
 
-        return new QuestionGenerator(parser, generators);
-    }
-} 
-
-export = DefaultQuestionGeneratorFactory;
+    return new Promise<IQuestionGenerator>((resolve, reject) => {
+        CorporaCYKParserFactory.create().then((iparser)=> {
+            resolve(new QuestionGenerator(iparser, generators));
+        });
+    });
+}

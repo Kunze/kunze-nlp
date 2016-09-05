@@ -32,7 +32,7 @@ class Grammar {
         }
     }
 
-    public toGrammar() {
+    public toString() {
         let grammar = "";
 
         for (let rule of this.rules) {

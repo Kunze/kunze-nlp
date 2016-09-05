@@ -1,0 +1,172 @@
+[
+    {
+        "text": "O cachorro viu o homem no parque.",
+        "tag": "S",
+        "parsedNodes": [
+            {
+                "text": "O cachorro",
+                "tag": "NP",
+                "parsedNodes": [
+                    {
+                        "text": "O",
+                        "tag": "ART",
+                        "parsedNodes": []
+                    },
+                    {
+                        "text": "cachorro",
+                        "tag": "N",
+                        "parsedNodes": []
+                    }
+                ]
+            },
+            {
+                "text": "viu o homem no parque",
+                "tag": "VP",
+                "parsedNodes": [
+                    {
+                        "text": "viu",
+                        "tag": "V",
+                        "parsedNodes": []
+                    },
+                    {
+                        "text": "o homem no parque",
+                        "tag": "NP",
+                        "parsedNodes": [
+                            {
+                                "text": "o homem",
+                                "tag": "NP",
+                                "parsedNodes": [
+                                    {
+                                        "text": "o",
+                                        "tag": "ART",
+                                        "parsedNodes": []
+                                    },
+                                    {
+                                        "text": "homem",
+                                        "tag": "N",
+                                        "parsedNodes": []
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "no parque",
+                                "tag": "PP",
+                                "parsedNodes": [
+                                    {
+                                        "text": "no",
+                                        "tag": "PREP+ART",
+                                        "parsedNodes": []
+                                    },
+                                    {
+                                        "text": "parque",
+                                        "tag": "NP",
+                                        "parsedNodes": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Ele não gosta de trabalhar com programação de noite",
+        "tag": "S",
+        "parsedNodes": [
+            {
+                "text": "Ele",
+                "tag": "NP",
+                "parsedNodes": [
+                    {
+                        "text": "Ele",
+                        "tag": "PROPESS",
+                        "parsedNodes": []
+                    }
+                ]
+            },
+            {
+                "text": "não gosta de trabalhar com programação de noite",
+                "tag": "VP",
+                "parsedNodes": [
+                    {
+                        "text": "não",
+                        "tag": "ADV",
+                        "parsedNodes": []
+                    },
+                    {
+                        "text": "gosta de trabalhar com programação de noite",
+                        "tag": "VP",
+                        "parsedNodes": [
+                            {
+                                "text": "gosta",
+                                "tag": "V",
+                                "parsedNodes": []
+                            },
+                            {
+                                "text": "de trabalhar com programação de noite",
+                                "tag": "PP",
+                                "parsedNodes": [
+                                    {
+                                        "text": "de",
+                                        "tag": "PREP",
+                                        "parsedNodes": []
+                                    },
+                                    {
+                                        "text": "trabalhar com programação de noite",
+                                        "tag": "VP",
+                                        "parsedNodes": [
+                                            {
+                                                "text": "trabalhar",
+                                                "tag": "V",
+                                                "parsedNodes": []
+                                            },
+                                            {
+                                                "text": "com programação de noite",
+                                                "tag": "PP",
+                                                "parsedNodes": [
+                                                    {
+                                                        "text": "com",
+                                                        "tag": "PREP",
+                                                        "parsedNodes": []
+                                                    },
+                                                    {
+                                                        "text": "programação de noite",
+                                                        "tag": "NP",
+                                                        "parsedNodes": [
+                                                            {
+                                                                "text": "programação",
+                                                                "tag": "N",
+                                                                "parsedNodes": []
+                                                            },
+                                                            {
+                                                                "text": "de noite",
+                                                                "tag": "PP",
+                                                                "parsedNodes": [
+                                                                    {
+                                                                        "text": "de",
+                                                                        "tag": "PREP",
+                                                                        "parsedNodes": []
+                                                                    },
+                                                                    {
+                                                                        "text": "noite",
+                                                                        "tag": "N",
+                                                                        "parsedNodes": []
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
