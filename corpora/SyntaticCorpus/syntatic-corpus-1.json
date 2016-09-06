@@ -168,5 +168,87 @@
                 ]
             }
         ]
+    },
+    {
+        "text": "",
+        "tag": "S",
+        "parsedNodes": [
+            {
+                "text": "A caça é ilegal mas o leão mata",
+                "tag": "S",
+                "parsedNodes": [
+                    {
+                        "text": "A caça",
+                        "tag": "NP",
+                        "parsedNodes": [
+                            {
+                                "text": "A",
+                                "tag": "ART",
+                                "parsedNodes": []
+                            },
+                            {
+                                "text": "caça",
+                                "tag": "N",
+                                "parsedNodes": []
+                            }
+                        ]
+                    },
+                    {
+                        "text": "é ilegal mas o leão mata",
+                        "tag": "VP",
+                        "parsedNodes": [
+                            {
+                                "text": "é ilegal",
+                                "tag": "VP",
+                                "parsedNodes": [
+                                    {
+                                        "text": "é",
+                                        "tag": "V",
+                                        "parsedNodes": []
+                                    },
+                                    {
+                                        "text": "ilegal",
+                                        "tag": "ADJ",
+                                        "parsedNodes": []
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "mas o leão mata",
+                                "tag": "CONJP",
+                                "parsedNodes": [
+                                    {
+                                        "text": "mas",
+                                        "tag": "KC",
+                                        "parsedNodes": []
+                                    },
+                                    {
+                                        "text": "o leão caça",
+                                        "tag": "S",
+                                        "parsedNodes": [
+                                            {
+                                                "text": "o leão",
+                                                "tag": "NP",
+                                                "parsedNodes": []
+                                            },
+                                            {
+                                                "text": "caça",
+                                                "tag": "V",
+                                                "parsedNodes": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": ".",
+                "tag": "END",
+                "parsedNodes": []
+            }
+        ]
     }
 ]
