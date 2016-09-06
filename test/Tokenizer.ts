@@ -7,7 +7,6 @@ describe("Tokenizer", () => {
         
         let tokenizer = new Tokenizer();
         let tokens = tokenizer.tokens(text);
-        //tokenizer não está pegando um blank space depois da virgula 
         assert.equal(tokens.length, 25)
     });
     
@@ -18,14 +17,5 @@ describe("Tokenizer", () => {
        let tokens = tokenizer.tokens(text);
         
        assert.equal(tokens.length, 8);
-    });
-    
-    it("Ignore empty spaces at the end of phrase", function() {
-       let text = "Meu nome é Murilo     ." 
-       
-       let tokenizer = new Tokenizer();
-       let tokens = tokenizer.tokens(text);
-        
-       assert.equal(tokens.length, 9);
     });
 });

@@ -4,29 +4,6 @@ import Text = require("./Text");
 import TaggedToken = require("./TaggedToken");
 import ParsedNode = require("./ParsedNode");
 
-// console.log(JSON.stringify(new ParsedNode("", "S", [
-//     new ParsedNode("A caça é ilegal mas o leão mata", "S", [
-//         new ParsedNode("A caça", "NP", [
-//             new ParsedNode("A", "ART"),
-//             new ParsedNode("caça", "N")
-//         ]),
-//         new ParsedNode("é ilegal mas o leão mata", "VP", [
-//             new ParsedNode("é ilegal", "VP", [
-//                 new ParsedNode("é", "V"),
-//                 new ParsedNode("ilegal", "ADJ"),
-//             ]),
-//             new ParsedNode("mas o leão mata", "CONJP", [
-//                 new ParsedNode("mas", "KC"),
-//                 new ParsedNode("o leão caça", "S", [
-//                     new ParsedNode("o leão", "NP"),
-//                     new ParsedNode("caça", "V")
-//                 ])
-//             ]),
-//         ])
-//     ]),
-//     new ParsedNode(".", "END")
-// ])));
-
 DefaultQuestionGeneratorFactory.create().then((questionGenerator) => {
     DefaultViterbiTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");

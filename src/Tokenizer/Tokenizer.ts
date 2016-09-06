@@ -4,22 +4,27 @@ import Token = require("../Token");
 class Tokenizer implements ITokenizer {
     //essa regex ta uma merda
     //arrumar mais tarde
-    private splitRegex: RegExp = /([^\s]+)(\s|,|.$)/g;
+    private splitRegex: RegExp = /([^\s,]+)(\s|,|.$)(\s?)/g;
 
     //Exemplo: Meu email é murilokunze@hotmail.com, e meu nome é Murilo.
-    //["Meu", " "], ["email", " "], 
-    //["é", " "], ["murilokunze@hotmail.com", ","], ["e", " "], 
-    //["meu", " "], ["nome", " "], ["Murilo", "."]
-    //TODO: tokenizer não está pegando um blank space depois da virgula
+    //["Meu", " ", ""], ["email", " ", ""], 
+    //["é", " ", ""], ["murilokunze@hotmail.com", ",", " "], ["e", " ", ""], 
+    //["meu", " ", ""], ["nome", " ", ""], ["Murilo", ".", ""]
     public tokens(text: string): Token[] {
-        let match: RegExpExecArray, matches: Token[] = [];
+        let matches: RegExpExecArray, tokens: Token[] = [];
 
-        while (match = this.splitRegex.exec(text)) {
-            matches.push(new Token(match[1])); //"Murilo" word
-            matches.push(new Token(match[2])); //" " blank space
+        while (matches = this.splitRegex.exec(text)) {
+            //começo no zero porque o 0 é a frase inteira
+            for (var index = 1; index < matches.length; index++) {
+                var match = matches[index];
+
+                if (match) {
+                    tokens.push(new Token(match));
+                }
+            }
         }
 
-        return matches;
+        return tokens;
     }
 }
 
