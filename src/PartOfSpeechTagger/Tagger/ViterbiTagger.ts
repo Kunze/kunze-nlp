@@ -64,7 +64,7 @@ class ViterbiTagger implements IPartOfSpeechTagger {
                 //só haverá 1 resultado se o último token for um END
                 var mostlyProbableTokens = results[0];
                 mostlyProbableTokens.shift(); //removo o START
-                
+
                 return mostlyProbableTokens;
             }
 
@@ -84,23 +84,24 @@ class ViterbiTagger implements IPartOfSpeechTagger {
 
             var possibleTags: ProbabilityToken[][] = [];
             for (let firstProbabilityToken of results) { // ["N", "NPROP"]
-                var transitions = this._transitions.get(firstProbabilityToken[firstProbabilityToken.length -1].getTag());
+                var transitions = this._transitions.get(firstProbabilityToken[firstProbabilityToken.length - 1].getTag());
 
                 for (let secondProbabilityTokenx of next) { // ["V", "VAUX"]
                     var secondProbabilityToken = secondProbabilityTokenx.copy();
                     var transitionToSecondTag = transitions.getTag(secondProbabilityToken.getTag());
 
                     if (transitionToSecondTag) {
-                        secondProbabilityToken.applyTransition(transitions);
+                        let transitionProbability = transitions.getTag(secondProbabilityToken.getTag()).getCount() / transitions.getCount();
+                        secondProbabilityToken.applyTransition(transitionProbability);
 
                         var possibleTag: ProbabilityToken[] = [...firstProbabilityToken, secondProbabilityToken];
 
                         var result = possibleTags.find(result => {
-                            return result[result.length -1].getTag() === secondProbabilityToken.getTag();
+                            return result[result.length - 1].getTag() === secondProbabilityToken.getTag();
                         });
 
                         if (result) {
-                            if (result[result.length -1].getProbability() > secondProbabilityToken.getProbability()) {
+                            if (result[result.length - 1].getProbability() > secondProbabilityToken.getProbability()) {
                                 continue;
                             }
 
@@ -195,22 +196,19 @@ class ViterbiTagger implements IPartOfSpeechTagger {
 
             var mostProbablyTokens: ProbabilityToken[] = this.applyViterbi(arrayOfProbabilityTokens);
 
-            //adiciono os blank-space
-            for (let emission of arrayOfProbabilityTokens) {
-                let isBlankSpace = emission.find((e) => {
+            //Adiciono os blank-space
+            for (var index = 0; index < arrayOfProbabilityTokens.length; index++) {
+                let isBlankSpace = arrayOfProbabilityTokens[index].find((e) => {
                     return e.isBlankSpace();
                 });
 
-                if (isBlankSpace) {
-                    tokenResults.push(new BlankSpaceProbabilityToken())
-                }
-                else {
-                    tokenResults.push(mostProbablyTokens.shift());
+                if(isBlankSpace) {
+                    mostProbablyTokens.splice(index, 0, new BlankSpaceProbabilityToken)
                 }
             }
         }
 
-        return tokenResults;
+        return mostProbablyTokens;
     }
 }
 

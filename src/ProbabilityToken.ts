@@ -14,9 +14,7 @@ class ProbabilityToken extends TaggedToken {
         return this.known;
     }
 
-    public applyTransition(counter: Counter) {
-        let probability = counter.getTag(this.getTag()).getCount() / counter.getCount();
-
+    public applyTransition(probability: number) {
         this.probability *= probability;
     }
 

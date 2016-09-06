@@ -250,5 +250,6 @@
                 "parsedNodes": []
             }
         ]
-    }
+    },
+    {"text":"Porém, foi feito de outra forma.","tag":"S","parsedNodes":[{"text":"Porém,","tag":"KC","parsedNodes":[{"text":"Porém","tag":"KC","parsedNodes":[]},{"text":",","tag":"PU","parsedNodes":[]}]},{"text":"foi feito de outra forma.","tag":"VP","parsedNodes":[{"text":"foi","tag":"V","parsedNodes":[]},{"text":"feito de outra forma.","tag":"VP","parsedNodes":[{"text":"feito","tag":"PCP","parsedNodes":[]},{"text":"de outra forma.","tag":"PP","parsedNodes":[{"text":"de","tag":"PREP","parsedNodes":[]},{"text":"outra forma.","tag":"NP","parsedNodes":[{"text":"outra","tag":"PROADJ","parsedNodes":[]},{"text":"forma","tag":"PREP","parsedNodes":[]}]}]}]}]}]}
 ]
