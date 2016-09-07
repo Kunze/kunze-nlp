@@ -65,6 +65,120 @@ class ParsedNode implements IString {
         return tags;
     }
 
+    public findAll(tags: string): ParsedNode[] {
+        let parsedNodes: ParsedNode[] = [];
+        let findAll = (parent: ParsedNode) => {
+            if (parent.getFirstChildTagName() == tags) {
+                parsedNodes.push(parent);
+            }
+
+            for (let child of parent.getNodes()) {
+                findAll(child);
+            }
+        }
+
+        findAll(this);
+
+        return parsedNodes;
+    }
+
+    public hasTag(tag: string): boolean {
+        for (let parsedNode of this.getNodes()) {
+            if (parsedNode.isTag(tag)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    public replaceTag(text: string, tag: string) {
+        let func = (father: ParsedNode) => {
+            if (father.getTag() == tag) {
+                father.setText(text);
+                father.setNodeName(tag);
+                father.clearNodes();
+
+                return;
+            }
+
+            for (let child of father.getNodes()) {
+                return func(child);
+            }
+        }
+
+        func(this);
+
+        this.regenerateText();
+    }
+
+    /*
+    * Get the first parsed result
+    * @param {string} tag - Tag to be searched.
+    * @returns {ParsedResult} Parsed result 
+    */
+    public find(tag: string): ParsedNode {
+        if (this.tag === tag) {
+            return this;
+        }
+
+        let find = (father: ParsedNode) => {
+            if (father.getTag() == tag) {
+                return father;
+            }
+
+            for (let child of father.getNodes()) {
+                let tag = find(child);
+
+                if (tag) {
+                    return child;
+                }
+            }
+        }
+
+        let node = find(this);
+        return node;
+    }
+
+    private regenerateText() {
+        let regenerateText = (father: ParsedNode) => {
+            if (father.getNodes().length > 0) {
+                let text = "";
+
+                for (let child of father.getNodes()) {
+                    let childText = regenerateText(child);
+
+                    text = text == "" ? childText : text + " " + childText;
+                }
+
+                father.setText(text);
+
+                return text;
+            }
+            else {
+                return father.getText();
+            }
+        }
+
+        let text = regenerateText(this);
+
+        this.setText(text);
+    }
+
+    public clone(): ParsedNode {
+        function clone(parent: ParsedNode) {
+            let nodes = [];
+
+            for(let child of parent.getNodes()) {
+                nodes.push(clone(child));
+            }
+
+            return new ParsedNode(parent.getText(), parent.getTag(), nodes);
+        }
+
+        return clone(this);
+    }
+
     public toString(): string {
         if (this.text) {
             return this.text;

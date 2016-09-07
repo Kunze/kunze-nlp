@@ -1,7 +1,7 @@
-import ProbabilityToken = require("../ProbabilityToken");
+import ParsedNode = require("../ParsedNode");
 
 interface IQuestionGenerator {
-    generate(parsedNodes: ProbabilityToken[]): string[];
+    generate(parsedNodes: ParsedNode[]): string[];
 }
 
 export = IQuestionGenerator;

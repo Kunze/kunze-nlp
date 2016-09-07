@@ -79,7 +79,9 @@ class CYKParser implements IParser {
 
             //gravo num array pois nos próximos passos podem haver mais de um ParsedNode
             P[0][index] = [
-                new ParsedNode(token.getWord(), terminalTag ? terminalTag : token.getTag())
+                new ParsedNode(token.getWord(), terminalTag ? terminalTag : token.getTag(), [
+                    new ParsedNode(token.getWord(), token.getTag())
+                ])
             ];
         }
 

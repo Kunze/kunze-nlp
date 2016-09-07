@@ -1,14 +1,16 @@
 import DefaultViterbiTaggerFactory = require("./PartOfSpeechTagger/Factory/DefaultViterbiTaggerFactory");
 import DefaultQuestionGeneratorFactory = require("./QuestionGenerator/Factory/DefaultQuestionGeneratorFactory");
+import CorporaCYKParserFactory = require("./Parser/Factory/CorporaCYKParserFactory");
 import Text = require("./Text");
 import TaggedToken = require("./TaggedToken");
 import ParsedNode = require("./ParsedNode");
 
-DefaultQuestionGeneratorFactory.create().then((questionGenerator) => {
+let questionGenerator = DefaultQuestionGeneratorFactory.create();
+CorporaCYKParserFactory.create().then((parser) => {
     DefaultViterbiTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");
 
-        let phrases = "Porém, foi feito de outra forma.";
+        let phrases = "Murilo Kunze gosta de programar e caminhar.";
         let tokens = tagger.tag(phrases);
         let text = new Text(tokens);
 
@@ -17,7 +19,9 @@ DefaultQuestionGeneratorFactory.create().then((questionGenerator) => {
             console.log(`Text: ${phrase.toString()} \n`)
             console.log("Questions:")
 
-            for (let question of questionGenerator.generate(phrase.getTokens())) {
+            let parsedNodes = parser.parse(phrase.getTokens());
+
+            for (let question of questionGenerator.generate(parsedNodes)) {
                 console.log(question);
             }
 

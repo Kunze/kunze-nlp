@@ -1,17 +1,13 @@
 import ITransformer = require("../ITransformer");
 import QuestionGenerator = require("../QuestionGenerator");
 import CorporaCYKParserFactory = require("../../Parser/Factory/CorporaCYKParserFactory");
-import SubjectTransformer = require("./SubjectTransformer");
+import SubjectTransformer = require("../Transformers/SubjectTransformer");
 import IQuestionGenerator = require("../IQuestionGenerator");
 
-export var create = () : Promise<IQuestionGenerator> => {
+export var create = () : IQuestionGenerator => {
     let generators: ITransformer[] = [
         new SubjectTransformer()
     ];
 
-    return new Promise<IQuestionGenerator>((resolve, reject) => {
-        CorporaCYKParserFactory.create().then((iparser)=> {
-            resolve(new QuestionGenerator(iparser, generators));
-        });
-    });
+    return new QuestionGenerator(generators)
 }
