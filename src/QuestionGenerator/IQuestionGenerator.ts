@@ -1,7 +1,7 @@
-import ParsedNode = require("../ParsedNode");
+import CYKTable = require("../Parser/CYKTable");
 
 interface IQuestionGenerator {
-    generate(parsedNodes: ParsedNode[]): string[];
+    generate(parsedNodes: CYKTable): string[];
 }
 
 export = IQuestionGenerator;

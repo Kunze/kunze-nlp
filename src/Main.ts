@@ -3,14 +3,14 @@ import DefaultQuestionGeneratorFactory = require("./QuestionGenerator/Factory/De
 import CorporaCYKParserFactory = require("./Parser/Factory/CorporaCYKParserFactory");
 import Text = require("./Text");
 import TaggedToken = require("./TaggedToken");
-import ParsedNode = require("./ParsedNode");
+import CYKTable = require("./Parser/CYKTable");
 
 let questionGenerator = DefaultQuestionGeneratorFactory.create();
 CorporaCYKParserFactory.create().then((parser) => {
     DefaultViterbiTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");
 
-        let phrases = "Murilo Kunze gosta de programar e caminhar.";
+        let phrases = "Murilo Kunze gosta de programar e nadar.";
         let tokens = tagger.tag(phrases);
         let text = new Text(tokens);
 
@@ -19,9 +19,9 @@ CorporaCYKParserFactory.create().then((parser) => {
             console.log(`Text: ${phrase.toString()} \n`)
             console.log("Questions:")
 
-            let parsedNodes = parser.parse(phrase.getTokens());
+            let cykTable: CYKTable = parser.parse(phrase.getTokens());
 
-            for (let question of questionGenerator.generate(parsedNodes)) {
+            for (let question of questionGenerator.generate(cykTable)) {
                 console.log(question);
             }
 

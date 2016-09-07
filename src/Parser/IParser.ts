@@ -1,8 +1,8 @@
 import ProbabilityToken = require("../ProbabilityToken");
-import ParsedNode = require("../ParsedNode");
+import CYKTable = require("./CYKTable");
 
 interface IParser {
-    parse(tokens: ProbabilityToken[], grammar?: string): ParsedNode[]
+    parse(tokens: ProbabilityToken[], grammar?: string): CYKTable
 }
 
 export = IParser;

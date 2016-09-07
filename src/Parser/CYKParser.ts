@@ -5,19 +5,20 @@ import GrammarBuilder = require("./GrammarBuilder");
 import Grammar = require("../Grammar");
 import ParsedNodeCollection = require("../ParsedNodeCollection");
 import ParsedNodeFactory = require("../ParsedNodeFactory");
+import CYKTable = require("./CYKTable");
 
 class CYKParser implements IParser {
     constructor(private grammar: string) {
 
     }
 
-    public parse(probabilityTokens: ProbabilityToken[]): ParsedNode[] {
+    public parse(probabilityTokens: ProbabilityToken[]): CYKTable {
         let grammarRules = GrammarBuilder.fromText(this.grammar);
         let tokens = probabilityTokens.filter((token) => {
             return !token.isEndPoint();
         });
 
-        let P = this.initializeArray(tokens.length);
+        let P: ParsedNode[][][] = this.initializeArray(tokens.length);
         P = this.fillFirstLine(P, tokens, grammarRules);
 
         for (var i = 2; i <= tokens.length; i++) { //percorre as linhas
@@ -36,6 +37,7 @@ class CYKParser implements IParser {
                             let parsedNodeCollection = new ParsedNodeCollection([firstToken, secondToken]);
                             let nodeTag = "";
 
+                            //<TODO> considerar o retorno de várias regras
                             if (nodeTag = grammarRules.get(parsedNodeCollection.getTags())) {
                                 let parsedNode = ParsedNodeFactory.create(parsedNodeCollection, nodeTag);
 
@@ -48,17 +50,10 @@ class CYKParser implements IParser {
             }
         }
 
-        let trees = P[P.length - 1][0];
-
-        if (trees.length) {
-            return trees;
-        }
-
-        //<TODO> retornar as partes que conseguiu encontrar
-        throw new Error("Grammar not recognized");
+        return new CYKTable(P);
     }
 
-    private initializeArray(length: number): any[] {
+    private initializeArray(length: number): ParsedNode[][][] {
         var P = new Array(length);
 
         for (let i = 0; i < length; i++) {
@@ -72,7 +67,7 @@ class CYKParser implements IParser {
         return P;
     }
 
-    private fillFirstLine(P: any[], tokens: ProbabilityToken[], grammarProxy: Grammar): any[] {
+    private fillFirstLine(P: ParsedNode[][][], tokens: ProbabilityToken[], grammarProxy: Grammar): ParsedNode[][][] {
         for (var index = 0; index < tokens.length; index++) {
             var token = tokens[index];
             var terminalTag = grammarProxy.get(token.getTag());

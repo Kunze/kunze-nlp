@@ -1,6 +1,6 @@
 import assert = require("assert");
 import IParser = require("../src/Parser/IParser");
-import ParsedNode = require("../src/ParsedNode");
+import CYKTable = require("../src/Parser/CYKTable");
 import CYKParser = require("../src/Parser/CYKParser");
 import ProbabilityToken = require("../src/ProbabilityToken");
 
@@ -22,8 +22,8 @@ NP -> ART N | NP PP
 VP -> V NP
 PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`.trim();
         let parser = new CYKParser(grammar);
-        let sentences: ParsedNode[] = parser.parse(tokens);
-        let sentence = sentences[0];
+        let sentences: CYKTable = parser.parse(tokens);
+        let sentence = sentences.getTrees()[0];
 
         let oCachorro = sentence.node(0);
 
@@ -53,7 +53,7 @@ PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`.trim();
         assert.equal(noParque.toString(), "no parque");
     });
 
-    it("Throw exception", () => {
+    it("Incomplete tree", () => {
         let tokens = [
             createToken("O", "ART"),
             createToken("viu", "V"),
@@ -67,11 +67,10 @@ NP -> ART N | NP PP
 VP -> V NP
 PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`.trim();
         let parser = new CYKParser(grammar);
-        let func = () => {
-            console.log(parser.parse(tokens))
-        };
+        let cykTable = parser.parse(tokens);
 
-        assert.throws(func, Error, "Invalid grammar");
+        //nenhuma árvore gerada para uma grmatica inválida
+        assert.deepEqual(cykTable.getTrees(), []);
     });
 
     function createToken(word: string, tag: string) {

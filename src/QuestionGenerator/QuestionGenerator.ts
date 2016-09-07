@@ -1,5 +1,5 @@
 import IQuestionGenerator = require("./IQuestionGenerator");
-import ParsedNode = require("../ParsedNode");
+import CYKTable = require("../Parser/CYKTable");
 import IParser = require("../Parser/IParser");
 import ITransformer = require("./ITransformer");
 
@@ -8,8 +8,9 @@ class QuestionGenerator implements IQuestionGenerator {
 
     }
 
-    public generate(parsedNodes: ParsedNode[]): string[] {
+    public generate(cykTable: CYKTable): string[] {
         let arrayOfQuestions: string[] = [];
+        let parsedNodes = cykTable.getNodes(); //pego todos os nodes encontrados
 
         //pode ter vários ambiguos
         for (let parsedNode of parsedNodes) {
@@ -20,7 +21,11 @@ class QuestionGenerator implements IQuestionGenerator {
             }
         }
 
-        return arrayOfQuestions;
+        function unique(value, index, self) {
+            return self.indexOf(value) === index;
+        }
+
+        return arrayOfQuestions.filter(unique);
     }
 }
 
