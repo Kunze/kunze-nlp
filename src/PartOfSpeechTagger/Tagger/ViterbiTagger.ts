@@ -118,7 +118,7 @@ class ViterbiTagger implements IPartOfSpeechTagger {
             return process(possibleTags, arrayOfProbabilityTokens);
         };
 
-        let startToken = new ProbabilityToken("", "START", 1, true);
+        let startToken = new ProbabilityToken("", "START", [], 1, true);
 
         return process([[startToken]], copy);
     }
@@ -127,7 +127,7 @@ class ViterbiTagger implements IPartOfSpeechTagger {
         let tokens: ProbabilityToken[] = [];
         //<TODO> fazer smoothing para as open_class
         this.OPEN_CLASS.forEach(openClass => {
-            tokens.push(new ProbabilityToken(word, openClass, 1, false))
+            tokens.push(new ProbabilityToken(word, openClass, [], 1, false))
         });
 
         return tokens;

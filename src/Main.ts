@@ -10,7 +10,7 @@ CorporaCYKParserFactory.create().then((parser) => {
     DefaultViterbiTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");
 
-        let phrases = "Murilo Kunze gosta de programar e nadar.";
+        let phrases = "Murilo Kunze gosta de programar sozinho de noite.";
         let tokens = tagger.tag(phrases);
         let text = new Text(tokens);
 

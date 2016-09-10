@@ -1,12 +1,16 @@
 import Token = require("./Token");
 
 class TaggedToken extends Token {
-    constructor(word: string, private tag: string, private entity?: string) {
+    constructor(word: string, private tag: string, private attributes: string[] = []) {
         super(word);
     }
 
     public getTag(): string {
         return this.tag;
+    }
+
+    public getAttributes() {
+        return this.attributes;
     }
 
     public isStartTag() {
@@ -22,14 +26,14 @@ class TaggedToken extends Token {
     }
 
     public isEntity(): boolean {
-        return this.entity !== undefined;
+        return this.attributes !== undefined;
     }
 
     public toString(): string {
         if (this.isEntity()) {
-            return this.word + "_" + this.tag + "#" + this.entity;
+            return this.word + "_" + this.tag + "#" + this.attributes;
         }
-        
+
         return this.word + "_" + this.tag;
     }
 }

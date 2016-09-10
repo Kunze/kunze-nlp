@@ -9,7 +9,7 @@ class CorpusReaderPerson implements ICorpusReader {
 		
         for(let person of text.trim().split("\n")) {
             tokens.push(new StartToken());
-            tokens.push(new TaggedToken(person.replace("\r", ""), "NPROP", "PERSON"));
+            tokens.push(new TaggedToken(person.replace("\r", ""), "NPROP", ["PERSON", "PERSON2"]));
             tokens.push(new EndToken());
         }
 

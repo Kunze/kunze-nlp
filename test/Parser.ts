@@ -70,10 +70,10 @@ PP -> PREP NP | PREP N | PREP+ART NP | PREP+ART N`.trim();
         let cykTable = parser.parse(tokens);
 
         //nenhuma árvore gerada para uma grmatica inválida
-        assert.deepEqual(cykTable.getTrees(), []);
+        assert.deepEqual(cykTable.getTrees(), undefined);
     });
 
     function createToken(word: string, tag: string) {
-        return new ProbabilityToken(word, tag, 1, true);
+        return new ProbabilityToken(word, tag, [], 1, true);
     }
 });

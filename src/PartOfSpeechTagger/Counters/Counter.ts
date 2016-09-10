@@ -45,9 +45,10 @@ class Counter {
 
         if (match) {
             match.addOne();
+            match.addAttributes(taggedToken.getAttributes());
         }
         else {
-            this.tags.push(new MatchTag(taggedToken.getTag()))
+            this.tags.push(new MatchTag(taggedToken.getTag(), taggedToken.getAttributes()));
         }
     }
 }

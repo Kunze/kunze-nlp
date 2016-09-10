@@ -1,30 +1,30 @@
 import ParsedNode = require("../../ParsedNode");
-import ITransform = require("../ITransform");
+import IExtractor = require("../IExtractor");
+import IQuestionExtractor = require("../IQuestionExtractor");
 
-abstract class AbstractBaseTransformer {
-    protected transforms: ITransform[] = [];
+abstract class AbstractBaseTransformer implements IQuestionExtractor {
+    protected extractors: IExtractor[] = [];
 
- deepClone(arr) {
-  var len = arr.length;
-  var newArr = new Array(len);
-  for (var i=0; i<len; i++) {
-    if (Array.isArray(arr[i])) {
-      newArr[i] = this.deepClone(arr[i]);
+    deepClone(arr) {
+        var len = arr.length;
+        var newArr = new Array(len);
+        for (var i = 0; i < len; i++) {
+            if (Array.isArray(arr[i])) {
+                newArr[i] = this.deepClone(arr[i]);
+            }
+            else {
+                newArr[i] = arr[i];
+            }
+        }
+        return newArr;
     }
-    else {
-      newArr[i] = arr[i];
-    }
-  }
-  return newArr;
-}
 
-    public transform(parsedNode: ParsedNode): string[] {
+    public extract(parsedNode: ParsedNode): string[] {
         let questions: string[] = [];
 
-        for (let transform of this.transforms) {
+        for (let transform of this.extractors) {
             for (let simplifiedNode of this.getSimplifications(parsedNode)) {
                 let clone = simplifiedNode.clone();
-                //let copy = new ParsedNode(simplifiedNode.getText(), parsedNode.getTag(), simplifiedNode.getNodes());
                 let questionToken = transform(clone);
 
                 if (questionToken) {

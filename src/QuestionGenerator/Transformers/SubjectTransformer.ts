@@ -1,7 +1,7 @@
 import ParsedNode = require("../../ParsedNode");
 import Question = require("../Question");
-import ITransform = require("../ITransform");
-import ITransformer = require("../ITransformer");
+import IExtractor = require("../IExtractor");
+import IQuestionExtractor = require("../IQuestionExtractor");
 import AbstractBaseTransformer = require("./AbstractBaseTransformer");
 /*
        S
@@ -14,8 +14,8 @@ Murilo  gosta PREP V
             |    \
             de  nadar
 */
-class SubjectTransformer extends AbstractBaseTransformer implements ITransformer {
-    protected transforms: ITransform[] = [
+class SubjectTransformer extends AbstractBaseTransformer {
+    protected extractors: IExtractor[] = [
         (parsedNode: ParsedNode) => {
             let np = parsedNode.find("NP");
             parsedNode.replaceTag("Quem", "NP");
@@ -28,7 +28,7 @@ class SubjectTransformer extends AbstractBaseTransformer implements ITransformer
                 if (np.find("NPROP")) {
                     parsedNode.replaceTag("Qual o nome da pessoa que", "NP");
 
-                    return new Question(parsedNode);;
+                    return new Question(parsedNode);
                 }
             }
         },

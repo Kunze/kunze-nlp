@@ -1,10 +1,10 @@
 import IQuestionGenerator = require("./IQuestionGenerator");
 import CYKTable = require("../Parser/CYKTable");
 import IParser = require("../Parser/IParser");
-import ITransformer = require("./ITransformer");
+import IQuestionExtractor = require("./IQuestionExtractor");
 
 class QuestionGenerator implements IQuestionGenerator {
-    constructor(private transformers: ITransformer[]) {
+    constructor(private extractors: IQuestionExtractor[]) {
 
     }
 
@@ -14,8 +14,8 @@ class QuestionGenerator implements IQuestionGenerator {
 
         //pode ter vários ambiguos
         for (let parsedNode of parsedNodes) {
-            for (let transformer of this.transformers) {
-                for (let question of transformer.transform(parsedNode)) {
+            for (let extractor of this.extractors) {
+                for (let question of extractor.extract(parsedNode)) {
                     arrayOfQuestions.push(question);
                 }
             }

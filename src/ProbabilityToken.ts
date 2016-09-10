@@ -2,8 +2,8 @@ import TaggedToken = require("./TaggedToken");
 import Counter = require("./PartOfSpeechTagger/Counters/Counter");
 
 class ProbabilityToken extends TaggedToken {
-    constructor(word: string, tag: string, private probability: number, private known: boolean) {
-        super(word, tag);
+    constructor(word: string, tag: string, attributes: string[], private probability: number, private known: boolean) {
+        super(word, tag, attributes);
     }
 
     public getProbability() {
@@ -19,7 +19,7 @@ class ProbabilityToken extends TaggedToken {
     }
 
     public copy(): ProbabilityToken {
-        return new ProbabilityToken(this.word, this.getTag(), this.probability, this.known);
+        return new ProbabilityToken(this.word, this.getTag(), this.getAttributes(), this.probability, this.known);
     }
 }
 

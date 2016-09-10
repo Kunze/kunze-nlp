@@ -18,4 +18,14 @@ describe("Tokenizer", () => {
         
        assert.equal(tokens.length, 8);
     });
+
+    it("Read empty spaces", () => {
+       let text = "Meu nome é Murilo    ." 
+       
+       let tokenizer = new Tokenizer();
+       let tokens = tokenizer.tokens(text);
+        
+       assert.equal(tokens.length, 9);
+       assert.equal(tokens[tokens.length-1].getWord(), ".")
+    })
 });

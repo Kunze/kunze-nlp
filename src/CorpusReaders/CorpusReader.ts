@@ -24,7 +24,7 @@ class CorpusReader implements ICorpusReader {
                     var tag = wordTagsExecArray[3];
                     var entity = wordTagsExecArray[4];
                     
-                    taggedToken = new TaggedToken(word, tag, entity);
+                    taggedToken = new TaggedToken(word, tag, [entity]);
                 }
                 else {
                     let tag = wordTagsExecArray[2];

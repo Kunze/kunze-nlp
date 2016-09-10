@@ -15,7 +15,7 @@ class EmissionCounter extends Counter {
         for (let tag of this.tags) {
             let probability = tag.getCount() / this.getCount();
 
-            probabilityTokens.push(new ProbabilityToken(word, tag.getTag(), probability, true));
+            probabilityTokens.push(new ProbabilityToken(word, tag.getTag(), tag.getAttributes(), probability, true));
         }
 
         return probabilityTokens;
