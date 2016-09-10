@@ -1,10 +1,10 @@
-import IParser = require("./IParser");
-import ProbabilityToken = require("../ProbabilityToken");
-import ParsedNode = require("../ParsedNode");
-import GrammarBuilder = require("./GrammarBuilder");
-import Grammar = require("../Grammar");
-import ParsedNodeCollection = require("../ParsedNodeCollection");
-import ParsedNodeFactory = require("../ParsedNodeFactory");
+import IParser = require("./Interfaces/IParser");
+import ProbabilityToken = require("../PartOfSpeechTagger/ProbabilityToken");
+import ParsedNode = require("./ParsedNode");
+import GrammarBuilder = require("./Grammar/GrammarBuilder");
+import Grammar = require("./Grammar/Grammar");
+import ParsedNodeCollection = require("./ParsedNodeCollection");
+import ParsedNodeFactory = require("./Factory/ParsedNodeFactory");
 import CYKTable = require("./CYKTable");
 
 class CYKParser implements IParser {

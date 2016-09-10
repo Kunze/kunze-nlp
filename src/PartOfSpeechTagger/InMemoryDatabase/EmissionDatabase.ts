@@ -1,6 +1,5 @@
 import EmissionCounter = require("../Counters/EmissionCounter");
-import TaggedToken = require("../../TaggedToken");
-import Token = require("../../Token");
+import TaggedToken = require("../../PartOfSpeechTagger/TaggedToken");
 
 class EmissionDatabase {
     private _collection: LokiCollection<EmissionCounter>;

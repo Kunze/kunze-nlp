@@ -1,9 +1,7 @@
 import assert = require("assert");
-import ProbabilityToken = require("../src/ProbabilityToken");
-import GrammarBuilder = require("../src/Parser/GrammarBuilder");
-import GrammarRule = require("../src/GrammarRule");
-import Grammar = require("../src/Grammar");
-import ParsedNode = require("../src/ParsedNode");
+import GrammarBuilder = require("../src/Parser/Grammar/GrammarBuilder");
+import Grammar = require("../src/Parser/Grammar/Grammar");
+import ParsedNode = require("../src/Parser/ParsedNode");
 
 describe("GrammarBuilder", () => {
     it("Parse into 4 rules", () => {

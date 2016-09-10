@@ -2,10 +2,9 @@ import assert = require('assert');
 import Corpus = require("../src/Corpus");
 import CorpusReader = require("../src/CorpusReaders/CorpusReader");
 import Corpora = require("../src/Corpora");
-import IReadFile = require("../src/IReadFile");
 import sinon = require("sinon");
-import TaggedToken = require("../src/TaggedToken");
-import StartToken = require("../src/StartToken");
+import TaggedToken = require("../src/PartOfSpeechTagger/TaggedToken");
+import StartToken = require("../src/PartOfSpeechTagger/StartToken");
  
 describe("Corpora", () => {
     let corpus1 = new Corpus("", new CorpusReader());

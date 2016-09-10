@@ -1,4 +1,4 @@
-import ParsedNode = require("../ParsedNode");
+import ParsedNode = require("../Parser/ParsedNode");
 
 class Question {
     constructor(private parsedNode: ParsedNode) {

@@ -1,7 +1,6 @@
-import IQuestionGenerator = require("./IQuestionGenerator");
+import IQuestionGenerator = require("./Interfaces/IQuestionGenerator");
 import CYKTable = require("../Parser/CYKTable");
-import IParser = require("../Parser/IParser");
-import IQuestionExtractor = require("./IQuestionExtractor");
+import IQuestionExtractor = require("./Interfaces/IQuestionExtractor");
 
 class QuestionGenerator implements IQuestionGenerator {
     constructor(private extractors: IQuestionExtractor[]) {

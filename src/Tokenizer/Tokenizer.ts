@@ -1,4 +1,4 @@
-import ITokenizer = require("./ITokenizer");
+import ITokenizer = require("./Interfaces/ITokenizer");
 import Token = require("../Token");
 
 class Tokenizer implements ITokenizer {

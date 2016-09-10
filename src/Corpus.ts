@@ -1,6 +1,6 @@
 import IReadFile = require("./IReadFile");
-import ICorpusReader = require("./ICorpusReader");
-import TaggedToken = require("./TaggedToken");
+import ICorpusReader = require("./CorpusReaders/Interfaces/ICorpusReader");
+import TaggedToken = require("./PartOfSpeechTagger/TaggedToken");
 import * as fs from "fs";
 
 class Corpus implements IReadFile {

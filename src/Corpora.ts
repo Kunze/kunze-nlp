@@ -1,5 +1,5 @@
 import IReadFile = require("./IReadFile");
-import TaggedToken = require("./TaggedToken");
+import TaggedToken = require("./PartOfSpeechTagger/TaggedToken");
 import Text = require("./Text");
 import fs = require("fs");
 import path = require("path");

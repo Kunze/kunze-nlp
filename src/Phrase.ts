@@ -1,4 +1,4 @@
-import ProbabilityToken = require("./ProbabilityToken");
+import ProbabilityToken = require("./PartOfSpeechTagger/ProbabilityToken");
 import IString = require("./IString");
 
 class Phrase implements IString {

@@ -1,25 +1,23 @@
 import Corpora = require("../../Corpora");
 import PhraseBreaking = require("../../PhraseBreaking/PhraseBreaking");
 import Tokenizer = require("../../Tokenizer/Tokenizer");
-import IPartOfSpeechTagger = require("../IPartOfSpeechTagger");
-import ProbabilityToken = require("../../ProbabilityToken");
-import ITransitionDatabase = require("../InMemoryDatabase/TransitionDatabase");
-import IEmissionDatabase = require("../InMemoryDatabase/EmissionDatabase");
-import TaggedToken = require("../../TaggedToken");
-import BlankSpaceProbabilityToken = require("../../BlankSpaceProbabilityToken");
+import IPartOfSpeechTagger = require("../Interfaces/IPartOfSpeechTagger");
+import ProbabilityToken = require("../../PartOfSpeechTagger/ProbabilityToken");
+import TransitionDatabase = require("../InMemoryDatabase/TransitionDatabase");
+import TaggedToken = require("../../PartOfSpeechTagger/TaggedToken");
+import BlankSpaceProbabilityToken = require("../../PartOfSpeechTagger/BlankSpaceProbabilityToken");
 import Token = require("../../Token");
+import EmissionDatabaseFactory = require("../Factory/EmissionDatabaseFactory");
 
 class ViterbiTagger implements IPartOfSpeechTagger {
     private _sentence = new PhraseBreaking();
     private _tokenizer = new Tokenizer();
+    private _emissions = EmissionDatabaseFactory.create("unigram");
+    private _transitions = new TransitionDatabase();
     private OPEN_CLASS = ["ADJ", "ADV", "N", "NPROP", "PCP", "V"];
-    // private CLOSED_CLASS = ["START", "PREP+PROADJ", "PREP+ART", "PREP+PROPERS",
-    //     "PREP\+PROSUB", "PRO-KS", "ADV-KS-REL", "ADV-KS",
-    //     "PROADJ", "PU", "PREP", "PROPESS", "PROSUB", "VAUX", "PDEN", "KS", "ART", "KC", "END"];
 
-    constructor(private _corpora: Corpora,
-        private _emissions: IEmissionDatabase,
-        private _transitions: ITransitionDatabase) {
+    constructor(private _corpora: Corpora) {
+
     }
 
     public generateModel(): Promise<IPartOfSpeechTagger> {
@@ -34,7 +32,6 @@ class ViterbiTagger implements IPartOfSpeechTagger {
                         this._emissions.add(first);
                     }
 
-                    //se a ultima palavra for uma entity, não haverá "second"
                     if (second) {
                         if (second.isEndPoint()) {
                             index++;
@@ -202,7 +199,7 @@ class ViterbiTagger implements IPartOfSpeechTagger {
                     return e.isBlankSpace();
                 });
 
-                if(isBlankSpace) {
+                if (isBlankSpace) {
                     mostProbablyTokens.splice(index, 0, new BlankSpaceProbabilityToken)
                 }
             }

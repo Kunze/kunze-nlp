@@ -1,8 +1,8 @@
 import path = require("path");
 import CYKParser = require("../CYKParser");
-import GrammarBuilder = require("../../Parser/GrammarBuilder");
-import ParsedNode = require("../../ParsedNode");
-import IParser = require("../IParser");
+import GrammarBuilder = require("../../Parser/Grammar/GrammarBuilder");
+import ParsedNode = require("../../Parser/ParsedNode");
+import IParser = require("../Interfaces/IParser");
 import * as fs from "fs";
 
 module CorporaCYKParserFactory {

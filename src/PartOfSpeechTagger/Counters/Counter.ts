@@ -1,7 +1,5 @@
-import Token = require("../../Token");
 import MatchTag = require("./MatchTag");
-import TaggedToken = require("../../TaggedToken");
-import ProbabilityToken = require("../../ProbabilityToken");
+import TaggedToken = require("../../PartOfSpeechTagger/TaggedToken");
 
 class Counter {
     private count: number = 0;

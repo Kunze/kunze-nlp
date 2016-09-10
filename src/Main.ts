@@ -2,8 +2,7 @@ import DefaultViterbiTaggerFactory = require("./PartOfSpeechTagger/Factory/Defau
 import DefaultQuestionGeneratorFactory = require("./QuestionGenerator/Factory/DefaultQuestionGeneratorFactory");
 import CorporaCYKParserFactory = require("./Parser/Factory/CorporaCYKParserFactory");
 import Text = require("./Text");
-import TaggedToken = require("./TaggedToken");
-import CYKTable = require("./Parser/CYKTable");
+import TaggedToken = require("./PartOfSpeechTagger/TaggedToken");
 
 let questionGenerator = DefaultQuestionGeneratorFactory.create();
 CorporaCYKParserFactory.create().then((parser) => {
@@ -19,7 +18,7 @@ CorporaCYKParserFactory.create().then((parser) => {
             console.log(`Text: ${phrase.toString()} \n`)
             console.log("Questions:")
 
-            let cykTable: CYKTable = parser.parse(phrase.getTokens());
+            let cykTable= parser.parse(phrase.getTokens());
 
             for (let question of questionGenerator.generate(cykTable)) {
                 console.log(question);

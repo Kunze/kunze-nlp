@@ -1,6 +1,5 @@
 import Counter = require("../Counters/Counter");
-import Token = require("../../Token");
-import TaggedToken = require("../../TaggedToken");
+import TaggedToken = require("../../PartOfSpeechTagger/TaggedToken");
 
 class TransitionDatabase {
     private _bigrams: Counter[] = [];

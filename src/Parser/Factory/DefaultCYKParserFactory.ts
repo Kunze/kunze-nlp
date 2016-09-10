@@ -1,5 +1,5 @@
 import CYKParser = require("../CYKParser");
-import GrammarBuilder = require("../../Parser/GrammarBuilder");
+import GrammarBuilder = require("../../Parser/Grammar/GrammarBuilder");
 
 module DefaultCYKParserFactory {
     export var create = (): CYKParser => {

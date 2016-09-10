@@ -1,7 +1,5 @@
-import TaggedToken = require("../../TaggedToken");
 import Counter = require("./Counter");
-import MatchTag = require("./MatchTag");
-import ProbabilityToken = require("../../ProbabilityToken");
+import ProbabilityToken = require("../../PartOfSpeechTagger/ProbabilityToken");
 
 class EmissionCounter extends Counter {
     constructor(private word: string) {

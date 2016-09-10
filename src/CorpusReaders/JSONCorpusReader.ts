@@ -1,6 +1,5 @@
-import TaggedToken = require("../TaggedToken");
-import StartToken = require("../StartToken");
-import ICorpusReader = require("../ICorpusReader");
+import TaggedToken = require("../PartOfSpeechTagger/TaggedToken");
+import ICorpusReader = require("./Interfaces/ICorpusReader");
 
 class JSONCorpusReader implements ICorpusReader {
     public read(text: string): TaggedToken[] {

@@ -1,7 +1,7 @@
-import TaggedToken = require("../TaggedToken");
-import ICorpusReader = require("../ICorpusReader");
-import StartToken = require("../StartToken");
-import EndToken = require("../EndToken");
+import TaggedToken = require("../PartOfSpeechTagger/TaggedToken");
+import ICorpusReader = require("./Interfaces/ICorpusReader");
+import StartToken = require("../PartOfSpeechTagger/StartToken");
+import EndToken = require("../PartOfSpeechTagger/EndToken");
 
 class CorpusReaderPerson implements ICorpusReader {
 	public read(text: string): TaggedToken[] {

@@ -1,6 +1,6 @@
-import TaggedToken = require("../TaggedToken");
-import StartToken = require("../StartToken");
-import ICorpusReader = require("../ICorpusReader");
+import TaggedToken = require("../PartOfSpeechTagger/TaggedToken");
+import StartToken = require("../PartOfSpeechTagger/StartToken");
+import ICorpusReader = require("./Interfaces/ICorpusReader");
 
 class CorpusReader implements ICorpusReader {
     private _sentenceBreaking: RegExp = /(.*?_END)\s*/g;

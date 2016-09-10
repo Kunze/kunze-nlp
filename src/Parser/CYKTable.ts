@@ -1,4 +1,4 @@
-import ParsedNode = require("../ParsedNode");
+import ParsedNode = require("./ParsedNode");
 
 class CYKTable {
     constructor(private parsedNodes: ParsedNode[][][]) {

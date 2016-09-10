@@ -1,6 +1,6 @@
 import assert = require("assert");
 import Counter = require("../src/PartOfSpeechTagger/Counters/Counter");
-import TaggedToken = require("../src/TaggedToken");
+import TaggedToken = require("../src/PartOfSpeechTagger/TaggedToken");
 
 describe("BigramCounter", () => {
     it("Count correct", () => {
