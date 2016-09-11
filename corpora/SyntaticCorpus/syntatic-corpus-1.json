@@ -476,5 +476,6 @@
                 ]
             }
         ]
-    }
+    },
+    {"text":"O presidente do Brasil morreu.","tag":"S","attributes":[],"parsedNodes":[{"text":"O presidente do Brasil","tag":"NP","attributes":[],"parsedNodes":[{"text":"O presidente","tag":"NP","attributes":[],"parsedNodes":[{"text":"O","tag":"ART","attributes":[],"parsedNodes":[]},{"text":"presidente","tag":"N","attributes":[],"parsedNodes":[]}]},{"text":"do Brasil","tag":"PP","attributes":[],"parsedNodes":[{"text":"do","tag":"PREP+ART","attributes":[],"parsedNodes":[]},{"text":"Brasil","tag":"N","attributes":[],"parsedNodes":[]}]}]},{"text":"morreu","tag":"V","attributes":[],"parsedNodes":[]}]}
 ]

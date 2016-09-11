@@ -161,7 +161,7 @@ class ViterbiTagger implements IPartOfSpeechTagger {
         let phrases = this._sentence.split(text), tokenResults: ProbabilityToken[][] = [];
         for (let phrase of phrases) {
             let arrayOfProbabilityTokens: ProbabilityToken[][] = []; //all unigram possible paths
-            let tokens = this._tokenizer.tokens(phrase);
+            let tokens = this._tokenizer.tokens(phrase.trim());
 
             this.applyEntityRecognizer(tokens);
 

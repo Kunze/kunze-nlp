@@ -10,7 +10,7 @@ CorporaCYKParserFactory.create().then((parser) => {
         console.time("tagger");
 
         let phrases = "Murilo Kunze gosta de programar sozinho de noite. A aliança de ouro era bonita. A maça era vermelha.";
-        let tokens = tagger.tag(phrases);
+        let tokens = tagger.tag(phrases.trim());
         let text = new Text(tokens);
 
         for (let phrase of text.getPhrases()) {
@@ -24,14 +24,14 @@ CorporaCYKParserFactory.create().then((parser) => {
                 console.log(question);
             }
 
-            // for (let token of phrase.getTokens()) {
-            //     console.log("-".repeat(40));
+            for (let token of phrase.getTokens()) {
+                console.log("-".repeat(40));
 
-            //     console.log(`word:         ${token.getWord()}`);
-            //     console.log(`tag:          ${token.getTag()}`);
-            //     console.log(`known word:   ${token.getKnown()}`);
-            //     console.log(`probability:  ${token.getProbability()}`);
-            // }
+                console.log(`word:         ${token.getWord()}`);
+                console.log(`tag:          ${token.getTag()}`);
+                console.log(`known word:   ${token.getKnown()}`);
+                console.log(`probability:  ${token.getProbability()}`);
+            }
         }
         console.timeEnd("tagger");
     });

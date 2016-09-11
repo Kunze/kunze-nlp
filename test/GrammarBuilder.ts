@@ -55,7 +55,7 @@ PP -> PREP V`;
 
         let expected = `
 S -> NP VP
-NP -> ART N | NP PP | ART N
+NP -> ART N | NP PP
 VP -> V NP
 PP -> PREP+ART N`.trim();
 

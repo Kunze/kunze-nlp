@@ -3,10 +3,7 @@ import IString = require("./IString");
 
 class Phrase implements IString {
     constructor(private _tokens: ProbabilityToken[]) {
-        //toda frase termina em pontuação
-        if (!(_tokens[_tokens.length - 1].isEndPoint())) {
-            throw new Error("invalid phrase");
-        }
+
     }
 
     public toString(): string {

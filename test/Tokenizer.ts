@@ -27,5 +27,15 @@ describe("Tokenizer", () => {
         
        assert.equal(tokens.length, 9);
        assert.equal(tokens[tokens.length-1].getWord(), ".")
-    })
+    });
+
+    it("Read question phrase", () => {
+       let text = "O que o Puque está querendo  ?" 
+       
+       let tokenizer = new Tokenizer();
+       let tokens = tokenizer.tokens(text);
+        
+       assert.equal(tokens.length, 13);
+       assert.equal(tokens[tokens.length-1].getWord(), "?")
+    });
 });

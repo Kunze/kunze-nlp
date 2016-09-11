@@ -29,15 +29,7 @@ class TaggedToken extends Token {
         return this.tag === "BLANK-SPACE";
     }
 
-    public isEntity(): boolean {
-        return this.attributes !== undefined;
-    }
-
     public toString(): string {
-        if (this.isEntity()) {
-            return this.word + "_" + this.tag + "#" + this.attributes;
-        }
-
         return this.word + "_" + this.tag;
     }
 }
