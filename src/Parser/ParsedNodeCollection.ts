@@ -31,6 +31,16 @@ class ParsedNodeCollection {
         }).join(" ");
     }
 
+    public getAttributes() {
+        return this.parsedNodes.reduce((initial: string[], parsedNode: ParsedNode) => {
+            for (let attribute of parsedNode.getAttributes()) {
+                initial.push(attribute);
+            }
+
+            return initial;
+        }, []);
+    }
+
     public getNodes(): ParsedNode[] {
         return this.parsedNodes;
     }

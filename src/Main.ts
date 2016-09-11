@@ -9,7 +9,7 @@ CorporaCYKParserFactory.create().then((parser) => {
     DefaultViterbiTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");
 
-        let phrases = "Murilo Kunze gosta de programar sozinho de noite.";
+        let phrases = "Murilo Kunze gosta de programar sozinho de noite. A aliança de ouro era bonita. A maça era vermelha.";
         let tokens = tagger.tag(phrases);
         let text = new Text(tokens);
 
@@ -18,20 +18,20 @@ CorporaCYKParserFactory.create().then((parser) => {
             console.log(`Text: ${phrase.toString()} \n`)
             console.log("Questions:")
 
-            let cykTable= parser.parse(phrase.getTokens());
+            let cykTable = parser.parse(phrase.getTokens());
 
             for (let question of questionGenerator.generate(cykTable)) {
                 console.log(question);
             }
 
-            for (let token of phrase.getTokens()) {
-                console.log("-".repeat(40));
+            // for (let token of phrase.getTokens()) {
+            //     console.log("-".repeat(40));
 
-                console.log(`word:         ${token.getWord()}`);
-                console.log(`tag:          ${token.getTag()}`);
-                console.log(`known word:   ${token.getKnown()}`);
-                console.log(`probability:  ${token.getProbability()}`);
-            }
+            //     console.log(`word:         ${token.getWord()}`);
+            //     console.log(`tag:          ${token.getTag()}`);
+            //     console.log(`known word:   ${token.getKnown()}`);
+            //     console.log(`probability:  ${token.getProbability()}`);
+            // }
         }
         console.timeEnd("tagger");
     });

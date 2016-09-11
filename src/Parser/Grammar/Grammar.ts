@@ -10,12 +10,12 @@ class Grammar {
 
     public add(nodeName: string, tags: string) {
         for (let rule of this.rules) {
-            if (rule.name == nodeName) {
-                if (!rule.matches[tags]) {
+            if (rule.name === nodeName) {
+                if (rule.matches.indexOf(tags) === -1) {
                     rule.matches.push(tags);
-
-                    return;
                 }
+
+                return;                
             }
         }
 

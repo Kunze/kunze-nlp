@@ -19,6 +19,7 @@ module DefaultViterbiTaggerFactory {
             corpus.push(new Corpus(path.join(__dirname, `../../../../corpora/macmorpho-v3/train/json/macmorpho-${index}.json`), jsonCorpusReader));
          }
 
+        corpus.push(new Corpus(path.join(__dirname, `../../../../corpora/macmorpho-v3/train/json/kunze.json`), jsonCorpusReader));
         corpus.push(new Corpus(path.join(__dirname, `../../../../corpora/macmorpho-v3/train/txt/entidades_pessoas.txt`), corpusReaderPerson));
 
         let corpora = new Corpora(...corpus);

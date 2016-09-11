@@ -71,11 +71,11 @@ class CYKParser implements IParser {
         for (var index = 0; index < tokens.length; index++) {
             var token = tokens[index];
             var terminalTag = grammarProxy.get(token.getTag());
-            var parsedNode = terminalTag ? [new ParsedNode(token.getWord(), token.getTag())] : [];
+            var parsedNode = terminalTag ? [new ParsedNode(token.getWord(), token.getTag(), token.getAttributes())] : [];
             //gravo num array pois nos próximos passos podem haver mais de um ParsedNode
             
             P[0][index] = [
-                new ParsedNode(token.getWord(), terminalTag ? terminalTag : token.getTag(), parsedNode)
+                new ParsedNode(token.getWord(), terminalTag ? terminalTag : token.getTag(), token.getAttributes(), parsedNode)
             ];
         }
 

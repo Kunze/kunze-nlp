@@ -2,7 +2,7 @@ import ProbabilityToken = require("../PartOfSpeechTagger/ProbabilityToken");
 import IString = require("../IString");
 
 class ParsedNode implements IString {
-    constructor(private text: string, private tag: string, private parsedNodes?: ParsedNode[]) {
+    constructor(private text: string, private tag: string, private attributes: string[], private parsedNodes?: ParsedNode[]) {
         if (!(parsedNodes)) {
             this.parsedNodes = [];
         }
@@ -12,8 +12,20 @@ class ParsedNode implements IString {
         return this.tag;
     }
 
+    public getAttributes(): string[] {
+        return this.attributes;
+    }
+
     public setNodeName(nodeName: string) {
         this.tag = nodeName;
+    }
+
+    public is(attribute: string) {
+        if (this.isTag(attribute)) {
+            return true;
+        }
+
+        return this.attributes.indexOf(attribute) > -1;
     }
 
     public isTag(tag: string) {
@@ -167,13 +179,13 @@ class ParsedNode implements IString {
 
     public clone(): ParsedNode {
         function clone(parent: ParsedNode) {
-            let nodes = [];
+            let nodes: ParsedNode[] = [];
 
-            for(let child of parent.getNodes()) {
+            for (let child of parent.getNodes()) {
                 nodes.push(clone(child));
             }
 
-            return new ParsedNode(parent.getText(), parent.getTag(), nodes);
+            return new ParsedNode(parent.getText(), parent.getTag(), parent.getAttributes(), nodes);
         }
 
         return clone(this);

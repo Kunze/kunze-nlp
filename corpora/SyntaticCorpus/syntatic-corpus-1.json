@@ -257,7 +257,7 @@
         "parsedNodes": [
             {
                 "text": "Porém,",
-                "tag": "CONJUP",
+                "tag": "CONJP",
                 "parsedNodes": [
                     {
                         "text": "Porém",
@@ -361,14 +361,8 @@
                                 "parsedNodes": [
                                     {
                                         "text": "programar",
-                                        "tag": "VP",
-                                        "parsedNodes": [
-                                            {
-                                                "text": "programar",
-                                                "tag": "V",
-                                                "parsedNodes": []
-                                            }
-                                        ]
+                                        "tag": "V",
+                                        "parsedNodes": []
                                     },
                                     {
                                         "text": "e nadar.",
@@ -381,14 +375,8 @@
                                             },
                                             {
                                                 "text": "nadar",
-                                                "tag": "VP",
-                                                "parsedNodes": [
-                                                    {
-                                                        "text": "nadar",
-                                                        "tag": "V",
-                                                        "parsedNodes": []
-                                                    }
-                                                ]
+                                                "tag": "V",
+                                                "parsedNodes": []
                                             }
                                         ]
                                     }
@@ -421,14 +409,8 @@
                 "parsedNodes": [
                     {
                         "text": "gosta",
-                        "tag": "VP",
-                        "parsedNodes": [
-                            {
-                                "text": "gosta",
-                                "tag": "V",
-                                "parsedNodes": []
-                            }
-                        ]
+                        "tag": "V",
+                        "parsedNodes": []
                     },
                     {
                         "text": "de programar.",
@@ -441,16 +423,55 @@
                             },
                             {
                                 "text": "programar.",
-                                "tag": "VP",
-                                "parsedNodes": [
-                                    {
-                                        "text": "programar.",
-                                        "tag": "V",
-                                        "parsedNodes": []
-                                    }
-                                ]
+                                "tag": "V",
+                                "parsedNodes": []
                             }
                         ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "A maça é vermelha",
+        "tag": "S",
+        "attributes": [],
+        "parsedNodes": [
+            {
+                "text": "A maça",
+                "tag": "NP",
+                "attributes": [],
+                "parsedNodes": [
+                    {
+                        "text": "A",
+                        "tag": "ART",
+                        "attributes": [],
+                        "parsedNodes": []
+                    },
+                    {
+                        "text": "maça",
+                        "tag": "N",
+                        "attributes": [],
+                        "parsedNodes": []
+                    }
+                ]
+            },
+            {
+                "text": "é vermelha.",
+                "tag": "VP",
+                "attributes": [],
+                "parsedNodes": [
+                    {
+                        "text": "é",
+                        "tag": "V",
+                        "attributes": [],
+                        "parsedNodes": []
+                    },
+                    {
+                        "text": "vermelha",
+                        "tag": "ADJ",
+                        "attributes": [],
+                        "parsedNodes": []
                     }
                 ]
             }

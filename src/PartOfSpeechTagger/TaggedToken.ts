@@ -5,6 +5,10 @@ class TaggedToken extends Token {
         super(word);
     }
 
+    public setTag(tag: string): void {
+        this.tag = tag;
+    }
+
     public getTag(): string {
         return this.tag;
     }

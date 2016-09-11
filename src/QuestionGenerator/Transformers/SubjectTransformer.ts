@@ -32,6 +32,16 @@ class SubjectTransformer extends AbstractBaseTransformer {
             }
         },
         (parsedNode: ParsedNode) => {
+            let np;
+            if (np = parsedNode.find("NP")) {
+                if (np.is("OBJECT")) {
+                    parsedNode.replaceTag("Qual o objeto que", "NP");
+
+                    return new Question(parsedNode);
+                }
+            }
+        },
+        (parsedNode: ParsedNode) => {
             return new Question(parsedNode);
         }
     ];

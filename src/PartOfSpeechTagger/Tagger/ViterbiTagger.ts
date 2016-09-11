@@ -157,8 +157,8 @@ class ViterbiTagger implements IPartOfSpeechTagger {
         }
     }
 
-    public tag(text: string): ProbabilityToken[] {
-        let phrases = this._sentence.split(text), tokenResults = [];
+    public tag(text: string): ProbabilityToken[][] {
+        let phrases = this._sentence.split(text), tokenResults: ProbabilityToken[][] = [];
         for (let phrase of phrases) {
             let arrayOfProbabilityTokens: ProbabilityToken[][] = []; //all unigram possible paths
             let tokens = this._tokenizer.tokens(phrase);
@@ -203,9 +203,11 @@ class ViterbiTagger implements IPartOfSpeechTagger {
                     mostProbablyTokens.splice(index, 0, new BlankSpaceProbabilityToken)
                 }
             }
+
+            tokenResults.push(mostProbablyTokens);
         }
 
-        return mostProbablyTokens;
+        return tokenResults;
     }
 }
 

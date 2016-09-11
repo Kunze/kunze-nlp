@@ -14,7 +14,7 @@ module CorporaCYKParserFactory {
             nodes.push(createParsedNode(node));
         }
 
-        return new ParsedNode(jsonObject.text, jsonObject.tag, nodes);
+        return new ParsedNode(jsonObject.text, jsonObject.tag, jsonObject.attributes, nodes);
     }
 
     export var create = (): Promise<IParser> => {

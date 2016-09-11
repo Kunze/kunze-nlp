@@ -5,15 +5,10 @@ import Phrase = require("./Phrase");
 class Text implements IString {
     private phrases: Phrase[] = [];
 
-    constructor(tokens: ProbabilityToken[]) {
+    constructor(phrases: ProbabilityToken[][]) {
         let phraseTokens = [];
-        for (let token of tokens) {
-            phraseTokens.push(token);
-
-            if (token.isEndPoint()) {
-                this.phrases.push(new Phrase(phraseTokens));
-                phraseTokens = [];
-            }
+        for (let phrase of phrases) {
+            this.phrases.push(new Phrase(phrase));
         }
     }
 
