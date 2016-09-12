@@ -5,9 +5,9 @@ import Corpora = require("../../Corpora");
 import CorpusReader = require("../../CorpusReaders/CorpusReader");
 import CorpusReaderPerson = require("../../CorpusReaders/CorpusReaderPerson");
 import JSONCorpusReader = require("../../CorpusReaders/JSONCorpusReader");
-import ViterbiTagger = require("../Tagger/ViterbiTagger");
+import HmmTagger = require("../Tagger/HmmTagger");
 
-module DefaultViterbiTaggerFactory {
+module DefaultHmmTaggerFactory {
     export var create = (): IPartOfSpeechTagger => {
         let corpus: Corpus[] = [],
             corpusReader = new CorpusReader(),
@@ -24,8 +24,8 @@ module DefaultViterbiTaggerFactory {
 
         let corpora = new Corpora(...corpus);
 
-        return new ViterbiTagger(corpora);
+        return new HmmTagger(corpora);
     }
 }
 
-export = DefaultViterbiTaggerFactory;
+export = DefaultHmmTaggerFactory;

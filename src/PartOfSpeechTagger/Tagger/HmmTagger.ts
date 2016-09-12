@@ -9,7 +9,7 @@ import BlankSpaceProbabilityToken = require("../../PartOfSpeechTagger/BlankSpace
 import Token = require("../../Token");
 import EmissionDatabaseFactory = require("../Factory/EmissionDatabaseFactory");
 
-class ViterbiTagger implements IPartOfSpeechTagger {
+class HmmTagger implements IPartOfSpeechTagger {
     private _sentence = new PhraseBreaking();
     private _tokenizer = new Tokenizer();
     private _emissions = EmissionDatabaseFactory.create("unigram");
@@ -211,4 +211,4 @@ class ViterbiTagger implements IPartOfSpeechTagger {
     }
 }
 
-export = ViterbiTagger;
+export = HmmTagger;

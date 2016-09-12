@@ -1,4 +1,4 @@
-export import DefaultViterbiTaggerFactory = require("./PartOfSpeechTagger/Factory/DefaultViterbiTaggerFactory");
+export import DefaultHmmTaggerFactory = require("./PartOfSpeechTagger/Factory/DefaultHmmTaggerFactory");
 export import DefaultQuestionGeneratorFactory = require("./QuestionGenerator/Factory/DefaultQuestionGeneratorFactory");
 export import Text = require("./Text");
 export import DefaultCYKParserFactory = require("./Parser/Factory/DefaultCYKParserFactory");

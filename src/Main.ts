@@ -1,4 +1,4 @@
-import DefaultViterbiTaggerFactory = require("./PartOfSpeechTagger/Factory/DefaultViterbiTaggerFactory");
+import DefaultHmmTaggerFactory = require("./PartOfSpeechTagger/Factory/DefaultHmmTaggerFactory");
 import DefaultQuestionGeneratorFactory = require("./QuestionGenerator/Factory/DefaultQuestionGeneratorFactory");
 import CorporaCYKParserFactory = require("./Parser/Factory/CorporaCYKParserFactory");
 import Text = require("./Text");
@@ -6,7 +6,7 @@ import TaggedToken = require("./PartOfSpeechTagger/TaggedToken");
 
 let questionGenerator = DefaultQuestionGeneratorFactory.create();
 CorporaCYKParserFactory.create().then((parser) => {
-    DefaultViterbiTaggerFactory.create().generateModel().then(tagger => {
+    DefaultHmmTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");
 
         let phrases = "Murilo Kunze gosta de programar sozinho de noite. A aliança de ouro era bonita. A maça era vermelha.";
