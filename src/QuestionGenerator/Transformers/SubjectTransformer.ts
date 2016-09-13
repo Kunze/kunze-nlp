@@ -23,7 +23,7 @@ class SubjectTransformer extends AbstractBaseTransformer {
 
             if (np.getAttributes().length > 0) {
                 var isWhoNoum = np.getAttributes().filter((attribute) => {
-                    return this.whoNouns.indexOf(attribute) > 0;
+                    return this.whoNouns.indexOf(attribute) > -1;
                 });
 
                 if(!isWhoNoum.length) return;
