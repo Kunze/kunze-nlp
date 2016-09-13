@@ -1,1 +1,1 @@
-[[{"word":"","tag":"START","attributes":[]},{"word":"A","tag":"ART","attributes":[]},{"word":"maça","tag":"N","attributes":[]},{"word":"era","tag":"V","attributes":[]},{"word":"bonita","tag":"ADJ","attributes":[]},{"word":".","tag":"END","attributes":[]}]]
+[[{"word":"","tag":"START","attributes":[]},{"word":"A","tag":"ART","attributes":[]},{"word":"maça","tag":"N","attributes":["FRUIT"]},{"word":"era","tag":"V","attributes":[]},{"word":"bonita","tag":"ADJ","attributes":[]},{"word":".","tag":"END","attributes":[]}]]
