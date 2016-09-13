@@ -9,7 +9,7 @@ CorporaCYKParserFactory.create().then((parser) => {
     DefaultHmmTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");
 
-        let phrases = "Murilo Kunze está apresentando o seu trabalho.";
+        let phrases = "A aliança de ouro era caro. A maça era vermelha. Murilo Kunze está apresentando o seu trabalho.";
         let tokens = tagger.tag(phrases.trim());
         let text = new Text(tokens);
 
