@@ -6,7 +6,7 @@ class MatchTag {
 
     public addAttributes(attributes: string[]) {
         for(let attribute of attributes) {
-            if(this.attributes.indexOf(attribute) > 0) {
+            if(this.attributes.indexOf(attribute) > -1) {
                 continue;
             }
 

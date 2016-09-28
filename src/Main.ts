@@ -9,7 +9,7 @@ CorporaCYKParserFactory.create().then((parser) => {
     DefaultHmmTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");
 
-        let phrases = "A aliança de ouro era caro. A maça era vermelha. Murilo Kunze está apresentando o seu trabalho.";
+        let phrases = "A caça é ilegal mas o leão caça a lebre.";
         let tokens = tagger.tag(phrases.trim());
         let text = new Text(tokens);
 
@@ -26,11 +26,14 @@ CorporaCYKParserFactory.create().then((parser) => {
 
             for (let token of phrase.getTokens()) {
                 console.log("-".repeat(40));
-
                 console.log(`word:         ${token.getWord()}`);
                 console.log(`tag:          ${token.getTag()}`);
                 console.log(`known word:   ${token.getKnown()}`);
                 console.log(`probability:  ${token.getProbability()}`);
+
+                if (token.hasAttributes()) {
+                    console.log(`attribute:    ${token.getAttributes()}`);
+                }
             }
         }
         console.timeEnd("tagger");

@@ -1,12 +1,12 @@
 import CorpusReader = require("../../src/CorpusReaders/CorpusReader");
-import CorpusReaderPerson = require("../../src/CorpusReaders/CorpusReaderPerson");
+import EntityCorpusReader = require("../../src/CorpusReaders/EntityCorpusReader");
 import assert = require('assert');
 
-describe("CorpusReaderPerson", () => {
+describe("EntityCorpusReader", () => {
     it("Identify 4 people", () => {
-        let corpusReader = new CorpusReaderPerson();
-        let text = 
-`
+        let corpusReader = new EntityCorpusReader("NPROP", ["PERSON"]);
+        let text =
+            `
 Murilo Kunze
 Barbara Aparecida Zils
 José da Silva

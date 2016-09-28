@@ -17,8 +17,16 @@ class TaggedToken extends Token {
         return this.attributes;
     }
 
+    public hasAttributes() {
+        return this.attributes.length > 0;
+    }
+
     public isStartTag() {
         return this.tag === "START";
+    }
+
+    public isStartEntityTag() {
+        return this.tag === "START_ENTITY";
     }
 
     public isEndPoint(): boolean {

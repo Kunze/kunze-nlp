@@ -28,7 +28,14 @@ class HmmTagger implements IPartOfSpeechTagger {
                     var first = tokens[index];
                     var second = tokens[index + 1];
 
-                    if (!first.isStartTag()) {
+                    if(first.isStartEntityTag()) {
+                        this._emissions.add(second);
+                        index++;
+                        continue;
+                    }
+
+                    //não adiciono as tags START
+                    if (!(first.isStartTag())) {
                         this._emissions.add(first);
                     }
 
@@ -81,14 +88,14 @@ class HmmTagger implements IPartOfSpeechTagger {
 
             var possibleTags: ProbabilityToken[][] = [];
             for (let firstProbabilityToken of results) { // ["N", "NPROP"]
-                var transitions = this._transitions.get(firstProbabilityToken[firstProbabilityToken.length - 1].getTag());
+                var lastTagOfPreviousTokens = firstProbabilityToken[firstProbabilityToken.length - 1].getTag();
+                var transitions = this._transitions.get(lastTagOfPreviousTokens);
 
                 for (let secondProbabilityTokenx of next) { // ["V", "VAUX"]
                     var secondProbabilityToken = secondProbabilityTokenx.copy();
-                    var transitionToSecondTag = transitions.getTag(secondProbabilityToken.getTag());
+                    var transitionProbability = transitions.getProbability(secondProbabilityToken.getTag());
 
-                    if (transitionToSecondTag) {
-                        let transitionProbability = transitions.getTag(secondProbabilityToken.getTag()).getCount() / transitions.getCount();
+                    if (transitionProbability) {
                         secondProbabilityToken.applyTransition(transitionProbability);
 
                         var possibleTag: ProbabilityToken[] = [...firstProbabilityToken, secondProbabilityToken];
@@ -138,9 +145,8 @@ class HmmTagger implements IPartOfSpeechTagger {
             }
 
             var wordTokens = [firstWord.getWord()];
-            var stopIndex = firstIndex + 5; //não quero checar todas as combinações
 
-            for (var secondIndex = firstIndex + 1; (secondIndex < tokens.length) && (secondIndex < stopIndex); secondIndex++) {
+            for (var secondIndex = firstIndex + 1; (secondIndex < tokens.length); secondIndex++) {
                 var nextToken = tokens[secondIndex];
                 wordTokens.push(nextToken.getWord());
 

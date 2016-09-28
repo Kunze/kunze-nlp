@@ -49,6 +49,14 @@ class Counter {
             this.tags.push(new MatchTag(taggedToken.getTag(), taggedToken.getAttributes()));
         }
     }
+
+    public getProbability(secondTag: string) {
+        var transitionToSecondTag = this.getTag(secondTag);
+
+        if (transitionToSecondTag) {
+            return transitionToSecondTag.getCount() / this.getCount();
+        }
+    }
 }
 
 export = Counter;
