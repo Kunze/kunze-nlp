@@ -4,12 +4,33 @@ import CorporaCYKParserFactory = require("./Parser/Factory/CorporaCYKParserFacto
 import Text = require("./Text");
 import TaggedToken = require("./PartOfSpeechTagger/TaggedToken");
 
+// import ParsedNode = require("./Parser/ParsedNode");
+// console.log(JSON.stringify(new ParsedNode("A poluição dos rios e das florestas.", "NP", [], [
+//     new ParsedNode("A", "ART", []),
+//     new ParsedNode("poluição dos rios e das florestas.", "NP", [], [
+//         new ParsedNode("poluição dos rios", "NP", [], [
+//             new ParsedNode("poluição", "N", []),
+//             new ParsedNode("dos rios", "PP", [], [
+//                 new ParsedNode("dos", "PREP+ART", []),
+//                 new ParsedNode("rios", "N", [])
+//             ])
+//         ]),
+//         new ParsedNode("e das florestas.", "CONJUP", [], [
+//             new ParsedNode("e", "KC", []),
+//             new ParsedNode("das florestas", "PP", [], [
+//                 new ParsedNode("das", "PREP+ART", []),
+//                 new ParsedNode("florestas", "N", [])
+//             ])
+//         ])
+//     ])
+// ])));
+
 let questionGenerator = DefaultQuestionGeneratorFactory.create();
 CorporaCYKParserFactory.create().then((parser) => {
     DefaultHmmTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");
 
-        let phrases = "A caça é ilegal mas o leão caça a lebre.";
+        let phrases = "Muitas matas são protegidas por leis ambientais.";
         let tokens = tagger.tag(phrases.trim());
         let text = new Text(tokens);
 

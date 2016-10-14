@@ -25,7 +25,8 @@ module DefaultHmmTaggerFactory {
         corpus.push(new Corpus(path.join(__dirname, `../../../../corpora/macmorpho-v3/train/txt/entities/person-names.txt`), personCorpusReader));
         corpus.push(new Corpus(path.join(__dirname, `../../../../corpora/macmorpho-v3/train/txt/entities/fruits.txt`), personCorpusReader));
         corpus.push(new Corpus(path.join(__dirname, `../../../../corpora/macmorpho-v3/train/txt/entities/brazilian-states.txt`), brazilianStatesCorpusReader));
-        //corpus.push(new Corpus(path.join(__dirname, `../../../../corpora/macmorpho-v3/train/txt/entities/brazilian-cities.txt`), brazilianCitiesCorpusReader));
+        corpus.push(new Corpus(path.join(__dirname, `../../../../corpora/macmorpho-v3/train/txt/entities/abstract.txt`), corpusReader));
+//corpus.push(new Corpus(path.join(__dirname, `../../../../corpora/macmorpho-v3/train/txt/entities/brazilian-cities.txt`), brazilianCitiesCorpusReader));
 
         let corpora = new Corpora(...corpus);
 
