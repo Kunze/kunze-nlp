@@ -59,7 +59,7 @@ O_ART primeiro_ADJ jogo_N será_V na_PREP+ART próxima_ADJ sexta_N ,_PU em_PREP 
 No_PREP+ART dia_N seguinte_ADJ ,_PU os_ART dois_NUM times_N voltam_V a_PREP se_PROPESS enfrentar_V na_PREP+ART mesma_PROADJ cidade_N ._END
 O_ART técnico_N Zé_NPROP Roberto_NPROP ainda_ADV não_ADV sabe_V se_KS vai_V poder_V contar_V com_PREP os_ART titulares_N Marcelo_NPROP Negrão_NPROP e_KC Tande_NPROP ._END
 Os_ART dois_NUM jogadores_N só_PDEN devem_V se_PROPESS juntar_V ao_PREP+ART elenco_N amanhã_ADV ._END
-Se_KS não_ADV entrarem_V contra_PREP a_N Bulgária_NPROP ,_PU Zé_NPROP Roberto_NPROP deve_V armar_V o_ART time_N com_PREP os_ART campeões_N olímpicos_ADJ Maurício_NPROP ,_PU Giovane_NPROP ,_PU Carlão_NPROP e_KC Paulão_NPROP ,_PU além_PREP dos_PREP+ART atacantes_N Max_NPROP e_KC Kid_NPROP ._END
+Se_KS não_ADV entrarem_V contra_PREP a_ART Bulgária_NPROP ,_PU Zé_NPROP Roberto_NPROP deve_V armar_V o_ART time_N com_PREP os_ART campeões_N olímpicos_ADJ Maurício_NPROP ,_PU Giovane_NPROP ,_PU Carlão_NPROP e_KC Paulão_NPROP ,_PU além_PREP dos_PREP+ART atacantes_N Max_NPROP e_KC Kid_NPROP ._END
 Anteontem_ADV ,_PU Zé_NPROP Roberto_NPROP orientou_V dois_NUM treinos_N ._END
 Pela_PREP+ART manhã_N ,_PU priorizou_V os_ART exercícios_N físicos_ADJ (_PU corrida_N e_KC musculação_N )_PU ._END
 À_PREP+ART tarde_N ,_PU o_ART time_N campeão_ADJ olímpico_ADJ fez_V um_ART treino_N coletivo_ADJ tático_ADJ ,_PU com_PREP atenção_N especial_ADJ para_PREP o_ART bloqueio_N e_KC defesa_N ._END

@@ -30,7 +30,7 @@ CorporaCYKParserFactory.create().then((parser) => {
     DefaultHmmTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");
 
-        let phrases = "Muitas matas são protegidas por leis ambientais.";
+        let phrases = "O leão caça a lebre mas a caça é ilegal. Muitas matas são protegidas por leis ambientais.";
         let tokens = tagger.tag(phrases.trim());
         let text = new Text(tokens);
 

@@ -64,4 +64,17 @@ describe("CorpusReader", () => {
         assert.equal(tokens[5].toString(), "gato_N");
         assert.equal(tokens[6].toString(), "._END");
     });
+
+    it("Read entities", () => {
+        let corpusReader = new CorpusReader();
+        let text = "O_ART Murilo_NPROP Kunze_NPROP é_V programador_N._END";
+        let tokens = corpusReader.read(text);
+
+        assert.equal(tokens[0].toString(), "_START");
+        assert.equal(tokens[1].toString(), "O_ART");
+        assert.equal(tokens[2].toString(), "Murilo Kunze_NPROP");
+        assert.equal(tokens[3].toString(), "é_V");
+        assert.equal(tokens[4].toString(), "programador_N");
+        assert.equal(tokens[5].toString(), "._END");
+    });
 });
