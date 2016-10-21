@@ -67,17 +67,17 @@ O_ART mais_ADV promissor_ADJ garoto_N brasileiro_ADJ em_PREP atividade_N na_PREP
 América_NPROP reforça_V marcação_N hoje_ADV contra_PREP o_ART Corinthians_NPROP
 Técnico_N João_NPROP Carlos_NPROP pede_V atenção_N especial_ADJ sobre_PREP o_ART meia_N Marcelinho_NPROP
 Da_PREP+ART Folha_NPROP Norte_NPROP
-O_ART América_NPROP deve_V contar_V com_PREP a_ART volta_N do_PREP+ART volante_N Negão_NPROP ,_PU 24_NUM ,_PU na_PREP+ART partida_N de_PREP hoje_ADV contra_PREP o_ART Corinthians_NPROP ,_PU às_PREP+ART 16h_ADV ,_PU no_PREP+ART estádio_N do_PREP+ART Pacaembu_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+O_ART América_NPROP deve_V contar_V com_PREP a_ART volta_N do_PREP+ART volante_N Negão_NPROP ,_PU 24_NUM ,_PU na_PREP+ART partida_N de_PREP hoje_ADV contra_PREP o_ART Corinthians_NPROP ,_PU às_PREP+ART 16h_ADV ,_PU no_PREP+ART estádio_N do_PREP+ART Pacaembu_NPROP ,_PU em_PREP São Paulo_NPROP ._END
 O_ART jogador_N Negão_NPROP é_V uma_PROSUB das_PREP+ART principais_ADJ armas_N do_PREP+ART esquema_N tático_ADJ de_PREP marcação_N montado_PCP pelo_PREP+ART técnico_N João_NPROP Carlos_NPROP no_PREP+ART campeonato_N ._END
 Negão_NPROP está_V fora_PREP do_PREP+ART time_N há_V 12_NUM dias_N por_PREP causa_PREP de_PREP uma_ART contusão_N no_PREP+ART tornozelo_N direito_ADJ ._END
 O_ART América_NPROP tem_V a_ART melhor_ADJ campanha_N entre_PREP os_ART times_N do_PREP+ART interior_N ._END
-Está_V na_PREP+ART quarta_ADJ colocação_N do_PREP+ART grupo_N A-1_NPROP do_PREP+ART campeonato_N ,_PU atrás_PREP de_PREP Corinthians_NPROP ,_PU São_NPROP Paulo_NPROP e_KC Palmeiras_NPROP ._END
-Anteontem_ADV ,_PU a_ART equipe_N venceu_V o_ART União_NPROP São_NPROP João_NPROP de_NPROP Araras_NPROP por_PREP 1_N a_PREP 0_N ,_PU em_PREP São_NPROP José_NPROP do_NPROP Rio_NPROP Preto_NPROP ._END
+Está_V na_PREP+ART quarta_ADJ colocação_N do_PREP+ART grupo_N A-1_NPROP do_PREP+ART campeonato_N ,_PU atrás_PREP de_PREP Corinthians_NPROP ,_PU São Paulo_NPROP e_KC Palmeiras_NPROP ._END
+Anteontem_ADV ,_PU a_ART equipe_N venceu_V o_ART União_NPROP São João_NPROP de_NPROP Araras_NPROP por_PREP 1_N a_PREP 0_N ,_PU em_PREP São José_NPROP do_NPROP Rio_NPROP Preto_NPROP ._END
 Segundo_PREP o_ART técnico_N João_NPROP Carlos_NPROP ,_PU Negão_NPROP deve_V fazer_V uma_ART marcação_N especial_ADJ sobre_PREP Marcelinho_NPROP ._END
 "_PU Vamos_V tomar_V um_ART cuidado_N especial_ADJ ele_PROPESS arma_V a_ART maioria_N das_PREP+ART jogadas_N de_PREP ataque_N do_PREP+ART Corinthians_NPROP ._END
-O_ART principal_ADJ desfalque_N da_PREP+ART equipe_N do_PREP+ART América_NPROP é_V o_ART jogador_N Serginho_NPROP Carioca_NPROP ,_PU que_PRO-KS cumpre_V suspensão_N por_PREP ter_V recebido_PCP o_ART terceiro_ADJ cartão_N amarelo_ADJ no_PREP+ART jogo_N contra_PREP o_ART União_NPROP São_NPROP João_NPROP ._END
+O_ART principal_ADJ desfalque_N da_PREP+ART equipe_N do_PREP+ART América_NPROP é_V o_ART jogador_N Serginho_NPROP Carioca_NPROP ,_PU que_PRO-KS cumpre_V suspensão_N por_PREP ter_V recebido_PCP o_ART terceiro_ADJ cartão_N amarelo_ADJ no_PREP+ART jogo_N contra_PREP o_ART União_NPROP São João_NPROP ._END
 O_ART meia_N Pestana_NPROP é_V dúvida_N da_PREP+ART equipe_N para_PREP a_ART partida_N ._END
-Pestana_NPROP não_ADV participou_V do_PREP+ART treino_N realizado_PCP ontem_ADV de_ADV manhã_ADV no_PREP+ART estádio_N Mário_NPROP Alves_NPROP Mendonça_NPROP ,_PU em_PREP São_NPROP José_NPROP do_NPROP Rio_NPROP Preto_NPROP ._END
+Pestana_NPROP não_ADV participou_V do_PREP+ART treino_N realizado_PCP ontem_ADV de_ADV manhã_ADV no_PREP+ART estádio_N Mário_NPROP Alves_NPROP Mendonça_NPROP ,_PU em_PREP São José_NPROP do_NPROP Rio_NPROP Preto_NPROP ._END
 Se_KS ele_PROPESS não_ADV tiver_V condições_N deve_V ser_V substituído_PCP por_PREP Roberto_NPROP Alves_NPROP ._END
 João_NPROP Carlos_NPROP disse_V que_KS o_ART América_NPROP vai_V jogar_V tudo_PROSUB o_PROSUB que_PRO-KS sabe_V para_PREP conseguir_V os_ART dois_NUM pontos_N ._END
 Ele_PROPESS quer_V imprimir_V uma_ART marcação_N forte_ADJ sobre_PREP o_ART adversário_N e_KC tentar_V conseguir_V um_NUM gol_N no_PREP+ART contra-ataque_N ._END
@@ -171,7 +171,7 @@ Serdan_NPROP afirmou_V que_KS a_ART Mancha_NPROP Verde_NPROP provavelmente_ADV n
 "_PU O_ART silêncio_N às_ADV vezes_ADV é_V a_ART melhor_ADJ arma_N para_PREP protestar_V ._END
 Apesar_PREP da_PREP+ART insatisfação_N geral_ADJ com_PREP os_ART últimos_ADJ resultados_N da_PREP+ART equipe_N ,_PU nem_ADV todos_PROADJ os_ART palmeirenses_N presentes_ADJ ontem_ADV no_PREP+ART Parque_NPROP Antártica_NPROP pediam_V a_ART saída_N do_PREP+ART técnico_N Wanderley_NPROP Luxemburgo_NPROP ._END
 Para_PREP seu_PROADJ filho_N Humberto_NPROP ,_PU 11_NUM ,_PU também_PDEN Cléber_NPROP e_KC Rincón_NPROP deveriam_V sair_V do_PREP+ART time_N ._END
-Ele_PROPESS lembrou_V que_KS ,_PU com_PREP os_ART mesmos_PROADJ jogadores_N ,_PU o_ART Palmeiras_NPROP ganhou_V em_PREP 93_N o_ART Campeonato_NPROP Paulista_NPROP ,_PU o_ART Campeonato_NPROP Brasileiro_NPROP e_KC o_ART torneio_NPROP Rio-São_NPROP Paulo_NPROP ._END
+Ele_PROPESS lembrou_V que_KS ,_PU com_PREP os_ART mesmos_PROADJ jogadores_N ,_PU o_ART Palmeiras_NPROP ganhou_V em_PREP 93_N o_ART Campeonato_NPROP Paulista_NPROP ,_PU o_ART Campeonato_NPROP Brasileiro_NPROP e_KC o_ART torneio_NPROP Rio-São Paulo_NPROP ._END
 "_PU É_V o_ART melhor_ADJ time_N do_PREP+ART Brasil_NPROP "_PU ,_PU afirmou_V ._END
 1º_ADJ tempo_N ;_PU 2º_ADJ tempo_N
 1.º_ADJ tempo_N
@@ -225,7 +225,7 @@ Outros_PROADJ resultados_N de_PREP quinta-feira_N :_PU San_N Antonio_N Spurs_N 1
 Da_PREP+ART Agência_NPROP Folha_NPROP ,_PU em_PREP Belo_NPROP Horizonte_NPROP
 O_ART Cruzeiro_NPROP perdeu_V na_PREP+ART noite_N de_PREP anteontem_ADV em_PREP Buenos_NPROP Aires_NPROP para_PREP o_ART Velez_NPROP Sarsfield_NPROP por_PREP 2_N a_PREP 0_N ._END
 Apesar_PREP da_PREP+ART derrota_N ,_PU o_ART time_N mineiro_ADJ se_PROPESS manteve_V na_PREP+ART vice-liderança_N do_PREP+ART 2_N da_PREP+ART Taça_NPROP Libertadores_NPROP da_NPROP América_NPROP ._END
-Com_PREP cinco_NUM pontos_N ,_PU o_ART Cruzeiro_NPROP pode_V até_PDEN perder_V por_PREP um_NUM gol_N do_PREP+ART Boca_NPROP Juniors_NPROP na_PREP+ART próxima_ADJ quarta-feira_N ,_PU em_PREP Belo_NPROP Horizonte_NPROP ,_PU que_KS estará_V classificado_PCP ,_PU independente_ADV do_PREP+ART jogo_N Palmeiras_NPROP e_KC Velez_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+Com_PREP cinco_NUM pontos_N ,_PU o_ART Cruzeiro_NPROP pode_V até_PDEN perder_V por_PREP um_NUM gol_N do_PREP+ART Boca_NPROP Juniors_NPROP na_PREP+ART próxima_ADJ quarta-feira_N ,_PU em_PREP Belo_NPROP Horizonte_NPROP ,_PU que_KS estará_V classificado_PCP ,_PU independente_ADV do_PREP+ART jogo_N Palmeiras_NPROP e_KC Velez_NPROP ,_PU em_PREP São Paulo_NPROP ._END
 Mesmo_PDEN jogando_V bem_ADV ,_PU o_ART Cruzeiro_NPROP não_ADV resistiu_V ao_PREP+ART futebol_N do_PREP+ART Velez_NPROP ._END
 O_ART time_N argentino_ADJ fez_V os_ART dois_NUM gols_N no_PREP+ART primeiro_ADJ tempo_N ._END
 Aos_PREP+ART 13_NUM min_N do_PREP+ART primeiro_ADJ tempo_N ,_PU o_ART Velez_NPROP abriu_V o_ART placar_N numa_PREP+ART cobrança_N de_PREP pênalti_N ,_PU batida_PCP pelo_PREP+ART zagueiro_N Trotta_NPROP ._END
@@ -248,29 +248,29 @@ Vitórias_N
 Empates_N
 Derrotas_N
 Para_PREP garantir_V a_ART classificação_N na_PREP+ART Taça_NPROP Libertadores_NPROP de_NPROP América_NPROP ,_PU o_ART Palmeiras_NPROP precisa_V vencer_V ou_KC empatar_V com_PREP o_ART Velez_NPROP Sarsfield_NPROP na_PREP+ART próxima_ADJ quinta-feira_N ._END
-São_NPROP Paulo_NPROP tenta_V mais_ADV um_ART bi_N no_PREP+ART Japão_NPROP
+São Paulo_NPROP tenta_V mais_ADV um_ART bi_N no_PREP+ART Japão_NPROP
 Equipe_N de_PREP Telê_NPROP Santana_NPROP enfrenta_V Botafogo_NPROP do_PREP+ART Rio_NPROP nesta_PREP+PROADJ madrugada_N em_PREP Kobe_NPROP ,_PU pela_PREP+ART Recopa_NPROP Sul-Americana_NPROP
-O_ART São_NPROP Paulo_NPROP tenta_V na_PREP+ART madrugada_N de_PREP hoje_ADV para_PREP amanhã_ADV mais_ADV um_NUM título_N internacional_ADJ ._END
+O_ART São Paulo_NPROP tenta_V na_PREP+ART madrugada_N de_PREP hoje_ADV para_PREP amanhã_ADV mais_ADV um_NUM título_N internacional_ADJ ._END
 Disputa_V em_PREP Kobe_NPROP ,_PU no_PREP+ART Japão_NPROP ,_PU a_PREP partir_PREP das_PREP+PROPESS 13h_ADV de_PREP amanhã_ADV (_PU horário_N local_ADJ )_PU ,_PU a_ART Recopa_NPROP Sul-Americana_NPROP com_PREP o_ART Botafogo_NPROP (_PU RJ_NPROP )_PU ._END
 O_ART SBT_NPROP prometeu_V transmitir_V o_ART jogo_N ,_PU ao_ADV vivo_ADV ,_PU a_PREP partir_PREP da_PREP+ART 1h_N ._END
 O_ART time_N de_PREP Telê_NPROP Santana_NPROP tenta_V o_ART bicampeonato_N do_PREP+ART torneio_N ,_PU já_KS que_KS venceu_V no_PREP+ART ano_N passado_PCP o_ART Cruzeiro_NPROP ._END
 No_PREP+ART ano_N passado_PCP ,_PU no_KC entanto_KC ,_PU os_ART dois_NUM clubes_N disputavam_V o_ART Brasileiro_NPROP e_KC conseguiram_V ludibriar_V os_ART promotores_N ._END
-Acabaram_V fazendo_V a_ART disputa_N em_PREP duas_NUM partidas_N ,_PU uma_PROADJ em_PREP São_NPROP Paulo_NPROP e_KC outra_PROADJ em_PREP Belo_NPROP Horizonte_NPROP ,_PU que_PRO-KS acabaram_V valendo_V também_PDEN pelo_PREP+ART torneio_N nacional_ADJ ._END
-Com_PREP a_ART experiência_N de_PREP já_ADV viajou_V muitas_PROADJ vezes_N para_PREP o_ART exterior_N ,_PU a_ART comissão_N técnica_ADJ do_PREP+ART São_NPROP Paulo_NPROP considera_V que_KS seus_PROADJ atletas_N já_ADV estão_V adaptados_PCP ao_PREP+ART fuso_N horário_ADJ ._END
+Acabaram_V fazendo_V a_ART disputa_N em_PREP duas_NUM partidas_N ,_PU uma_PROADJ em_PREP São Paulo_NPROP e_KC outra_PROADJ em_PREP Belo_NPROP Horizonte_NPROP ,_PU que_PRO-KS acabaram_V valendo_V também_PDEN pelo_PREP+ART torneio_N nacional_ADJ ._END
+Com_PREP a_ART experiência_N de_PREP já_ADV viajou_V muitas_PROADJ vezes_N para_PREP o_ART exterior_N ,_PU a_ART comissão_N técnica_ADJ do_PREP+ART São Paulo_NPROP considera_V que_KS seus_PROADJ atletas_N já_ADV estão_V adaptados_PCP ao_PREP+ART fuso_N horário_ADJ ._END
 O_ART clube_N aproveitou_V também_PDEN para_PREP esticar_V a_ART viagem_N até_PREP Hong_NPROP Kong_NPROP ,_PU onde_ADV-KS disputa_V na_PREP+ART terça-feira_N um_ART amistoso_N contra_PREP o_ART selecionado_N local_N ._END
-A_ART equipe_N deve_V estar_V a_PREP São_NPROP Paulo_NPROP na_PREP+ART sexta-feira_N ._END
+A_ART equipe_N deve_V estar_V a_PREP São Paulo_NPROP na_PREP+ART sexta-feira_N ._END
 No_PREP+ART domingo_N ,_PU enfrenta_V o_ART Santos_NPROP pelo_PREP+ART Campeonato_NPROP Paulista_NPROP ._END
 Visando_V esta_PROADJ partida_N ,_PU o_ART atacante_N Muller_NPROP não_ADV viajou_V ,_PU por_PREP estar_V se_PROPESS recuperando_V de_PREP uma_ART tendinite_N ._END
 A_ART equipe_N que_PRO-KS enfrenta_V o_ART Botafogo_NPROP não_ADV foi_V confirmada_PCP ,_PU mas_KC deve_V ser_V a_PROSUB que_PRO-KS vinha_V sendo_V utilizada_PCP por_PREP Telê_NPROP nos_PREP+ART jogos_N do_PREP+ART Paulista_NPROP ,_PU quando_ADV-KS não_ADV dispunha_V de_PREP Muller_NPROP (_PU Guilherme_NPROP e_KC Euller_NPROP à_PREP+ART frente_N )_PU ._END
 A_ART inflação_N de_PREP torneios_N continentais_ADJ na_PREP+ART América_NPROP do_NPROP Sul_NPROP nos_PREP+ART últimos_ADJ cinco_NUM anos_N tem_V objetivos_N financeiros_ADJ ._END
 A_ART Recopa_NPROP não_ADV é_V exceção_N ._END
 Os_ART clubes_N brasileiros_ADJ ,_PU no_KC entanto_KC ,_PU têm_V se_PROPESS saído_PCP bem_ADV ._END
-A_ART razão_N de_PREP tanto_PROADJ sucesso_N deve_V ser_V creditada_PCP ao_PREP+ART São_NPROP Paulo_NPROP ,_PU até_PREP agora_ADV o_ART único_ADJ clube_N do_PREP+ART país_N a_PREP ter_V um_ART esquema_N de_PREP sobrevivência_N eficaz_ADJ contra_PREP a_ART maratona_N de_PREP jogos_N ._END
+A_ART razão_N de_PREP tanto_PROADJ sucesso_N deve_V ser_V creditada_PCP ao_PREP+ART São Paulo_NPROP ,_PU até_PREP agora_ADV o_ART único_ADJ clube_N do_PREP+ART país_N a_PREP ter_V um_ART esquema_N de_PREP sobrevivência_N eficaz_ADJ contra_PREP a_ART maratona_N de_PREP jogos_N ._END
 Clubes_N de_PREP outros_PROADJ Estados_N como_ADV Cruzeiro_NPROP ,_PU Atlético_NPROP MG_NPROP e_KC mais_ADV recentemente_ADV o_ART Botafogo_NPROP se_PROPESS empenham_V nestes_PREP+PROADJ torneios_N para_PREP suprir_V seus_PROADJ caixas_N ,_PU esvaziados_PCP por_PREP torneios_N regionais_ADJ deficitários_ADJ ._END
 SBT_NPROP ,_PU 1h_N ,_PU ao_ADV vivo_ADV
 Botafogo_NPROP vai_V usar_V a_ART garra_N
 Da_PREP+ART Sucursal_N Rio_NPROP
-Os_ART jogadores_N do_PREP+ART Botafogo_NPROP querem_V compensar_V a_ART superioridade_N técnica_ADJ do_PREP+ART time_N do_PREP+ART São_NPROP Paulo_NPROP com_PREP garra_N e_KC aplicação_N tática_ADJ na_PREP+ART decisão_N da_PREP+ART Recopa_NPROP Sul-Americana_NPROP ,_PU na_PREP+ART madrugada_N de_PREP hoje_ADV para_PREP amanhã_ADV ,_PU domingo_N ,_PU em_PREP Kobe_NPROP ,_PU no_PREP+ART Japão_NPROP ._END
+Os_ART jogadores_N do_PREP+ART Botafogo_NPROP querem_V compensar_V a_ART superioridade_N técnica_ADJ do_PREP+ART time_N do_PREP+ART São Paulo_NPROP com_PREP garra_N e_KC aplicação_N tática_ADJ na_PREP+ART decisão_N da_PREP+ART Recopa_NPROP Sul-Americana_NPROP ,_PU na_PREP+ART madrugada_N de_PREP hoje_ADV para_PREP amanhã_ADV ,_PU domingo_N ,_PU em_PREP Kobe_NPROP ,_PU no_PREP+ART Japão_NPROP ._END
 O_ART técnico_N Dé_NPROP tem_V duas_NUM alternativas_N para_PREP escalar_V a_ART equipe_N ._END
 Repetir_V o_ART esquema_N tático_ADJ que_PRO-KS levou_V o_ART Botafogo_NPROP às_PREP+ART finais_N do_PREP+ART Campeonato_NPROP do_NPROP Estado_NPROP do_NPROP Rio_NPROP ,_PU com_PREP dois_NUM atacantes_N Robson_NPROP e_KC Túlio_NPROP -_PU ou_KC reforçar_V o_ART meio-campo_N com_PREP cinco_NUM jogadores_N e_KC escalar_V apenas_PDEN Túlio_N na_PREP+ART frente_N ._END
 Como_KS Muller_NPROP não_ADV joga_V ,_PU ele_PROPESS pode_V optar_V pelo_PREP+ART esquema_N um_ADV pouco_ADV mais_ADV aberto_PCP ,_PU com_PREP os_ART dois_NUM atacantes_N ._END
@@ -278,17 +278,17 @@ A_ART equipe_N carioca_ADJ terá_V dois_NUM desfalques_N ._END
 O_ART zagueiro_N Rogério_NPROP ,_PU que_PRO-KS está_V sem_PREP condições_N físicas_ADJ após_PREP longa_ADJ inatividade_N ,_PU e_KC o_ART cabeça_N de_N área_N Nélson_NPROP ,_PU que_ADV-KS sofreu_V uma_ART contratura_N muscular_ADJ na_PREP+ART partida_N contra_PREP o_ART Volta_NPROP Redonda_NPROP ,_PU domingo_N passado_PCP ._END
 O_ART presidente_N do_PREP+ART Botafogo_NPROP ,_PU Carlos_NPROP Augusto_NPROP Montenegro_NPROP ,_PU disse_V que_KS espera_V que_KS todos_PROADJ os_ART cariocas_N torçam_V pelo_PREP+ART time_N alvinegro_ADJ ._END
 "_PU A_ART viagem_N de_PREP 36_NUM horas_N é_V cansativa_ADJ ,_PU mas_KC vai_V ficar_V muito_ADV mais_ADV leve_ADJ se_KS a_ART gente_N conseguir_V ganhar_V esta_PROADJ taça_N "_PU ,_PU comentou_V Montenegro_NPROP ._END
-Se_KS o_ART Botafogo_NPROP conseguir_V derrotar_V o_ART São_NPROP Paulo_NPROP ,_PU estará_V conquistando_V o_ART segundo_ADJ título_N internacional_ADJ de_PREP sua_PROADJ história_N ._END
+Se_KS o_ART Botafogo_NPROP conseguir_V derrotar_V o_ART São Paulo_NPROP ,_PU estará_V conquistando_V o_ART segundo_ADJ título_N internacional_ADJ de_PREP sua_PROADJ história_N ._END
 O_ART primeiro_N foi_V a_ART Taça_NPROP Conmenbol_NPROP do_PREP+ART ano_N passado_PCP ._END
-Apesar_PREP de_PREP reconhecer_V a_ART superioridade_N técnica_ADJ do_PREP+ART São_NPROP Paulo_NPROP ,_PU o_ART técnico_N Dé_NPROP aposta_V na_PREP+ART sua_PROADJ equipe_N :_PU "_PU Vai_V dar_V zebra_N "_PU ,_PU disse_V ele_PROPESS antes_PREP de_PREP embarcar_V para_PREP o_ART Japão_NPROP ._END
+Apesar_PREP de_PREP reconhecer_V a_ART superioridade_N técnica_ADJ do_PREP+ART São Paulo_NPROP ,_PU o_ART técnico_N Dé_NPROP aposta_V na_PREP+ART sua_PROADJ equipe_N :_PU "_PU Vai_V dar_V zebra_N "_PU ,_PU disse_V ele_PROPESS antes_PREP de_PREP embarcar_V para_PREP o_ART Japão_NPROP ._END
 Entenda_V o_PRO-KS que_PRO-KS é_V a_ART Recopa_NPROP
-Neste_PREP+PROADJ ano_N ,_PU como_KS o_ART São_NPROP Paulo_NPROP foi_V o_ART campeão_N das_PREP+ART duas_NUM disputas_N em_PREP 1993_N ,_PU a_ART CSF_NPROP (_PU Conferação_NPROP Sul-Americana_NPROP de_NPROP Futebol_NPROP )_PU decidiu_V indicar_V o_ART Botafogo_NPROP do_PREP+ART Rio_NPROP ,_PU campeão_N da_PREP+ART Conmebol_NPROP ,_PU para_PREP a_ART disputa_N ._END
+Neste_PREP+PROADJ ano_N ,_PU como_KS o_ART São Paulo_NPROP foi_V o_ART campeão_N das_PREP+ART duas_NUM disputas_N em_PREP 1993_N ,_PU a_ART CSF_NPROP (_PU Conferação_NPROP Sul-Americana_NPROP de_NPROP Futebol_NPROP )_PU decidiu_V indicar_V o_ART Botafogo_NPROP do_PREP+ART Rio_NPROP ,_PU campeão_N da_PREP+ART Conmebol_NPROP ,_PU para_PREP a_ART disputa_N ._END
 A_ART Conmebol_NPROP é_V o_ART equivalente_N sul-americano_ADJ da_PREP+ART Copa_NPROP da_NPROP Uefa_NPROP ,_PU da_PREP+ART Europa_NPROP ._END
 A_ART Recopa_NPROP Sul-Americana_NPROP já_ADV foi_V disputada_PCP três_NUM vezes_N :_PU em_PREP 89_N ,_PU a_ART disputa_N aconteceu_V em_PREP Miami_NPROP e_KC o_ART Boca_NPROP Juniors_NPROP bateu_V o_ART Nacional_NPROP de_PREP Medellin_NPROP por_PREP 1_N a_PREP 0_N ._END
 Em_PREP 90_N ,_PU não_ADV houve_V disputa_N porque_KS o_ART Olimpia_NPROP do_PREP+ART Paraguai_NPROP venceu_V os_ART dois_NUM torneios_N ._END
 A_ART primeira_ADJ final_N "_PU japonesa_ADJ "_PU aconteceu_V em_PREP 92_N ._END
 O_ART Cruzeiro_NPROP perdeu_V nos_PREP+ART pênaltis_N para_PREP o_ART Colo-Colo_NPROP ,_PU após_PREP empatar_V em_PREP 0_N a_PREP 0_N ._END
-No_PREP+ART ano_N passado_PCP ,_PU o_ART Cruzeiro_NPROP perdeu_V de_ADV novo_ADV nos_PREP+ART pênaltis_N ,_PU após_PREP dois_NUM empates_N em_PREP 0_N a_PREP 0_N com_PREP o_ART São_NPROP Paulo_NPROP ,_PU no_PREP+ART Brasil_NPROP ._END
+No_PREP+ART ano_N passado_PCP ,_PU o_ART Cruzeiro_NPROP perdeu_V de_ADV novo_ADV nos_PREP+ART pênaltis_N ,_PU após_PREP dois_NUM empates_N em_PREP 0_N a_PREP 0_N com_PREP o_ART São Paulo_NPROP ,_PU no_PREP+ART Brasil_NPROP ._END
 Páscoa_NPROP antecipa_V jogos_N ;_PU Milan_NPROP enfrenta_V Parma_NPROP
 Da_PREP+ART Equipe_N de_PREP Articulistas_N
 O_ART país_N ,_PU de_PREP todo_PROADJ modo_N ,_PU não_ADV fica_V sem_PREP o_ART seu_PROADJ futebol_N neste_PREP+PROADJ final_N de_PREP semana_N ._END
@@ -387,7 +387,7 @@ O_ART árbitro_N deve_V anular_V o_ART gol_N e_KC reiniciar_V a_ART partida_N co
 A_ART seção_N As_NPROP Regras_NPROP do_NPROP Futebol_NPROP será_V publicada_PCP semanalmente_ADV aos_PREP+ART sábados_N
 José_NPROP Roberto_NPROP Guimarães_NPROP diz_V que_KS o_ART Brasil_NPROP precisa_V melhorar_V seu_PROADJ contra-ataque_N ._END
 PÁG_N ._END
-O_ART Corinthians_NPROP venceu_V o_ART São_NPROP Paulo_NPROP por_PREP 2_N a_PREP 0_N e_KC vai_V à_PREP+ART semifinal_N da_PREP+ART Copa_NPROP Bandeirantes_NPROP ._END
+O_ART Corinthians_NPROP venceu_V o_ART São Paulo_NPROP por_PREP 2_N a_PREP 0_N e_KC vai_V à_PREP+ART semifinal_N da_PREP+ART Copa_NPROP Bandeirantes_NPROP ._END
 5_N
 Scott_NPROP Goodyear_NPROP venceu_V as_ART 500_NUM Milhas_N de_PREP Michigan_NPROP ._END
 Al_NPROP User_NPROP Jr._NPROP continua_V líder_N ._END
@@ -417,11 +417,11 @@ Andrea_NPROP de_NPROP Cesaris_NPROP ,_PU da_PREP+ART Sauber_NPROP ,_PU Alessandr
 Porém_KC ,_PU receberam_V sursis_N e_KC correm_V os_ART próximos_ADJ três_NUM GPs_NPROP sob_PREP supervisão_N ._END
 Leia_V MAIS_ADV sobre_PREP F-1_NPROP nas_PREP+ART páginas_N 4-3_N e_KC 4-4_N ._END
 Corinthians_NPROP faz_V da_PREP+ART partida_N um_ART treino_N
-Clássico_N com_PREP o_ART São_NPROP Paulo_NPROP ,_PU pela_PREP+ART Copa_NPROP Bandeirantes_NPROP ,_PU serve_V de_PREP campo_N de_PREP observação_N com_PREP vistas_N ao_PREP+ART Brasileiro_NPROP
+Clássico_N com_PREP o_ART São Paulo_NPROP ,_PU pela_PREP+ART Copa_NPROP Bandeirantes_NPROP ,_PU serve_V de_PREP campo_N de_PREP observação_N com_PREP vistas_N ao_PREP+ART Brasileiro_NPROP
 ALBERTO_NPROP HELENA_NPROP JR_NPROP ._END
 Para_PREP o_ART Corinthians_NPROP ,_PU foi_V um_ART coletivo_N puxado_PCP ,_PU se_PROPESS dizia_V antigamente_ADV ._END
 E_KC como_PREP todo_PROADJ treino_N coletivo_ADJ ,_PU serviu_V de_PREP campo_N de_PREP observação_N com_PREP vistas_N ao_PREP+ART Campeonato_NPROP Brasileiro_NPROP que_PRO-KS aí_ADV vem_V ._END
-Nesse_PREP+PROADJ caso_N ,_PU confesso_V ,_PU os_ART 2_N a_PREP 0_N do_PREP+ART Corinthians_NPROP sobre_PREP o_ART time_N reserva_V do_PREP+ART São_NPROP Paulo_NPROP ,_PU ontem_ADV ,_PU no_PREP+ART Morumbi_NPROP ,_PU causou_V mais_PROADJ apreensão_N que_KS satisfação_N ._END
+Nesse_PREP+PROADJ caso_N ,_PU confesso_V ,_PU os_ART 2_N a_PREP 0_N do_PREP+ART Corinthians_NPROP sobre_PREP o_ART time_N reserva_V do_PREP+ART São Paulo_NPROP ,_PU ontem_ADV ,_PU no_PREP+ART Morumbi_NPROP ,_PU causou_V mais_PROADJ apreensão_N que_KS satisfação_N ._END
 Antes_PREP de_PREP mais_PROADJ nada_PROSUB ,_PU porque_KS o_ART placar_N foi_V construído_PCP em_PREP apenas_PDEN dois_NUM minutos_N ,_PU já_ADV no_PREP+ART segundo_ADJ tempo_N ,_PU fruto_N de_PREP um_ART mesmo_PROADJ tipo_N de_PREP jogada_N :_PU a_ART cobrança_N de_PREP córner_N ,_PU especialidade_N do_PREP+ART ponta_N Marcelinho_NPROP ._END
 No_PREP+ART primeiro_N ,_PU olímpico_ADJ ,_PU contou_V com_PREP a_ART participação_N decisiva_ADJ de_PREP Ronaldo_NPROP Luís_NPROP e_KC definitiva_ADJ do_PREP+ART goleiro_N Rogério_NPROP ,_PU que_PRO-KS colocou_V a_ART bola_N para_PREP dentro_PREP do_PREP+ART gol_N ._END
 No_PREP+ART segundo_N ,_PU a_ART cabeçada_N certeira_ADJ de_PREP Rivaldo_NPROP ._END
@@ -437,7 +437,7 @@ Mas_KC tinha_V em_PREP Charuto_NPROP ,_PU um_ART negro_N esperto_ADJ e_KC versá
 Pois_KC De_NPROP Domenico_NPROP cismou_V um_NUM dia_N de_PREP colocar_V Charuto_NPROP na_PREP+ART reserva_N ._END
 Com_PREP ele_PROPESS ,_PU todos_PROADJ os_ART negros_N do_PREP+ART time_N ._END
 A_PREP cada_PROADJ jogo_N ,_PU na_PREP+ART boca_N do_PREP+ART túnel_N ,_PU à_PREP+ART saída_N do_PREP+ART técnico_N ,_PU Charuto_NPROP sussurrava_V alto_ADV bastante_ADV para_PREP os_ART ouvidos_N de_PREP :_PU "_PU É_V preciso_ADJ pintar_V esse_PROADJ time_N ._END
-Essa_PROADJ parábola_N de_PREP porta_N de_PREP vestiário_N vale_V para_PREP o_ART São_NPROP Paulo_NPROP ,_PU sobretudo_ADV com_PREP relação_PREP à_PREP+ART garotada_N que_PRO-KS está_V surgindo_V ._END
+Essa_PROADJ parábola_N de_PREP porta_N de_PREP vestiário_N vale_V para_PREP o_ART São Paulo_NPROP ,_PU sobretudo_ADV com_PREP relação_PREP à_PREP+ART garotada_N que_PRO-KS está_V surgindo_V ._END
 São_V quase_ADV todos_PROADJ branquinhos_N e_KC aplicados_PCP ._END
 Nada_PROSUB contra_PREP ,_PU mas_KC falta_V um_ADV pouco_ADV de_PREP tempero_N negro_ADJ ,_PU principalmente_ADV do_PREP+ART meio-campo_N para_PREP a_ART frente_N ._END
 Falta_V uma_ART dose_N de_PREP irreverência_N que_PRO-KS é_V o_ART sal_N do_PREP+ART futebol_N ._END
@@ -452,7 +452,7 @@ O_ART Palmeiras_NPROP joga_V hoje_ADV ,_PU às_PREP+ART 20h30_N ,_PU contra_PREP
 O_ART time_N que_PRO-KS ganhar_V a_PREP Copa_NPROP Bandeirantes_NPROP estará_V classificado_PCP para_PREP disputar_V a_PREP Copa_NPROP do_NPROP Brasil_NPROP do_PREP+ART próximo_ADJ ano_N ._END
 O_ART outro_PROADJ representante_N paulista_ADJ na_PREP+ART Copa_NPROP do_NPROP Brasil_NPROP é_V o_ART campeão_N estadual_ADJ ._END
 A_ART Copa_NPROP do_NPROP Brasil_NPROP classifica_V uma_ART equipe_N para_PREP a_ART Taça_NPROP Libertadores_NPROP da_NPROP América_NPROP ._END
-Participam_V da_PREP+ART Copa_NPROP Bandeirantes_NPROP ,_PU além_PREP de_PREP Palmeiras_NPROP e_KC América_NPROP ,_PU o_ART Corinthians_NPROP ,_PU São_NPROP Paulo_NPROP ,_PU Santos_NPROP ,_PU Nacional_NPROP ,_PU Araçatuba_NPROP e_KC Novorizontino_NPROP ._END
+Participam_V da_PREP+ART Copa_NPROP Bandeirantes_NPROP ,_PU além_PREP de_PREP Palmeiras_NPROP e_KC América_NPROP ,_PU o_ART Corinthians_NPROP ,_PU São Paulo_NPROP ,_PU Santos_NPROP ,_PU Nacional_NPROP ,_PU Araçatuba_NPROP e_KC Novorizontino_NPROP ._END
 ._END Acidentes_N tiram_V 11_NUM carros_N na_PREP+ART 1ª_ADJ volta_N do_PREP+ART GP_NPROP
 Acidentes_N tiram_V 11_NUM carros_N na_PREP+ART 1ª_ADJ volta_N do_PREP+ART GP_NPROP
 Direção_N da_PREP+ART prova_N resolve_V não_ADV anular_V a_ART largada_N ;_PU oito_NUM pilotos_N completam_V a_ART corrida_N na_PREP+ART Alemanha_NPROP
@@ -652,7 +652,7 @@ Vamos_V esquecer_V as_ART tantas_PROADJ baboseiras_N apregoadas_PCP por_PREP e_K
 -_PU ,_PU mas_KC que_KS pouco_ADV têm_V a_PREP ver_V com_PREP o_ART curso_N que_KS o_ART futebol_N deve_V retomar_V em_PREP nossos_PROADJ campos_N ._END
 esses_PROADJ próximos_ADJ quatro_NUM anos_N sirvam_V para_PREP encontrar_V a_ART fórmula_N ideal_ADJ ._END
 Agora_KC chega_V de_PREP Copa_NPROP e_KC vamos_V prestigiar_V nossos_PROADJ craques_N ._END
-P.S._N :_PU ._END Alguém_PROSUB se_PROPESS lembrou_V que_KS o_ART jogo_N São_NPROP Paulo_NPROP e_KC Palmeiras_NPROP ,_PU pela_PREP+ART Taça_NPROP Libertadores_NPROP da_NPROP América_NPROP ,_PU era_V também_PDEN eliminatório_ADJ e_KC que_KS ,_PU se_KS houvesse_V empate_N ,_PU seria_V decidido_PCP nos_PREP+ART pênaltis_N ?_PU
+P.S._N :_PU ._END Alguém_PROSUB se_PROPESS lembrou_V que_KS o_ART jogo_N São Paulo_NPROP e_KC Palmeiras_NPROP ,_PU pela_PREP+ART Taça_NPROP Libertadores_NPROP da_NPROP América_NPROP ,_PU era_V também_PDEN eliminatório_ADJ e_KC que_KS ,_PU se_KS houvesse_V empate_N ,_PU seria_V decidido_PCP nos_PREP+ART pênaltis_N ?_PU
 Tetracampeão_N deve_V chegar_V na_PREP+ART quarta-feira_N ;_PU time_N quer_V mais_PROADJ dois_NUM jogadores_N
 O_ART Corinthians_NPROP acertou_V a_ART contratação_N do_PREP+ART lateral-esquerdo_N Branco_NPROP ,_PU do_PREP+ART Fluminense_NPROP ._END
 O_ART jogador_N ,_PU que_PRO-KS deve_V se_PROPESS apresentar_V na_PREP+ART quarta-feira_N ,_PU encabeça_V uma_ART lista_N que_PRO-KS apresenta_V ainda_ADV mais_PROADJ duas_NUM novidades_N ._END
@@ -671,7 +671,7 @@ A_ART imprensa_N italiana_ADJ noticiou_V ontem_ADV que_KS o_ART Parma_NPROP est�
 Taffarel_NPROP está_V sem_PREP clube_N terminou_V seu_PROADJ empréstimo_N ao_PREP+ART Reggiana_NPROP ,_PU clube_N italiano_ADJ ._END
 Os_ART dirigentes_N do_PREP+ART Palmeiras_NPROP não_ADV confirmam_V a_ART negociação_N ._END
 No_PREP+ART sábado_N à_PREP+ART noite_N ,_PU o_ART time_N empatou_V em_PREP 0_N a_PREP 0_N com_PREP o_ART Nacional_NPROP ,_PU pela_PREP+ART Copa_NPROP dos_NPROP Bandeirantes_NPROP ._END
-Time_N derrota_V o_ART São_NPROP Paulo_NPROP e_KC vai_V à_PREP+ART semifinal_N
+Time_N derrota_V o_ART São Paulo_NPROP e_KC vai_V à_PREP+ART semifinal_N
 Com_PREP o_ART resultado_N ,_PU o_ART time_N somou_V dez_NUM pontos_N no_PREP+ART 1_N ,_PU se_PROPESS classificando_V matematicamente_ADV ._END
 "_PU É_V um_ART bom_ADJ sinal_N de_PREP que_KS a_ART preparação_N para_PREP o_ART Campeonato_NPROP Brasileiro_NPROP vem_V rendendo_V "_PU ,_PU disse_V o_ART técnico_ADJ Jair_NPROP Pereira_NPROP ,_PU satisfeito_PCP com_PREP o_PRO-KS que_PRO-KS considerou_V uma_ART vitória_N tática_ADJ ._END
 "_PU Em_PREP todos_PROADJ os_ART jogos_N ,_PU o_ART meio-campo_N sempre_ADV é_V congestionado_PCP ._END
@@ -694,18 +694,18 @@ Técnico_N -_PU Muricy_NPROP Ramalho_NPROP
 Juiz_N -_PU Oscar_NPROP Roberto_NPROP de_NPROP Godói_NPROP
 Público_N -_PU 3.000_NUM pagantes_N
 Cartão_N amarelo_ADJ -_PU Nem_NPROP ,_PU Bordon_NPROP e_KC Jamelli_NPROP
-Palhinha_NPROP acerta_V novo_ADJ contrato_N com_PREP São_NPROP Paulo_NPROP
-O_ART meia_N Palhinha_NPROP acertou_V a_ART renovação_N de_PREP seu_PROADJ contrato_N com_PREP o_ART São_NPROP Paulo_NPROP ._END
-O_ART acordo_N foi_V feito_PCP sábado_N entre_PREP o_ART jogador_N e_KC o_ART diretor_N de_PREP futebol_N Márcio_NPROP Aranha_NPROP ,_PU durante_PREP a_ART viagem_N de_ADV volta_ADV do_PREP+ART Chile_NPROP ,_PU onde_ADV-KS o_ART São_NPROP Paulo_NPROP enfrentou_V o_ART Unión_NPROP Española_NPROP pela_PREP+ART Taça_NPROP Libertadores_NPROP ._END
+Palhinha_NPROP acerta_V novo_ADJ contrato_N com_PREP São Paulo_NPROP
+O_ART meia_N Palhinha_NPROP acertou_V a_ART renovação_N de_PREP seu_PROADJ contrato_N com_PREP o_ART São Paulo_NPROP ._END
+O_ART acordo_N foi_V feito_PCP sábado_N entre_PREP o_ART jogador_N e_KC o_ART diretor_N de_PREP futebol_N Márcio_NPROP Aranha_NPROP ,_PU durante_PREP a_ART viagem_N de_ADV volta_ADV do_PREP+ART Chile_NPROP ,_PU onde_ADV-KS o_ART São Paulo_NPROP enfrentou_V o_ART Unión_NPROP Española_NPROP pela_PREP+ART Taça_NPROP Libertadores_NPROP ._END
 O_ART contrato_N antigo_ADJ se_PROPESS encerrou_V ontem_ADV ._END
 O_ART novo_N ,_PU com_PREP duração_N de_PREP um_NUM ano_N ,_PU será_V assinado_PCP hoje_ADV ._END
 O_ART contrato_N do_PREP+ART zagueiro_N Válber_NPROP também_PDEN expirou_V ontem_ADV ._END
 Hoje_ADV ele_PROPESS começa_V a_PREP negociar_V a_ART renovação_N ._END
-Ele_PROPESS tem_V contrato_N até_PREP 31_N deste_PREP+PROADJ mês_N e_KC o_ART presidente_N do_PREP+ART São_NPROP Paulo_NPROP ,_PU Fernando_NPROP Casal_NPROP de_NPROP Rey_NPROP ,_PU pretende_V renovar_V -lo_PROPESS ._END
-Mas_KC se_KS o_ART Tottenham_NPROP oferecer_V os_ART US$_CUR 3_NUM milhões_N que_PRO-KS foram_V noticiados_PCP ,_PU serei_V favorável_ADJ à_PREP+ART venda_N ,_PU porque_KC equilibraria_V a_ART situação_N do_PREP+ART São_NPROP Paulo_NPROP "_PU ,_PU disse_V Márcio_NPROP Aranha_NPROP ._END
+Ele_PROPESS tem_V contrato_N até_PREP 31_N deste_PREP+PROADJ mês_N e_KC o_ART presidente_N do_PREP+ART São Paulo_NPROP ,_PU Fernando_NPROP Casal_NPROP de_NPROP Rey_NPROP ,_PU pretende_V renovar_V -lo_PROPESS ._END
+Mas_KC se_KS o_ART Tottenham_NPROP oferecer_V os_ART US$_CUR 3_NUM milhões_N que_PRO-KS foram_V noticiados_PCP ,_PU serei_V favorável_ADJ à_PREP+ART venda_N ,_PU porque_KC equilibraria_V a_ART situação_N do_PREP+ART São Paulo_NPROP "_PU ,_PU disse_V Márcio_NPROP Aranha_NPROP ._END
 Fernando_NPROP Casal_NPROP de_NPROP Rey_NPROP ,_PU porém_KC ,_PU disse_V que_KS o_ART clube_N inglês_ADJ apenas_PDEN sondou_V o_ART jogador_N ._END
 Segundo_PREP Aranha_NPROP ,_PU o_ART clube_N está_V tentando_V a_ART contratação_N de_PREP um_ART atacante_N ._END
-O_ART São_NPROP Paulo_NPROP também_PDEN deverá_V tentar_V a_ART compra_N do_PREP+ART meia_N Sierra_NPROP ,_PU do_PREP+ART Unión_NPROP Española_NPROP ,_PU na_PREP+ART quarta-feira_N ._END
+O_ART São Paulo_NPROP também_PDEN deverá_V tentar_V a_ART compra_N do_PREP+ART meia_N Sierra_NPROP ,_PU do_PREP+ART Unión_NPROP Española_NPROP ,_PU na_PREP+ART quarta-feira_N ._END
 (_PU MMo_NPROP e_KC UB_NPROP )_PU
 Na_PREP+ART última_ADJ temporada_N ,_PU o_ART jogador_N atuou_V pelo_PREP+ART Bordeaux_NPROP ,_PU da_PREP+ART França_NPROP ._END
 Márcio_NPROP foi_V um_PROSUB dos_PREP+ART zagueiros_N escolhidos_PCP pela_PREP+ART Fifa_NPROP para_PREP formar_V na_PREP+ART defesa_N da_PREP+ART seleção_N ideal_ADJ do_PREP+ART Mundial_NPROP ._END
@@ -715,18 +715,18 @@ Ricardo_NPROP Rogério_NPROP de_NPROP Brito_NPROP ,_PU o_ART Alemão_NPROP ,_PU 
 Após_PREP última_N ,_PU devido_PREP a_PREP um_ART desentendimento_N com_PREP o_ART presidente_N da_PREP+ART CBF_NPROP ,_PU Ricardo_NPROP Teixeira_NPROP ,_PU foi_V vetado_PCP para_PREP novas_ADJ convocações_N ._END
 Em_PREP entrevista_N à_PREP+ART Folha_NPROP ,_PU Alemão_NPROP declarou_V -se_PROPESS "_PU muito_ADV feliz_ADJ "_PU com_PREP a_ART conquista_N do_PREP+ART tetracampeonato_N pelo_PREP+ART Brasil_NPROP ._END
 "_PU Calou_V a_ART boca_N de_PREP todo_N mundo_N que_PRO-KS nos_PROPESS criticou_V em_PREP 90_N ._END
-Neste_PREP+PROADJ momento_N da_PREP+ART sua_PROADJ carreira_N ,_PU o_PRO-KS que_PRO-KS representa_V jogar_V no_PREP+ART São_NPROP Paulo_NPROP ?_PU
+Neste_PREP+PROADJ momento_N da_PREP+ART sua_PROADJ carreira_N ,_PU o_PRO-KS que_PRO-KS representa_V jogar_V no_PREP+ART São Paulo_NPROP ?_PU
 É_V sempre_ADV importante_ADJ estar_V num_PREP+ART clube_N que_PRO-KS dá_V a_ART perspectiva_N de_PREP conquistar_V títulos_N ._END
 Jogar_V num_PREP+ART time_N pequeno_ADJ ,_PU como_PREP o_ART Atalanta_NPROP ,_PU é_V difícil_ADJ ._END
 Em_PREP posição_N você_PROPESS vinha_V jogando_V no_PREP+ART Atalanta_NPROP ?_PU
 Na_PREP+ART cabeça-de-área_N ._END
-Com_PREP jogadores_N do_PREP+ART São_NPROP Paulo_NPROP você_PROPESS já_ADV jogou_V ?_PU
+Com_PREP jogadores_N do_PREP+ART São Paulo_NPROP você_PROPESS já_ADV jogou_V ?_PU
 Só_PDEN com_PREP o_ART Muller_NPROP ,_PU na_PREP+ART seleção_N brasileira_ADJ ._END
-Você_PROPESS conhece_V a_ART forma_N de_PREP jogar_V do_PREP+ART São_NPROP Paulo_NPROP ?_PU
+Você_PROPESS conhece_V a_ART forma_N de_PREP jogar_V do_PREP+ART São Paulo_NPROP ?_PU
 Sim_ADV ,_PU tenho_V visto_PCP o_ART time_N pela_PREP+ART televisão_N ._END
 Acho_V que_KS não_ADV terei_V problemas_N de_PREP adaptação_N ._END
 Aceitaria_V ser_V reserva_N ?_PU
-Não_ADV contratado_PCP para_PREP ser_V titular_ADJ ,_PU mas_KC para_PREP fazer_V parte_N do_PREP+ART elenco_N do_PREP+ART São_NPROP Paulo_NPROP ._END
+Não_ADV contratado_PCP para_PREP ser_V titular_ADJ ,_PU mas_KC para_PREP fazer_V parte_N do_PREP+ART elenco_N do_PREP+ART São Paulo_NPROP ._END
 Com_PREP a_ART experiência_N e_KC a_ART competência_N que_PRO-KS o_ART Telê_NPROP tem_V ,_PU nem_ADV se_PROPESS pode_V discutir_V ele_PROPESS decide_V ._END
 você_PROPESS está_V fisicamente_ADV ?_PU
 Em_PREP tempo_N acredita_V que_KS estará_V em_PREP forma_N ?_PU
@@ -751,7 +751,7 @@ Já_ADV pensando_V no_PREP+ART Mundial_NPROP da_NPROP Grécia_NPROP ,_PU que_PRO
 Depois_PREP da_PREP+ART Itália_NPROP ,_PU a_ART seleção_N faz_V ainda_ADV amistosos_N contra_PREP a_ART Argentina_NPROP (_PU que_PRO-KS está_V no_PREP+ART mesmo_PROADJ grupo_N do_PREP+ART Brasil_NPROP no_PREP+ART Mundial_NPROP ,_PU ao_PREP lado_PREP de_PREP Alemanha_NPROP e_KC Estados_NPROP Unidos_NPROP )_PU ._END
 Em_ADV seguida_ADV ,_PU a_ART seleção_N pega_V a_ART mesma_PROADJ Bulgária_NPROP contra_PREP quem_PRO-KS jogou_V no_PREP+ART último_ADJ sábado_N ,_PU vencendo_V e_KC conquistando_V a_ART medalha_N de_PREP bronze_N da_PREP+ART Liga_NPROP Mundial_NPROP 94_NPROP ._END
 Os_ART amistosos_N contra_PREP os_ART búlgaros_N devem_V acontecer_V somente_PDEN em_PREP setembro_N ,_PU quando_ADV-KS a_ART seleção_N brasileira_ADJ retorna_V à_PREP+ART Europa_NPROP ._END
-Para_PREP o_ART técnico_N brasileiro_ADJ ,_PU os_ART jogos_N contra_PREP os_ART búlgaros_N vão_V permitir_V ao_PREP+ART time_N testar_V algumas_PROSUB das_PREP+ART jogadas_N a_PREP serem_V treinadas_PCP em_PREP São_NPROP Paulo_NPROP ,_PU entre_PREP elas_PROPESS as_ART variações_N de_PREP contra-ataque_N ._END
+Para_PREP o_ART técnico_N brasileiro_ADJ ,_PU os_ART jogos_N contra_PREP os_ART búlgaros_N vão_V permitir_V ao_PREP+ART time_N testar_V algumas_PROSUB das_PREP+ART jogadas_N a_PREP serem_V treinadas_PCP em_PREP São Paulo_NPROP ,_PU entre_PREP elas_PROPESS as_ART variações_N de_PREP contra-ataque_N ._END
 Apesar_PREP de_PREP ter_V tido_PCP a_ART melhor_ADJ campanha_N na_PREP+ART Liga_NPROP ,_PU o_ART Brasil_NPROP acabou_V afastado_PCP da_PREP+ART luta_N pelo_PREP+ART título_N devido_PREP a_PREP uma_ART única_ADJ derrota_N ._END
 "_PU uma_NUM vez_N afirmo_V que_KS não_ADV existe_V time_N imbatível_ADJ e_KC isso_PROSUB ficou_V provado_PCP neste_PREP+PROADJ torneio_N ._END
 Há_V algumas_PROADJ equipes_N que_PRO-KS estão_V mostrando_V um_ART vôlei_N de_PREP alto_ADJ nível_N "_PU ,_PU afirmou_V o_ART treinador_N ._END
@@ -767,7 +767,7 @@ Com_PREP o_ART astral_N mais_ADV elevado_PCP ,_PU apesar_PREP da_PREP+ART derrot
 Fiz_V de_PREP tudo_PROSUB para_PREP jogar_V ._END
 Não_ADV me_PROPESS conformo_V de_PREP ter_V ficado_PCP fora_ADV no_PREP+ART dia_N do_PREP+ART jogo_N mais_ADV importante_ADJ "_PU ,_PU disse_V Negrão_NPROP ._END
 O_ART atacante_N ,_PU contratado_PCP pela_PREP+ART Telesp_NPROP para_PREP defender_V o_ART time_N na_PREP+ART Liga_NPROP Nacional_NPROP da_PREP+ART temporada_N 94/95_N ,_PU permanece_V na_PREP+ART Itália_NPROP até_PREP amanhã_ADV ._END
-"_PU Vou_V cuidar_V da_PREP+ART transferência_N de_PREP alguns_PROADJ objetos_N pessoais_ADJ para_PREP São_NPROP Paulo_NPROP "_PU ,_PU afirmou_V o_ART jogador_N ._END
+"_PU Vou_V cuidar_V da_PREP+ART transferência_N de_PREP alguns_PROADJ objetos_N pessoais_ADJ para_PREP São Paulo_NPROP "_PU ,_PU afirmou_V o_ART jogador_N ._END
 Ao_PREP chegar_V ao_PREP+ART Brasil_NPROP ,_PU Negrão_NPROP descansa_V até_PREP o_ART próximo_ADJ domingo_N ,_PU quando_ADV-KS à_PREP+ART noite_N se_PROPESS reapresenta_V ao_PREP+ART técnico_ADJ José_NPROP Roberto_NPROP Guimarães_NPROP para_PREP ter_V reavaliada_PCP sua_PROADJ contusão_N ._END
 O_ART ruim_N é_V que_KS terei_V que_KS voltar_V a_PREP fazer_V exercícios_N na_PREP+ART bicicleta_N ergométrica_ADJ ._END
 Só_ADV de_PREP pensar_V nisso_PREP+PROSUB sinto_V agonia_N "_PU ,_PU afirma_V o_ART jogador_N ._END
@@ -807,7 +807,7 @@ Os_ART jogadores_N e_KC a_ART comissão_N técnica_ADJ programaram_V comemorar_V
 Depois_ADV de_PREP brigar_V pela_PREP+ART chave_N do_PREP+ART vestiário_N brasileiro_ADJ antes_ADV da_PREP+ART partida_N contra_PREP Cuba_NPROP ,_PU a_ART seleção_N também_PDEN precisou_V discutir_V com_PREP a_ART organização_N da_PREP+ART Liga_NPROP para_PREP não_ADV sair_V do_PREP+ART hotel_N destinado_PCP às_PREP+ART delegações_N ._END
 a_ART equipe_N viajaria_V à_PREP+ART noite_N ,_PU foi_V preciso_ADJ uma_ART conversa_N mais_ADV enérgica_ADJ bastou_V para_PREP que_KS o_ART time_N tivesse_V garantido_PCP mais_PROADJ um_NUM dia_N de_PREP hospedagem_N ._END
 O_ART presidente_N da_PREP+ART Confederação_NPROP Brasileira_NPROP de_NPROP Vôlei_NPROP ,_PU Carlos_NPROP Arthur_NPROP Nuzman_NPROP ,_PU participa_V hoje_ADV de_PREP uma_ART reunião_N na_PREP+ART Suíça_NPROP para_PREP avaliação_N da_PREP+ART Liga_NPROP Mundial_NPROP de_PREP 94_N ._END
-Na_PREP+ART pauta_N ,_PU uma_ART provável_ADJ mudança_N nas_PREP+ART regras_N do_PREP+ART torneio_N para_PREP 95_N ,_PU cuja_PRO-KS fase_N final_ADJ será_V disputada_PCP em_PREP São_NPROP Paulo_NPROP ._END
+Na_PREP+ART pauta_N ,_PU uma_ART provável_ADJ mudança_N nas_PREP+ART regras_N do_PREP+ART torneio_N para_PREP 95_N ,_PU cuja_PRO-KS fase_N final_ADJ será_V disputada_PCP em_PREP São Paulo_NPROP ._END
 Estuda_V -se_PROPESS a_ART possibilidade_N do_PREP+ART saque_N ser_V dado_PCP de_PREP qualquer_PROADJ lugar_N no_PREP+ART fundo_N da_PREP+ART quadra_N e_KC de_PREP a_ART defesa_N poder_V tocar_V a_ART bola_N com_PREP qualquer_PROADJ parte_N do_PREP+ART corpo_N ,_PU até_PDEN mesmo_PDEN os_ART pés_N ._END
 O_ART assistente-técnico_N a_ART seleção_N brasileira_ADJ ,_PU Marcos_NPROP Miranda_NPROP ,_PU comprou_V em_PREP um_ART shopping_N center_N de_PREP Milão_NPROP duas_NUM miniaturas_N de_PREP barcos_N antigos_ADJ para_PREP sua_PROADJ coleção_N ._END
 Os_ART modelos_N ,_PU para_PREP armar_V ,_PU reproduzem_V navios_N da_PREP+ART Inglaterra_NPROP e_KC Canadá_NPROP ._END
@@ -900,7 +900,7 @@ Marcelinho_NPROP -_PU 7_N
 Marques_NPROP -_PU 6_N
 Souza_NPROP -_PU 4_N
 Nas_PREP+ART duas_NUM primeiras_ADJ fases_N
-O_ART futebol_N não_ADV pode_V ser_V só_PDEN de_PREP São_NPROP Paulo_NPROP
+O_ART futebol_N não_ADV pode_V ser_V só_PDEN de_PREP São Paulo_NPROP
 TVs_N e_KC revistas_N se_PROPESS preparam_V para_PREP o_ART boom_N editorial_ADJ do_PREP+ART segmento_N esportivo_ADJ ;_PU hoje_ADV é_V o_ART dia_N de_PREP checar_V o_ART Atlético_NPROP
 Matinas_NPROP SUZUKI_NPROP JR_NPROP ._END
 Editor-executivo_N
@@ -955,24 +955,24 @@ Faturamento_N
 Presente_N na_PREP+ART Argentina_NPROP (_PU onde_ADV-KS comprou_V a_ART empresa_N Vascongada_NPROP ,_PU com_PREP uma_ART receita_N anual_ADJ de_PREP US$_CUR 45_NUM milhões_N )_PU e_KC com_PREP planos_N de_PREP se_PROPESS projetar_V no_PREP+ART Uruguai_NPROP ,_PU a_ART Parmalat_NPROP deve_V se_PROPESS interessar_V também_PDEN pelo_PREP+ART mercado_N prometido_PCP na_PREP+ART Colômbia_NPROP ._END
 Separação_N atrasa_V o_ART retorno_N de_PREP Muller_NPROP
 Da_PREP+ART Reportagem_N Local_ADJ
-O_ART esperado_ADJ retorno_N de_PREP Muller_NPROP ao_PREP+ART time_N do_PREP+ART São_NPROP Paulo_NPROP não_ADV aconteceu_V ._END
+O_ART esperado_ADJ retorno_N de_PREP Muller_NPROP ao_PREP+ART time_N do_PREP+ART São Paulo_NPROP não_ADV aconteceu_V ._END
 Ontem_ADV ,_PU no_PREP+ART Centro_NPROP de_NPROP Treinamento_NPROP da_PREP+ART Barra_NPROP Funda_NPROP ,_PU o_ART atacante_N não_ADV apareceu_V para_PREP as_ART avaliações_N físicas_ADJ ._END
 "_PU Ele_PROPESS me_PROPESS ligou_V duas_NUM vezes_N e_KC eu_PROPESS procurei_V ajudar_V ._END
 Sei_V que_KS ele_PROPESS já_ADV tomou_V todas_PROADJ as_ART providências_N "_PU ,_PU disse_V ._END
-Quanto_PREP ao_PREP+ART estado_N psicológico_ADJ do_PREP+ART jogador_N ,_PU Cafu_NPROP disse_V que_KS ,_PU anteontem_ADV no_PREP+ART Morumbi_NPROP ,_PU quando_ADV-KS assistiram_V a_ART vitória_N do_PREP+ART São_NPROP Paulo_NPROP sobre_PREP o_ART Santos_NPROP ,_PU Muller_NPROP estava_V "_PU dando_V risadas_N "_PU ._END
+Quanto_PREP ao_PREP+ART estado_N psicológico_ADJ do_PREP+ART jogador_N ,_PU Cafu_NPROP disse_V que_KS ,_PU anteontem_ADV no_PREP+ART Morumbi_NPROP ,_PU quando_ADV-KS assistiram_V a_ART vitória_N do_PREP+ART São Paulo_NPROP sobre_PREP o_ART Santos_NPROP ,_PU Muller_NPROP estava_V "_PU dando_V risadas_N "_PU ._END
 Muller_NPROP tem_V um_ART histórico_N peculiar_ADJ no_PREP+ART âmbito_N das_PREP+ART relações_N amorosas_ADJ ._END
 Em_PREP 1987_N ,_PU ele_PROPESS se_PROPESS casou_V com_PREP a_ART ex-chacrete_N Jussara_NPROP ,_PU com_PREP quem_PROSUB teve_V dois_NUM filhos_N ._END
-Antes_ADV do_PREP+ART casamento_N ,_PU vários_PROADJ companheiros_N e_KC dirigentes_N do_PREP+ART São_NPROP Paulo_NPROP tentaram_V demover_V -lo_PROPESS da_PREP+ART idéia_N ._END
+Antes_ADV do_PREP+ART casamento_N ,_PU vários_PROADJ companheiros_N e_KC dirigentes_N do_PREP+ART São Paulo_NPROP tentaram_V demover_V -lo_PROPESS da_PREP+ART idéia_N ._END
 Em_PREP 1990_N ,_PU atuando_V na_PREP+ART Itália_NPROP ,_PU Muller_NPROP se_PROPESS divorciou_V ._END
-Um_NUM ano_N depois_ADV ,_PU já_ADV ao_PREP+ART São_NPROP Paulo_NPROP ,_PU ele_PROPESS retomou_V a_ART relação_N com_PREP Jussara_NPROP ,_PU até_PREP conhecer_V Miriam_NPROP ,_PU em_PREP abril_N do_PREP+ART ano_N passado_PCP ._END
+Um_NUM ano_N depois_ADV ,_PU já_ADV ao_PREP+ART São Paulo_NPROP ,_PU ele_PROPESS retomou_V a_ART relação_N com_PREP Jussara_NPROP ,_PU até_PREP conhecer_V Miriam_NPROP ,_PU em_PREP abril_N do_PREP+ART ano_N passado_PCP ._END
 Sete_NUM meses_N depois_ADV se_PROPESS casou_V ._END
 Miriam_NPROP foi_V levada_PCP para_PREP o_ART Nordeste_NPROP e_KC seus_PROADJ familiares_N se_PROPESS recusam_V a_PREP dar_V declarações_N ._END
 Anteontem_ADV ,_PU no_PREP+ART Morumbi_NPROP ,_PU Muller_NPROP tinha_V um_ART semblante_N abatido_PCP ,_PU mas_KC disse_V que_KS estava_V "_PU resolvendo_V problemas_N financeiros_ADJ e_KC apenas_PDEN prolongou_V as_ART férias_N "_PU ._END
 Se_KS Muller_NPROP ainda_ADV não_ADV apareceu_V ,_PU Euler_NPROP chega_V hoje_ADV ._END
 O_ART ponta_N será_V apresentado_PCP à_PREP+ART imprensa_N de_ADV manhã_ADV ,_PU no_PREP+ART aeroporto_N de_PREP Congonhas_NPROP ._END
-Segundo_PREP funcionários_N do_PREP+ART São_NPROP Paulo_NPROP ,_PU Euler_NPROP volta_V hoje_ADV mesmo_PDEN a_PREP Belo_NPROP Horizonte_NPROP pois_KC amanhã_ADV atuaria_V ainda_ADV pelo_PREP+ART América-MG_NPROP ._END
+Segundo_PREP funcionários_N do_PREP+ART São Paulo_NPROP ,_PU Euler_NPROP volta_V hoje_ADV mesmo_PDEN a_PREP Belo_NPROP Horizonte_NPROP pois_KC amanhã_ADV atuaria_V ainda_ADV pelo_PREP+ART América-MG_NPROP ._END
 Augusto_NPROP Castro_NPROP ,_PU procurador_N de_PREP Cafu_NPROP ,_PU teve_V ontem_ADV uma_ART reunião_N com_PREP os_ART dirigentes_N são-paulinos_ADJ ._END
-Segundo_PREP ele_PROPESS ,_PU o_ART acordo_N está_V muito_ADV próximo_ADJ e_KC não_ADV é_V impossível_ADJ que_KS Cafu_NPROP atue_V contra_PREP o_ART União_NPROP São_NPROP João_NPROP ,_PU quinta-feira_N ,_PU em_PREP Araras_NPROP ._END
+Segundo_PREP ele_PROPESS ,_PU o_ART acordo_N está_V muito_ADV próximo_ADJ e_KC não_ADV é_V impossível_ADJ que_KS Cafu_NPROP atue_V contra_PREP o_ART União_NPROP São João_NPROP ,_PU quinta-feira_N ,_PU em_PREP Araras_NPROP ._END
 Vítor_NPROP também_PDEN está_V perto_PREP do_PREP+ART acordo_N ,_PU é_V provável_ADJ que_KS Juninho_NPROP tenha_V que_KS ceder_V sua_PROADJ vaga_N no_PREP+ART time_N a_PREP Cafu_NPROP ._END
 "_PU Sei_V que_KS ele_PROPESS está_V numa_PREP+ART boa_ADJ fase_N ,_PU mas_KC aquele_PROADJ setor_N do_PREP+ART meio-campo_N está_V fragilizado_PCP "_PU ,_PU afirmou_V o_ART técnico_N Muricy_NPROP ._END
 Segundo_PREP o_ART médico_N José_NPROP Sanchez_NPROP ,_PU Palhinha_NPROP será_V submetido_PCP hoje_ADV a_PREP uma_ART ressonância_N magnética_ADJ na_PREP+ART Escola_NPROP Paulista_NPROP de_NPROP Medicina_NPROP ,_PU mais_ADV por_PREP prevenção_N ,_PU devido_PREP ao_PREP+ART caráter_N não_ADV usual_ADJ da_PREP+ART contusão_N ._END
@@ -1016,8 +1016,8 @@ Pega_V e_KC não_ADV larga_V ._END
 Trivial_ADJ ,_PU meu_PROADJ nego_N ._END
 Ô_IN Gilberto_NPROP ,_PU goleiro_N não_ADV é_V galinheiro_N ._END
 E_KC ouvindo_V a_ART Gal_NPROP você_PROPESS não_ADV tomaria_V o_ART gol_N ._END
-Aliás_KC ,_PU o_ART clássico_N no_PREP+ART Morumbi_NPROP foi_V 2_N a_PREP 2_N para_PREP o_ART São_NPROP Paulo_NPROP ._END
-Então_KC 2_N a_PREP 2_N para_PREP o_ART São_NPROP Paulo_NPROP ._END
+Aliás_KC ,_PU o_ART clássico_N no_PREP+ART Morumbi_NPROP foi_V 2_N a_PREP 2_N para_PREP o_ART São Paulo_NPROP ._END
+Então_KC 2_N a_PREP 2_N para_PREP o_ART São Paulo_NPROP ._END
 E_KC tudo_PROSUB certo_ADJ como_PREP 2_N e_KC 2_N são_V 5_N para_PREP o_ART Santos_NPROP ._END
 E_KC alô_IN ,_PU alô_IN ,_PU pessoal_N de_PREP BH_NPROP ,_PU alô_IN ,_PU alô_IN ,_PU pessoal_N de_PREP Belô_NPROP ,_PU alguém_PROSUB deveria_V avisar_V o_ART goleiro_N de_PREP Camarões_NPROP que_PRO-KS ele_PROPESS precisa_V comer_V ._END
 Senão_KC ele_PROPESS vai_V dar_V uma_PROSUB de_PREP Gilberto_NPROP ._END
@@ -1042,7 +1042,7 @@ Depois_ADV daquele_PREP+PROADJ olodum_N todo_PROADJ que_PRO-KS provocou_V na_PRE
 Ô_IN Dener_NPROP ,_PU que_IN beleza_IN ,_PU meu_PROADJ filho_N !_PU
 Assim_KC o_ART Tutty_NPROP Vazques_NPROP ,_PU o_ART Marquinhos_NPROP Palmeira_NPROP e_KC o_ART tremedão_ADJ Erasmo_NPROP Carlos_NPROP não_ADV aguentam_V ._END
 E_KC que_ADV é_V ._END
-Enquanto_KS o_ART paulista_N Dener_NPROP arrebenta_V a_ART boca_N do_PREP+ART bolão_N lá_ADV em_PREP São_NPROP Januário_NPROP ,_PU os_ART cariocas_N Djalminha_NPROP e_KC Marcelinho_NPROP são_V os_ART novos_ADJ demônios_N da_PREP+ART garoa_N ,_PU são_V os_ART novos_ADJ deuses_N da_PREP+ART chuva_N ._END
+Enquanto_KS o_ART paulista_N Dener_NPROP arrebenta_V a_ART boca_N do_PREP+ART bolão_N lá_ADV em_PREP São Januário_NPROP ,_PU os_ART cariocas_N Djalminha_NPROP e_KC Marcelinho_NPROP são_V os_ART novos_ADJ demônios_N da_PREP+ART garoa_N ,_PU são_V os_ART novos_ADJ deuses_N da_PREP+ART chuva_N ._END
 O_ART alvinegro_N do_PREP+ART Parque_NPROP ficou_V sem_PREP o_ART Dener_NPROP ,_PU mas_KC conseguiu_V o_ART bigodinho_N ._END
 E_KC você_PROPESS já_ADV pensou_V que_KS o_ART ataque_N da_PREP+ART seleção_N poderia_V ser_V um_ART quarteto_N do_PREP+ART barulho_N :_PU Edmundo_NPROP ,_PU Romário_NPROP ,_PU Dener_NPROP e_KC Muller_NPROP ._END
 Muito_PROADJ futebol_N e_KC gols_N dentro_PREP do_PREP+ART campo_N ._END
@@ -1094,7 +1094,7 @@ O_ART PSV_NPROP está_V sendo_V representado_PCP pelo_PREP+ART gerente_N do_PREP
 O_ART clube_N pede_V US$_CUR 2_NUM milhões_N pelo_PREP+ART passe_N do_PREP+ART jogador_N e_KC recebeu_V uma_NUM contra-proposta_N de_PREP US$_CUR 1,25_NUM milhão_N ,_PU livre_ADJ de_PREP despesas_N ._END
 Zé_NPROP Elias_NPROP mostrou_V -se_PROPESS entusiasmado_PCP com_PREP a_ART possível_ADJ transferência_N ._END
 "_PU Tive_V uma_ART reunião_N com_PREP o_ART presidente_N no_PREP+ART domingo_N a_ADV a_ADV noite_ADV e_KC pedi_V para_PREP ser_V liberado_PCP "_PU ,_PU disse_V o_ART ex-júnior_N ,_PU que_PRO-KS atualmente_ADV recebe_V Cr$_CUR 32_NUM mil_NUM por_PREP mês_N ,_PU fora_V os_ART prêmios_N por_PREP vitória_N ._END
-Enquanto_KS a_ART negociação_N não_ADV se_PROPESS concretiza_V ,_PU Zé_NPROP Elias_NPROP continua_V treinando_V no_PREP+ART Parque_NPROP São_NPROP Jorge_NPROP ._END
+Enquanto_KS a_ART negociação_N não_ADV se_PROPESS concretiza_V ,_PU Zé_NPROP Elias_NPROP continua_V treinando_V no_PREP+ART Parque_NPROP São Jorge_NPROP ._END
 Ontem_ADV ,_PU todo_PROADJ o_ART grupo_N participou_V de_PREP uma_ART recreação_N ._END
 Hoje_ADV ,_PU a_ART equipe_N treina_V em_PREP dois_NUM períodos_N para_PREP a_ART partida_N de_PREP amanhã_ADV contra_PREP o_ART Guarani_NPROP ,_PU em_PREP Campinas_NPROP ._END
 Outra_PROADJ alteração_N pode_V ser_V a_ART substituição_N de_PREP Leandro_NPROP por_PREP Valdo_NPROP na_PREP+ART lateral-direita_N ._END
@@ -1105,7 +1105,7 @@ Mas_KC para_PREP domingo_N deve_V dar_V para_PREP jogar_V ._END
 "_PU Quem_PRO-KS não_ADV fica_V mais_ADV no_PREP+ART clube_N é_V o_ART ponta-direita_N Fabinho_NPROP ._END
 O_ART Corinthians_NPROP viaja_V no_PREP+ART próximo_ADJ dia_N 24_N para_PREP o_ART Japão_NPROP ._END
 A_ART equipe_N faz_V dois_NUM amistosos_N :_PU dia_N 27_N contra_PREP o_ART Bellmare_NPROP Hiratsuka_NPROP e_KC dia_N 3_N de_PREP março_N frente_PREP ao_PREP+ART Yokohama_NPROP Flugels_NPROP ._END
-Para_PREP isso_PROSUB o_ART clube_N conseguiu_V ,_PU junto_PREP à_PREP+ART Federação_NPROP Paulista_NPROP ,_PU o_ART adiamento_N das_PREP+ART partidas_N contra_PREP o_ART Ituano_NPROP (_PU dia_N 26_N )_PU e_KC União_NPROP São_NPROP João_NPROP (_PU dia_N 2_N )_PU ._END
+Para_PREP isso_PROSUB o_ART clube_N conseguiu_V ,_PU junto_PREP à_PREP+ART Federação_NPROP Paulista_NPROP ,_PU o_ART adiamento_N das_PREP+ART partidas_N contra_PREP o_ART Ituano_NPROP (_PU dia_N 26_N )_PU e_KC União_NPROP São João_NPROP (_PU dia_N 2_N )_PU ._END
 Viola_NPROP usará_V protetor_N de_PREP boca_N
 Jogador_N ainda_ADV sente_V dores_N devido_PREP a_PREP uma_ART cotovelada_N recebida_PCP anteontem_ADV
 O_ART centroavante_N Viola_NPROP está_V mais_ADV tranquilo_ADJ ._END
@@ -1126,8 +1126,8 @@ Viola_NPROP foi_V ano_N passado_PCP e_KC Casagrande_NPROP ,_PU em_PREP 82_N ._EN
 (_PU )_PU
 Para_PREP goleiro_N santista_ADJ ,_PU erro_N marcará_V carreira_N
 Desde_PREP domingo_N ,_PU o_ART goleiro_N santista_ADJ Gilberto_NPROP ,_PU 25_NUM ,_PU sofre_V ele_PROPESS classifica_V o_ART pior_ADJ momento_N de_PREP sua_PROADJ carreira_N ._END
-Contra_PREP o_ART seu_PROADJ ex-clube_N ,_PU o_ART São_NPROP Paulo_NPROP ,_PU reconhece_V que_KS tomou_V o_ART "_PU frango_N "_PU ._END
-Ontem_ADV ,_PU na_PREP+ART reapresentação_N na_PREP+ART Vila_NPROP Belmiro_NPROP ,_PU ele_PROPESS se_PROPESS disse_V abatido_PCP ,_PU "_PU principalmente_ADV por_PREP ter_V sido_PCP contra_PREP o_ART São_NPROP Paulo_NPROP ,_PU de_PREP quem_PRO-KS eu_PROPESS queria_V ganhar_V "_PU ._END
+Contra_PREP o_ART seu_PROADJ ex-clube_N ,_PU o_ART São Paulo_NPROP ,_PU reconhece_V que_KS tomou_V o_ART "_PU frango_N "_PU ._END
+Ontem_ADV ,_PU na_PREP+ART reapresentação_N na_PREP+ART Vila_NPROP Belmiro_NPROP ,_PU ele_PROPESS se_PROPESS disse_V abatido_PCP ,_PU "_PU principalmente_ADV por_PREP ter_V sido_PCP contra_PREP o_ART São Paulo_NPROP ,_PU de_PREP quem_PRO-KS eu_PROPESS queria_V ganhar_V "_PU ._END
 Nesse_PREP+PROADJ momento_N ,_PU ela_PROPESS passou_V numa_PREP+ART poça_N d'_N água_N ._END
 Eu_PROPESS esperava_V que_KS a_ART bola_N batesse_V no_PREP+ART meu_PROADJ peito_N para_PREP depois_ADV segurar_V -la_PROPESS ,_PU mas_KC caiu_V na_PREP+ART água_N e_KC passou_V debaixo_PREP do_PREP+ART meu_PROADJ corpo_N ._END
 Foi_V um_ART frango_N ?_PU
@@ -1142,8 +1142,8 @@ Minha_PROADJ carreira_N vai_V ficar_V marcada_PCP por_PREP isso_PROSUB ._END
 Grandes_ADJ goleiros_N passam_V por_PREP isso_PROSUB ._END
 O_ART Zetti_NPROP ,_PU que_PRO-KS me_PROPESS deu_V grande_ADJ apoio_N depois_ADV do_PREP+ART jogo_N ,_PU já_ADV passou_V por_PREP isso_PROSUB ._END
 Eu_PROPESS vou_V esquecer_V e_KC superar_V ._END
-Ter_V acontecido_PCP contra_PREP o_ART São_NPROP Paulo_NPROP piora_V as_ART coisas_N ?_PU
-Principalmente_ADV por_PREP ter_V sido_PCP contra_PREP o_ART São_NPROP Paulo_NPROP ._END
+Ter_V acontecido_PCP contra_PREP o_ART São Paulo_NPROP piora_V as_ART coisas_N ?_PU
+Principalmente_ADV por_PREP ter_V sido_PCP contra_PREP o_ART São Paulo_NPROP ._END
 A_ART ansiedade_N e_KC a_ART grande_ADJ vontade_N em_PREP acertar_V pode_V ter_V provocado_PCP a_ART falha_N ._END
 Você_PROPESS chegou_V a_PREP ser_V hostilizado_PCP pela_PREP+ART torcida_N ?_PU
 disse_V o_ART técnico_N ?_PU
@@ -1228,7 +1228,7 @@ O_ART armador_N Derek_NPROP Harper_NPROP ,_PU com_PREP 22_NUM pontos_N ,_PU foi_
 Foi_V sua_PROADJ melhor_ADJ atuação_N desde_KS que_KS se_PROPESS integrou_V ao_PREP+ART time_N ,_PU transferido_PCP do_PREP+ART Dallas_NPROP Mavericks_NPROP ._END
 "_PU A_ART vitória_N é_V importante_ADJ para_PREP todos_PROSUB ,_PU mas_KC para_PREP mim_PROPESS é_V muito_ADV especial_ADJ ,_PU já_KS que_KS esse_PROADJ tipo_N de_PREP partida_N é_V necessário_ADJ se_PROPESS quer_V começar_V a_PREP estabelecer_V um_ART nova_ADJ projeção_N como_PREP profissional_N "_PU ,_PU disse_V Harper_NPROP ._END
 No_PREP+ART outro_PROADJ jogo_N da_PREP+ART rodada_N ,_PU o_ART Boston_NPROP Celtics_NPROP ,_PU em_PREP casa_N ,_PU venceu_V o_ART Phoenix_NPROP Suns_NPROP por_PREP 106_N a_PREP 94_N ._END
-Simon_NPROP Chemwoyo_NPROP ,_PU bicampeão_N da_PREP+ART São_NPROP Silvestre_NPROP ,_PU embarcou_V ontem_ADV para_PREP o_ART Uruguai_NPROP e_KC foi_V abandonado_PCP pela_PREP+ART namorada_N brasileira_ADJ ._END
+Simon_NPROP Chemwoyo_NPROP ,_PU bicampeão_N da_PREP+ART São Silvestre_NPROP ,_PU embarcou_V ontem_ADV para_PREP o_ART Uruguai_NPROP e_KC foi_V abandonado_PCP pela_PREP+ART namorada_N brasileira_ADJ ._END
 PÁG_N ._END
 3_N
 Time_N pode_V enfrentar_V o_ART Brasil_NPROP nas_PREP+ART semifinais_N da_PREP+ART competição_N ._END
@@ -1254,7 +1254,7 @@ O_ART escândalo_N das_PREP+ART arbitragens_N no_PREP+ART futebol_N do_PREP+ART 
 Cerdeira_NPROP disse_V ontem_ADV que_KS não_ADV teme_V ter_V a_ART carreira_N prejudicada_PCP ._END
 "_PU Para_PREP me_PROPESS liquidar_V ,_PU os_ART dirigentes_N do_PREP+ART Rio_NPROP precisariam_V ter_V o_ART apoio_N da_PREP+ART CBF_NPROP (_PU Confederação_NPROP Brasileira_NPROP de_NPROP Futebol_NPROP )_PU e_KC da_PREP+ART Fifa_NPROP ._END
 As_ART denúncias_N surgiram_V na_PREP+ART maior_ADJ crise_N do_PREP+ART futebol_N fluminense_ADJ nos_PREP+ART últimos_ADJ anos_N ._END
-Com_PREP estádios_N vazios_ADJ e_KC seus_PROADJ melhores_ADJ jogadores_N tendo_V os_ART passes_N vendidos_PCP para_PREP São_NPROP Paulo_NPROP e_KC o_ART exterior_N ,_PU os_ART maiores_ADJ clubes_N fracassaram_V no_PREP+ART Campeonato_NPROP Brasileiro_NPROP ._END
+Com_PREP estádios_N vazios_ADJ e_KC seus_PROADJ melhores_ADJ jogadores_N tendo_V os_ART passes_N vendidos_PCP para_PREP São Paulo_NPROP e_KC o_ART exterior_N ,_PU os_ART maiores_ADJ clubes_N fracassaram_V no_PREP+ART Campeonato_NPROP Brasileiro_NPROP ._END
 Relator_N é_V amigo_ADJ de_PREP dirigente_N
 O_ART relator_N do_PREP+ART inquérito_N aberto_PCP no_PREP+ART Tribunal_NPROP de_NPROP Justiça_NPROP Desportiva_NPROP (_PU TJD_NPROP )_PU para_PREP apurar_V irregularidades_N na_PREP+ART arbitragem_N do_PREP+ART futebol_N do_PREP+ART Rio_NPROP é_V ligado_PCP ao_PREP+ART presidente_N da_PREP+ART federação_N ,_PU Eduardo_NPROP Viana_NPROP ._END
 Não_ADV quis_V dar_V exemplo_N de_PREP "_PU bobagem_N "_PU ._END
@@ -1291,7 +1291,7 @@ Bolas_N de_PREP Ouro_N de_PREP melhor_ADJ jogador_N europeu_ADJ
 -_PU Holanda_NPROP
 6_NUM -_PU Alemanha_NPROP
 5_NUM -_PU França_NPROP
-O_ART ano_N chega_V com_PREP São_NPROP Silvestre_NPROP e_KC Romário_NPROP
+O_ART ano_N chega_V com_PREP São Silvestre_NPROP e_KC Romário_NPROP
 Ao_PREP+ART longo_N dos_PREP+ART 15_NUM quilômetros_N da_PREP+ART corrida_N ,_PU fatos_N ,_PU personagens_N e_KC tipos_N constróem_V uma_ART alegoria_N do_PREP+ART Brasil_NPROP
 Da_PREP+ART Reportagem_N Local_ADJ
 São_V seis_N os_ART funcionários_N hispânicos_ADJ do_PREP+ART prédio_N número_N 45_N na_PREP+ART rua_N 60_N ,_PU Oeste_NPROP em_PREP Nova_NPROP York_NPROP ._END
@@ -1311,7 +1311,7 @@ O_ART coro_N ,_PU repetido_PCP por_PREP todo_PROADJ o_ART jogo_N ,_PU matava_V a
 Era_V a_ART imposição_N das_PREP+ART circunstâncias_N ,_PU e_KC da_PREP+ART torcida_N ,_PU sobre_PREP o_ART Brasil_NPROP burro_ADJ ,_PU safado_ADJ ._END
 O_ART Brasil_NPROP da_PREP+ART bola_N contra_PREP o_ART Brasil_NPROP das_PREP+ART bolas_N e_KC boladas_N ._END
 Jogo_N duríssimo_ADJ e_KC que_PROSUB ainda_ADV vai_V longe_ADV ._END
-Na_PREP+ART virada_N do_PREP+ART ano_N ,_PU vendo_V pela_PREP+ART primeira_ADJ vez_N nas_PREP+ART ruas_N a_PREP São_NPROP Silvestre_NPROP ,_PU diante_PREP de_PREP um_ART corredor_N embandeirado_PCP ,_PU pensei_V em_PREP tudo_PROADJ isso_PROSUB ._END
+Na_PREP+ART virada_N do_PREP+ART ano_N ,_PU vendo_V pela_PREP+ART primeira_ADJ vez_N nas_PREP+ART ruas_N a_PREP São Silvestre_NPROP ,_PU diante_PREP de_PREP um_ART corredor_N embandeirado_PCP ,_PU pensei_V em_PREP tudo_PROADJ isso_PROSUB ._END
 Os_ART costumes_N ,_PU fatos_N e_KC personagens_N ao_PREP longo_PREP de_PREP 15_NUM km_N de_PREP corrida_N tambem_ADV se_KS se_PROPESS prestam_V a_PREP alegorias_N ._END
 A_ART TV_NPROP Globo_NPROP é_V a_ART dona_N da_PREP+ART bola_N ,_PU digo_V ,_PU da_PREP+ART corrida_N ._END
 O_ART etíope_N Fita_NPROP Bayesa_NPROP ,_PU para_PREP se_PROPESS guiar_V ,_PU grudou_V os_ART olhos_N no_PREP+ART logotipo_N do_PREP+ART utilitário_N global_ADJ ,_PU que_PRO-KS à_PREP+ART frente_N comandava_V o_ART espetáculo_N ,_PU e_KC mandou_V ver_V ._END
@@ -1324,7 +1324,7 @@ Difícil_ADJ a_ART concentração_N ._END
 E_KC a_ART potência_N das_PREP+ART caixas_N que_PRO-KS despejaram_V som_N ao_PREP+ART pé-do-ouvido_N dos_PREP+ART atletas_N foi_V coisa_N de_PREP humilhar_V trio_N elétrico_ADJ ._END
 Fora_PREP da_PREP+ART "_PU rave-Paulista_N ,_PU as_ART coisas_N não_ADV correram_V para_PREP os_ART concentrados_PCP ,_PU com_PREP três_NUM helicópetros_N zunindo_V sobre_PREP suas_PROADJ cabeças_N ._END
 Nas_PREP+ART calçadas_N e_KC ruas_N ,_PU como_PREP nas_PREP+ART arquibancadas_N ,_PU os_ART anônimos_N fazem_V a_ART festa_N ._END
-Trajados_PCP a_ADV rigor_ADV dois_NUM garçons_N ,_PU bandejas_N e_KC garrafas_N nos_PREP+ART braços_N ,_PU correm_V uma_ART prova_N à_PREP+ART parte_N dentro_PREP da_PREP+ART São_NPROP Silvestre_NPROP ._END
+Trajados_PCP a_ADV rigor_ADV dois_NUM garçons_N ,_PU bandejas_N e_KC garrafas_N nos_PREP+ART braços_N ,_PU correm_V uma_ART prova_N à_PREP+ART parte_N dentro_PREP da_PREP+ART São Silvestre_NPROP ._END
 Vaias_N ,_PU sabe_V -se_PROPESS lá_ADV por_PREP quê_PROSUB ,_PU a_PREP um_ART Tartaruga_NPROP Ninja_NPROP perfeito_ADJ ,_PU com_PREP direito_N a_PREP espadas_N e_KC demais_PROADJ adereços_N ._END
 Na_PREP+ART subida_N da_PREP+PROSUB av_N ._END Brigadeiro_NPROP Luiz_NPROP Antônio_NPROP ,_PU vaia_N absoluta_ADJ ._END
 Camisa_N verde_ADJ e_KC amarela_ADJ ,_PU máscara_N do_PREP+ART Parreira_NPROP no_PREP+ART rosto_N ,_PU o_ART masoquista_N vai_V guardando_V o_ART seu_PROADJ quinhão_N ._END
@@ -1343,7 +1343,7 @@ Perin_NPROP Lartigue_NPROP (_PU FRA_NPROP )_PU lidera_V os_ART automóveis_N ._E
 Os_ART austríacos_N eliminaram_V ontem_ADV a_ART Espanha_NPROP da_PREP+ART Copa_NPROP Hopman_NPROP (_PU AUS_NPROP )_PU e_KC chegaram_V às_PREP+ART semifinais_N ._END
 Conchita_NPROP Martinez_NPROP (_PU foto_N )_PU perdeu_V para_PREP Judith_NPROP Wiesner_NPROP (_PU 0_N a_PREP 2_N )_PU e_KC Emilio_NPROP Sánchez_NPROP para_PREP Alex_NPROP Antonitsch_NPROP (_PU 1_N a_PREP 2_N )_PU ._END
 Gilvane_NPROP alega_V '_PU coisas_N a_PREP fazer_V '_PU para_PREP não_ADV ir_V ao_PREP+ART embarque_N de_PREP Chemwoyo_NPROP
-O_ART queniano_N Simon_NPROP Chemwoyo_NPROP ,_PU bicampeão_N da_PREP+ART São_NPROP Silvestre_NPROP ,_PU ficou_V sem_PREP a_ART namorada_N no_PREP+ART seu_PROADJ último_ADJ dia_N em_PREP São_NPROP Paulo_NPROP ._END
+O_ART queniano_N Simon_NPROP Chemwoyo_NPROP ,_PU bicampeão_N da_PREP+ART São Silvestre_NPROP ,_PU ficou_V sem_PREP a_ART namorada_N no_PREP+ART seu_PROADJ último_ADJ dia_N em_PREP São Paulo_NPROP ._END
 "_PU Ela_PROPESS tinha_V coisas_N a_PREP fazer_V "_PU ,_PU disse_V ,_PU sem_PREP jeito_N ._END
 Gilvane_NPROP Ribeiro_NPROP ,_PU 20_NUM passou_V a_ART festa_N de_PREP Reveillon_NPROP e_KC a_ART tarde_N do_PREP+ART dia_N 1.º_N com_PREP o_ART campeão_N ,_PU mas_KC não_ADV quis_V passar_V nenhuma_PROADJ noite_N com_PREP ele_PROPESS no_PREP+ART quarto_N do_PREP+ART hotel_N ._END
 Diante_PREP da_PREP+ART insistência_N do_PREP+ART queniano_N ,_PU alegou_V que_KS pertencia_V a_PREP uma_ART "_PU família_N conservadora_ADJ "_PU ._END
@@ -1353,20 +1353,20 @@ Ele_PROPESS se_PROPESS comprometeu_V ,_PU caso_KS Gilvane_NPROP aceite_V casar_V
 Segundo_PREP o_ART atleta_N Dominique_NPROP Kirui_NPROP ,_PU amigo_N de_PREP infância_N de_PREP Chemwoyo_NPROP -_PU os_ART dois_N vivem_V em_PREP Eldoret_NPROP ,_PU 300_NUM km_N a_PREP noroeste_N de_PREP Nairóbi_NPROP -_PU ,_PU a_ART poligamia_N está_V quase_ADV extinta_PCP no_PREP+ART Quênia_NPROP ._END
 Uma_ART mulher_N só_PDEN está_V bom_ADJ "_PU ,_PU disse_V sorrindo_V ,_PU meio_ADV sério_ADJ ,_PU meio_ADV brincando_V ._END
 Manaus_NPROP
-Chemwoyo_NPROP ,_PU Kirui_NPROP e_KC vários_PROADJ outros_PROADJ atletas_N que_PRO-KS correram_V a_ART São_NPROP Silvestre_NPROP ,_PU entre_PREP eles_PROPESS o_ART mexicano_N Arturo_NPROP Barrios_NPROP ,_PU embarcaram_V ontem_ADV para_PREP o_ART Uruguai_NPROP (_PU leia_V texto_N ao_PREP+ART lado_N )_PU ._END
+Chemwoyo_NPROP ,_PU Kirui_NPROP e_KC vários_PROADJ outros_PROADJ atletas_N que_PRO-KS correram_V a_ART São Silvestre_NPROP ,_PU entre_PREP eles_PROPESS o_ART mexicano_N Arturo_NPROP Barrios_NPROP ,_PU embarcaram_V ontem_ADV para_PREP o_ART Uruguai_NPROP (_PU leia_V texto_N ao_PREP+ART lado_N )_PU ._END
 Eles_PROPESS participam_V amanhã_ADV à_ADV noite_ADV da_PREP+ART Corrida_NPROP de_NPROP San_NPROP Fernando_NPROP ,_PU em_PREP Maldonado_NPROP ._END
-A_ART prova_N começa_V às_PREP+ART 20h_N e_KC tem_V uma_ART extensão_N de_PREP 15_NUM km_N ,_PU igual_ADJ à_PREP+ART São_NPROP Silvestre_NPROP ._END
+A_ART prova_N começa_V às_PREP+ART 20h_N e_KC tem_V uma_ART extensão_N de_PREP 15_NUM km_N ,_PU igual_ADJ à_PREP+ART São Silvestre_NPROP ._END
 No_PREP+ART domingo_N a_ADV a_ADV noite_ADV ,_PU Chemwoyo_NPROP será_V a_ART principal_ADJ estrela_N da_PREP+ART Primeira_NPROP Corrida_NPROP Internacional_NPROP Cidade_NPROP de_NPROP Manaus_NPROP ._END
 A_ART prova_N ,_PU de_PREP 10_NUM km_N ,_PU vale_V como_PREP a_ART segunda_ADJ etapa_N do_PREP+ART Circuito_NPROP Sul-americano_NPROP de_NPROP Corridas_NPROP de_NPROP Rua_NPROP -_PU a_ART primeira_N é_V a_ART competição_N de_PREP San_NPROP Fernando_NPROP ._END
 No_PREP+ART dia_N seguinte_ADJ ,_PU ele_PROPESS segue_V para_PREP Londres_NPROP ,_PU onde_ADV-KS deve_V ficar_V três_NUM dias_N combinando_V sua_PROADJ programação_N com_PREP o_ART técnico_N Kim_NPROP McDonald_NPROP ,_PU treinando_V e_KC fazendo_V compras_N ._END
 A_ART competição_N vale_V como_PREP seletiva_ADJ -_PU se_PROPESS os_ART quatro_NUM primeiros_N -_PU para_PREP o_ART Mundial_NPROP da_PREP+ART categoria_N ,_PU no_PREP+ART final_N de_PREP fevereiro_N ,_PU na_PREP+ART Bulgária_NPROP ._END
 Nos_PREP+ART sete_NUM últimos_ADJ mundiais_N ,_PU os_ART vencedores_N foram_V quenianos_ADJ ._END
-O_ART atual_ADJ campeão_N é_V William_NPROP Sigei_NPROP ,_PU terceiro_N na_PREP+ART São_NPROP Silvestre_NPROP ._END
+O_ART atual_ADJ campeão_N é_V William_NPROP Sigei_NPROP ,_PU terceiro_N na_PREP+ART São Silvestre_NPROP ._END
 Queniano_N sai_V numa_PREP+ART Kombi_NPROP
-O_ART queniano_N Simon_NPROP Chemwoyo_NPROP foi_N de_PREP kombi_NPROP do_PREP+ART hotel_N Brasilton_NPROP para_PREP o_ART Aeroporto_NPROP Internacional_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU onde_ADV-KS embarcou_V para_PREP o_ART Uruguai_NPROP ._END
+O_ART queniano_N Simon_NPROP Chemwoyo_NPROP foi_N de_PREP kombi_NPROP do_PREP+ART hotel_N Brasilton_NPROP para_PREP o_ART Aeroporto_NPROP Internacional_NPROP de_PREP São Paulo_NPROP ,_PU onde_ADV-KS embarcou_V para_PREP o_ART Uruguai_NPROP ._END
 Ele_PROPESS e_KC seus_PROADJ compatriotas_N Dominique_NPROP Kirui_NPROP e_KC William_NPROP Sigei_NPROP só_PDEN foram_V inscritos_PCP na_PREP+ART última_ADJ hora_N na_PREP+ART prova_N de_PREP San_NPROP Fernando_NPROP ._END
 Por_PREP isso_PROSUB ,_PU só_PDEN receberam_V seus_PROADJ vistos_N de_PREP entrada_N no_PREP+ART Uruguai_NPROP no_PREP meio_PREP da_PREP+ART tarde_N ,_PU quando_ADV-KS o_ART microônibus_N que_PRO-KS levou_V os_ART atletas_N latino-americanos_ADJ ao_PREP+ART aeroporto_N já_ADV havia_V saído_PCP ._END
-Chemwoyo_NPROP ,_PU Kirui_NPROP e_KC Sigei_NPROP foram_V junto_PREP com_PREP o_ART Agberto_NPROP Guimarães_NPROP ,_PU ex-meio-fundista_N brasileiro_ADJ que_PRO-KS trabalha_V na_PREP+ART organização_N da_PREP+ART Corrida_NPROP de_NPROP São_NPROP Silvestre_NPROP ._END
+Chemwoyo_NPROP ,_PU Kirui_NPROP e_KC Sigei_NPROP foram_V junto_PREP com_PREP o_ART Agberto_NPROP Guimarães_NPROP ,_PU ex-meio-fundista_N brasileiro_ADJ que_PRO-KS trabalha_V na_PREP+ART organização_N da_PREP+ART Corrida_NPROP de_NPROP São Silvestre_NPROP ._END
 Chegaram_V a_PREP tempo_PREP de_PREP embarcar_V no_PREP+ART vôo_N para_PREP Montevidéu_NPROP ,_PU que_PRO-KS tinha_V decolagem_N marcada_PCP para_PREP às_PREP+ART 17h35_N ._END
 Stich_NPROP e_KC Edberg_NPROP saem_V com_PREP vitória_N no_PREP+ART Qatar_NPROP
 Das_PREP+ART agências_N internacionais_ADJ
@@ -1505,11 +1505,11 @@ O_ART atacante_N Dener_NPROP ,_PU que_PRO-KS também_PDEN está_V na_PREP+ART mi
 O_ART jogador_N já_ADV deixou_V claro_ADV que_KS não_ADV quer_V atuar_V pelo_PREP+ART time_N do_PREP+ART Canindé_NPROP ._END
 Manuel_NPROP Gonçalves_NPROP Pacheco_NPROP ,_PU o_ART novo_ADJ presidente_N ,_PU quer_V negociar_V -lo_PROPESS com_PREP algum_PROADJ clube_N do_PREP+ART exterior_N ._END
 Além_PREP do_PREP+ART Corinthians_NPROP ,_PU o_ART Vasco_NPROP também_PDEN se_PROPESS interessa_V por_PREP Dener_NPROP ,_PU que_PRO-KS tem_V passe_N estipulado_PCP em_PREP US$_CUR 2_NUM milhões_N ._END
-Miranda_NPROP quer_V ,_PU também_PDEN ,_PU acertar_V com_PREP o_ART São_NPROP Paulo_NPROP a_ART transferência_N de_PREP Valdeir_NPROP ,_PU já_ADV liberado_PCP pelo_PREP+ART clube_N ._END
-Catê_NPROP é_V outro_PROADJ jogador_N do_PREP+ART São_NPROP Paulo_NPROP que_PRO-KS foi_V dispensado_PCP pelo_PREP+ART técnico_N Telê_NPROP Santana_NPROP ._END
-Ele_PROPESS pode_V ainda_PDEN disputar_V a_ART Copa_NPROP São_NPROP Paulo_NPROP de_NPROP Juniores_NPROP ,_PU mas_KC Cruzeiro_NPROP e_KC Flamengo_NPROP já_ADV demonstraram_V interesse_N pelo_PREP+ART jogador_N ._END
+Miranda_NPROP quer_V ,_PU também_PDEN ,_PU acertar_V com_PREP o_ART São Paulo_NPROP a_ART transferência_N de_PREP Valdeir_NPROP ,_PU já_ADV liberado_PCP pelo_PREP+ART clube_N ._END
+Catê_NPROP é_V outro_PROADJ jogador_N do_PREP+ART São Paulo_NPROP que_PRO-KS foi_V dispensado_PCP pelo_PREP+ART técnico_N Telê_NPROP Santana_NPROP ._END
+Ele_PROPESS pode_V ainda_PDEN disputar_V a_ART Copa_NPROP São Paulo_NPROP de_NPROP Juniores_NPROP ,_PU mas_KC Cruzeiro_NPROP e_KC Flamengo_NPROP já_ADV demonstraram_V interesse_N pelo_PREP+ART jogador_N ._END
 O_ART diretor_N de_PREP futebol_N Márcio_NPROP Aranha_NPROP reclamou_V do_PREP+ART preço_N do_PREP+ART passe_N do_PREP+ART jogador_N estipulado_PCP pela_PREP+ART antiga_ADJ diretoria_N ,_PU US$_CUR 1,5_NUM milhão_N ._END
-O_ART São_NPROP Paulo_NPROP fez_V uma_ART contraproposta_N de_PREP US$_CUR 800_NUM mil_NUM ._END
+O_ART São Paulo_NPROP fez_V uma_ART contraproposta_N de_PREP US$_CUR 800_NUM mil_NUM ._END
 A_ART renovação_N dos_PREP+ART contratos_N de_PREP Muller_NPROP e_KC Cafu_NPROP estão_V sendo_V negociadas_PCP ._END
 Zetti_NPROP e_KC Vítor_NPROP ,_PU que_PRO-KS volta_V ao_PREP+ART clube_N depois_ADV de_PREP uma_ART fracassada_PCP temporada_N na_PREP+ART Espanha_NPROP ,_PU terão_V seus_PROADJ contratos_N vencidos_PCP em_PREP fevereiro_N ._END
 Wanderley_NPROP Luxemburgo_NPROP e_KC a_ART comissão_N técnica_ADJ do_PREP+ART Palmeiras_NPROP se_PROPESS reúnem_V amanhã_ADV para_PREP acertar_V a_ART renovação_N de_PREP vários_PROADJ jogadores_N ,_PU entre_PREP eles_PROPESS ,_PU Antônio_NPROP Carlos_NPROP ,_PU Roberto_NPROP Carlos_NPROP e_KC Edmundo_NPROP ._END
@@ -1567,7 +1567,7 @@ Quinta-feira_N 30_N de_PREP junho_N -_PU A_ART AFA_NPROP exclui_V Maradona_NPROP
 A_ART Fifa_NPROP anuncia_V que_KS o_ART resultado_N da_PREP+ART contraprova_N é_V positivo_ADJ e_KC Maradona_NPROP é_V suspenso_PCP dos_PREP+ART jogos_N restantes_ADJ da_PREP+ART Copa_NPROP ._END
 Joseph_NPROP Blatter_NPROP ,_PU secretário-geral_N da_PREP+ART Fifa_NPROP ._END
 "_PU Me_PROPESS parece_V que_KS agora_ADV ele_PROPESS vai_V fechar_V a_ART tampa_N do_PREP+ART caixão_N ._END
-Telê_NPROP Santana_NPROP ,_PU técnico_N do_PREP+ART São_NPROP Paulo_NPROP ,_PU sobre_PREP Maradona_NPROP
+Telê_NPROP Santana_NPROP ,_PU técnico_N do_PREP+ART São Paulo_NPROP ,_PU sobre_PREP Maradona_NPROP
 O_ART último_ADJ tango_N em_PREP Dallas_NPROP de_PREP Maradona_NPROP
 Matinas_NPROP SUZUKI_NPROP JR_NPROP ._END
 Enviado_N especial_ADJ a_PREP Dallas_NPROP
@@ -1670,7 +1670,7 @@ O_ART meio-campo_N também_PDEN não_ADV esteve_V bem_ADV ._END
 Todos_PROSUB sabemos_V que_KS Raí_NPROP e_KC Zinho_NPROP jogam_V muito_ADV mais_ADV do_KS que_KS jogaram_V em_PREP Detroit_NPROP ._END
 A_ART impressão_N é_V que_KS quando_KS encontrarmos_V pela_PREP+ART frente_N um_ART adversário_N realmente_ADV forte_ADJ (_PU se_KS encontrarmos_V )_PU ,_PU vamos_V ter_V sérias_ADJ dificuldades_N ._END
 Está_V faltando_V criatividade_N a_PREP esta_PROADJ seleção_N ._END
-Telê_NPROP Santana_NPROP ,_PU 62_NUM ,_PU é_V técnico_N do_PREP+ART São_NPROP Paulo_NPROP ._END
+Telê_NPROP Santana_NPROP ,_PU 62_NUM ,_PU é_V técnico_N do_PREP+ART São Paulo_NPROP ._END
 Sua_PROADJ coluna_N sai_V cinco_NUM vezes_N por_PREP semana_N ._END
 Ataque_N brasileiro_ADJ é_V o_PROSUB menos_ADV até_PREP agora_ADV
 Ataque_N brasileiro_ADJ é_V o_PROSUB menos_ADV eficiente_ADJ até_PREP agora_ADV
@@ -1782,7 +1782,7 @@ A_ART decisão_N dependeria_V de_PREP análise_N ontem_ADV à_PREP+ART noite_N d
 Parreira_NPROP elogiou_V Mazinho_NPROP ,_PU substituto_N de_PREP Mauro_NPROP Silva_NPROP no_PREP+ART segundo_ADJ tempo_N do_PREP+ART empate_N contra_PREP a_ART Suécia_NPROP ,_PU na_PREP+ART terça-feira_N ._END
 "_PU Com_PREP ele_PROPESS o_ART time_N foi_V para_ADV cima_ADV ,_PU foi_V mais_ADV ofensivo_ADJ "_PU ._END
 Não_ADV quis_V dizer_V se_KS descartava_V começar_V o_ART jogo_N contra_PREP os_ART EUA_NPROP com_PREP uma_ART equipe_N que_PRO-KS nunca_ADV testou_V ._END
-Leonardo_NPROP nunca_ADV jogou_V no_PREP+ART meio-campo_N da_PREP+ART seleção_N ,_PU embora_KS atuasse_V nesse_PREP+PROADJ setor_N no_PREP+ART São_NPROP Paulo_NPROP ._END
+Leonardo_NPROP nunca_ADV jogou_V no_PREP+ART meio-campo_N da_PREP+ART seleção_N ,_PU embora_KS atuasse_V nesse_PREP+PROADJ setor_N no_PREP+ART São Paulo_NPROP ._END
 Parreira_NPROP voltou_V a_PREP elogiar_V o_ART zagueiro_N Aldair_NPROP ,_PU mas_KC não_ADV disse_V se_KS vai_V substituir_V -lo_PROPESS por_PREP Ricardo_NPROP Rocha_NPROP ._END
 Titular_N até_PREP a_ART estréia_N na_PREP+ART Copa_NPROP ,_PU Rocha_NPROP já_ADV se_PROPESS recuperou_V de_PREP lesão_N muscular_ADJ na_PREP+ART coxa_N esquerda_ADJ ._END
 Ontem_ADV foi_V o_ART dia_N mais_ADV tenso_ADJ da_PREP+ART seleção_N brasileira_ADJ desde_KS que_KS chegou_V aos_PREP+ART EUA_NPROP dia_N 26_N de_PREP maio_N ._END
@@ -2128,7 +2128,7 @@ Goycochea_NPROP ,_PU goleiro_N da_PREP+ART Argentina_NPROP
 Eles_PROPESS estão_V jogando_V muito_ADV mal_ADJ ._END
 Carlos_NPROP Menem_NPROP ,_PU presidente_N da_PREP+ART Argentina_NPROP
 Pelé_NPROP irrita_V Galvão_NPROP Bueno_NPROP em_PREP transmissão_N
-Conversa_N interna_ADJ da_PREP+ART Globo_NPROP depois_PREP do_PREP+ART jogo_N entre_PREP Brasil_NPROP e_KC Suécia_NPROP é_V captada_PCP por_PREP espectadores_N em_PREP São_NPROP Paulo_NPROP
+Conversa_N interna_ADJ da_PREP+ART Globo_NPROP depois_PREP do_PREP+ART jogo_N entre_PREP Brasil_NPROP e_KC Suécia_NPROP é_V captada_PCP por_PREP espectadores_N em_PREP São Paulo_NPROP
 A_ART frase_N -_PU e_KC o_ART diálogo_N em_PREP que_PRO-KS se_KS inseria_V -_PU chegou_V à_PREP+ART casa_N de_PREP pelo_PDEN menos_PDEN 17_NUM telespectadores_N paulistas_ADJ ._END
 Um_PROSUB deles_PREP+PROPESS ,_PU de_PREP Jundiaí_NPROP ,_PU que_PRO-KS preferiu_V não_ADV se_PROPESS identificar_V ,_PU gravou_V toda_PROADJ a_ART cena_N ._END
 As_ART imagens_N ficaram_V no_PREP+ART ar_N por_PREP 12_NUM minutos_N ._END
@@ -2189,7 +2189,7 @@ Quem_PROSUB não_ADV apareceu_V :_PU Fernandinho_NPROP e_KC Cirão_NPROP (_PU es
 Emissora_N não_ADV explica_V como_ADV-KS imagens_N "_PU vazaram_V "_PU ._END
 As_ART imagens_N que_PRO-KS os_ART telespectadores_N captaram_V via_PREP parabólica_N eram_V ,_PU teoricamente_ADV ,_PU sigilosas_ADJ ._END
 A_ART Globo_NPROP as_PROPESS gerou_V para_PREP uso_N interno_ADJ ._END
-Ontem_ADV ,_PU a_ART Folha_NPROP noticiou_V o_ART fato_N baseando_V -se_PROPESS no_PREP+ART relato_N de_PREP dois_NUM telespectadores_N ,_PU o_ART jornalista_N Ary_NPROP Costa_NPROP Pinto_NPROP e_KC o_ART bancário_N Geraldo_NPROP Siqueira_NPROP Filho_NPROP ,_PU que_PRO-KS assistiram_V às_PREP+ART imagens_N em_PREP São_NPROP Paulo_NPROP sem_PREP gravar_V -las_PROPESS ._END
+Ontem_ADV ,_PU a_ART Folha_NPROP noticiou_V o_ART fato_N baseando_V -se_PROPESS no_PREP+ART relato_N de_PREP dois_NUM telespectadores_N ,_PU o_ART jornalista_N Ary_NPROP Costa_NPROP Pinto_NPROP e_KC o_ART bancário_N Geraldo_NPROP Siqueira_NPROP Filho_NPROP ,_PU que_PRO-KS assistiram_V às_PREP+ART imagens_N em_PREP São Paulo_NPROP sem_PREP gravar_V -las_PROPESS ._END
 A_ART reportagem_N trazia_V um_ART desmentido_N de_PREP Ciro_NPROP José_NPROP ,_PU diretor_N de_PREP esportes_N da_PREP+ART Globo_NPROP :_PU "_PU É_V loucura_N ._END
 O_ART episódio_N simplesmente_ADV não_ADV aconteceu_V ._END
 A_ART Embratel_NPROP acredita_V que_KS o_ART diálogo_N "_PU vazou_V "_PU da_PREP+ART seguinte_ADJ maneira_N :_PU
@@ -2525,7 +2525,7 @@ Cruzamento_N da_PREP+ART direita_N ,_PU Sirakov_NPROP sobe_V os_ART zagueiros_N 
 Redondo_NPROP recebe_V do_PREP+ART lado_N esquerdo_ADJ da_PREP+ART área_N e_KC chuta_V cruzado_PCP ._END
 A_ART bola_N passa_V muito_ADV perto_PREP da_PREP+ART trave_N
 Os_ART dois_NUM lados_N reclamaram_V de_PREP mão_N na_PREP+ART bola_N dentro_PREP da_PREP+ART área_N ;_PU teriam_V sido_PCP cometidas_PCP duas_NUM vezes_N pelos_PREP+ART búlgaros_N e_KC uma_N pelos_PREP+ART argentinos_N
-Conversa_N interna_ADJ da_PREP+ART Globo_NPROP depois_PREP do_PREP+ART jogo_N entre_PREP Brasil_NPROP e_KC Suécia_NPROP captada_PCP por_PREP espectadores_N em_PREP São_NPROP Paulo_NPROP
+Conversa_N interna_ADJ da_PREP+ART Globo_NPROP depois_PREP do_PREP+ART jogo_N entre_PREP Brasil_NPROP e_KC Suécia_NPROP captada_PCP por_PREP espectadores_N em_PREP São Paulo_NPROP
 A_ART frase_N -_PU e_KC o_ART diálogo_N em_PREP que_PRO-KS se_PROPESS -_PU chegou_V à_PREP+ART casa_N de_PREP pelo_PDEN menos_PDEN 17_NUM telespectadores_N paulistas_ADJ ._END
 Assim_KS que_KS respondeu_V as_ART perguntas_N do_PREP+ART locutor_N ,_PU Pelé_NPROP se_PROPESS levantou_V ._END
 Ambos_PROSUB reclamavam_V que_KS os_ART comentários_N de_PREP Pelé_NPROP durante_PREP o_ART jogo_N foram_V muito_ADV longos_ADJ ._END
@@ -2668,7 +2668,7 @@ EUA_NPROP e_KC Espanha_NPROP pagam_V mais_ADV a_PREP técnicos_N
 EUA_NPROP e_KC pagam_V mais_ADV a_PREP técnicos_N
 Das_PREP+ART agência_N internacionais_ADJ
 O_ART espanhol_N Clemente_NPROP e_KC o_ART montenegrino_N Milutinovic_NPROP ganham_V US$_CUR 620_NUM mil_NUM (_PU cerca_PREP de_PREP Cr$_CUR 1,2_NUM bilhão_N )_PU por_PREP ano_N ._END
-Os_ART dois_N ganham_V menos_ADV ,_PU entretanto_KC ,_PU do_KS que_KS o_ART técnico_N Telê_NPROP Santana_NPROP no_PREP+ART São_NPROP Paulo_NPROP :_PU US$_CUR 65_NUM mil_NUM /_PU mês_N -_PU US$_CUR 780_NUM mil_NUM /_PU ._END
+Os_ART dois_N ganham_V menos_ADV ,_PU entretanto_KC ,_PU do_KS que_KS o_ART técnico_N Telê_NPROP Santana_NPROP no_PREP+ART São Paulo_NPROP :_PU US$_CUR 65_NUM mil_NUM /_PU mês_N -_PU US$_CUR 780_NUM mil_NUM /_PU ._END
 Segundo_PREP a_ART lista_N divulgada_PCP pelo_PREP+ART jornal_N italiano_ADJ "_PU Corriere_NPROP della_NPROP Serra_NPROP "_PU ,_PU Carlos_NPROP Alberto_NPROP Parreira_NPROP está_V em_PREP quinto_ADJ lugar_N na_PREP+ART lista_N ,_PU recebendo_V US$_CUR 500_NUM mil_NUM ._END
 Ele_PROPESS nega_V e_KC diz_V que_KS só_PDEN recebe_V US$_CUR 100_NUM mil_NUM por_PREP ano_N ._END
 Segundo_PREP essa_PROADJ lista_N ,_PU apenas_PDEN dois_N dos_PREP+ART 24_NUM técnicos_N recebem_V menos_PREP de_PREP US$_CUR 100_NUM mil_NUM por_PREP ano_N (_PU cerca_PREP de_PREP US$_CUR 8.500_NUM por_PREP mês_N )_PU ._END
@@ -2863,7 +2863,7 @@ Técnico_N não_ADV acata_V pesquisa_N
 O_ART técnico_N Carlos_NPROP Alberto_NPROP Parreira_NPROP disse_V ontem_ADV que_KS não_ADV vai_V se_PROPESS deixar_V influenciar_V pela_PREP+ART opinão_N pública_ADJ ,_PU ao_PREP comentar_V os_ART resultados_N de_PREP pesquisa_N Datafolha_NPROP publicada_PCP no_PREP+ART domingo_N pela_PREP+ART Folha_NPROP ._END
 "_PU O_ART Cafu_NPROP e_KC Mazinho_NPROP são_V ótimos_ADJ jogadores_N ,_PU mas_KC nossa_PROADJ maneira_N de_PREP trabalhar_V não_ADV será_V influenciada_PCP pela_PREP+ART torcida_N "_PU ,_PU disse_V Parreira_NPROP ._END
 Outros_PROADJ três_NUM titulares_N polêmicos_ADJ de_PREP Parreira_NPROP ,_PU Branco_NPROP ,_PU Bebeto_NPROP e_KC Taffarel_NPROP ,_PU foram_V aprovados_PCP pela_PREP+ART opinião_N pública_ADJ ._END
-"_PU Cafu_NPROP é_V um_ART ótimo_ADJ jogador_N e_KC teve_V muita_PROADJ exposição_N na_PREP+ART mídia_N porque_KS o_ART São_NPROP Paulo_NPROP está_V na_PREP+ART crista_N da_PREP+ART onda_N e_KC ganhou_V tudo_PROADJ o_PROSUB que_PRO-KS disputou_V "_PU ,_PU disse_V Parreira_NPROP ._END
+"_PU Cafu_NPROP é_V um_ART ótimo_ADJ jogador_N e_KC teve_V muita_PROADJ exposição_N na_PREP+ART mídia_N porque_KS o_ART São Paulo_NPROP está_V na_PREP+ART crista_N da_PREP+ART onda_N e_KC ganhou_V tudo_PROADJ o_PROSUB que_PRO-KS disputou_V "_PU ,_PU disse_V Parreira_NPROP ._END
 Mas_KC o_ART técnico_N prefere_V Jorginho_NPROP para_PREP a_ART lateral_N direita_ADJ porque_KS o_ART jogador_N do_PREP+ART Bayern_NPROP de_PREP Munique_NPROP tem_V mais_PROADJ experiência_N ._END
 "_PU Cafu_NPROP e_KC Mazinho_NPROP estão_V no_PREP+ART mesmo_PROADJ nível_N físico_ADJ de_PREP Jorginho_NPROP e_KC Raí_NPROP ._END
 O_ART time_N está_V bem_ADV com_PREP eles_PROPESS "_PU ,_PU disse_V o_ART preparador_N físico_ADJ Moraci_NPROP Sant'_NPROP Anna_NPROP ao_PREP comentar_V a_ART pesquisa_N Datafolha_NPROP ._END
@@ -2915,19 +2915,19 @@ Luxemburgo_NPROP decide_V ficar_V no_PREP+ART Palmeiras_NPROP
 Técnico_N acerta_V permanência_N em_PREP reunião_N com_PREP Brunoro_NPROP ,_PU da_PREP+ART Parmalat_NPROP ;_PU torcedores_N picham_V muro_N do_PREP+ART clube_N
 Da_PREP+ART Reportagem_NPROP Local_NPROP
 No_PREP+ART domingo_N passado_PCP ,_PU após_PREP o_ART empate_N de_PREP 1_N a_PREP 1_N com_PREP o_ART Ceará_NPROP e_KC a_ART consequente_ADJ eliminação_N do_PREP+ART Palmeiras_NPROP da_PREP+ART Copa_NPROP do_NPROP Brasil_NPROP ,_PU Luxemburgo_NPROP afirmara_V que_KS se_PROPESS sentia_V muito_ADV pressionado_PCP pela_PREP+ART torcida_N e_KC que_KS ,_PU por_PREP isso_PROSUB ,_PU pensava_V em_PREP deixar_V o_ART clube_N ._END
-Ainda_ADV no_PREP+ART vestiário_N do_PREP+ART Parque_NPROP Antarctica_NPROP ,_PU ele_PROPESS lembrou_V que_KS ,_PU mesmo_PDEN tendo_V conquistado_PCP quatro_NUM títulos_N (_PU dois_N paulistas_ADJ ,_PU um_N brasileiro_ADJ e_KC um_PROSUB do_PREP+ART Torneio_NPROP Rio-São_NPROP Paulo_NPROP )_PU em_PREP 13_NUM meses_N de_PREP Palmeiras_NPROP ,_PU continuava_V tendo_V seu_PROADJ trabalho_N questionado_PCP pela_PREP+ART torcida_N ._END
+Ainda_ADV no_PREP+ART vestiário_N do_PREP+ART Parque_NPROP Antarctica_NPROP ,_PU ele_PROPESS lembrou_V que_KS ,_PU mesmo_PDEN tendo_V conquistado_PCP quatro_NUM títulos_N (_PU dois_N paulistas_ADJ ,_PU um_N brasileiro_ADJ e_KC um_PROSUB do_PREP+ART Torneio_NPROP Rio-São Paulo_NPROP )_PU em_PREP 13_NUM meses_N de_PREP Palmeiras_NPROP ,_PU continuava_V tendo_V seu_PROADJ trabalho_N questionado_PCP pela_PREP+ART torcida_N ._END
 Na_PREP+ART ocasião_N ,_PU o_ART treinador_N afirmou_V que_KS sua_PROADJ disposição_N maior_ADJ era_V de_PREP largar_V o_ART Palmeiras_NPROP ._END
 Durante_PREP a_ART partida_N contra_PREP o_ART Ceará_NPROP ,_PU os_ART integrantes_N da_PREP+ART Mancha_NPROP Verde_NPROP ,_PU a_ART maior_ADJ torcida_N organizada_PCP do_PREP+ART Palmeiras_NPROP ,_PU exibiram_V faixas_N pedindo_V a_ART reintegração_N ao_PREP+ART time_N do_PREP+ART atacante_N Edmundo_NPROP ,_PU afastado_PCP por_PREP desentendimento_N com_PREP Luxemburgo_NPROP ._END
 Na_PREP+ART madrugada_N de_PREP ontem_ADV ,_PU a_ART Mancha_NPROP voltou_V a_PREP se_PROPESS manifestar_V pelo_PREP+ART retorno_N de_PREP Edmundo_NPROP ,_PU pichando_V o_ART muro_N do_PREP+ART Parque_NPROP Antarctica_NPROP com_PREP os_ART dizeres_N "_PU Fora_V Luxemburgo_NPROP "_PU e_KC "_PU Volta_V Edmundo_NPROP para_PREP ser_V campeão_N do_PREP+ART mundo_N "_PU ._END
 Além_PREP de_PREP mandar_V um_ART funcionário_N apagar_V as_ART pichações_N logo_ADV de_PREP manhã_ADV ,_PU a_ART diretoria_N do_PREP+ART Palmeiras_NPROP ameaçou_V despejar_V a_ART Mancha_NPROP Verde_NPROP da_PREP+ART sala_N que_PRO-KS ocupa_V nos_PREP+ART fundos_N do_PREP+ART Parque_NPROP Antarctica_NPROP ._END
 Esta_PROSUB não_ADV foi_V a_ART primeira_ADJ vez_N Wanderley_NPROP Luxemburgo_NPROP enfrentou_V críticas_N contundentes_ADJ por_PREP parte_N dos_PREP+ART torcedores_N ._END
-Na_PREP+ART partida_N contra_PREP o_ART São_NPROP Paulo_NPROP ,_PU pelo_PREP+ART segundo_ADJ turno_N do_PREP+ART Campeonato_NPROP Paulista_NPROP (_PU vitória_N do_PREP+ART Palmeiras_NPROP por_PREP 3_N a_PREP 2_N )_PU ,_PU a_ART torcida_N o_PROPESS chamou_V de_PREP "_PU burro_N "_PU por_PREP substituir_V o_ART lateral-direito_N Cláudio_NPROP pelo_PREP+ART atacante_N Maurílio_NPROP ._END
-antes_PREP desse_PREP+PROADJ jogo_N contra_PREP o_ART São_NPROP Paulo_NPROP ,_PU os_ART torcedores_N já_ADV haviam_V pedido_PCP a_ART cabeça_N do_PREP+ART treinador_N este_PROADJ ano_N ,_PU após_PREP uma_ART sequência_N de_PREP três_NUM derrotas_N do_PREP+ART Palmeiras_NPROP em_PREP jogos_N pela_PREP+ART Campeonato_NPROP Paulista_NPROP e_KC pela_PREP+ART Taça_NPROP Libertadores_NPROP da_NPROP América_NPROP ._END
+Na_PREP+ART partida_N contra_PREP o_ART São Paulo_NPROP ,_PU pelo_PREP+ART segundo_ADJ turno_N do_PREP+ART Campeonato_NPROP Paulista_NPROP (_PU vitória_N do_PREP+ART Palmeiras_NPROP por_PREP 3_N a_PREP 2_N )_PU ,_PU a_ART torcida_N o_PROPESS chamou_V de_PREP "_PU burro_N "_PU por_PREP substituir_V o_ART lateral-direito_N Cláudio_NPROP pelo_PREP+ART atacante_N Maurílio_NPROP ._END
+antes_PREP desse_PREP+PROADJ jogo_N contra_PREP o_ART São Paulo_NPROP ,_PU os_ART torcedores_N já_ADV haviam_V pedido_PCP a_ART cabeça_N do_PREP+ART treinador_N este_PROADJ ano_N ,_PU após_PREP uma_ART sequência_N de_PREP três_NUM derrotas_N do_PREP+ART Palmeiras_NPROP em_PREP jogos_N pela_PREP+ART Campeonato_NPROP Paulista_NPROP e_KC pela_PREP+ART Taça_NPROP Libertadores_NPROP da_NPROP América_NPROP ._END
 "_PU Ele_PROPESS não_ADV sairia_V só_PDEN por_PREP vaidade_N "_PU ._END
 O_ART atacante_N Edmundo_NPROP ,_PU que_PRO-KS está_V afastado_PCP do_PREP+ART elenco_N do_PREP+ART Palmeiras_NPROP ,_PU declarou_V não_ADV acreditar_V que_KS Wanderley_NPROP Luxemburgo_NPROP pretendesse_V realmente_ADV pedir_V demissão_N ._END
 "_PU No_PREP+ART Palmeiras_NPROP ,_PU ele_PROPESS tem_V uma_ART boa_ADJ estrutura_N ,_PU um_ART ótimo_ADJ elenco_N e_KC um_ART horizonte_N para_PREP conquistar_V títulos_N ._END
 Ele_PROPESS não_ADV deixaria_V escapar_V isso_PROSUB tudo_PROADJ só_PDEN por_PREP vaidade_N "_PU ,_PU afirmou_V ._END
-O_ART atacante_N foi_V afastado_PCP por_PREP discutir_V com_PREP Luxemburgo_NPROP ,_PU após_PREP sua_PROADJ substituição_N no_PREP+ART jogo_N contra_PREP o_ART São_NPROP Paulo_NPROP ,_PU pela_PREP+ART Taça_NPROP Libertadores_NPROP ._END
+O_ART atacante_N foi_V afastado_PCP por_PREP discutir_V com_PREP Luxemburgo_NPROP ,_PU após_PREP sua_PROADJ substituição_N no_PREP+ART jogo_N contra_PREP o_ART São Paulo_NPROP ,_PU pela_PREP+ART Taça_NPROP Libertadores_NPROP ._END
 Edmundo_NPROP disse_V que_KS não_ADV desejava_V a_ART saída_N do_PREP+ART treinador_N ._END
 Não_ADV quero_V matar_V a_ART minha_PROADJ fome_N e_KC deixar_V outra_PROADJ pessoa_N faminta_ADJ ._END
 O_ART atacante_N ,_PU que_PRO-KS está_V no_PREP+ART Rio_NPROP aguardando_V a_ART definição_N de_PREP sua_PROADJ situação_N no_PREP+ART Palmeiras_NPROP ,_PU disse_V já_ADV ter_V recebido_PCP propostas_N de_PREP alguns_PROADJ clubes_N ,_PU do_PREP+ART Brasil_NPROP e_KC do_PREP+ART exterior_N ,_PU para_PREP se_PROPESS transferir_V ._END
@@ -2943,7 +2943,7 @@ O_ART lateral_N afirmou_V também_PDEN que_KS somente_PDEN três_NUM jogadores_N
 "_PU Eu_PROPESS sou_V um_PROSUB deles_PREP+PROPESS ,_PU disse_V ,_PU sem_PREP citar_V os_ART outros_PROADJ dois_N ._END
 Mas_KC o_ART Edmundo_NPROP não_ADV vai_V fazer_V falta_ADJ ,_PU porque_KS fomos_V campeões_N sem_PREP ele_PROPESS "_PU ,_PU concluiu_V ._END
 Jair_NPROP Pereira_NPROP chega_V hoje_ADV ao_PREP+ART Corinthians_NPROP
-O_ART novo_ADJ técnico_N do_PREP+ART Corinthians_NPROP ,_PU Jair_NPROP Pereira_NPROP ,_PU será_V apresentado_PCP aos_PREP+ART jogadores_N do_PREP+ART clube_N hoje_ADV ,_PU às_PREP+ART 16h_N ,_PU no_PREP+ART Parque_NPROP São_NPROP Jorge_NPROP ._END
+O_ART novo_ADJ técnico_N do_PREP+ART Corinthians_NPROP ,_PU Jair_NPROP Pereira_NPROP ,_PU será_V apresentado_PCP aos_PREP+ART jogadores_N do_PREP+ART clube_N hoje_ADV ,_PU às_PREP+ART 16h_N ,_PU no_PREP+ART Parque_NPROP São Jorge_NPROP ._END
 Antes_ADV ,_PU ao_PREP+ART meio-dia_N ,_PU ele_PROPESS assina_V o_ART seu_PROADJ contrato_N ._END
 O_ART diretor_N de_PREP futebol_N Carlos_NPROP Nujud_NPROP negou_V ontem_ADV que_KS o_ART Corinthians_NPROP pretenda_V contratar_V o_ART lateral-esquerdo_N Lira_NPROP ,_PU do_PREP+ART Fluminense_NPROP ._END
 Segundo_PREP ele_PROPESS ,_PU o_ART jogador_N foi_V oferecido_PCP ao_PREP+ART clube_N por_PREP um_ART empresário_N ._END
@@ -2952,11 +2952,11 @@ Ontem_ADV ,_PU o_ART presidente_N do_PREP+ART Guarani_NPROP ,_PU Beto_NPROP Zini
 Vamos_V agir_V com_PREP calma_N para_PREP conseguir_V negócios_N melhores_ADJ ._END
 Na_PREP+ART última_ADJ semana_N de_PREP disputa_N do_PREP+ART Campeonato_NPROP Paulista_NPROP ,_PU o_ART Corinthians_NPROP contratou_V os_ART jogadores_N Sousa_NPROP ,_PU do_PREP+ART Rio_NPROP Branco_NPROP ,_PU e_KC Pinga_NPROP ,_PU do_PREP+ART Internacional_NPROP de_PREP Porto_NPROP Alegre_NPROP ,_PU sem_PREP consultar_V o_ART então_ADJ técnico_N Carlos_NPROP Alberto_NPROP Silva_NPROP ._END
 As_ART críticas_N de_PREP Silva_NPROP a_PREP essas_PROADJ contratações_N foram_V um_PROSUB dos_PREP+ART fatores_N que_PRO-KS levaram_V a_ART diretoria_N a_PREP substituir_V -lo_PROPESS por_PREP Jair_NPROP Pereira_NPROP ._END
-O_ART São_NPROP Paulo_NPROP e_KC o_ART Corinthians_NPROP acertaram_V para_PREP o_ART próximo_ADJ dia_N 11_N um_ART amistoso_N beneficente_ADJ que_PRO-KS integrará_V a_ART campanha_N do_PREP+ART governo_N do_PREP+ART Estado_N pela_PREP+ART doação_N de_PREP agasalhos_N a_PREP pessoas_N carentes_ADJ ._END
+O_ART São Paulo_NPROP e_KC o_ART Corinthians_NPROP acertaram_V para_PREP o_ART próximo_ADJ dia_N 11_N um_ART amistoso_N beneficente_ADJ que_PRO-KS integrará_V a_ART campanha_N do_PREP+ART governo_N do_PREP+ART Estado_N pela_PREP+ART doação_N de_PREP agasalhos_N a_PREP pessoas_N carentes_ADJ ._END
 Em_PREP vez_PREP de_PREP pagar_V o_ART ingresso_N ,_PU cada_PROADJ torcedor_N deverá_V levar_V ao_PREP+ART estádio_N um_ART agasalho_N para_PREP poder_V assistir_V ao_PREP+ART jogo_N ._END
-A_ART diretoria_N do_PREP+ART São_NPROP Paulo_NPROP liberou_V o_ART zagueiro_N Válber_NPROP dos_PREP+ART treinos_N desta_PREP+PROADJ semana_N para_PREP que_KS ele_PROPESS possa_V fazer_V um_ART tratamento_N dentário_ADJ no_PREP+ART Rio_NPROP -_PU ainda_ADV em_PREP consequência_N da_PREP+ART agressão_N que_PRO-KS sofreu_V de_PREP Antônio_NPROP Carlos_NPROP ,_PU do_PREP+ART Palmeiras_NPROP ,_PU durante_PREP jogo_N pelo_PREP+ART Campeonato_NPROP Paulista_NPROP ._END
+A_ART diretoria_N do_PREP+ART São Paulo_NPROP liberou_V o_ART zagueiro_N Válber_NPROP dos_PREP+ART treinos_N desta_PREP+PROADJ semana_N para_PREP que_KS ele_PROPESS possa_V fazer_V um_ART tratamento_N dentário_ADJ no_PREP+ART Rio_NPROP -_PU ainda_ADV em_PREP consequência_N da_PREP+ART agressão_N que_PRO-KS sofreu_V de_PREP Antônio_NPROP Carlos_NPROP ,_PU do_PREP+ART Palmeiras_NPROP ,_PU durante_PREP jogo_N pelo_PREP+ART Campeonato_NPROP Paulista_NPROP ._END
 O_ART diretor_N de_PREP futebol_N ,_PU Khalef_NPROP João_NPROP Francisco_NPROP ,_PU disse_V que_KS conversou_V com_PREP o_ART dentista_N do_PREP+ART jogador_N ._END
-O_ART amistoso_N que_PRO-KS o_ART São_NPROP Paulo_NPROP pretendia_V realizar_V domingo_N contra_PREP o_ART Guarani_NPROP ,_PU em_PREP Campinas_NPROP ,_PU não_ADV será_V realizado_PCP ._END
+O_ART amistoso_N que_PRO-KS o_ART São Paulo_NPROP pretendia_V realizar_V domingo_N contra_PREP o_ART Guarani_NPROP ,_PU em_PREP Campinas_NPROP ,_PU não_ADV será_V realizado_PCP ._END
 Segundo_PREP Khalef_NPROP João_NPROP Francisco_NPROP ,_PU o_ART presidente_N do_PREP+ART Guarani_NPROP ,_PU Beto_NPROP Zini_NPROP ,_PU lhe_PROPESS afirmou_V que_KS não_ADV dispõe_V de_PREP jogadores_N suficientes_ADJ para_PREP a_ART partida_N ._END
 Brasil_NPROP treina_V nos_PREP+ART EUA_NPROP para_PREP jogo_N de_PREP amanhã_ADV
 A_ART seleção_N brasileira_ADJ masculina_ADJ já_ADV treina_V em_PREP San_NPROP Diego_NPROP ,_PU Califórnia_NPROP ,_PU onde_ADV-KS sexta-feira_N e_KC sábado_N enfrenta_V os_ART EUA_NPROP nos_PREP+ART jogos_N do_PREP+ART returno_N da_PREP+ART Liga_NPROP Mundial_NPROP ._END
@@ -3073,7 +3073,7 @@ Senna_NPROP morreu_V no_PREP+ART dia_N 1º_N de_PREP maio_N em_PREP acidente_N d
 Seu_PROADJ carro_N se_PROPESS chocou_V contra_PREP o_ART muro_N de_PREP proteção_N na_PREP+ART saída_N de_PREP uma_ART curva_N de_PREP alta_ADJ velocidade_N ._END
 A_ART Te_NPROP as_NPROP pediu_V que_KS o_ART cardeal_N dom_NPROP Paulo_NPROP Evaristo_NPROP Arns_NPROP celebrasse_V a_ART missa_N ._END
 Segundo_KS informou_V a_ART administração_N da_PREP+ART Sé_NPROP ,_PU Arns_NPROP aceitou_V o_ART pedido_N ._END
-Nilza_NPROP Carvalho_NPROP de_NPROP Almeida_NPROP ,_PU administradora_N da_PREP+ART T_NPROP as_NPROP ,_PU afirmou_V que_KS a_ART cerimônia_N também_PDEN contará_V com_PREP a_ART participação_N do_PREP+ART Coral_N do_PREP+ART Teatro_NPROP Municipal_NPROP de_PREP São_NPROP Paulo_NPROP ._END
+Nilza_NPROP Carvalho_NPROP de_NPROP Almeida_NPROP ,_PU administradora_N da_PREP+ART T_NPROP as_NPROP ,_PU afirmou_V que_KS a_ART cerimônia_N também_PDEN contará_V com_PREP a_ART participação_N do_PREP+ART Coral_N do_PREP+ART Teatro_NPROP Municipal_NPROP de_PREP São Paulo_NPROP ._END
 Entre_PREP as_ART músicas_N programadas_PCP para_PREP a_ART missa_N está_V incluída_PCP a_ART "_PU Canção_NPROP da_NPROP América_NPROP "_PU ,_PU de_PREP Milton_NPROP Nascimento_NPROP ,_PU uma_PROSUB das_PREP+PROSUB preferidas_PCP de_PREP Ayrton_NPROP Senna_NPROP ._END
 A_ART família_N do_PREP+ART piloto_N brasileiro_ADJ foi_V convidada_PCP pela_PREP+ART direção_N da_PREP+ART T_NPROP as_NPROP para_PREP a_ART missa_N ._END
 No_PREP+ART cemitério_N do_PREP+ART Morumbi_NPROP ,_PU onde_ADV-KS está_V enterrado_PCP o_ART corpo_N do_PREP+ART piloto_N ,_PU está_V sendo_V esperado_PCP um_ART aumento_N no_PREP+ART número_N de_PREP visitas_N ao_PREP+ART túmulo_N de_PREP Senna_NPROP ._END
@@ -3083,11 +3083,11 @@ Foi_V colocada_PCP uma_ART cerca_N em_PREP torno_PREP do_PREP+ART túmulo_N de_P
 Para_PREP hoje_ADV e_KC até_PREP o_ART fim_N da_PREP+ART semana_N ,_PU o_ART cemitério_N terá_V sua_PROADJ segurança_N reforçada_PCP ._END
 (_PU Mauro_NPROP Tagliaferri_NPROP )_PU
 Fã_N vem_V de_PREP Goiás_NPROP para_PREP ver_V túmulo_N
-A_ART dona-de-casa_N Nilza_NPROP Maia_NPROP ,_PU 61_NUM ,_PU foi_V uma_PROSUB das_PREP+ART pessoas_N que_PRO-KS estiveram_V ontem_ADV no_PREP+ART cemitério_N do_PREP+ART Morumbi_NPROP (_PU zona_N oeste_ADJ de_PREP São_NPROP Paulo_NPROP )_PU para_PREP visitar_V o_ART túmulo_N de_PREP Ayrton_NPROP Senna_NPROP ._END
+A_ART dona-de-casa_N Nilza_NPROP Maia_NPROP ,_PU 61_NUM ,_PU foi_V uma_PROSUB das_PREP+ART pessoas_N que_PRO-KS estiveram_V ontem_ADV no_PREP+ART cemitério_N do_PREP+ART Morumbi_NPROP (_PU zona_N oeste_ADJ de_PREP São Paulo_NPROP )_PU para_PREP visitar_V o_ART túmulo_N de_PREP Ayrton_NPROP Senna_NPROP ._END
 Ela_PROPESS veio_V de_PREP Goiânia_NPROP (_PU GO_NPROP )_PU especialmente_ADV para_PREP homenagear_V o_ART piloto_N brasileiro_ADJ ,_PU que_PRO-KS morreu_V há_V um_NUM mês_N num_PREP+ART acidente_N durante_PREP o_ART GP_NPROP de_PREP San_NPROP Marino_NPROP ._END
-Ontem_ADV ,_PU ela_PROPESS estava_V acompanhada_PCP por_PREP sua_PROADJ amiga_N Neusa_NPROP Sasso_NPROP ,_PU 57_NUM ,_PU que_PRO-KS a_PROPESS hospeda_V em_PREP São_NPROP Paulo_NPROP ._END
+Ontem_ADV ,_PU ela_PROPESS estava_V acompanhada_PCP por_PREP sua_PROADJ amiga_N Neusa_NPROP Sasso_NPROP ,_PU 57_NUM ,_PU que_PRO-KS a_PROPESS hospeda_V em_PREP São Paulo_NPROP ._END
 Cada_PROADJ uma_PROSUB colocou_V uma_ART flor_N (_PU camélia_N )_PU sobre_PREP o_ART túmulo_N de_PREP Senna_NPROP ._END
-A_ART dona-de-casa_N ,_PU que_PRO-KS chegou_V a_PREP São_NPROP Paulo_NPROP no_PREP+ART domingo_N ,_PU retorna_V a_PREP Goiânia_NPROP hoje_ADV ._END
+A_ART dona-de-casa_N ,_PU que_PRO-KS chegou_V a_PREP São Paulo_NPROP no_PREP+ART domingo_N ,_PU retorna_V a_PREP Goiânia_NPROP hoje_ADV ._END
 "_PU Vim_V com_PREP essa_N única_ADJ missão_N ._END
 Estou_V feliz_ADJ por_PREP ter_V prestado_PCP minha_PROADJ homenagem_N "_PU ,_PU disse_V Nilza_NPROP ._END
 (_PU MT_NPROP )_PU
@@ -3178,7 +3178,7 @@ O_ART zagueiro_N Aldair_NPROP foi_V a_PREP um_ART hospital_N fazer_V exames_N cl
 Nutricionista_N tinha_V plano_N
 A_ART nutricionista_N Patrícia_NPROP Bertolucci_NPROP ,_PU que_PRO-KS abandonou_V a_ART seleção_N devido_PREP a_PREP resistências_N ao_PREP+ART seu_PROADJ trabalho_N ,_PU tem_V um_ART programa_N alimentar_ADJ para_PREP recuperação_N de_PREP peso_N dos_PREP+ART jogadores_N ._END
 Segundo_PREP ela_PROPESS ,_PU as_ART seis_NUM primeiras_ADJ horas_N após_PREP esforço_N físico_ADJ são_V decisivas_ADJ para_PREP a_ART recuperação_N do_PREP+ART peso_N ._END
-o_ART São_NPROP Paulo_NPROP ,_PU os_ART jogadores_N comem_V um_NUM sanduíche_N e_KC tomam_V um_NUM litro_N de_PREP água_N após_PREP os_ART jogos_N ._END
+o_ART São Paulo_NPROP ,_PU os_ART jogadores_N comem_V um_NUM sanduíche_N e_KC tomam_V um_NUM litro_N de_PREP água_N após_PREP os_ART jogos_N ._END
 Ele_PROPESS segue_V recomendação_N para_PREP fazer_V sete_NUM refeições_N diárias_ADJ ._END
 Quando_KS o_ART horário_N é_V diferente_ADJ ,_PU come_V um_ART sanduíche_N no_PREP+ART fim_N da_PREP+ART sessão_N ._END
 Na_PREP+ART seleção_N ,_PU não_ADV há_V um_ART plano_N especial_ADJ para_PREP a_ART recuperação_N de_PREP peso_N ._END
@@ -3218,12 +3218,12 @@ O_ART setor_N de_PREP apostas_N teve_V sua_PROADJ capacidade_N aumentada_PCP ._E
 Atenas_NPROP é_V campeão_N sul-americano_ADJ
 O_ART time_N argentino_ADJ venceu_V o_ART torneio_N interclubes_ADJ ao_PREP bater_V o_ART Olimpia_NPROP ,_PU (_PU Argentina_NPROP )_PU ._END
 O_ART Pitt-Corinthians_NPROP (_PU Brasil_NPROP )_PU ficou_V em_PREP 3º_ADJ lugar_N ._END
-Palmeiras_NPROP busca_V superar_V trauma_N Pós-edmundo_N e_KC São_NPROP Paulo_NPROP procura_V evitar_V novo_ADJ sufoco_N
+Palmeiras_NPROP busca_V superar_V trauma_N Pós-edmundo_N e_KC São Paulo_NPROP procura_V evitar_V novo_ADJ sufoco_N
 Da_PREP+ART Reportagem_NPROP Local_NPROP
-São_NPROP Paulo_NPROP e_KC Palmeiras_NPROP disputam_V hoje_ADV o_ART clássico_N mais_ADV decisivo_ADJ do_PREP+ART Campeonato_NPROP Paulista_NPROP de_PREP 94_N ._END
+São Paulo_NPROP e_KC Palmeiras_NPROP disputam_V hoje_ADV o_ART clássico_N mais_ADV decisivo_ADJ do_PREP+ART Campeonato_NPROP Paulista_NPROP de_PREP 94_N ._END
 O_ART empate_N (_PU 0_N a_PREP 0_N )_PU de_PREP quarta-feira_N passada_PCP ,_PU pela_PREP+ART Taça_NPROP Libertadores_NPROP ,_PU foi_V fonte_N de_PREP duras_ADJ lições_N ._END
 O_ART Palmeiras_NPROP (_PU líder_N ,_PU com_PREP 37_NUM pontos_N )_PU perdeu_V o_ART atacante_N Edmundo_NPROP ,_PU que_PRO-KS se_PROPESS revoltou_V ao_PREP ser_V substituído_PCP e_KC foi_V afastado_PCP pela_PREP+ART diretoria_N ._END
-O_ART São_NPROP Paulo_NPROP (_PU com_PREP 34_NUM pontos_N e_KC dois_NUM jogos_N a_PROADJ menos_PROADJ )_PU sentiu_V a_ART ineficiência_N de_PREP seu_PROADJ meio-campo_N ._END
+O_ART São Paulo_NPROP (_PU com_PREP 34_NUM pontos_N e_KC dois_NUM jogos_N a_PROADJ menos_PROADJ )_PU sentiu_V a_ART ineficiência_N de_PREP seu_PROADJ meio-campo_N ._END
 Trata_V -se_PROPESS da_PREP+ART principal_ADJ certeza_N do_PREP+ART Palmeiras_NPROP ._END
 Se_KS manter_V o_ART rigor_N na_PREP+ART marcação_N e_KC a_ART rapidez_N no_PREP+ART toque_N de_PREP bola_N ,_PU pode_V criar_V tantas_KC boas_ADJ jogadas_N como_KC as_PROSUB que_PRO-KS fez_V no_PREP+ART primeiro_ADJ tempo_N de_PREP quarta-feira_N ._END
 "_PU Falta_V acertar_V a_ART pontaria_N "_PU ,_PU pediu_V apenas_PDEN o_ART técnico_N Wanderley_NPROP Luxemburgo_NPROP ._END
@@ -3240,7 +3240,7 @@ Entre_PREP as_ART equipes_N da_PREP+ART capital_N paulista_ADJ no_PREP+ART Campe
 4_N -_PU Corinthians_NPROP
 Fonte_N :_PU Editoria_N de_PREP Esporte_N
 Palmeiras_NPROP haverá_V de_PREP perdoar_V Edmundo_NPROP
-Basta_V o_ART São_NPROP Paulo_NPROP dar_V a_ART volta_N por_PREP cima_PREP de_PREP seu_PROADJ rival_N e_KC a_ART pressão_N da_PREP+ART torcida_N aumentar_V para_PREP que_KS o_ART meia_N volte_V
+Basta_V o_ART São Paulo_NPROP dar_V a_ART volta_N por_PREP cima_PREP de_PREP seu_PROADJ rival_N e_KC a_ART pressão_N da_PREP+ART torcida_N aumentar_V para_PREP que_KS o_ART meia_N volte_V
 ALBERTO_NPROP HELENA_NPROP JR_NPROP ._END
 Da_PREP+ART Equipe_NPROP de_NPROP Articulistas_NPROP
 "_PU In_NPROP the_NPROP Mood_NPROP "_PU ,_PU que_PRO-KS embalou_V os_ART sonhos_N das_PREP+ART teens_N dos_PREP+ART anos_N 40_N ,_PU ao_PREP+ART som_N de_PREP Tommy_NPROP Dorsey_NPROP ,_PU por_PREP aqui_ADV ganhou_V uma_ART versão_N gaiata_ADJ do_PREP+ART Betinho_NPROP e_KC seu_PROADJ Conjunto_N ,_PU nos_PREP+ART 50_N ,_PU que_PRO-KS dizia_V mais_ADV ou_ADV menos_ADV assim_ADV :_PU "_PU O_ART Edmundo_NPROP nunca_ADV sabe_V bem_ADV faz_V /_PU Ele_PROPESS é_V um_ART sujeito_N distraído_PCP demais_ADV ..._END /_PU É_V demais_PROSUB ,_PU eu_PROPESS tenho_V pena_N do_PREP+ART rapaz_N ..._END /_PU Todo_N mundo_N diz_V que_KS o_ART Edmundo_NPROP não_ADV tem_V jeito_N não_ADV "_PU ._END
@@ -3252,7 +3252,7 @@ Aí_PDEN ,_PU sob_PREP a_ART pressão_N da_PREP+ART torcida_N ,_PU ninguém_PROS
 diria_V Noel_NPROP :_PU pela_PREP+ART décima_ADJ vez_N ,_PU ele_PROPESS está_V inocente_ADJ ,_PU nem_ADV sabe_V o_PRO-KS que_PRO-KS fez_V ._END
 O_ART diabo_N é_V que_KS ,_PU desta_PREP+PROADJ vez_N ,_PU os_ART seus_PROADJ companheiros_N também_PDEN estão_V pela_PREP+ART tampa_N com_PREP Edmundo_NPROP ,_PU que_PRO-KS ,_PU nos_PREP+ART seus_PROADJ delírios_N ,_PU chegou_V ao_PREP+ART cúmulo_N de_PREP tomar_V a_ART bola_N dos_PREP+ART pés_N de_PREP Rincón_NPROP e_KC de_PREP Evair_NPROP ,_PU na_PREP+ART hora_N do_PREP+ART gol_N ,_PU para_PREP perder_V -la_PROPESS em_ADV seguida_ADV ._END
 Mas_KC ,_PU no_PREP+ART futebol_N ,_PU sacumé_IN ,_PU um_ART drible_N ,_PU um_ART gol_N ,_PU uma_ART jogada_N inspirada_PCP e_KC decisiva_ADJ bastam_V para_PREP sepultar_V todos_PROADJ os_ART ressentimentos_N ._END
-Na_PREP+ART quarta-feira_N ,_PU o_ART São_NPROP Paulo_NPROP tomou_V um_ART vareio_N do_PREP+ART Palmeiras_NPROP ._END
+Na_PREP+ART quarta-feira_N ,_PU o_ART São Paulo_NPROP tomou_V um_ART vareio_N do_PREP+ART Palmeiras_NPROP ._END
 Se_KS o_ART jogo_N terminasse_V 6_N a_PREP 0_N no_PREP+ART primeiro_ADJ tempo_N não_ADV seria_V mais_PREP que_PREP o_ART fiel_ADJ espelho_N da_PREP+ART partida_N ._END
 Parte_N porque_KS o_ART Palmeiras_NPROP jogou_V com_PREP extremo_ADJ empenho_N e_KC raro_ADJ talento_N ._END
 Parte_N porque_KS o_ART tricolor_NPROP entrou_V em_PREP campo_N mal_ADV escalado_PCP por_PREP Telê_NPROP ,_PU que_PRO-KS tentou_V consertar_V logo_ADV após_ADV ,_PU com_PREP a_ART entrada_N de_PREP Vítor_NPROP na_PREP+ART lateral_N e_KC a_ART passagem_N de_PREP Cafu_NPROP para_PREP o_ART lugar_N de_PREP Jamelli_NPROP ._END
@@ -3269,17 +3269,17 @@ Pois_KC Parreira_NPROP cultiva_V a_ART tese_N de_PREP que_PRO-KS o_ART meio-camp
 Ecos_N de_PREP um_ART passado_N glorioso_ADJ ._END
 Infelizmente_ADV ,_PU apenas_PDEN ecos_N ._END
 Alberto_NPROP Helena_NPROP Jr._NPROP escreve_V neste_PREP+PROADJ espaço_N aos_PREP+ART domingos_N ,_PU segundas_N e_KC quartas_N
-São_NPROP Paulo_NPROP pega_V Palmeiras_NPROP
-Palmeiras_NPROP pega_V São_NPROP Paulo_NPROP
+São Paulo_NPROP pega_V Palmeiras_NPROP
+Palmeiras_NPROP pega_V São Paulo_NPROP
 Da_PREP+ART Redação_N
-Globosat/Sportv_NPROP mostra_V ao_ADV vivo_ADV o_ART jogo_N entre_PREP São_NPROP Paulo_NPROP e_KC Palmeiras_NPROP ,_PU às_PREP+ART 16h_N ._END
+Globosat/Sportv_NPROP mostra_V ao_ADV vivo_ADV o_ART jogo_N entre_PREP São Paulo_NPROP e_KC Palmeiras_NPROP ,_PU às_PREP+ART 16h_N ._END
 O_ART resultado_N deste_PREP+PROADJ jogo_N praticamente_ADV define_V o_ART destino_N das_PREP+ART duas_NUM equipes_N -_PU e_KC do_PREP+ART Corinthians_NPROP ._END
 Palmeiras_NPROP e_KC Corinthians_NPROP fazem_V o_ART clássico_N da_PREP+ART última_ADJ rodada_N e_KC a_PREP TVA/ESPN_NPROP está_V fazendo_V uma_ART promoção_N para_PREP seus_PROADJ assinantes_N ._END
 As_ART cartas_N devem_V ser_V enviadas_PCP até_PREP quinta-feira_N ._END
-Sobre_PREP o_ART jogo_N Palmeiras_NPROP x_PREP São_NPROP Paulo_NPROP nas_PREP+ART pág._N 1_N a_PREP 6_N
+Sobre_PREP o_ART jogo_N Palmeiras_NPROP x_PREP São Paulo_NPROP nas_PREP+ART pág._N 1_N a_PREP 6_N
 Palmeiras_NPROP busca_V detalhes_N para_PREP vencer_V Zetti_NPROP
 Atacantes_N revêem_V jogo_N passado_PCP e_KC concluem_V que_KS o_ART melhor_ADJ caminho_N são_V bolas_N chutadas_PCP no_PREP+ART canto_N e_KC rasteiras_N
-A_ART principal_ADJ preocupação_N do_PREP+ART técnico_N Wanderley_NPROP Luxemburgo_NPROP ,_PU ao_PREP assistir_V ontem_ADV ao_PREP+ART teipe_N do_PREP+ART confronto_N de_PREP quarta-feira_N passada_PCP contra_PREP o_ART São_NPROP Paulo_NPROP ,_PU era_V descobrir_V o_ART melhor_ADJ modo_N de_PREP vencer_V o_ART goleiro_N Zetti_NPROP ._END
+A_ART principal_ADJ preocupação_N do_PREP+ART técnico_N Wanderley_NPROP Luxemburgo_NPROP ,_PU ao_PREP assistir_V ontem_ADV ao_PREP+ART teipe_N do_PREP+ART confronto_N de_PREP quarta-feira_N passada_PCP contra_PREP o_ART São Paulo_NPROP ,_PU era_V descobrir_V o_ART melhor_ADJ modo_N de_PREP vencer_V o_ART goleiro_N Zetti_NPROP ._END
 Os_ART números_N coletados_PCP pelo_PREP+ART Datafolha_NPROP provam_V a_ART eficiência_N do_PREP+ART goleiro_N :_PU foram_V 51_NUM atuações_N (_PU contra_PREP 21_N do_PREP+ART palmeirense_N Fernandez_NPROP )_PU ,_PU no_PREP+ART jogo_N válido_PCP pela_PREP+ART Taça_NPROP Libertadores_NPROP ._END
 "_PU O_ART Zetti_NPROP é_V um_PROSUB dos_PREP+ART goleiros_N mais_ADV difíceis_ADJ de_PREP se_PROPESS vencer_V "_PU ,_PU acredita_V o_ART centroavante_N Evair_NPROP ,_PU elogiado_PCP pelo_PREP+ART goleiro_N do_PREP+ART adversário_N justamente_ADV pela_PREP+ART eficiência_N dos_PREP+ART chutes_N ._END
 O_ART atacante_N palmeirense_ADJ acredita_V que_KS a_ART melhor_ADJ forma_N é_V tentar_V colocar_V a_ART bola_N no_PREP+ART canto_N do_PREP+ART gol_N ._END
@@ -3292,17 +3292,17 @@ Para_PREP conseguir_V o_ART gol_N ,_PU o_ART atacante_N tem_V que_KS ter_V racio
 O_ART goleiro_N lembra_V -se_PROPESS de_PREP uma_ART defesa_N de_PREP Zetti_NPROP depois_PREP de_PREP uma_ART cabeçada_N de_PREP Evair_NPROP ._END
 Já_KC o_ART zagueiro_N Antônio_NPROP Carlos_NPROP observa_V o_ART detalhe_N da_PREP+ART reposição_N de_PREP bola_N ._END
 Como_KS normalmente_ADV faz_V a_ART defesa_N completa_ADJ ,_PU segurando_V a_ART bola_N ,_PU Zetti_NPROP consegue_V muitas_PROADJ vezes_N ser_V o_ART principal_ADJ articulador_N do_PREP+ART ataque_N ._END
-Segundo_PREP o_ART Datafolha_NPROP ,_PU contra_PREP o_ART São_NPROP Paulo_NPROP na_PREP+ART quarta-feira_N ,_PU Zetti_NPROP fez_V 13_NUM passes_N certos_ADJ para_PREP a_ART defesa_N e_KC 3_N para_PREP o_ART ataque_N ._END
+Segundo_PREP o_ART Datafolha_NPROP ,_PU contra_PREP o_ART São Paulo_NPROP na_PREP+ART quarta-feira_N ,_PU Zetti_NPROP fez_V 13_NUM passes_N certos_ADJ para_PREP a_ART defesa_N e_KC 3_N para_PREP o_ART ataque_N ._END
 Nos_PREP+ART levantamentos_N dos_PREP+ART erros_N ,_PU o_ART goleiro_N são-paulino_ADJ não_ADV falhou_V em_PREP nenhum_PROADJ passe_N para_PREP a_ART defesa_N e_KC errou_V em_PREP oito_N para_PREP o_ART ataque_N ._END
 O_ART contra-ataque_N pode_V ser_V fatal_ADJ "_PU ,_PU disse_V o_ART zagueiro_N ,_PU que_PRO-KS gosta_V de_PREP avançar_V ._END
 Goleiro_N credita_V sua_PROADJ boa_ADJ fase_N à_PREP+ART colocação_N
 Para_PREP Zetti_NPROP ,_PU jogar_V adiantado_PCP ajuda_V
-Zetti_NPROP é_V uma_PROSUB das_PREP+ART principais_ADJ armas_N do_PREP+ART São_NPROP Paulo_NPROP ,_PU hoje_ADV contra_PREP o_ART Palmeiras_NPROP ._END
-O_ART goleiro_N do_PREP+ART São_NPROP Paulo_NPROP se_PROPESS destacar_V em_PREP jogos_N contra_PREP o_ART Palmeiras_NPROP ,_PU seu_PROADJ ex-time_N ._END
+Zetti_NPROP é_V uma_PROSUB das_PREP+ART principais_ADJ armas_N do_PREP+ART São Paulo_NPROP ,_PU hoje_ADV contra_PREP o_ART Palmeiras_NPROP ._END
+O_ART goleiro_N do_PREP+ART São Paulo_NPROP se_PROPESS destacar_V em_PREP jogos_N contra_PREP o_ART Palmeiras_NPROP ,_PU seu_PROADJ ex-time_N ._END
 Ele_PROPESS nega_V que_KS seu_PROADJ desempenho_N tenha_V a_PREP ver_V com_PREP o_ART fato_N de_PREP ter_V saído_PCP do_PREP+ART Palmeiras_NPROP numa_PREP+ART situação_N de_PREP crise_N ._END
 Em_PREP 1988_N ,_PU Zetti_NPROP quebrou_V a_ART perna_N numa_PREP+ART partida_N contra_PREP o_ART Flamengo_NPROP ._END
 Apesar_PREP de_PREP ter_V chegado_PCP a_PREP ficar_V mais_PREP de_PREP mil_NUM minutos_N sem_PREP tomar_V gols_N no_PREP+ART Campeonato_NPROP Paulista_NPROP de_PREP 1987_N ,_PU ele_PROPESS nunca_ADV mais_ADV recuperou_V a_ART posição_N no_PREP+ART Palmeiras_NPROP ._END
-Sua_PROADJ venda_N ao_PREP+ART São_NPROP Paulo_NPROP teve_V sabor_N de_PREP dispensa_N desonrosa_ADJ ._END
+Sua_PROADJ venda_N ao_PREP+ART São Paulo_NPROP teve_V sabor_N de_PREP dispensa_N desonrosa_ADJ ._END
 Mas_KC desde_PREP 1991_N ,_PU venceu_V vários_PROADJ títulos_N ,_PU inclusive_PDEN o_ART bi_ADJ mundial_N interclubes_ADJ ._END
 Essa_PROADJ história_N criou_V a_ART versão_N de_PREP que_KS o_ART goleiro_N se_PROPESS vinga_V do_PREP+ART seu_PROADJ ex-clube_N a_PREP cada_PROADJ vez_N que_KS o_PROPESS enfrenta_V ._END
 "_PU Não_ADV tenho_V raiva_N do_PREP+ART Palmeiras_NPROP "_PU ,_PU diz_V
@@ -3337,20 +3337,20 @@ Como_ADV você_PROPESS encara_V o_ART "_PU segundo_ADJ assalto_N da_PREP+ART sua
 (_PU sério_ADJ )_PU Tenho_V grande_ADJ preocupação_N com_PREP ele_PROPESS ._END
 Pré-OLÍMPICO_NPROP ;_PU Basquete_N
 Pré-OLÍMPICO_NPROP -_PU A_ART Confederação_N Pan-americana_NPROP de_PREP Basquete_N (_PU Copaba_NPROP )_PU escolheu_V ,_PU anteontem_ADV ,_PU Brasil_NPROP e_KC Argentina_NPROP como_PREP sedes_N da_PREP+ART Copa_NPROP das_NPROP Américas_NPROP ,_PU classificatória_ADJ para_PREP a_ART Olimpíada_NPROP de_PREP 96_N ._END
-São_NPROP Paulo_NPROP sediará_V o_ART torneio_N feminino_ADJ ,_PU marcado_PCP para_PREP 8_N de_PREP junho_N de_PREP 1995_N ._END
+São Paulo_NPROP sediará_V o_ART torneio_N feminino_ADJ ,_PU marcado_PCP para_PREP 8_N de_PREP junho_N de_PREP 1995_N ._END
 Buenos_NPROP Aires_NPROP ficou_V com_PREP o_PROSUB masculino_N ,_PU programado_PCP para_PREP agosto_N do_PREP+ART mesmo_PROADJ ano_N ._END
 Basquete_N -_PU depois_PREP da_PREP+ART rodada_N de_PREP abertura_N ,_PU programada_PCP para_PREP ontem_ADV ,_PU as_ART seleções_N femininas_ADJ do_PREP+ART Brasil_NPROP ,_PU Cuba_NPROP ,_PU Eslovênia_NPROP e_KC Argentina_NPROP ,_PU aproveitam_V o_ART dia_N de_PREP hoje_ADV para_PREP treinamento_N ._END
 Amanhã_ADV ,_PU as_ART quatro_NUM equipes_N dão_V sequência_N ao_PREP+ART torneio_N internacional_ADJ que_PRO-KS disputam_V em_PREP Salvador_NPROP (_PU BA_NPROP )_PU ._END
 Telê_NPROP reforça_V o_ART meio-campo_N com_PREP zagueiro_N
 Técnico_N desloca_V Válber_NPROP e_KC adota_V esquema_N com_PREP dois_NUM volantes_N mais_KC Cafu_NPROP para_PREP brecar_V o_ART meio-campo_N palmeirense_ADJ
-O_ART técnico_N do_PREP+ART São_NPROP Paulo_NPROP ,_PU Telê_NPROP Santana_NPROP ,_PU investe_V hoje_ADV numa_PREP+ART nova_ADJ surpresa_N tática_ADJ para_PREP vencer_V o_ART Palmeiras_NPROP ,_PU seu_PROADJ maior_ADJ rival_N na_PREP+ART disputa_N pelo_PREP+ART título_N paulista_ADJ ._END
+O_ART técnico_N do_PREP+ART São Paulo_NPROP ,_PU Telê_NPROP Santana_NPROP ,_PU investe_V hoje_ADV numa_PREP+ART nova_ADJ surpresa_N tática_ADJ para_PREP vencer_V o_ART Palmeiras_NPROP ,_PU seu_PROADJ maior_ADJ rival_N na_PREP+ART disputa_N pelo_PREP+ART título_N paulista_ADJ ._END
 Para_PREP o_ART jogo_N de_PREP hoje_ADV ,_PU o_ART zagueiro_N Válber_NPROP volta_V ao_PREP+ART time_N -_PU para_PREP atuar_V como_PREP -_PU líbero_N no_PREP+ART lugar_N do_PREP+ART volante_N (_PU meio-campista_N com_PREP função_N defensiva_ADJ )_PU Axel_NPROP ,_PU que_PRO-KS cumpre_V suspensão_N ._END
-Após_PREP o_ART fracasso_N do_PREP+ART São_NPROP Paulo_NPROP no_PREP+ART primeiro_ADJ tempo_N do_PREP+ART jogo_N de_PREP quarta-feira_N contra_PREP o_ART Palmeiras_NPROP ,_PU Telê_NPROP decidiu_V manter_V o_ART meio-campo_N com_PREP dois_NUM volantes_N ,_PU além_PREP de_PREP Cafu_NPROP ,_PU que_PRO-KS marca_V e_KC ataca_V com_PREP eficiência_N ._END
+Após_PREP o_ART fracasso_N do_PREP+ART São Paulo_NPROP no_PREP+ART primeiro_ADJ tempo_N do_PREP+ART jogo_N de_PREP quarta-feira_N contra_PREP o_ART Palmeiras_NPROP ,_PU Telê_NPROP decidiu_V manter_V o_ART meio-campo_N com_PREP dois_NUM volantes_N ,_PU além_PREP de_PREP Cafu_NPROP ,_PU que_PRO-KS marca_V e_KC ataca_V com_PREP eficiência_N ._END
 Em_PREP relação_PREP ao_PREP+ART time_N que_PRO-KS enfrentou_V e_KC venceu_V o_ART Palmeiras_NPROP (_PU 2_N x_N 1_N )_PU ,_PU no_PREP+ART primeiro_ADJ turno_N do_PREP+ART Paulista_NPROP ,_PU há_V uma_ART mudança_N no_PREP+ART meio-campo_N ._END
 Um_ART zagueiro_N (_PU Válber_NPROP )_PU substituiu_V um_ART meia_N (_PU Palhinha_NPROP )_PU ._END
 É_V uma_ART clara_ADJ preocupação_N com_PREP a_ART defesa_N ._END
 A_ART última_ADJ grande_ADJ mudança_N no_PREP+ART time_N acontecera_V justamente_ADV contra_PREP o_ART Palmeiras_NPROP ,_PU no_PREP+ART primeiro_ADJ turno_N ._END
-Telê_NPROP considerou_V que_KS o_ART ponto_N fraco_ADJ do_PREP+ART São_NPROP Paulo_NPROP na_PREP+ART quarta-feira_N passada_PCP foi_V a_ART distância_N entre_PREP defesa_N ,_PU meio-campo_N e_KC ataque_N ._END
+Telê_NPROP considerou_V que_KS o_ART ponto_N fraco_ADJ do_PREP+ART São Paulo_NPROP na_PREP+ART quarta-feira_N passada_PCP foi_V a_ART distância_N entre_PREP defesa_N ,_PU meio-campo_N e_KC ataque_N ._END
 No_PREP+ART coletivo_N ,_PU a_ART equipe_N titular_ADJ teve_V um_ART desempenho_N considerado_PCP satisfatório_ADJ por_PREP Telê_NPROP ._END
 A_ART preocupação_N do_PREP+ART técnico_N no_PREP+ART meio-campo_N é_V com_PREP o_ART meia_N Leonardo_NPROP ._END
 O_ART jogador-chave_N da_PREP+ART equipe_N no_PREP+ART Campeonato_NPROP Paulista_NPROP não_ADV aguentou_V jogar_V nenhuma_PROSUB das_PREP+ART duas_NUM partidas_N até_PREP o_ART fim_N ._END
@@ -3368,13 +3368,13 @@ jogador_N faz_V teste_N antes_PREP da_PREP+ART partida_N ._END
 Se_KS não_ADV puder_V atuar_V ,_PU Palhinha_NPROP será_V seu_PROADJ substituto_N ._END
 Com_PREP isso_PROSUB ,_PU Cafu_NPROP volta_V para_PREP a_ART lateral_N ._END
 Técnico_N visa_V equipe_N ideal_ADJ
-O_ART técnico_N Telê_NPROP Santana_NPROP ainda_ADV não_ADV encontrou_V a_ART escalação_N ideal_ADJ do_PREP+ART São_NPROP Paulo_NPROP em_PREP 1994_N ._END
+O_ART técnico_N Telê_NPROP Santana_NPROP ainda_ADV não_ADV encontrou_V a_ART escalação_N ideal_ADJ do_PREP+ART São Paulo_NPROP em_PREP 1994_N ._END
 Problemas_N de_PREP indisciplina_N e_KC de_PREP adaptação_N fizeram_V Telê_NPROP mudar_V a_ART equipe-base_N algumas_PROADJ vezes_N neste_PREP+PROADJ Campeonato_NPROP Paulista_NPROP ._END
 Palmeiras_NPROP teme_V revolta_N da_PREP+ART torcida_N contra_PREP o_ART afastamento_N de_PREP Edmundo_NPROP
-A_ART vitória_N contra_PREP o_ART São_NPROP Paulo_NPROP hoje_ADV à_PREP+ART tarde_N é_V o_ART melhor_ADJ caminho_N para_PREP o_ART Palmeiras_NPROP evitar_V uma_ART crise_N ._END
+A_ART vitória_N contra_PREP o_ART São Paulo_NPROP hoje_ADV à_PREP+ART tarde_N é_V o_ART melhor_ADJ caminho_N para_PREP o_ART Palmeiras_NPROP evitar_V uma_ART crise_N ._END
 Além_PREP de_PREP garantir_V uma_ART folga_N na_PREP+ART classificação_N ,_PU o_ART resultado_N ratifica_V a_ART decisão_N dos_PREP+ART dirigentes_N em_PREP afastar_V o_ART meia_N Edmundo_NPROP ._END
 O_ART jogador_N foi_V suspenso_PCP por_PREP tempo_N indeterminado_PCP e_KC também_PDEN multado_PCP em_PREP 40_NUM %_N de_PREP seu_PROADJ salário_N de_PREP US$_CUR 20_NUM mil_NUM (_PU Cr$_CUR 25,2_NUM mil_NUM mi_N )_PU por_PREP ter_V reclamado_PCP com_PREP o_ART técnico_N Wanderley_NPROP Luxemburgo_NPROP ._END
-O_ART lance_N aconteceu_V aos_PREP+ART 28_NUM min_N do_PREP+ART segundo_ADJ tempo_N do_PREP+ART jogo_N contra_PREP o_ART São_NPROP Paulo_NPROP ,_PU quarta-feira_N passada_PCP ,_PU o_ART treinador_N substituiu_V Edmundo_NPROP por_PREP Edílson_NPROP ._END
+O_ART lance_N aconteceu_V aos_PREP+ART 28_NUM min_N do_PREP+ART segundo_ADJ tempo_N do_PREP+ART jogo_N contra_PREP o_ART São Paulo_NPROP ,_PU quarta-feira_N passada_PCP ,_PU o_ART treinador_N substituiu_V Edmundo_NPROP por_PREP Edílson_NPROP ._END
 Criticou_V o_ART treinador_N ,_PU que_PRO-KS tentou_V o_ART revide_N ainda_ADV no_PREP+ART campo_N ._END
 A_ART suspensão_N teve_V o_ART apoio_N dos_PREP+ART jogadores_N ._END
 Eles_PROPESS temem_V ,_PU porém_KC ,_PU uma_ART reação_N negativa_ADJ da_PREP+ART torcida_N no_PREP+ART clássico_N ._END
@@ -3392,7 +3392,7 @@ Só_PDEN faltou_V simplicidade_N "_PU ,_PU disse_V ._END
 Segundo_PREP o_ART treinador_N ,_PU os_ART jogadores_N exageraram_V nos_PREP+ART toques_N antes_PREP de_PREP tentar_V o_ART gol_N ._END
 Como_KS o_ART foco_N do_PREP+ART problema_N foi_V identificado_PCP na_PREP+ART "_PU egoista_ADJ atuação_N de_PREP Edmundo_NPROP "_PU ,_PU segundo_PREP o_ART meia_N Mazinho_NPROP ,_PU o_ART Palmeiras_NPROP pretende_V tocar_V mais_ADV a_ART bola_N ._END
 "_PU Esse_PROSUB é_V o_ART problema_N do_PREP+ART time_N "_PU ,_PU observou_V o_ART meia_N Rincón_NPROP ._END
-O_ART zagueiro_N Antônio_NPROP Carlos_NPROP acredita_V também_PDEN que_KS o_ART São_NPROP Paulo_NPROP não_ADV vai_V repetir_V a_ART atuação_N passada_PCP ._END
+O_ART zagueiro_N Antônio_NPROP Carlos_NPROP acredita_V também_PDEN que_KS o_ART São Paulo_NPROP não_ADV vai_V repetir_V a_ART atuação_N passada_PCP ._END
 "_PU O_ART Telê_NPROP Santana_NPROP deu_V uma_ART forte_ADJ bronca_N no_PREP+ART time_N e_KC sabemos_V que_KS isso_PROSUB vai_V refletir_V diretamente_ADV no_PREP+ART campo_N "_PU ,_PU disse_V Antônio_NPROP Carlos_NPROP ._END
 "_PU Ou_PDEN seja_PDEN ,_PU eles_PROPESS vão_V aumentar_V a_ART marcação_N no_PREP+ART meio_N e_KC tentar_V sempre_ADV o_ART contra-ataque_N ,_PU que_PRO-KS é_V sua_PROADJ principal_ADJ arma_N "_PU ,_PU comentou_V ._END
 (_PU UB_NPROP )_PU
@@ -3431,29 +3431,29 @@ Ao_PREP contrário_PREP de_PREP Edmundo_NPROP ,_PU condenado_PCP pelo_PREP+ART t
 O_ART acerto_N com_PREP César_NPROP Sampaio_NPROP ,_PU com_PREP quem_PRO-KS divide_V a_ART marcação_N e_KC alterna_V jogadas_N de_PREP ataque_N ,_PU permitiu_V a_ART Mazinho_NPROP se_PROPESS fixar_V como_PREP meia_N ._END
 "_PU Ele_PROPESS mostrou_V ser_V o_ART jogador_N ideal_ADJ para_PREP distribuir_V as_ART jogadas_N "_PU ,_PU observou_V Luxemburgo_NPROP ._END
 "_PU Quando_KS o_ART time_N precisa_V alternar_V rapidamente_ADV de_PREP um_ART lado_N para_PREP outro_PROSUB ,_PU a_ART bola_N precisa_V passar_V pelos_PREP+ART seus_PROADJ pés_N ._END
-Com_PREP a_ART ausência_N de_PREP volante_N Axel_NPROP (_PU suspenso_PCP )_PU do_PREP+ART São_NPROP Paulo_NPROP hoje_ADV ,_PU Luxemburgo_NPROP incumbiu_V Mazinho_NPROP de_PREP comandar_V o_ART meio-campo_N ._END
+Com_PREP a_ART ausência_N de_PREP volante_N Axel_NPROP (_PU suspenso_PCP )_PU do_PREP+ART São Paulo_NPROP hoje_ADV ,_PU Luxemburgo_NPROP incumbiu_V Mazinho_NPROP de_PREP comandar_V o_ART meio-campo_N ._END
 "_PU Como_PREP o_ART Cafu_NPROP ,_PU que_PRO-KS joga_V rápido_ADJ ,_PU deve_V ser_V uma_ART opção_N do_PREP+ART Telê_NPROP Santana_NPROP ,_PU o_ART Mazinho_NPROP vai_V se_PROPESS responsabilizar_V pela_PREP+ART marcação_N ,_PU o_PROSUB que_PRO-KS facilita_V minhas_PROADJ descidas_N ao_PREP+ART ataque_N "_PU ,_PU disse_V o_ART zagueiro_N Antônio_NPROP Carlos_NPROP ._END
 "_PU No_PREP+ART jogo_N anterior_ADJ ,_PU o_ART trabalho_N foi_V tão_ADV bem_ADV feito_PCP que_KS desci_V três_NUM vezes_N sem_PREP me_PROPESS preocupar_V com_PREP o_ART contra-ataque_N "_PU ,_PU comentou_V ._END
 Parreira_NPROP pode_V convocar_V mais_PROSUB
 Parreira_NPROP deve_V chamar_V jogadores_N dos_PREP+ART dois_NUM times_N para_PREP tapar_V os_ART buracos_N deixados_PCP pela_PREP+ART falta_N dos_PREP+ART "_PU estrangeiros_N "_PU ,_PU especialmente_ADV Romário_NPROP e_KC Bebeto_NPROP ._END
-No_PREP+ART São_NPROP Paulo_NPROP ,_PU o_ART nome_N mais_ADV comentado_PCP é_V o_PROSUB de_PREP Muller_NPROP ._END
+No_PREP+ART São Paulo_NPROP ,_PU o_ART nome_N mais_ADV comentado_PCP é_V o_PROSUB de_PREP Muller_NPROP ._END
 "_PU Seleção_N ?_PU
 eu_PROPESS estou_V fora_ADV ._END
-Tenho_V que_KS jogar_V terça_N e_KC quinta_N pelo_PREP+ART São_NPROP Paulo_NPROP "_PU ,_PU disse_V o_ART jogador_N logo_ADV antes_PREP de_PREP deixar_V o_ART Centro_NPROP de_NPROP Treinamento_NPROP da_NPROP Barra_NPROP Funda_NPROP (_PU zona_N oeste_ADJ paulistana_ADJ )_PU ._END
+Tenho_V que_KS jogar_V terça_N e_KC quinta_N pelo_PREP+ART São Paulo_NPROP "_PU ,_PU disse_V o_ART jogador_N logo_ADV antes_PREP de_PREP deixar_V o_ART Centro_NPROP de_NPROP Treinamento_NPROP da_NPROP Barra_NPROP Funda_NPROP (_PU zona_N oeste_ADJ paulistana_ADJ )_PU ._END
 No_PREP+ART Palmeiras_NPROP ,_PU o_ART atacante_N Evair_NPROP e_KC o_ART meia_N Edílson_NPROP podem_V ser_V chamados_PCP ._END
 Os_ART dois_NUM jogadores_N não_ADV escondem_V a_ART vontade_N de_PREP ir_V ,_PU mas_KC ,_PU diplomaticamente_ADV ,_PU dizem_V que_KS se_KS o_ART Palmeiras_NPROP fizer_V questão_N de_PREP que_KS eles_PROPESS fiquem_V no_PREP+ART clube_N ,_PU não_ADV haverá_V problemas_N ._END
 Ao_PREP contrário_PREP de_PREP Muller_NPROP ,_PU Evair_NPROP e_KC Edílson_NPROP têm_V chances_N muito_ADV pequenas_ADJ de_PREP conseguir_V uma_ART vaga_N entre_PREP os_ART 22_N que_PRO-KS vão_V disputar_V a_ART Copa_NPROP do_NPROP Mundo_NPROP nos_PREP+ART EUA_NPROP ._END
 (_PU Md_NPROP e_KC UB_NPROP )_PU
-Técnicos_N do_PREP+ART São_NPROP Paulo_NPROP e_KC Palmeiras_NPROP não_ADV querem_V ceder_V jogadores_N de_PREP seus_PROADJ times_N para_PREP o_ART amistoso_N com_PREP Islândia_NPROP
+Técnicos_N do_PREP+ART São Paulo_NPROP e_KC Palmeiras_NPROP não_ADV querem_V ceder_V jogadores_N de_PREP seus_PROADJ times_N para_PREP o_ART amistoso_N com_PREP Islândia_NPROP
 Luxemburgo_NPROP ,_PU no_PREP+ART hotel_N onde_ADV-KS o_ART Palmeiras_NPROP está_V concentrado_PCP
 "_PU É_V um_ART absurdo_N "_PU ,_PU atacou_V Telê_NPROP ._END
-A_ART tese_N do_PREP+ART técnico_N do_PREP+ART São_NPROP Paulo_NPROP é_V que_PRO-KS o_ART amistoso_N contra_PREP a_ART Islândia_NPROP ,_PU na_PREP+ART quarta-feira_N ,_PU não_ADV tem_V valor_N nenhum_PROADJ para_PREP a_ART preparação_N da_PREP+ART seleção_N ._END
+A_ART tese_N do_PREP+ART técnico_N do_PREP+ART São Paulo_NPROP é_V que_PRO-KS o_ART amistoso_N contra_PREP a_ART Islândia_NPROP ,_PU na_PREP+ART quarta-feira_N ,_PU não_ADV tem_V valor_N nenhum_PROADJ para_PREP a_ART preparação_N da_PREP+ART seleção_N ._END
 Vários_PROSUB dos_PREP+ART principais_ADJ jogadores_N que_PRO-KS atuam_V no_PREP+ART exterior_N não_ADV vão_V a_PREP Florianópolis_NPROP ,_PU local_N do_PREP+ART jogo_N ._END
 "_PU Se_KS esse_PROADJ amistoso_N não_ADV era_V um_ART caça-níqueis_N ,_PU ele_PROPESS se_PROPESS tornou_V um_PROSUB "_PU ,_PU criticou_V Telê_NPROP ._END
 "_PU O_ART time_N que_PRO-KS vai_V à_PREP+ART Copa_NPROP não_ADV estará_V lá_ADV ._END
 Telê_NPROP protestou_V contra_PREP o_ART tratamento_N privilegiado_PCP aos_PREP+ART clubes_N europeus_ADJ ._END
 Nosso_PROADJ campeonato_N está_V numa_PREP+ART fase_N tão_ADV decisiva_ADJ quanto_KS o_PROSUB deles_PREP+PROPESS ._END
-No_PREP+ART caso_N do_PREP+ART São_NPROP Paulo_NPROP ,_PU o_ART problema_N é_V mais_ADV agudo_ADJ ._END
+No_PREP+ART caso_N do_PREP+ART São Paulo_NPROP ,_PU o_ART problema_N é_V mais_ADV agudo_ADJ ._END
 Joga_V duas_NUM vezes_N no_PREP+ART meio_N de_PREP semana_N ,_PU contra_PREP o_ART Santo_NPROP André_NPROP (_PU terça-feira_N )_PU e_KC Bragantino_NPROP (_PU quinta_N ,_PU em_PREP Bragança_NPROP Paulista_NPROP )_PU ._END
 Quem_PRO-KS for_V à_PREP+ART seleção_N não_ADV atua_V em_PREP nenhuma_PROSUB dessas_PREP+PROADJ partidas_N ._END
 Telê_NPROP afirmou_V que_KS a_ART convocação_N de_PREP Leonardo_NPROP ,_PU Zetti_NPROP e_KC Cafu_NPROP é_V inútil_ADJ ._END
@@ -3512,7 +3512,7 @@ Caso_KS perca_V hoje_ADV ,_PU além_PREP de_PREP dificultar_V sua_PROADJ possív
 Novorizontino_NPROP quer_V empatar_V
 Da_PREP+ART Folha_NPROP Norte_NPROP
 O_ART Novorizontino_NPROP tenta_V manter_V hoje_ADV contra_PREP o_ART Santos_NPROP o_ART apelido_N de_PREP "_PU bicho-papão_N "_PU do_PREP+ART interior_N ._END
-Atuando_V em_PREP seu_PROADJ estádio_N ,_PU derrotou_V o_ART São_NPROP Paulo_NPROP (_PU 3_N a_PREP 0_N )_PU ,_PU a_ART Portuguesa_NPROP (_PU 3_N a_PREP 1_N )_PU ,_PU o_ART Corinthians_NPROP (_PU 1_N a_PREP 0_N )_PU e_KC o_ART próprio_PROADJ Santos_NPROP (_PU 1_N a_PREP 0_N )_PU ._END
+Atuando_V em_PREP seu_PROADJ estádio_N ,_PU derrotou_V o_ART São Paulo_NPROP (_PU 3_N a_PREP 0_N )_PU ,_PU a_ART Portuguesa_NPROP (_PU 3_N a_PREP 1_N )_PU ,_PU o_ART Corinthians_NPROP (_PU 1_N a_PREP 0_N )_PU e_KC o_ART próprio_PROADJ Santos_NPROP (_PU 1_N a_PREP 0_N )_PU ._END
 O_ART técnico_N José_NPROP Teixeira_NPROP ,_PU 58_NUM ,_PU diz_V que_KS o_ART Santos_NPROP vai_V dificultar_V hoje_ADV ._END
 "_PU Eles_PROPESS precisam_V de_PREP recuperação_N e_KC vão_V lutar_V muito_ADV por_PREP isto_PROSUB ._END
 O_ART treinador_N afirma_V que_KS o_ART time_N precisa_V obter_V ,_PU no_PREP+ART mínimo_N ,_PU um_ART empate_N para_PREP continuar_V com_PREP boas_ADJ chances_N de_PREP participar_V da_PREP+ART Copa_NPROP Bandeirantes_NPROP ._END
@@ -3558,16 +3558,16 @@ Somente_PDEN os_ART seis_NUM primeiros_N da_PREP+ART Série_N A-1_N disputam_V a
 A_ART equipe_N de_PREP Americana_NPROP ocupa_V a_PREP 8ª_ADJ colocação_N ,_PU com_PREP 24_NUM pontos_N ._END
 Uma_ART vitória_N do_PREP+ART Rio_NPROP Branco_NPROP hoje_ADV o_PROPESS leva_V a_PREP 26_NUM pontos_N ,_PU empatando_V com_PREP o_ART América_NPROP e_KC embolando_V a_ART disputa_N por_PREP uma_ART vaga_N na_PREP+ART competição_N ._END
 O_ART América_NPROP vem_V de_PREP um_ART resultado_N negativo_ADJ ._END
-A_ART equipe_N foi_V goleada_PCP em_PREP casa_N no_PREP+ART último_ADJ domingo_N pelo_PREP+ART São_NPROP Paulo_NPROP ,_PU por_PREP 4_N a_PREP 0_N ._END
+A_ART equipe_N foi_V goleada_PCP em_PREP casa_N no_PREP+ART último_ADJ domingo_N pelo_PREP+ART São Paulo_NPROP ,_PU por_PREP 4_N a_PREP 0_N ._END
 Ainda_PDEN assim_PDEN ,_PU sua_PROADJ posição_N na_PREP+ART tabela_N lhe_PROPESS garante_V o_ART título_N de_PREP melhor_ADJ equipe_N do_PREP+ART interior_N ,_PU ao_PREP lado_PREP do_PREP+ART Guarani_NPROP ,_PU que_PRO-KS também_PDEN tem_V 26_NUM pontos_N ._END
 Técnico_N -_PU Sérgio_NPROP Ramirez_NPROP
 Local_N Estádio_NPROP Mário_NPROP Alves_NPROP Mendonça_NPROP ,_PU em_PREP Rio_NPROP Preto_NPROP
 Serviço_N telefônico_ADJ dá_V o_ART resultado_N de_PREP jogos_N do_PREP+ART Campeonato_NPROP Paulista_NPROP
 Basta_V discar_V 224-4003_N para_PREP ouvir_V os_ART resultados_N dessas_PREP+PROADJ duas_NUM partidas_N e_KC um_ART comentário_N do_PREP+ART jornalista_N Alberto_NPROP Helena_NPROP Jr._NPROP ,_PU articulista_N da_PREP+ART Folha_NPROP ._END
-Os_ART leitores_N que_PRO-KS moram_V fora_PREP da_PREP+ART área_N da_PREP+ART Grande_ADJ São_NPROP Paulo_NPROP devem_V discar_V o_ART prefixo_N 011_N ,_PU antes_PREP do_PREP+ART número_N 224-4003_N ._END
+Os_ART leitores_N que_PRO-KS moram_V fora_PREP da_PREP+ART área_N da_PREP+ART Grande_ADJ São Paulo_NPROP devem_V discar_V o_ART prefixo_N 011_N ,_PU antes_PREP do_PREP+ART número_N 224-4003_N ._END
 O_ART usuário_N desse_PREP+PROADJ serviço_N pagará_V apenas_PDEN o_ART preço_N da_PREP+ART chamada_N ,_PU seja_V ela_PROPESS local_ADJ ou_KC interurbana_ADJ ._END
 Corinthians_NPROP e_KC Ituano_NPROP se_PROPESS enfrentam_V às_PREP+ART 16h_N ,_PU em_PREP Itu_NPROP ._END
-Portuguesa_NPROP e_KC Bragantino_NPROP jogam_V no_PREP+ART mesmo_PROADJ horário_N ,_PU no_PREP+ART Canindé_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+Portuguesa_NPROP e_KC Bragantino_NPROP jogam_V no_PREP+ART mesmo_PROADJ horário_N ,_PU no_PREP+ART Canindé_NPROP ,_PU em_PREP São Paulo_NPROP ._END
 As_ART partidas_N devem_V terminar_V por_PREP volta_PREP das_PREP+ART 18h_N ._END
 O_ART Folha_NPROP Informações_NPROP foi_V criado_PCP há_V 50_NUM anos_N e_KC ,_PU desde_PREP o_ART ano_N passado_PCP ,_PU passou_V a_PREP ser_V oferecido_PCP em_PREP versão_N eletrônica_ADJ ._END
 Hoje_ADV ele_PROPESS é_V um_ART serviço_N telefônico_ADJ do_PREP+ART Banco_NPROP de_NPROP Dados_NPROP Folha_NPROP de_NPROP S_NPROP Paulo_NPROP ._END ,_PU com_PREP tecnologia_N da_PREP+ART Telesis_NPROP Sistemas_NPROP em_NPROP Telecomunicações_NPROP ._END
@@ -3575,13 +3575,13 @@ A_ART primeira_ADJ versão_N eletrônica_ADJ do_PREP+ART serviço_N surgiu_V em_
 Até_PREP o_ART dia_N 29_N de_PREP abril_N de_PREP 94_N ,_PU o_ART Folha_NPROP Informações_NPROP atendeu_V a_PREP um_ART total_N de_PREP 417.310_NUM telefonemas_N de_PREP todo_PROADJ o_ART Brasil_NPROP ._END
 Ferroviária_NPROP tenta_V contra_PREP o_ART União_NPROP escapar_V da_PREP+ART penúltima_ADJ colocação_N
 Da_PREP+ART Folha_NPROP Nordeste_NPROP
-A_ART Ferroviária_NPROP precisa_V de_PREP uma_ART vitória_N na_PREP+ART partida_N de_PREP hoje_ADV ,_PU às_PREP+ART 16h_N ,_PU contra_PREP o_ART União_NPROP São_NPROP João_NPROP ,_PU em_PREP Araras_NPROP ,_PU para_PREP continuar_V com_PREP chances_N de_PREP escapar_V do_PREP+ART rebaixamento_N para_PREP a_ART Série_N A-2_N do_PREP+ART Campeonato_NPROP Paulista_NPROP ._END
+A_ART Ferroviária_NPROP precisa_V de_PREP uma_ART vitória_N na_PREP+ART partida_N de_PREP hoje_ADV ,_PU às_PREP+ART 16h_N ,_PU contra_PREP o_ART União_NPROP São João_NPROP ,_PU em_PREP Araras_NPROP ,_PU para_PREP continuar_V com_PREP chances_N de_PREP escapar_V do_PREP+ART rebaixamento_N para_PREP a_ART Série_N A-2_N do_PREP+ART Campeonato_NPROP Paulista_NPROP ._END
 O_ART time_N do_PREP+ART técnico_N José_NPROP Galli_NPROP Neto_NPROP está_V embalado_PCP pela_PREP+ART vitória_N diante_PREP do_PREP+ART Santos_NPROP por_PREP 2_N a_PREP 1_N na_PREP+ART quinta-feira_N ,_PU em_PREP Araraquara_NPROP ._END
 A_ART equipe_N não_ADV vai_V contar_V com_PREP o_ART lateral-direito_N Marquinhos_NPROP Capixaba_NPROP ,_PU expulso_V naquele_PREP+PROADJ jogo_N ._END
 O_ART técnico_N quer_V que_KS seu_PROADJ time_N use_V os_ART contra-ataques_N em_PREP velocidade_N para_PREP surpreender_V o_ART adversário_N ._END
 União_NPROP tem_V a_ART volta_N do_PREP+ART meia_N Israel_NPROP ,_PU que_PRO-KS cumpriu_V suspensão_N ._END
 A_ART equipe_N ,_PU comandada_PCP pelo_PREP+ART técnico_N Geninho_NPROP ,_PU venceu_V o_ART Ituano_NPROP por_PREP 1_N a_PREP 0_N ,_PU na_PREP+ART última_ADJ quarta-feira_N ._END
-Com_PREP 23_NUM pontos_N e_KC ocupando_V a_ART 10ª_ADJ posição_N no_PREP+ART Paulista_NPROP ,_PU o_ART União_NPROP São_NPROP João_NPROP também_PDEN precisa_V da_PREP+ART vitória_N para_PREP se_PROPESS manter_V fora_PREP da_PREP+ART zona_N de_PREP rebaixamento_N ._END
+Com_PREP 23_NUM pontos_N e_KC ocupando_V a_ART 10ª_ADJ posição_N no_PREP+ART Paulista_NPROP ,_PU o_ART União_NPROP São João_NPROP também_PDEN precisa_V da_PREP+ART vitória_N para_PREP se_PROPESS manter_V fora_PREP da_PREP+ART zona_N de_PREP rebaixamento_N ._END
 Técnico_N -_PU Geninho_NPROP
 Técnico_N -_PU
 Local_N Estádio_NPROP Hermínio_NPROP Ometto_NPROP ,_PU em_PREP Araras_NPROP

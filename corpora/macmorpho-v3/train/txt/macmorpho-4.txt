@@ -154,8 +154,8 @@ Além_PREP disso_PREP+PROSUB ,_PU a_ART queda_N nos_PREP+ART custos_N de_PREP pr
 Em_ADV suma_ADV ,_PU o_ART Imposto_N Único_ADJ abre_V ampla_ADJ margem_N de_PREP manobra_N e_KC negociação_N dentro_PREP de_PREP um_ART novo_ADJ perfil_N de_PREP distribuição_N de_PREP renda_N gerado_PCP pela_PREP+ART estabilidade_N monetária_ADJ ._END
 Cabe_V apontar_V ainda_PDEN que_KS o_ART Imposto_N Único_ADJ poderia_V ser_V implementado_PCP dentro_PREP do_PREP+ART atual_ADJ quadro_N instuticional_ADJ ._END
 Concomitantemente_ADV ,_PU se_PROPESS ampliaria_V a_ART alíquota_N do_PREP+ART IMPF_NPROP e_KC se_PROPESS concederia_V descontos_N sobre_PREP as_ART guias_N de_PREP recolhimento_N dos_PREP+ART demais_PROADJ impostos_N ,_PU para_PREP evitar_V aumentos_N da_PREP+ART carga_N tributária_ADJ ._END
-Marcos_NPROP CINTRA_NPROP CAVALCANTI_NPROP De_NPROP ALBUQUERQUE_NPROP ,_PU 48_NUM ,_PU é_V doutor_N em_PREP Economia_NPROP pela_PREP+ART Universidade_NPROP de_NPROP Harvard_NPROP (_PU EUA_NPROP )_PU ,_PU é_V vereador_N da_PREP+ART cidade_N de_PREP São_NPROP Paulo_NPROP pelo_PREP+ART PL_NPROP e_KC professor_N titular_ADJ da_PREP+ART FGV_NPROP (_PU SP_NPROP )_PU ._END
-Foi_V secretário_N do_PREP+ART Planejamento_N e_KC de_PREP Privatização_N e_KC Parceria_N do_PREP+ART Município_N de_PREP São_NPROP Paulo_NPROP (_PU administração_N Paulo_NPROP Maluf_NPROP )_PU ._END
+Marcos_NPROP CINTRA_NPROP CAVALCANTI_NPROP De_NPROP ALBUQUERQUE_NPROP ,_PU 48_NUM ,_PU é_V doutor_N em_PREP Economia_NPROP pela_PREP+ART Universidade_NPROP de_NPROP Harvard_NPROP (_PU EUA_NPROP )_PU ,_PU é_V vereador_N da_PREP+ART cidade_N de_PREP São Paulo_NPROP pelo_PREP+ART PL_NPROP e_KC professor_N titular_ADJ da_PREP+ART FGV_NPROP (_PU SP_NPROP )_PU ._END
+Foi_V secretário_N do_PREP+ART Planejamento_N e_KC de_PREP Privatização_N e_KC Parceria_N do_PREP+ART Município_N de_PREP São Paulo_NPROP (_PU administração_N Paulo_NPROP Maluf_NPROP )_PU ._END
 Jogo_N de_PREP espelhos_N da_PREP+ART revisão_N terminou_V
 Objetivo_N das_PREP+ART elites_N conservadoras_ADJ era_V mudar_V pontos_N fundamentais_ADJ da_PREP+ART Constituição_N e_KC adequar_V -los_PROPESS aos_PREP+ART interesses_N de_PREP poucos_PROSUB
 As_ART elites_N conservadoras_ADJ moveram_V mundos_N e_KC fundos_N ._END
@@ -195,7 +195,7 @@ Mas_KC ,_PU se_KS por_PREP um_ART lado_N a_ART inflação_N não_ADV caiu_V ,_PU
 Índices_N elaborados_PCP pela_PREP+ART consultoria_N MB_NPROP Associados_NPROP indicam_V que_KS no_PREP+ART atacado_N os_ART cereais_N subiram_V aproximadamente_ADV 30_NUM %_N nas_PREP+ART três_NUM primeiras_ADJ quadrissemanas_N de_PREP abril_N e_KC 35_NUM %_N na_PREP+ART última_N ._END
 Hortifrutigrangeiros_N subiram_V em_PREP média_N 25_NUM %_N ._END
 A_ART menor_ADJ variação_N dos_PREP+ART preços_N agrícolas_ADJ de_PREP atacado_N deve_V refletir_V -se_PROPESS nos_PREP+ART preços_N ao_PREP+ART consumidor_N ,_PU refreando_V parcialmente_ADV a_ART subida_N dos_PREP+ART índices_N de_PREP maio_N ._END
-DEMIAN_NPROP FIOCCA_NPROP ,_PU 25_NUM ,_PU é_V economista_N e_KC pós-graduando_N do_PREP+ART curso_N de_PREP Economia_NPROP da_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU USP_NPROP )_PU ._END
+DEMIAN_NPROP FIOCCA_NPROP ,_PU 25_NUM ,_PU é_V economista_N e_KC pós-graduando_N do_PREP+ART curso_N de_PREP Economia_NPROP da_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP (_PU USP_NPROP )_PU ._END
 Fundo_N de_PREP commodities_N ,_PU caderneta_N de_PREP poupança_N e_KC CDBs_NPROP garantem_V rendimento_N de_PREP 43,24_NUM %_N no_PREP+ART período_N de_PREP um_NUM mês_N
 Da_PREP+ART Redação_N
 Silvestre_NPROP Vieira_NPROP Caetano_NPROP ,_PU diretor_N do_PREP+ART Banco_NPROP Economico_NPROP S/A_NPROP ,_PU optou_V por_PREP investir_V o_ART dinheiro_N em_PREP três_NUM aplicações_N de_PREP renda_N fixa_PCP ,_PU pela_PREP+ART segurança_N que_PRO-KS oferecem_V neste_PREP+PROADJ momento_N de_PREP transição_N da_PREP+ART economia_N ._END
@@ -352,7 +352,7 @@ Pode_V -se_PROPESS também_PDEN distribuir_V as_ART tarefas_N ,_PU que_PRO-KS v�
 O_ART sistema_N ideal_ADJ é_V que_KS a_PREP cada_PROADJ semana_N ou_KC mês_N uma_ART família_N fique_V responsável_ADJ pelas_PREP+ART compras_N ._END
 Eles_PROPESS não_ADV oferecem_V embaladores_N ,_PU carregadores_N etc._PDEN ,_PU mas_KC ,_PU em_PREP compensação_N ,_PU você_PROPESS tem_V a_ART certeza_N de_PREP que_KS estes_PROADJ serviços_N não_ADV estão_V incluídos_PCP nos_PREP+ART preços_N dos_PREP+ART produtos_N ._END
 Se_KS no_PREP+ART grupo_N houver_V um_ART empresário_N ,_PU é_V possível_ADJ conseguir_V um_ART cartão_N que_PRO-KS autorize_V a_ART compra_N em_PREP estabelecimentos_N que_PRO-KS vendem_V por_PREP atacado_N ,_PU onde_ADV-KS alguns_PROADJ produtos_N são_V bem_ADV mais_ADV baratos_ADJ ._END
-Com_PREP relação_PREP a_PREP frutas_N e_KC verduras_N ,_PU o_ART Ceasa_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU é_V uma_ART boa_ADJ alternativa_N ._END
+Com_PREP relação_PREP a_PREP frutas_N e_KC verduras_N ,_PU o_ART Ceasa_NPROP ,_PU em_PREP São Paulo_NPROP ,_PU é_V uma_ART boa_ADJ alternativa_N ._END
 Além_PREP dos_PREP+ART preços_N serem_V em_ADV geral_ADV menores_ADJ que_KS na_PREP+ART feira_N ou_KC supermercado_N ,_PU quanto_ADV maior_ADJ a_ART quantidade_N comprada_PCP ,_PU menor_ADJ será_V o_ART custo_N unitário_ADJ ._END
 Feitas_PCP as_ART compras_N ,_PU o_ART passo_N seguinte_ADJ é_V fazer_V a_ART distribuição_N dos_PREP+ART produtos_N ,_PU de_PREP acordo_PREP com_PREP os_ART pedidos_N ,_PU além_PREP de_PREP calcular_V as_ART despesas_N de_PREP cada_PROADJ família_N ._END
 Fazer_V um_ART estoque_N de_PREP produtos_N não_ADJ perecíveis_ADJ também_PDEN pode_V gerar_V uma_ART boa_ADJ economia_N ._END
@@ -395,7 +395,7 @@ O_ART presidente_N da_PREP+ART empresa_N ,_PU Antonio_NPROP Carlos_NPROP Queiroz
 Além_PREP disso_PREP+PROSUB ,_PU empresa_N introduziu_V sistemas_N de_PREP controle_N de_PREP custos_N e_KC de_PREP avaliação_N dos_PREP+ART métodos_N utilizados_PCP ._END
 Queiroz_NPROP afirma_V que_KS a_ART busca_N de_PREP resultados_N contaminou_V a_ART equipe_N ._END
 A_ART entrevista_N a_PREP seguir_V é_V a_ART primeira_N de_PREP uma_ART série_N sobre_PREP remuneração_N variável_ADJ ._END
-Foi_V concedida_PCP na_PREP+ART tarde_N de_PREP sexta-feira_N ,_PU no_PREP+ART escritório_N de_PREP Queiroz_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+Foi_V concedida_PCP na_PREP+ART tarde_N de_PREP sexta-feira_N ,_PU no_PREP+ART escritório_N de_PREP Queiroz_NPROP ,_PU em_PREP São Paulo_NPROP ._END
 O_ART presidente_N da_PREP+ART Monsanto_NPROP foi_V assessorado_PCP pelo_PREP+ART diretor_N de_PREP recursos_N humanos_ADJ Felipe_NPROP Vazques_NPROP Westin_NPROP ,_PU 41_NUM ._END
 Premiação_N varia_V conforme_PREP a_ART área_N
 Prêmiação_NPROP varia_V conforme_PREP a_ART área_N
@@ -562,7 +562,7 @@ A_ART Associação_NPROP Nacional_NPROP das_NPROP Instituições_NPROP do_NPROP 
 O_ART Banco_NPROP Ponto_NPROP 3_NPROP inicia_V suas_PROADJ atividades_N hoje_ADV com_PREP o_ART objetivo_N de_PREP especializar_V -se_PROPESS na_PREP+ART gestão_N de_PREP recursos_N de_PREP terceiros_N e_KC disputar_V o_ART mercado_N de_PREP investidores_N estrangeiros_ADJ ._END
 Com_PREP um_ART patrimônio_N líquido_ADJ inicial_ADJ de_PREP US$_CUR 5_NUM milhões_N ,_PU o_ART Banco_NPROP Ponto_NPROP 3_NPROP tem_V um_ART giro_N financeiro_ADJ da_PREP+ART ordem_N de_PREP US$_CUR 35_NUM milhões_N ,_PU diz_V o_ART presidente_N Carlos_NPROP Roberto_NPROP Firme_NPROP ._END
 Serviços_N privatizados_PCP
-O_ART secretário_N de_PREP Planejamento_N do_PREP+ART Estado_N de_PREP São_NPROP Paulo_NPROP ,_PU José_NPROP Fernando_NPROP Boucinhas_NPROP está_V comemorando_V a_ART decisão_N de_PREP três_NUM municípios_N de_PREP privatizar_V os_ART serviços_N de_PREP água_N e_KC esgoto_N ._END
+O_ART secretário_N de_PREP Planejamento_N do_PREP+ART Estado_N de_PREP São Paulo_NPROP ,_PU José_NPROP Fernando_NPROP Boucinhas_NPROP está_V comemorando_V a_ART decisão_N de_PREP três_NUM municípios_N de_PREP privatizar_V os_ART serviços_N de_PREP água_N e_KC esgoto_N ._END
 A_ART iniciativa_N vem_V sendo_V defendida_PCP por_PREP Boucinhas_NPROP há_V muito_PROADJ tempo_N ._END
 Cadernetas_N de_PREP poupança_N e_KC isonomia_N
 A_ART Constituição_N da_PREP+ART República_NPROP Federativa_NPROP do_NPROP Brasil_NPROP ,_PU de_PREP 5_N de_PREP outubro_N de_PREP 1988_N ,_PU no_PREP+ART "_PU caput_N "_PU do_PREP+ART artigo_N 5º_N ,_PU acolheu_V o_ART princípio_N da_PREP+ART isonomia_N ,_PU segundo_PREP o_PRO-KS qual_PRO-KS "_PU todos_PROSUB são_V iguais_ADJ perante_PREP a_ART lei_N ,_PU sem_PREP distinção_N de_PREP qualquer_PROADJ natureza_N ..._END "_PU
@@ -584,7 +584,7 @@ A_ART flexibilidade_N do_PREP+ART limite_N do_PREP+ART poder_N de_PREP tributar_
 Apelação_N desprovida_PCP ._END
 Os_ART depositantes_N em_PREP cadernetas_N de_PREP poupança_N vítimas_N da_PREP+ART brutal_ADJ violência_N que_PRO-KS foi_V o_ART bloqueio_N de_PREP março_N de_PREP 1990_N e_KC que_PRO-KS recolheram_V o_ART IOF_NPROP até_PREP 18.05.90_N ,_PU com_PREP alíquota_N reduzida_PCP da_PREP+ART 8_NUM %_N tem_V a_PREP meu_PROPESS ver_V ,_PU o_ART direito_N de_PREP solicitar_V da_PREP+ART União_NPROP a_ART devolução_N do_PREP+ART valor_N indevidamente_ADV recolhido_PCP ,_PU devidamente_ADV corrigido_PCP ._END
 Trata_V -se_PROPESS de_PREP mais_PROADJ uma_ART ofensa_N ao_PREP+ART princípio_N constitucional_ADJ da_PREP+ART isonomia_N ,_PU consagrado_PCP na_PREP+ART Constituição_N brasileira_ADJ ._END
-RUY_NPROP Martins_NPROP ALTENFELDER_NPROP Silva_NPROP ,_PU 53_NUM ,_PU advogado_N e_KC empresário_N ,_PU é_V diretor-geral_N do_PREP+ART Instituto_NPROP Roberto_NPROP Simonsen_NPROP da_PREP+ART Federação_NPROP e_KC do_PREP+ART Centro_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU Fiesp/Ciesp_NPROP )_PU ._END
+RUY_NPROP Martins_NPROP ALTENFELDER_NPROP Silva_NPROP ,_PU 53_NUM ,_PU advogado_N e_KC empresário_N ,_PU é_V diretor-geral_N do_PREP+ART Instituto_NPROP Roberto_NPROP Simonsen_NPROP da_PREP+ART Federação_NPROP e_KC do_PREP+ART Centro_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP (_PU Fiesp/Ciesp_NPROP )_PU ._END
 Fundos_N de_PREP pensão_N ,_PU uma_ART solução_N para_PREP o_ART Brasil_NPROP
 Repetir_V uma_ART mentira_N até_PREP que_KS se_PROPESS torne_V verdade_N é_V uma_ART prática_N que_PRO-KS tem_V se_PROPESS intensificado_PCP no_PREP+ART Brasil_NPROP ._END
 Mas_KC vamos_V ao_PREP+ART fato_N ._END
@@ -665,7 +665,7 @@ Empréstimos_N
 Para_PREP 30_NUM dias_N (_PU capital_N de_PREP giro_N )_PU :_PU de_PREP 7.800_NUM %_N a_PREP 8.300_NUM %_N brutos_ADJ ao_PREP+ART ano_N ._END
 No_PREP+ART exterior_N
 Bolsas_N
-São_NPROP Paulo_NPROP :_PU alta_N de_PREP 4,5_NUM %_N ,_PU fechando_V com_PREP 10.538_NUM pontos_N e_KC volume_N financeiro_ADJ de_PREP Cr$_CUR 215,426_NUM bilhões_N ,_PU contra_PREP Cr$_CUR 248,269_NUM bilhões_N no_PREP+ART dia_N anterior_ADJ ._END
+São Paulo_NPROP :_PU alta_N de_PREP 4,5_NUM %_N ,_PU fechando_V com_PREP 10.538_NUM pontos_N e_KC volume_N financeiro_ADJ de_PREP Cr$_CUR 215,426_NUM bilhões_N ,_PU contra_PREP Cr$_CUR 248,269_NUM bilhões_N no_PREP+ART dia_N anterior_ADJ ._END
 Bolsas_N no_PREP+ART exterior_N
 Em_PREP Nova_NPROP York_NPROP :_PU o_ART índice_N Dow_NPROP Jones_NPROP fechou_V a_PREP 3.832,02_NUM pontos_N ,_PU com_PREP baixa_N de_PREP 6,76_NUM pontos_N ._END
 Em_PREP Londres_NPROP :_PU o_ART índice_N Financial_NPROP Times_NPROP fechou_V a_PREP 2.563,80_NUM pontos_N ,_PU com_PREP alta_N de_PREP 28,20_NUM pontos_N em_PREP relação_PREP ao_PREP+ART dia_N anterior_ADJ ._END
@@ -684,9 +684,9 @@ No_PREP+ART mercado_N futuro_ADJ do_PREP+ART índice_N Bovespa_NPROP ,_PU a_ART 
 No_PREP+ART mercado_N futuro_ADJ de_PREP dólar_N ,_PU a_ART expectativa_N de_PREP desvalorização_N cambial_ADJ para_PREP março_N ficou_V em_PREP 41,59_NUM %_N ._END
 Demissões_N na_PREP+ART indústria_N chegam_V a_PREP 7.879_N
 Da_PREP+ART Reportagem_NPROP Local_NPROP
-O_ART nível_N de_PREP emprego_N industrial_ADJ no_PREP+ART Estado_N de_PREP São_NPROP Paulo_NPROP registrou_V uma_ART queda_N de_PREP 0,12_NUM %_N na_PREP+ART terceira_ADJ semana_N de_PREP fevereiro_N em_PREP relação_PREP à_PREP+ART semana_N anterior_ADJ ,_PU mantendo_V a_ART tendência_N de_PREP declínio_N iniciada_PCP há_V quatro_NUM meses_N ._END
+O_ART nível_N de_PREP emprego_N industrial_ADJ no_PREP+ART Estado_N de_PREP São Paulo_NPROP registrou_V uma_ART queda_N de_PREP 0,12_NUM %_N na_PREP+ART terceira_ADJ semana_N de_PREP fevereiro_N em_PREP relação_PREP à_PREP+ART semana_N anterior_ADJ ,_PU mantendo_V a_ART tendência_N de_PREP declínio_N iniciada_PCP há_V quatro_NUM meses_N ._END
 A_ART indústria_N paulista_ADJ dispensou_V 2.733_NUM trabalhadores_N na_PREP+ART terceira_ADJ semana_N de_PREP fevereiro_N ,_PU elevando_V para_PREP 7.879_N o_ART total_N de_PREP demissões_N no_PREP+ART mês_N passado_PCP ._END
-A_ART taxa_N acumulada_PCP em_PREP fevereiro_N mostra_V uma_ART redução_N de_PREP 0,34_NUM %_N no_PREP+ART nível_N de_PREP emprego_N ,_PU segundo_PREP levantamento_N da_PREP+ART Fiesp_NPROP (_PU Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU divulgado_PCP ontem_ADV ._END
+A_ART taxa_N acumulada_PCP em_PREP fevereiro_N mostra_V uma_ART redução_N de_PREP 0,34_NUM %_N no_PREP+ART nível_N de_PREP emprego_N ,_PU segundo_PREP levantamento_N da_PREP+ART Fiesp_NPROP (_PU Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP )_PU divulgado_PCP ontem_ADV ._END
 Neste_PREP+PROADJ ano_N ,_PU o_ART indicador_N do_PREP+ART emprego_N na_PREP+ART indústria_N paulista_ADJ apresenta_V uma_ART redução_N de_PREP 0,84_NUM %_N até_PREP agora_ADV ,_PU com_PREP o_ART fechamento_N de_PREP 19.818_NUM postos_N de_PREP trabalho_N ._END
 Nos_PREP+ART últimos_ADJ doze_NUM meses_N ,_PU as_ART demissões_N superaram_V as_ART contratações_N de_PREP pessoal_N em_PREP 1,02_NUM %_N ,_PU significando_V menos_PROADJ 23.946_NUM empregos_N ._END
 Contratações_N
@@ -706,12 +706,12 @@ De_PREP acordo_PREP com_PREP os_ART técnicos_N ,_PU essa_PROADJ elevação_N é
 De_PREP acordo_PREP com_PREP o_ART IBGE_NPROP ,_PU o_ART crescimento_N da_PREP+ART produtividade_N ,_PU considerado_PCP recorde_ADJ ,_PU explica_V os_ART dados_N que_PRO-KS até_PREP novembro_N apontaram_V uma_ART queda_N de_PREP 6,5_NUM %_N no_PREP+ART total_N de_PREP horas_N pagas_PCP e_KC uma_ART redução_N de_PREP 4,8_NUM %_N na_PREP+ART jornada_N média_ADJ de_PREP trabalho_N ,_PU comportamentos_N atípicos_ADJ em_PREP ano_N de_PREP recuperação_N industrial_ADJ ._END
 Funcionários_N reativam_V a_ART Tecelagem_NPROP Parahyba_NPROP
 Da_PREP+ART Folha_NPROP Vale_NPROP
-A_ART fábrica_N de_PREP cobertores_N Tecelagem_NPROP Parahyba_NPROP ,_PU em_PREP São_NPROP José_NPROP dos_NPROP Campos_NPROP ,_PU volta_V a_PREP funcionar_V hoje_ADV ,_PU depois_PREP de_PREP três_NUM meses_N parada_PCP ._END
+A_ART fábrica_N de_PREP cobertores_N Tecelagem_NPROP Parahyba_NPROP ,_PU em_PREP São José dos Campos_NPROP ,_PU volta_V a_PREP funcionar_V hoje_ADV ,_PU depois_PREP de_PREP três_NUM meses_N parada_PCP ._END
 A_ART empresa_N será_V reativada_PCP por_PREP uma_ART associação_N de_PREP funcionários_N ,_PU que_PRO-KS assumiu_V uma_ART dívida_N trabalhista_ADJ de_PREP US$_CUR 6_NUM milhões_N da_PREP+ART tecelagem_N ._END
 A_ART fábrica_N pertence_V à_PREP+ART família_N do_PREP+ART senador_N Severo_NPROP Gomes_NPROP ,_PU morto_PCP em_PREP acidente_N em_PREP 92_N ._END
-O_ART diretor-tesoureiro_N do_PREP+ART Sindicato_NPROP dos_NPROP Têxteis_NPROP de_NPROP São_NPROP José_NPROP dos_NPROP Campos_NPROP ,_PU José_NPROP Espedito_NPROP Guimarães_NPROP ,_PU 47_NUM ,_PU afirmou_V que_KS 120_NUM funcionários_N devem_V trabalhar_V hoje_ADV ._END
+O_ART diretor-tesoureiro_N do_PREP+ART Sindicato_NPROP dos_NPROP Têxteis_NPROP de_NPROP São José dos Campos_NPROP ,_PU José_NPROP Espedito_NPROP Guimarães_NPROP ,_PU 47_NUM ,_PU afirmou_V que_KS 120_NUM funcionários_N devem_V trabalhar_V hoje_ADV ._END
 O_ART advogado_N da_PREP+ART família_N Gomes_NPROP ,_PU proprietária_N da_PREP+ART tecelagem_NPROP Parahyba_NPROP ,_PU Diogo_NPROP Bastos_NPROP Neto_NPROP ,_PU afirmou_V que_KS a_ART reabertura_N da_PREP+ART fábrica_N pelos_PREP+ART funcionários_N foi_V um_ART acordo_N feito_PCP com_PREP a_ART família_N ,_PU que_PRO-KS cedeu_V o_ART maquinário_N e_KC emprestou_V por_PREP tempo_N indeterminado_PCP o_ART prédio_N como_PREP uma_ART forma_N de_PREP quitar_V a_ART dívida_N trabalhista_ADJ ._END
-O_ART vice-presidente_N da_PREP+ART General_NPROP Motors_NPROP ,_PU André_NPROP Beer_NPROP ,_PU disse_V ontem_ADV ,_PU durante_PREP o_ART lançamento_N do_PREP+ART Corsa_NPROP ,_PU que_KS a_ART produção_N do_PREP+ART carro_N fez_V com_PREP que_KS a_ART empresa_N deixasse_V de_PREP demitir_V 2.100_NUM empregados_N da_PREP+ART fábrica_N de_PREP São_NPROP José_NPROP dos_NPROP Campos_NPROP (_PU 97_NUM km_N a_PREP Nordeste_N de_PREP São_NPROP Paulo_NPROP )_PU ._END
+O_ART vice-presidente_N da_PREP+ART General_NPROP Motors_NPROP ,_PU André_NPROP Beer_NPROP ,_PU disse_V ontem_ADV ,_PU durante_PREP o_ART lançamento_N do_PREP+ART Corsa_NPROP ,_PU que_KS a_ART produção_N do_PREP+ART carro_N fez_V com_PREP que_KS a_ART empresa_N deixasse_V de_PREP demitir_V 2.100_NUM empregados_N da_PREP+ART fábrica_N de_PREP São José dos Campos_NPROP (_PU 97_NUM km_N a_PREP Nordeste_N de_PREP São Paulo_NPROP )_PU ._END
 Segundo_PREP ele_PROPESS ,_PU esses_PROADJ funcionários_N eram_V ligados_PCP à_PREP+ART produção_N do_PREP+ART Chevette_NPROP ,_PU que_PRO-KS foi_V desativada_PCP ._END
 Beer_NPROP disse_V que_KS a_ART GM_NPROP está_V recuperando_V sua_PROADJ posição_N no_PREP+ART mercado_N graças_PREP aos_PREP+ART incentivos_N do_PREP+ART governo_N à_PREP+ART fabricação_N do_PREP+ART carro_N popular_ADJ ._END
 Segundo_PREP o_ART vice-presidente_N ,_PU no_PREP+ART ano_N passado_PCP a_ART GM_NPROP ficou_V em_PREP 10.º_ADJ lugar_N em_PREP vendas_N no_PREP+ART mercado_N ._END
@@ -720,7 +720,7 @@ De_PREP acordo_PREP com_PREP Beer_NPROP ,_PU o_ART Corsa_NPROP e_KC o_ART sucess
 Segundo_PREP Hogan_NPROP ,_PU a_ART empresa_N não_ADV definiu_V data_N e_KC total_N de_PREP investimentos_N para_PREP a_ART nova_ADJ unidade_N ._END
 A_ART nova_ADJ fábrica_N deverá_V ser_V implantada_PCP até_PREP 1995_N ,_PU quando_ADV-KS a_ART General_NPROP Motors_NPROP espera_V produzir_V cerca_PREP de_PREP 400_NUM mil_NUM unidades_N por_PREP ano_N ._END
 Isso_PROSUB representa_V 135_NUM %_N acima_PREP da_PREP+ART capacidade_N atual_ADJ da_PREP+ART fábrica_N ._END
-A_ART empresa_N teria_V recebido_PCP propostas_N dos_PREP+ART governos_N de_PREP São_NPROP Paulo_NPROP ,_PU Minas_NPROP Gerais_NPROP ,_PU Rio_NPROP de_NPROP Janeiro_NPROP ,_PU Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP ,_PU Santa_NPROP Catarina_NPROP e_KC Paraná_NPROP ._END
+A_ART empresa_N teria_V recebido_PCP propostas_N dos_PREP+ART governos_N de_PREP São Paulo_NPROP ,_PU Minas_NPROP Gerais_NPROP ,_PU Rio_NPROP de_NPROP Janeiro_NPROP ,_PU Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP ,_PU Santa_NPROP Catarina_NPROP e_KC Paraná_NPROP ._END
 Hogan_NPROP não_ADV confirmou_V essa_PROADJ informação_N ._END
 O_ART lançamento_N oficial_ADJ do_PREP+ART Corsa_NPROP motor_N 1.0_N foi_V feito_PCP no_PREP+ART último_ADJ dia_N 18_N ,_PU na_PREP+ART Espanha_NPROP ._END
 Segundo_PREP as_ART revendedoras_N da_PREP+ART região_N ,_PU foram_V feitos_PCP mais_PREP de_PREP 200_NUM pedidos_N do_PREP+ART modelo_N ._END
@@ -741,8 +741,8 @@ A_ART decisão_N ,_PU que_PRO-KS deveria_V ter_V sido_PCP tomada_PCP no_PREP+ART
 A_ART Odebrecht_NPROP se_PROPESS une_V à_PREP+ART American_NPROP Port_NPROP Co_NPROP ._END
 Em_PREP abril_N ,_PU a_ART CNO_NPROP inicia_V a_ART recuperação_N de_PREP 230_NUM km_N da_PREP+ART ferrovia_N que_PRO-KS levará_V o_ART carvão_N explorado_PCP pela_PREP+ART Drummond_NPROP ao_PREP+ART novo_ADJ porto_N ._END
 SP_NPROP arrecada_V US$_CUR 108_NUM milhões_N com_PREP multas_N
-A_ART Secretaria_NPROP da_NPROP Fazenda_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP aplicou_V em_PREP janeiro_N 3.967_NUM multas_N contra_PREP sonegadores_N de_PREP ICMS_NPROP (_PU Imposto_NPROP sobre_NPROP Circulação_NPROP de_NPROP Mercadorias_NPROP e_NPROP Serviços_NPROP )_PU ._END
-Os_ART valores_N somados_PCP ao_PREP+ART imposto_N devido_PCP mais_KC a_ART correção_N monetária_ADJ ,_PU são_V de_PREP 22,6_NUM milhões_N de_PREP Ufesps_NPROP (_PU Unidades_NPROP Fiscais_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU ,_PU ou_KC US$_CUR 108_NUM milhões_N ._END
+A_ART Secretaria_NPROP da_NPROP Fazenda_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP aplicou_V em_PREP janeiro_N 3.967_NUM multas_N contra_PREP sonegadores_N de_PREP ICMS_NPROP (_PU Imposto_NPROP sobre_NPROP Circulação_NPROP de_NPROP Mercadorias_NPROP e_NPROP Serviços_NPROP )_PU ._END
+Os_ART valores_N somados_PCP ao_PREP+ART imposto_N devido_PCP mais_KC a_ART correção_N monetária_ADJ ,_PU são_V de_PREP 22,6_NUM milhões_N de_PREP Ufesps_NPROP (_PU Unidades_NPROP Fiscais_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP )_PU ,_PU ou_KC US$_CUR 108_NUM milhões_N ._END
 O_ART Sindicato_NPROP dos_NPROP Eletricitários_NPROP de_NPROP Campinas_NPROP começou_V a_PREP distribuir_V 1.500_NUM formulários_N para_PREP telegramas_N contra_PREP a_ART suposta_PCP privatização_N da_PREP+ART CPFL_NPROP (_PU Companhia_NPROP Paulista_NPROP de_NPROP Força_NPROP e_NPROP Luz_NPROP )_PU ._END
 Visa_NPROP lança_V em_PREP 95_N cartão_N de_PREP débito_N automático_ADJ na_PREP+ART conta_N corrente_ADJ do_PREP+ART consumidor_N ._END
 PÁG_N ._END
@@ -751,7 +751,7 @@ O_ART homem_N que_PRO-KS atirou_V na_PREP+ART Casa_NPROP Branca_NPROP será_V su
 10_N
 Da_PREP+ART Redação_N
 O_ART custo_N médio_ADJ da_PREP+ART cesta_N básica_ADJ fechou_V outubro_N em_PREP R$_CUR 107,68_NUM ._END
-outubro_N ,_PU o_ART custo_N da_PREP+ART cesta_N básica_ADJ ,_PU pesquisado_PCP pelo_PREP+ART Procon/Dieese_NPROP em_PREP 70_NUM supermercados_N da_PREP+ART cidade_N de_PREP São_NPROP Paulo_NPROP ,_PU acumulou_V alta_N de_PREP 8,56_NUM %_N ,_PU a_ART maior_N desde_PREP a_ART entrada_N do_PREP+ART real_N em_PREP 1º_N de_PREP julho_N ._END
+outubro_N ,_PU o_ART custo_N da_PREP+ART cesta_N básica_ADJ ,_PU pesquisado_PCP pelo_PREP+ART Procon/Dieese_NPROP em_PREP 70_NUM supermercados_N da_PREP+ART cidade_N de_PREP São Paulo_NPROP ,_PU acumulou_V alta_N de_PREP 8,56_NUM %_N ,_PU a_ART maior_N desde_PREP a_ART entrada_N do_PREP+ART real_N em_PREP 1º_N de_PREP julho_N ._END
 Os_ART aumentos_N não_ADV devem_V parar_V por_PREP aí_ADV ._END
 Segundo_PREP Maria_NPROP Lumena_NPROP Sampaio_NPROP ,_PU técnica_N de_PREP defesa_N do_PREP+ART consumidor_N do_PREP+ART Procon_NPROP ,_PU a_ART tendência_N para_PREP a_ART primeira_ADJ quinzena_N de_PREP novembro_N é_V de_PREP alta_N ._END
 O_ART custo_N da_PREP+ART cesta_N básica_ADJ registrou_V quedas_N nos_PREP+ART dois_NUM primeiros_ADJ meses_N de_PREP implantação_N do_PREP+ART real_N :_PU -_PU 4,20_NUM %_N em_PREP julho_N e_KC -_PU 8,18_NUM %_N em_PREP agosto_N ._END
@@ -801,7 +801,7 @@ Hora_N de_PREP produzir_V
 A_ART alta_N da_PREP+ART demanda_N foi_V puxada_PCP pelo_PREP+ART setor_N de_PREP produção_N ._END
 A_ART procura_N na_PREP+ART área_N financeira_ADJ caiu_V ._END
 Evitando_V filas_N
-Com_PREP o_ART real_N ,_PU aumentou_V 25_NUM %_N a_ART procura_N em_PREP São_NPROP Paulo_NPROP de_PREP vistos_N para_PREP os_ART EUA_NPROP (_PU média_N de_PREP 700_N por_PREP dia_N )_PU ._END
+Com_PREP o_ART real_N ,_PU aumentou_V 25_NUM %_N a_ART procura_N em_PREP São Paulo_NPROP de_PREP vistos_N para_PREP os_ART EUA_NPROP (_PU média_N de_PREP 700_N por_PREP dia_N )_PU ._END
 O_ART consulado_N já_ADV aceita_V pedidos_N para_PREP viagem_N de_PREP fim_N de_PREP ano_N ._END
 A_ART segunda_ADJ maior_ADJ privatização_N do_PREP+ART mundo_N da_PREP+ART telefônica_N alemã_ADJ -_PU deve_V render_V US$_CUR 60_NUM bilhões_N ._END
 Em_PREP análise_N
@@ -813,7 +813,7 @@ A_ART Engevix_NPROP anunciou_V associação_N com_PREP a_ART Simons_NPROP ,_PU c
 Média_N baixa_ADJ
 Pela_PREP+ART fronteira_N
 Os_ART brasileiros_N responderam_V até_PREP setembro_N por_PREP 77_NUM %_N das_PREP+ART vendas_N do_PREP+ART Paraguai_NPROP aos_PREP+ART países_N do_PREP+ART Mercosul_NPROP ._END
-Quem_PRO-KS foi_V ao_PREP+ART 18º_ADJ Salão_NPROP Internacional_NPROP do_NPROP Automóvel_NPROP e_NPROP de_NPROP Autopeças_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU se_PROPESS encantará_V com_PREP os_ART últimos_ADJ modelos_N de_PREP automóveis_N da_PREP+ART Ferrari_NPROP ,_PU Mercedes_NPROP Benz_NPROP ,_PU Chrysler_NPROP ,_PU lamborghini_NPROP ,_PU entre_PREP outros_PROSUB ._END
+Quem_PRO-KS foi_V ao_PREP+ART 18º_ADJ Salão_NPROP Internacional_NPROP do_NPROP Automóvel_NPROP e_NPROP de_NPROP Autopeças_NPROP ,_PU em_PREP São Paulo_NPROP ,_PU se_PROPESS encantará_V com_PREP os_ART últimos_ADJ modelos_N de_PREP automóveis_N da_PREP+ART Ferrari_NPROP ,_PU Mercedes_NPROP Benz_NPROP ,_PU Chrysler_NPROP ,_PU lamborghini_NPROP ,_PU entre_PREP outros_PROSUB ._END
 Os_ART importados_N são_V de_ADV fato_ADV as_ART grandes_ADJ vedetes_N ._END
 Os_ART distribuidores_N de_PREP veículos_N importados_PCP aproveitam_V a_ART oportunidade_N para_PREP alardear_V a_ART viabilidade_N de_PREP trazer_V 400_NUM mil_NUM veículos_N importados_PCP em_PREP 1995_N (_PU mais_PREP de_PREP 25_NUM %_N da_PREP+ART atual_ADJ produção_N nacional_ADJ !_PU )_PU
 Diante_PREP do_PREP+ART enorme_ADJ impacto_N propagandístico_ADJ causado_PCP pela_PREP+ART exposição_N destes_PREP+PROADJ veículos_N de_PREP última_ADJ geração_N ,_PU alguns_PROSUB poderiam_V ,_PU de_PREP modo_N precipitado_PCP ,_PU defender_V a_ART política_N darwiniana_ADJ para_PREP o_ART mercado_N automobilístico_ADJ brasileiro_ADJ :_PU eliminar_V a_ART alíquota_N de_PREP importação_N e_KC que_KS vençam_V os_ART melhores_N !_PU
@@ -838,7 +838,7 @@ E_KC também_PDEN por_PREP isso_PROSUB a_ART mesma_PROADJ Argentina_NPROP resolv
 Também_PDEN temos_V propostas_N que_PRO-KS ,_PU através_PREP da_PREP+ART negociação_N franca_ADJ entre_PREP capital_N ,_PU trabalho_N e_KC Estado_N ,_PU nas_PREP+ART câmaras_N setoriais_ADJ ,_PU reduziriam_V e_KC efetivariam_V um_ART maior_ADJ controle_N dos_PREP+ART preços_N dos_PREP+ART carros_N produzidos_PCP internamente_ADV ._END
 Estas_PROSUB são_V medidas_N que_PRO-KS certamente_ADV permitiriam_V a_ART modernização_N do_PREP+ART parque_N automotivo_ADJ brasileiro_ADJ ,_PU a_ART efetiva_ADJ concorrência_N de_PREP preços_N e_KC a_ART preservação_N dos_PREP+ART postos_N de_PREP trabalho_N no_PREP+ART Brasil_NPROP ._END
 Vagas_N para_PREP executivos_N aumentam_V 39,7_NUM %_N ._END
-A_ART oferta_N de_PREP empregos_N para_PREP executivos_N em_PREP outubro_N ,_PU nos_PREP+ART jornais_N de_PREP São_NPROP Paulo_NPROP ,_PU aumentou_V 39,7_NUM %_N em_PREP relação_PREP a_PREP igual_ADJ período_N de_PREP 93_N ._END
+A_ART oferta_N de_PREP empregos_N para_PREP executivos_N em_PREP outubro_N ,_PU nos_PREP+ART jornais_N de_PREP São Paulo_NPROP ,_PU aumentou_V 39,7_NUM %_N em_PREP relação_PREP a_PREP igual_ADJ período_N de_PREP 93_N ._END
 Foram_V oferecidas_PCP 204_NUM vagas_N para_PREP cargos_N nos_PREP+ART níveis_N de_PREP gerência_N e_KC direção_N ._END
 Em_PREP comparação_PREP com_PREP setembro_N ,_PU quando_ADV-KS foram_V ofertadas_PCP 153_NUM vagas_N ,_PU o_ART crescimento_N é_V de_PREP 33_NUM %_N ._END
 A_ART pesquisa_N é_V feita_PCP pela_PREP+ART consultoria_N Laerte_NPROP Cordeiro_NPROP &_NPROP Associados_NPROP ._END
@@ -850,7 +850,7 @@ Sobre_PREP a_ART pesquisa_N do_PREP+ART período_N anterior_ADJ ,_PU houve_V alt
 Pelo_PREP+ART levantamento_N ,_PU a_ART região_N Sudeste_ADJ concentrou_V 80_NUM %_N do_PREP+ART total_N de_PREP empresas_N golpistas_ADJ no_PREP+ART quadrimestre_N ._END
 A_ART região_N Sul_ADJ veio_V em_ADV seguida_ADV ,_PU com_PREP 8,57_NUM %_N dos_PREP+ART casos_N ._END
 Títulos_N protestados_PCP na_PREP+ART capital_N sobem_V 7_NUM %_N ._END
-O_ART número_N de_PREP títulos_N protestados_PCP na_PREP+ART cidade_N de_PREP São_NPROP Paulo_NPROP em_PREP outubro_N (_PU 33,1_N mil_N )_PU subiu_V 7_NUM %_N em_PREP relação_PREP aos_PREP+ART 30,9_N mil_N do_PREP+ART mês_N anterior_ADJ ._END
+O_ART número_N de_PREP títulos_N protestados_PCP na_PREP+ART cidade_N de_PREP São Paulo_NPROP em_PREP outubro_N (_PU 33,1_N mil_N )_PU subiu_V 7_NUM %_N em_PREP relação_PREP aos_PREP+ART 30,9_N mil_N do_PREP+ART mês_N anterior_ADJ ._END
 Em_PREP relação_PREP a_PREP setembro_N do_PREP+ART ano_N passado_PCP ,_PU houve_V queda_N de_PREP 1_NUM %_N ._END
 No_PREP+ART acumulado_N dos_PREP+ART dez_NUM meses_N deste_PREP+PROADJ ano_N ,_PU subiu_V 22_NUM %_N sobre_PREP igual_ADJ período_N do_PREP+ART ano_N passado_PCP ._END
 Os_ART dados_N são_V do_PREP+ART levantamento_N feito_PCP pela_PREP+ART Serasa_NPROP (_PU Centralização_NPROP dos_NPROP Serviços_NPROP dos_NPROP Bancos_NPROP )_PU ._END
@@ -927,7 +927,7 @@ O_PROSUB que_PRO-KS à_PREP+ART distância_N parecia_V determinação_N ,_PU de_
 Desde_PREP o_ART Cruzado_N ,_PU qualquer_PROADJ autoridade_N que_PRO-KS queira_V justificar_V sua_PROADJ incompetência_N desce_V o_ART pau_N nos_PREP+ART bancos_N ,_PU nos_PREP+ART empresários_N paulistas_ADJ e_KC ameaça_V aprender_V o_ART Abílio_NPROP Diniz_NPROP ._END
 É_V de_PREP uma_ART monotonia_N a_PREP toda_PROADJ prova_N ._END
 Hoje_ADV em_PREP dia_N a_ART Fiesp_NPROP é_V um_ART tigre_N sem_PREP dentes_N ,_PU um_ART saco_N de_PREP pancada_N que_PRO-KS serve_V apenas_PDEN de_PREP escada_N para_PREP políticos_N espertos_ADJ ._END
-,_PU um_PROSUB dos_PREP+ART problemas_N brasileiros_ADJ ,_PU que_PRO-KS emperrou_V profundamente_ADV a_ART abertura_N da_PREP+ART economia_N e_KC as_ART reformas_N ,_PU foi_V a_ART concentração_N da_PREP+ART representação_N empresarial_ADJ em_PREP São_NPROP Paulo_NPROP ._END
+,_PU um_PROSUB dos_PREP+ART problemas_N brasileiros_ADJ ,_PU que_PRO-KS emperrou_V profundamente_ADV a_ART abertura_N da_PREP+ART economia_N e_KC as_ART reformas_N ,_PU foi_V a_ART concentração_N da_PREP+ART representação_N empresarial_ADJ em_PREP São Paulo_NPROP ._END
 Assim_KC como_KC o_ART superdimensionamento_N da_PREP+ART representação_N política_ADJ nordestina_ADJ ._END
 Antes_PREP de_PREP Ciro_NPROP ,_PU houve_V um_ART fanfarrão_N que_PRO-KS criticou_V este_PROADJ quadro_N ,_PU mas_KC o_PROPESS alterou_V definitivamente_ADV ,_PU com_PREP a_ART desregulamentação_N e_KC a_ART abertura_N da_PREP+ART economia_N ._END
 E_KC Ciro_NPROP ,_PU o_PRO-KS que_PRO-KS propõe_V ?_PU
@@ -941,24 +941,24 @@ Sem_PREP conserto_N
 Primeiro_ADV ,_PU o_ART Senado_N indica_V um_ART lobista_N militante_ADJ para_PREP o_ART Supremo_NPROP Tribunal_NPROP Federal_NPROP (_PU STF_NPROP )_PU ._END
 Indústria_N paulista_ADJ perde_V US$_CUR 8,5_NUM bilhões_N por_PREP ano_N
 Perda_N se_PROPESS deve_V à_PREP+ART queda_N da_PREP+ART participação_N na_PREP+ART produção_N do_PREP+ART país_N ,_PU diz_V Fiesp_NPROP
-A_ART indústria_N paulista_ADJ está_V perdendo_V US$_CUR 8,5_NUM bilhões_N ,_PU por_PREP ano_N ,_PU desde_PREP 1970_N devido_PREP à_PREP+ART queda_N da_PREP+ART participação_N de_PREP São_NPROP Paulo_NPROP na_PREP+ART produção_N industrial_ADJ do_PREP+ART país_N ._END
-Esta_PROSUB é_V a_ART principal_ADJ conclusão_N do_PREP+ART estudo_N "_PU Evolução_NPROP da_NPROP Indústria_NPROP Paulista_NPROP "_PU ,_PU divulgado_PCP ontem_ADV pela_PREP+ART Fiesp_NPROP (_PU Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU ._END
-"_PU Se_KS a_ART participação_N paulista_ADJ no_PREP+ART produto_N industrial_ADJ tivesse_V ficado_PCP constante_ADJ nesse_PREP+PROADJ período_N ,_PU em_PREP 54,48_NUM %_N ,_PU nível_N de_PREP 1980_N ,_PU a_ART indústria_N de_PREP São_NPROP Paulo_NPROP estaria_V produzindo_V ,_PU por_PREP ano_N ,_PU US$_CUR 8,5_NUM bilhões_N a_PROADJ mais_PROADJ do_KS que_KS produz_V hoje_ADV "_PU ,_PU diz_V o_ART estudo_N ._END
+A_ART indústria_N paulista_ADJ está_V perdendo_V US$_CUR 8,5_NUM bilhões_N ,_PU por_PREP ano_N ,_PU desde_PREP 1970_N devido_PREP à_PREP+ART queda_N da_PREP+ART participação_N de_PREP São Paulo_NPROP na_PREP+ART produção_N industrial_ADJ do_PREP+ART país_N ._END
+Esta_PROSUB é_V a_ART principal_ADJ conclusão_N do_PREP+ART estudo_N "_PU Evolução_NPROP da_NPROP Indústria_NPROP Paulista_NPROP "_PU ,_PU divulgado_PCP ontem_ADV pela_PREP+ART Fiesp_NPROP (_PU Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP )_PU ._END
+"_PU Se_KS a_ART participação_N paulista_ADJ no_PREP+ART produto_N industrial_ADJ tivesse_V ficado_PCP constante_ADJ nesse_PREP+PROADJ período_N ,_PU em_PREP 54,48_NUM %_N ,_PU nível_N de_PREP 1980_N ,_PU a_ART indústria_N de_PREP São Paulo_NPROP estaria_V produzindo_V ,_PU por_PREP ano_N ,_PU US$_CUR 8,5_NUM bilhões_N a_PROADJ mais_PROADJ do_KS que_KS produz_V hoje_ADV "_PU ,_PU diz_V o_ART estudo_N ._END
 Apresentando_V o_ART estudo_N na_PREP+ART reunião_N da_PREP+ART diretoria_N executiva_ADJ da_PREP+ART Fiesp_NPROP ,_PU Mario_NPROP Bernardini_NPROP ,_PU diretor_N titular_ADJ de_PREP Economia_N ,_PU disse_V que_KS isso_PROSUB representaria_V cerca_PREP de_PREP 600_NUM mil_NUM postos_N diretos_ADJ e_KC indiretos_ADJ de_PREP trabalho_N a_PROADJ mais_PROADJ ,_PU em_PREP relação_PREP aos_PREP+PROSUB existentes_ADJ atualmente_ADV ._END
 "_PU A_ART importância_N desse_PREP+PROADJ número_N evidenciada_PCP pelo_PREP+ART fato_N de_PREP que_KS a_ART indústria_N paulista_ADJ emprega_V hoje_ADV aproximadamente_ADV 2_NUM milhões_N de_PREP pessoas_N "_PU ,_PU diz_V ._END
 A_ART participação_N da_PREP+ART indústra_N paulista_ADJ no_PREP+ART produto_N industrial_ADJ do_PREP+ART país_N caiu_V de_PREP 56,4_NUM %_N ,_PU em_PREP 1970_N ,_PU para_PREP 54,48_NUM %_N ,_PU em_PREP 1980_N ,_PU 49,08_NUM %_N ,_PU em_PREP 1990_N ,_PU subindo_V para_PREP 49,69_NUM %_N em_PREP 1993_N ._END
-A_ART Fiesp_NPROP diz_V que_KS o_ART ligeiro_ADJ crescimento_N observado_PCP recentemente_ADV na_PREP+ART participação_N de_PREP São_NPROP Paulo_NPROP no_PREP+ART total_N da_PREP+ART indústria_N brasileira_ADJ não_ADV pode_V ser_V visto_PCP como_KS uma_ART clara_ADJ reversão_N do_PREP+ART quadro_N que_PRO-KS acontece_V desde_PREP 1970_N ._END
-O_ART estudo_N nota_V que_KS o_ART deslocamento_N de_PREP indústrias_N de_PREP São_NPROP Paulo_NPROP em_PREP direção_PREP a_PREP outras_PROADJ regiões_N continuou_V presente_ADJ no_PREP+ART início_N desta_PREP+PROADJ década_N ,_PU principalmente_ADV na_PREP+ART direção_N dos_PREP+ART Estados_N de_PREP Santa_NPROP Catarina_NPROP ,_PU Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP e_KC Minas_NPROP Gerais_NPROP ._END
-A_ART Fiesp_NPROP responsabiliza_V a_ART "_PU concorrência_N desleal_ADJ "_PU de_PREP incentivos_N fiscais_ADJ oferecidos_PCP por_PREP outros_PROADJ Estados_N ,_PU como_PREP a_ART redução_N das_PREP+ART alíquotas_N do_PREP+ART ICMS_NPROP e_KC IPI_NPROP ,_PU pela_PREP+ART queda_N da_PREP+ART participação_N industrial_ADJ de_PREP São_NPROP Paulo_NPROP ._END
+A_ART Fiesp_NPROP diz_V que_KS o_ART ligeiro_ADJ crescimento_N observado_PCP recentemente_ADV na_PREP+ART participação_N de_PREP São Paulo_NPROP no_PREP+ART total_N da_PREP+ART indústria_N brasileira_ADJ não_ADV pode_V ser_V visto_PCP como_KS uma_ART clara_ADJ reversão_N do_PREP+ART quadro_N que_PRO-KS acontece_V desde_PREP 1970_N ._END
+O_ART estudo_N nota_V que_KS o_ART deslocamento_N de_PREP indústrias_N de_PREP São Paulo_NPROP em_PREP direção_PREP a_PREP outras_PROADJ regiões_N continuou_V presente_ADJ no_PREP+ART início_N desta_PREP+PROADJ década_N ,_PU principalmente_ADV na_PREP+ART direção_N dos_PREP+ART Estados_N de_PREP Santa_NPROP Catarina_NPROP ,_PU Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP e_KC Minas_NPROP Gerais_NPROP ._END
+A_ART Fiesp_NPROP responsabiliza_V a_ART "_PU concorrência_N desleal_ADJ "_PU de_PREP incentivos_N fiscais_ADJ oferecidos_PCP por_PREP outros_PROADJ Estados_N ,_PU como_PREP a_ART redução_N das_PREP+ART alíquotas_N do_PREP+ART ICMS_NPROP e_KC IPI_NPROP ,_PU pela_PREP+ART queda_N da_PREP+ART participação_N industrial_ADJ de_PREP São Paulo_NPROP ._END
 O_ART trabalho_N da_PREP+ART Fiesp_NPROP apresenta_V sugestões_N para_PREP a_ART reversão_N do_PREP+ART encolhimento_N da_PREP+ART indústria_N paulista_ADJ :_PU
-a_N )_PU A_ART definição_N pelo_PREP+ART Estado_N de_PREP São_NPROP Paulo_NPROP de_PREP uma_ART estratégia_N para_PREP localização_N de_PREP indústrias_N que_PRO-KS neutralizasse_V os_ART incentivos_N oferecidos_PCP por_PREP outros_PROADJ Estados_N ;_PU
+a_N )_PU A_ART definição_N pelo_PREP+ART Estado_N de_PREP São Paulo_NPROP de_PREP uma_ART estratégia_N para_PREP localização_N de_PREP indústrias_N que_PRO-KS neutralizasse_V os_ART incentivos_N oferecidos_PCP por_PREP outros_PROADJ Estados_N ;_PU
 b_N )_PU Introdução_N de_PREP novo_ADJ sistema_N tributário_ADJ baseado_PCP no_PREP+ART IVV_NPROP (_PU Imposto_NPROP sobre_NPROP Vendas_NPROP a_NPROP Varejo_NPROP )_PU em_PREP substituição_N aos_PREP+ART impostos_N sobre_PREP o_ART valor_N adicionado_PCP (_PU ICMS_NPROP e_KC IPI_NPROP )_PU ;_PU
-c_N )_PU Na_PREP+ART ausência_N do_PREP+ART IVV_NPROP ,_PU o_ART governo_N do_PREP+ART Estado_N de_PREP São_NPROP Paulo_NPROP poderia_V oferecer_V as_ART mesmas_PROADJ vantagens_N tributárias_ADJ presentes_ADJ em_PREP outros_PROADJ Estados_N porque_KS ,_PU dada_PCP a_ART grande_ADJ importância_N de_PREP São_NPROP Paulo_NPROP para_PREP atrair_V investimentos_N ,_PU rapidamente_ADV os_ART outros_PROADJ Estados_N estariam_V dispostos_PCP a_PREP negociar_V uma_ART política_N de_PREP incentivos_N ,_PU sem_PREP distorcer_V a_ART alocação_N de_PREP recursos_N e_KC sem_PREP comprometer_V as_ART finanças_N estaduais_ADJ ._END
-Cai_V ritmo_N de_PREP admissões_N em_PREP São_NPROP Paulo_NPROP
-O_ART ritmo_N de_PREP admissões_N da_PREP+ART indústria_N paulista_ADJ sofreu_V uma_ART diminuição_N na_PREP+ART terceira_ADJ semana_N de_PREP outubro_N ,_PU informou_V ontem_ADV a_ART Fiesp_NPROP (_PU Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU ._END
+c_N )_PU Na_PREP+ART ausência_N do_PREP+ART IVV_NPROP ,_PU o_ART governo_N do_PREP+ART Estado_N de_PREP São Paulo_NPROP poderia_V oferecer_V as_ART mesmas_PROADJ vantagens_N tributárias_ADJ presentes_ADJ em_PREP outros_PROADJ Estados_N porque_KS ,_PU dada_PCP a_ART grande_ADJ importância_N de_PREP São Paulo_NPROP para_PREP atrair_V investimentos_N ,_PU rapidamente_ADV os_ART outros_PROADJ Estados_N estariam_V dispostos_PCP a_PREP negociar_V uma_ART política_N de_PREP incentivos_N ,_PU sem_PREP distorcer_V a_ART alocação_N de_PREP recursos_N e_KC sem_PREP comprometer_V as_ART finanças_N estaduais_ADJ ._END
+Cai_V ritmo_N de_PREP admissões_N em_PREP São Paulo_NPROP
+O_ART ritmo_N de_PREP admissões_N da_PREP+ART indústria_N paulista_ADJ sofreu_V uma_ART diminuição_N na_PREP+ART terceira_ADJ semana_N de_PREP outubro_N ,_PU informou_V ontem_ADV a_ART Fiesp_NPROP (_PU Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP )_PU ._END
 O_ART nível_N de_PREP emprego_N industrial_ADJ aumentou_V apenas_PDEN 0,05_NUM %_N em_PREP relação_PREP à_PREP+ART semana_N anterior_ADJ depois_PREP de_PREP registrar_V aumentos_N de_PREP 0,24_NUM %_N e_KC 0,28_NUM %_N nas_PREP+ART duas_NUM primeiras_ADJ semanas_N de_PREP outubro_N ,_PU respectivamente_ADV ._END
 A_ART taxa_N acumulada_PCP em_PREP outubro_N ficou_V em_PREP 0,58_NUM 13_NUM ._END 355_NUM empregos_N a_PROADJ mais_PROADJ na_PREP+ART indústria_N paulista_ADJ ._END
-Nos_PREP+ART últimos_ADJ doze_NUM meses_N ,_PU a_ART queda_N do_PREP+ART nível_N de_PREP emprego_N é_V de_PREP 2,42_NUM %_N ,_PU significando_V o_ART fechamento_N de_PREP 57.239_NUM postos_N de_PREP trabalho_N pela_PREP+ART indústria_N de_PREP transformação_N do_PREP+ART Estado_N de_PREP São_NPROP Paulo_NPROP ._END
+Nos_PREP+ART últimos_ADJ doze_NUM meses_N ,_PU a_ART queda_N do_PREP+ART nível_N de_PREP emprego_N é_V de_PREP 2,42_NUM %_N ,_PU significando_V o_ART fechamento_N de_PREP 57.239_NUM postos_N de_PREP trabalho_N pela_PREP+ART indústria_N de_PREP transformação_N do_PREP+ART Estado_N de_PREP São Paulo_NPROP ._END
 A_ART pesquisa_N da_PREP+ART Fiesp_NPROP ,_PU realizada_PCP junto_PREP a_PREP 46_NUM sindicatos_N patronais_ADJ ,_PU mostra_V que_KS na_PREP+ART terceira_ADJ semana_N de_PREP outubro_N nove_NUM setores_N tiveram_V desempenho_N positivo_ADJ (_PU mais_PROADJ admissões_N do_KS que_KS demissões_N )_PU ,_PU seis_N tiveram_V desempenho_N negativo_ADJ e_KC 31_N permaneceram_V estáveis_ADJ ._END
 Entre_PREP os_ART setores_N de_PREP desempenho_N positivo_ADJ estão_V congelados_N e_KC supercongelados_N (_PU 1,56_NUM %_N )_PU e_KC produtos_N químicos_ADJ (_PU 1,06_NUM %_N )_PU ._END
 Entre_PREP os_PROSUB que_PRO-KS apresentaram_V queda_N estão_V calçados_N de_PREP Franca_NPROP (_PU -_PU 1,57_NUM %_N )_PU e_KC matérias-primas_N para_PREP fertilizantes_N (_PU -_PU 0,72_NUM %_N )_PU ._END
@@ -1003,7 +1003,7 @@ Visa_NPROP anuncia_V "_PU cheque_N eletrônico_ADJ "_PU para_PREP 95_N
 Líder_N mundial_ADJ do_PREP+ART setor_N de_PREP cartão_N de_PREP crédito_N fatura_V quase_ADV US$_CUR 1_NUM bi_N no_PREP+ART Brasil_NPROP durante_PREP o_ART primeiro_ADJ trimestre_N do_PREP+ART Real_N
 A_ART Visa_NPROP vai_V lançar_V no_PREP+ART Brasil_NPROP ,_PU em_PREP 1995_N ,_PU um_ART cartão_N de_PREP débito_N automático_ADJ ._END
 É_V o_ART Electron_NPROP ,_PU que_PRO-KS possibilitará_V ao_PREP+ART usuário_N pagar_V suas_PROADJ compras_N e_KC serviços_N com_PREP fundos_N da_PREP+ART conta_N corrente_ADJ ,_PU sem_PREP necessidade_N de_PREP recorrer_V ao_PREP+ART crédito_N do_PREP+ART cartão_N convencional_ADJ ._END
-A_ART novidade_N foi_V anunciada_PCP ontem_ADV ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU pelo_PREP+ART norte-americano_N Edmund_NPROP Jensen_NPROP ,_PU 56_NUM ,_PU presidente_N mundial_ADJ da_PREP+ART Visa_NPROP International_NPROP ._END
+A_ART novidade_N foi_V anunciada_PCP ontem_ADV ,_PU em_PREP São Paulo_NPROP ,_PU pelo_PREP+ART norte-americano_N Edmund_NPROP Jensen_NPROP ,_PU 56_NUM ,_PU presidente_N mundial_ADJ da_PREP+ART Visa_NPROP International_NPROP ._END
 "_PU Estamos_V testando_V esse_PROADJ cartão_N magnético_ADJ no_PREP+ART México_NPROP "_PU ,_PU disse_V ._END
 Em_PREP viagens_N ao_PREP+ART exterior_N ,_PU o_ART usuário_N poderá_V levar_V os_ART dois_NUM cartões_N e_KC decidir_V se_KS utiliza_V crédito_N ou_KC acessa_V seus_PROADJ próprios_PROADJ fundos_N ,_PU sugere_V Luis_NPROP Acosta_NPROP Acosta_NPROP ,_PU gerente-geral_N da_PREP+ART Visa_NPROP no_PREP+ART Brasil_NPROP ._END
 "_PU Funciona_V como_PREP um_ART cheque_N eletrônico_ADJ "_PU ,_PU acrescenta_V ._END
@@ -1019,7 +1019,7 @@ Para_PREP se_PROPESS ter_V uma_ART idéia_N do_PREP+PROSUB que_PRO-KS a_ART cifr
 Com_PREP o_ART arrocho_N ao_PREP+ART crédito_N ,_PU que_PRO-KS também_PDEN atinge_V os_ART cartões_N ,_PU reviu_V a_ART estimativa_N para_PREP US$_CUR 1_NUM bilhão_N ._END
 "_PU São_V medidas_N transitórias_ADJ "_PU ,_PU supõe_V James_NPROP Partridge_NPROP ,_PU presidente_N da_PREP+ART Visa_NPROP para_PREP a_ART América_NPROP Latina_NPROP ,_PU ao_PREP prever_V crescimento_N de_PREP 100_NUM %_N ao_PREP+ART fim_N do_PREP+ART primeiro_ADJ ano_N do_PREP+ART plano_N de_PREP estabilização_N ,_PU a_PREP exemplo_PREP do_PREP+PROSUB que_PRO-KS ocorreu_V na_PREP+ART Argentina_NPROP ._END
 Importados_N faturam_V US$_CUR 106_NUM mi_NUM
-As_ART vendas_N de_PREP automóveis_N importados_PCP durante_PREP o_ART 18º_ADJ ,_PU que_PRO-KS terminou_V domingo_N em_PREP São_NPROP Paulo_NPROP ,_PU superaram_V os_ART US$_CUR 106_NUM milhões_N ._END
+As_ART vendas_N de_PREP automóveis_N importados_PCP durante_PREP o_ART 18º_ADJ ,_PU que_PRO-KS terminou_V domingo_N em_PREP São Paulo_NPROP ,_PU superaram_V os_ART US$_CUR 106_NUM milhões_N ._END
 Esse_PROSUB é_V o_ART resultado_N do_PREP+ART balanço_N parcial_ADJ divulgado_PCP ontem_ADV pela_PREP+ART Alcântara_NPROP Machado_NPROP ,_PU empresa_N organizadora_ADJ do_PREP+ART evento_N ._END
 Os_ART números_N referem_V -se_PROPESS a_PREP apenas_PDEN 18_N das_PREP+ART 28_NUM importadoras_N presentes_ADJ ao_PREP+ART Salão_N ._END
 A_ART Abeiva_NPROP (_PU Associação_NPROP Brasileira_NPROP das_NPROP Empresas_NPROP Importadoras_NPROP de_NPROP Veículos_NPROP Automotores_NPROP )_PU vai_V divulgar_V um_ART balanço_N oficial_ADJ somente_PDEN no_PREP+ART próximo_ADJ dia_N 9_N ._END
@@ -1033,9 +1033,9 @@ A_ART Renault_NPROP ,_PU a_ART segunda_ADJ maior_ADJ importadora_N do_PREP+ART p
 Desse_PREP+PROADJ total_N ,_PU 217_NUM Laguna_NPROP ,_PU o_ART novo_ADJ lançamento_N da_PREP+ART marca_N no_PREP+ART Brasil_NPROP ._END
 "_PU O_ART deste_PREP+PROADJ ano_N ganhou_V uma_ART característica_N de_PREP feira_N de_PREP negócios_N e_KC não_ADV apenas_PDEN de_PREP uma_ART mostra_N de_PREP produtos_N "_PU ,_PU explica_V o_ART diretor_N do_PREP+ART evento_N ,_PU Evaristo_NPROP Nascimento_NPROP ._END
 O_ART número_N de_PREP visitantes_N chegou_V a_PREP 580_N mil_N ._END
-Para_PREP Nascimento_NPROP ,_PU a_ART grande_ADJ surpresa_N foi_V o_ART elevado_PCP número_N de_PREP pessoas_N que_PRO-KS vieram_V do_PREP+ART interior_N de_PREP São_NPROP Paulo_NPROP e_KC de_PREP outros_PROADJ Estados_N ._END
+Para_PREP Nascimento_NPROP ,_PU a_ART grande_ADJ surpresa_N foi_V o_ART elevado_PCP número_N de_PREP pessoas_N que_PRO-KS vieram_V do_PREP+ART interior_N de_PREP São Paulo_NPROP e_KC de_PREP outros_PROADJ Estados_N ._END
 As_ART vendas_N à_PREP+ART vista_N já_ADV registram_V recuperação_N de_PREP 0,8_NUM %_N -_PU ,_PU no_PREP+ART período_N ._END
-Os_ART números_N são_V da_PREP+ART Associação_NPROP Comercial_NPROP de_NPROP São_NPROP Paulo_NPROP ._END
+Os_ART números_N são_V da_PREP+ART Associação_NPROP Comercial_NPROP de_NPROP São Paulo_NPROP ._END
 Para_PREP obter_V -los_PROPESS ,_PU a_ART entidade_N toma_V como_PREP base_N o_ART número_N de_PREP consultas_N ao_PREP+ART SPC_NPROP (_PU Serviço_NPROP de_NPROP Proteção_NPROP ao_NPROP Crédito_NPROP )_PU e_KC ao_PREP+ART Telecheque_NPROP ._END
 Marcel_NPROP Solimeo_NPROP ,_PU economista_N da_PREP+ART associação_N ,_PU diz_V que_KS a_ART retração_N no_PREP+ART crediário_N era_V esperada_PCP ._END
 Na_PREP+ART sua_PROADJ análise_N ,_PU porém_KC ,_PU a_ART venda_N à_PREP+ART prazo_N deve_V retomar_V porque_KS algumas_PROADJ redes_N de_PREP lojas_N voltaram_V a_PREP parcelar_V -_PU com_PREP recursos_N próprios_PROADJ -_PU em_PREP prazos_N a_PREP três_NUM vezes_N ._END
@@ -1082,7 +1082,7 @@ Para_PREP 30_NUM dias_N (_PU capital_N de_PREP giro_N )_PU :_PU as_ART taxas_N b
 No_PREP+ART exterior_N
 Prime_N rate_N :_PU 7,75_NUM %_N ._END
 Bolsas_N
-São_NPROP Paulo_NPROP :_PU o_ART índice_N fechou_V a_PREP 47.979_NUM pontos_N ,_PU com_PREP baixa_N de_PREP 2,63_NUM %_N e_KC volume_N financeiro_ADJ de_PREP R$_CUR 221_NUM milhões_N ._END
+São Paulo_NPROP :_PU o_ART índice_N fechou_V a_PREP 47.979_NUM pontos_N ,_PU com_PREP baixa_N de_PREP 2,63_NUM %_N e_KC volume_N financeiro_ADJ de_PREP R$_CUR 221_NUM milhões_N ._END
 Rio_NPROP :_PU queda_N de_PREP 1,3_NUM %_N (_PU )_PU ,_PU fechando_V com_PREP 21.787_NUM pontos_N e_KC volume_N financeiro_ADJ de_PREP R$_CUR 29,919_NUM milhões_N ._END
 Bolsas_N no_PREP+ART exterior_N
 O_ART índice_N Financial_NPROP Times_NPROP da_PREP+ART Bolsa_N de_PREP Londres_NPROP fechou_V com_PREP 2.351,70_NUM pontos_N ,_PU contra_PREP 2.345,10_N no_PREP+ART dia_N anterior_ADJ ._END
@@ -1112,7 +1112,7 @@ Meio_N a_N meio_N
 Ou_PDEN seja_PDEN ,_PU uma_PROSUB em_PREP cada_PROADJ duas_NUM grandes_ADJ empresas_N no_PREP+ART Brasil_NPROP tem_V dívidas_N a_PREP acertar_V com_PREP o_ART fisco_N ._END
 Está_V abrindo_V filial_N no_PREP+ART Maranhão_NPROP ._END
 Oito_NUM meses_N
-Dados_N preliminares_ADJ ainda_ADV não_ADV auditados_PCP da_PREP+ART São_NPROP Paulo_NPROP Alpargatas_NPROP S/A_NPROP registram_V vendas_N líquidas_ADJ de_PREP R$_CUR 286,3_NUM milhões_N ,_PU de_PREP janeiro_N a_PREP agosto_N ._END
+Dados_N preliminares_ADJ ainda_ADV não_ADV auditados_PCP da_PREP+ART São Paulo_NPROP Alpargatas_NPROP S/A_NPROP registram_V vendas_N líquidas_ADJ de_PREP R$_CUR 286,3_NUM milhões_N ,_PU de_PREP janeiro_N a_PREP agosto_N ._END
 E_KC lucro_N líquido_ADJ de_PREP R$_CUR 18,2_NUM milhões_N no_PREP+ART período_N ._END
 Em_PREP Goiás_NPROP
 A_ART Vicunha_NPROP S/A_NPROP está_V contratando_V empréstimo_N junto_PREP ao_PREP+ART Banco_NPROP de_NPROP Desenvolvimento_NPROP do_NPROP Estado_NPROP de_NPROP Goiás_NPROP ,_PU com_PREP recursos_N do_PREP+ART Fundo_NPROP de_NPROP Participação_NPROP e_NPROP Fomento_NPROP à_NPROP Industrialização_NPROP daquele_PREP+PROADJ Estado_N ._END
@@ -1124,7 +1124,7 @@ O_ART Banco_NPROP Itaú_NPROP vai_V adquirir_V até_PDEN 286_NUM milhões_N de_P
 Em_PREP incorporação_N
 A_ART Rockwell_NPROP do_NPROP Brasil_NPROP está_V incorporando_V a_ART Rockwell_NPROP Comercial_NPROP Ltda_NPROP ._END
 Peça_N principal_ADJ
-A_ART Anfavea_NPROP promove_V ,_PU dia_N 11_N ,_PU no_PREP+ART São_NPROP Paulo_NPROP Hilton_NPROP ,_PU o_ART quarto_ADJ seminário_N sobre_PREP qualidade_N e_KC produtividade_N nas_PREP+ART empresas_N do_PREP+ART setor_N automobilístico_ADJ ._END
+A_ART Anfavea_NPROP promove_V ,_PU dia_N 11_N ,_PU no_PREP+ART São Paulo_NPROP Hilton_NPROP ,_PU o_ART quarto_ADJ seminário_N sobre_PREP qualidade_N e_KC produtividade_N nas_PREP+ART empresas_N do_PREP+ART setor_N automobilístico_ADJ ._END
 O_ART tema_N central_ADJ é_V o_ART aspecto_N humano_ADJ no_PREP+ART contexto_N dos_PREP+ART programas_N de_PREP qualidade_N e_KC produtividade_N ._END
 Em_PREP casa_N
 A_ART Brahma_NPROP realizou_V aumento_N de_PREP capital_N para_PREP R$_CUR 50,7_NUM milhões_N ,_PU mediante_PREP emissão_N de_PREP 187_NUM mil_NUM ações_N ,_PU num_PREP+ART plano_N de_PREP opção_N de_PREP compra_N de_PREP ações_N para_PREP executivos_N e_KC funcionários_N ._END
@@ -1243,19 +1243,19 @@ Em_PREP sua_PROADJ atração_N por_PREP microfones_N e_KC câmeras_N ,_PU o_ART 
 Há_V em_PREP ambos_PROSUB uma_ART compulsão_N de_PREP aparecer_V mais_ADV do_KS que_KS os_ART próprios_PROADJ jogadores_N ._END
 Em_PREP outros_PROADJ tempos_N ,_PU uma_PROSUB das_PREP+ART virtudes_N da_PREP+ART magistratura_N ,_PU tanto_KC na_PREP+ART Justiça_N quanto_KC no_PREP+ART futebol_N ,_PU era_V a_ART discrição_N ._END
 Brasmotor_NPROP tentará_V vender_V pela_PREP+ART 2ª_ADJ vez_N sua_PROADJ participação_N na_PREP+ART Alpargatas_NPROP
-O_ART grupo_N Brasmotor_NPROP ,_PU dono_N da_PREP+ART Brastemp_NPROP e_KC da_PREP+ART Consul_NPROP ,_PU volta_V às_PREP+ART Bolsas_N de_PREP Valores_N pela_PREP+ART segunda_ADJ vez_N em_PREP menos_PREP de_PREP dois_NUM meses_N para_PREP tentar_V vender_V sua_PROADJ participação_N acionária_ADJ na_PREP+ART São_NPROP Paulo_NPROP Alpargatas_NPROP ._END
+O_ART grupo_N Brasmotor_NPROP ,_PU dono_N da_PREP+ART Brastemp_NPROP e_KC da_PREP+ART Consul_NPROP ,_PU volta_V às_PREP+ART Bolsas_N de_PREP Valores_N pela_PREP+ART segunda_ADJ vez_N em_PREP menos_PREP de_PREP dois_NUM meses_N para_PREP tentar_V vender_V sua_PROADJ participação_N acionária_ADJ na_PREP+ART São Paulo_NPROP Alpargatas_NPROP ._END
 Até_PREP meados_N dessa_PREP+PROADJ semana_N ,_PU o_ART grupo_N Brasmotor_NPROP fará_V nova_ADJ oferta_N pública_ADJ de_PREP venda_N de_PREP suas_PROADJ ações_N ._END
 Com_PREP a_ART operação_N ,_PU o_ART grupo_N Brasmotor_NPROP espera_V obter_V recursos_N da_PREP+ART ordem_N de_PREP US$_CUR 50_NUM milhões_N ._END
 Os_ART recursos_N serão_V investidos_PCP na_PREP+ART atividade_N principal_ADJ do_PREP+ART grupo_N :_PU a_ART fabricação_N de_PREP eletrodomésticos_N da_PREP+ART linha_N branca_ADJ ._END
 Nesse_PREP+PROADJ tipo_N de_PREP modalidade_N ,_PU as_ART ações_N da_PREP+ART empresa_N são_V vendidas_PCP aos_PREP+ART próprios_PROADJ intermediários_N do_PREP+ART negócio_N esse_PROADJ caso_N ,_PU os_ART bancos_N -_PU se_KS o_ART mercado_N se_PROPESS recusar_V a_PREP incorporar_V -las_PROPESS ._END
 A_ART Folha_NPROP apurou_V que_KS o_ART pool_N de_PREP bancos_N ,_PU liderado_PCP pelo_PREP+ART Bradesco_NPROP ,_PU já_ADV iniciou_V negociações_N com_PREP os_ART fundos_N de_PREP pensão_N do_PREP+ART Banco_NPROP do_NPROP Brasil_NPROP (_PU Previ_NPROP )_PU e_KC Petrobrás_NPROP (_PU Petrus_NPROP )_PU para_PREP a_ART venda_N das_PREP+ART ações_N em_PREP posse_N da_PREP+ART Brasmotor_NPROP ._END
-O_ART chamariz_N da_PREP+ART negociação_N está_V sendo_V o_ART resultado_N positivo_ADJ de_PREP US$_CUR 18_NUM milhões_N conseguido_PCP pela_PREP+ART São_NPROP Paulo_NPROP Alpargatas_NPROP em_PREP seu_PROADJ último_ADJ balanço_N bimestral_ADJ ,_PU publicado_PCP na_PREP+ART última_ADJ sexta-feira_N ._END
-Caso_KS as_ART negociações_N não_ADV dêem_V resultado_N ,_PU os_ART bancos_N ficam_V com_PREP os_ART 23_NUM %_N do_PREP+ART capital_N da_PREP+ART São_NPROP Paulo_NPROP Alpargatas_NPROP que_PRO-KS pertence_V ao_PREP+ART grupo_N Brasmotor_NPROP ._END
-Com_PREP isso_PROSUB ,_PU passariam_V à_PREP+ART condição_N de_PREP sócios_N da_PREP+ART Alpargatas_NPROP Santista_NPROP Têxtil_NPROP S/A_NPROP ,_PU um_PROSUB dos_PREP+ART maiores_ADJ produtores_N de_PREP índigo_N e_KC brim_N do_PREP+ART país_N da_PREP+PRO-KS qual_PRO-KS a_ART São_NPROP Paulo_NPROP Alpargatas_NPROP é_V dona_N de_PREP 25_NUM %_N do_PREP+ART capital_N total_ADJ ._END
-Além_PREP da_PREP+ART São_NPROP Paulo_NPROP Alpargatas_NPROP ,_PU são_V donos_N da_PREP+ART empresa_N S/A_NPROP Moinho_NPROP Santista_NPROP ,_PU com_PREP 43_NUM %_N das_PREP+ART ações_N ,_PU e_KC o_ART próprio_PROADJ Bradesco_NPROP ,_PU com_PREP 5_NUM %_N ._END
+O_ART chamariz_N da_PREP+ART negociação_N está_V sendo_V o_ART resultado_N positivo_ADJ de_PREP US$_CUR 18_NUM milhões_N conseguido_PCP pela_PREP+ART São Paulo_NPROP Alpargatas_NPROP em_PREP seu_PROADJ último_ADJ balanço_N bimestral_ADJ ,_PU publicado_PCP na_PREP+ART última_ADJ sexta-feira_N ._END
+Caso_KS as_ART negociações_N não_ADV dêem_V resultado_N ,_PU os_ART bancos_N ficam_V com_PREP os_ART 23_NUM %_N do_PREP+ART capital_N da_PREP+ART São Paulo_NPROP Alpargatas_NPROP que_PRO-KS pertence_V ao_PREP+ART grupo_N Brasmotor_NPROP ._END
+Com_PREP isso_PROSUB ,_PU passariam_V à_PREP+ART condição_N de_PREP sócios_N da_PREP+ART Alpargatas_NPROP Santista_NPROP Têxtil_NPROP S/A_NPROP ,_PU um_PROSUB dos_PREP+ART maiores_ADJ produtores_N de_PREP índigo_N e_KC brim_N do_PREP+ART país_N da_PREP+PRO-KS qual_PRO-KS a_ART São Paulo_NPROP Alpargatas_NPROP é_V dona_N de_PREP 25_NUM %_N do_PREP+ART capital_N total_ADJ ._END
+Além_PREP da_PREP+ART São Paulo_NPROP Alpargatas_NPROP ,_PU são_V donos_N da_PREP+ART empresa_N S/A_NPROP Moinho_NPROP Santista_NPROP ,_PU com_PREP 43_NUM %_N das_PREP+ART ações_N ,_PU e_KC o_ART próprio_PROADJ Bradesco_NPROP ,_PU com_PREP 5_NUM %_N ._END
 O_ART restante_N ficou_V pulverizado_PCP entre_PREP outros_PROADJ investidores_N ._END
-São_V sócios_N na_PREP+ART São_NPROP Paulo_NPROP Alpargatas_NPROP ,_PU junto_PREP com_PREP o_ART grupo_N Brasmotor_NPROP ,_PU a_ART construtura_N Camargo_NPROP Corrêa_NPROP -_PU com_PREP 31_NUM %_N do_PREP+ART capital_N votante_ADJ ,_PU seguida_PCP pelo_PREP+ART Bradesco_NPROP (_PU cerca_PREP de_PREP 20_NUM %_N do_PREP+ART capital_N votante_ADJ )_PU e_KC Banco_NPROP Itaú_NPROP ,_PU com_PREP outros_PROADJ 5_NUM %_N ._END
-A_ART Folha_NPROP tentou_V falar_V ontem_ADV com_PREP representantes_N da_PREP+ART São_NPROP Paulo_NPROP Alpargatas_NPROP ,_PU Brasmotor_NPROP e_KC Bradesco_NPROP ,_PU mas_KC não_ADV obteve_V retorno_N ._END
+São_V sócios_N na_PREP+ART São Paulo_NPROP Alpargatas_NPROP ,_PU junto_PREP com_PREP o_ART grupo_N Brasmotor_NPROP ,_PU a_ART construtura_N Camargo_NPROP Corrêa_NPROP -_PU com_PREP 31_NUM %_N do_PREP+ART capital_N votante_ADJ ,_PU seguida_PCP pelo_PREP+ART Bradesco_NPROP (_PU cerca_PREP de_PREP 20_NUM %_N do_PREP+ART capital_N votante_ADJ )_PU e_KC Banco_NPROP Itaú_NPROP ,_PU com_PREP outros_PROADJ 5_NUM %_N ._END
+A_ART Folha_NPROP tentou_V falar_V ontem_ADV com_PREP representantes_N da_PREP+ART São Paulo_NPROP Alpargatas_NPROP ,_PU Brasmotor_NPROP e_KC Bradesco_NPROP ,_PU mas_KC não_ADV obteve_V retorno_N ._END
 A_ART dinâmica_N do_PREP+ART mandato_N presidencial_ADJ
 Especial_ADV para_PREP a_ART Folha_NPROP
 Terminada_PCP a_ART cacofonia_N da_PREP+ART campanha_N e_KC praticamente_ADV selada_PCP a_ART vitória_N de_PREP FHC_NPROP ,_PU as_ART atenções_N se_PROPESS voltam_V para_PREP o_PROSUB que_PRO-KS pode_V acontecer_V no_PREP+ART próximo_ADJ governo_N ._END
@@ -1401,7 +1401,7 @@ Uma_ART forte_ADJ vontade_N política_ADJ ou_KC uma_ART vinculação_N aos_PREP+
 Mas_KC não_ADV é_V esse_PROSUB o_ART caso_N ._END
 A_ART idéia_N de_PREP que_KS a_ART estabilização_N já_ADV foi_V um_ART grande_ADJ avanço_N social_ADJ -_PU pois_KC diminuiu_V o_ART regressivo_ADJ imposto_N inflacionário_ADJ -_PU ajuda_V a_PREP eximir_V responsabilidades_N ._END
 Entre_PREP os_ART prováveis_ADJ quadros_N da_PREP+ART futura_ADJ administração_N ,_PU questões_N como_PREP desemprego_N ,_PU inclusão_N social_ADJ e_KC fortalecimento_N do_PREP+ART mercado_N interno_ADJ têm_V prioridade_N muito_ADV menor_ADJ do_KS que_KS as_ART reformas_N de_PREP cunho_N liberal_ADJ ._END
-DEMIAN_NPROP FIOCCA_NPROP ,_PU 26_NUM ,_PU é_V economista_N e_KC pós-graduando_N do_PREP+ART curso_N de_PREP Economia_NPROP da_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU USP_NPROP )_PU ._END
+DEMIAN_NPROP FIOCCA_NPROP ,_PU 26_NUM ,_PU é_V economista_N e_KC pós-graduando_N do_PREP+ART curso_N de_PREP Economia_NPROP da_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP (_PU USP_NPROP )_PU ._END
 Mantida_PCP a_ART faixa_N de_PREP R$_CUR 0,85_NUM
 O_ART dólar_N comercial_ADJ caiu_V 3,72_NUM %_N em_PREP setembro_N e_KC 14,60_NUM %_N desde_PREP o_ART real_N ._END
 O_ART "_PU black_N "_PU ,_PU 3,30_NUM %_N no_PREP+ART mês_N passado_PCP e_KC 11,35_NUM %_N desde_PREP o_ART final_N de_PREP junho_N ._END
@@ -1457,7 +1457,7 @@ Expectativa_N marcou_V setembro_N
 As_ART Bolsas_N de_PREP Valores_N não_ADV conseguiram_V liderar_V o_ART ranking_N das_PREP+ART aplicações_N financeiras_ADJ em_PREP setembro_N ._END
 O_ART Índice_N Bovespa_NPROP registrou_V alta_N de_PREP apenas_PDEN 2,90_NUM %_N no_PREP+ART mês_N ,_PU perdendo_V para_PREP a_ART renda_N fixa_PCP ._END
 O_ART Índice_N Senn_NPROP ,_PU do_PREP+ART Rio_NPROP ,_PU evoluiu_V 11,21_NUM %_N ,_PU mas_KC não_ADV é_V um_ART bom_ADJ parâmetro_N ._END
-Os_ART índices_N são_V muito_ADV concentrados_PCP em_PREP poucas_PROADJ ações_N de_PREP estatais_N ,_PU principalmente_ADV em_PREP São_NPROP Paulo_NPROP ._END
+Os_ART índices_N são_V muito_ADV concentrados_PCP em_PREP poucas_PROADJ ações_N de_PREP estatais_N ,_PU principalmente_ADV em_PREP São Paulo_NPROP ._END
 Telebrás_NPROP vale_V quase_ADV metade_N do_PREP+ART Ibovespa_NPROP ._END
 Mas_KC os_ART fundos_N de_PREP ações_N têm_V carteiras_N diversificadas_PCP e_KC mostram_V que_KS o_ART Ibovespa_NPROP reflete_V melhor_ADV o_ART comportamento_N do_PREP+ART mercado_N ._END
 Na_PREP+ART média_N ,_PU subiram_V 2,42_NUM %_N até_PREP 29_N de_PREP setembro_N ._END
@@ -1475,8 +1475,8 @@ Diz_V este_PROADJ autêntico_ADJ revolucionário_N ,_PU em_PREP outro_PROADJ art
 É_V apenas_PDEN insolentemente_ADV nova_ADJ ,_PU cujo_PRO-KS tempo_N já_ADV chegou_V "_PU ._END
 O_ART Imposto_N Único_ADJ não_ADV altera_V a_ART forma_N federativa_ADJ do_PREP+ART Estado_N e_KC encontra_V enorme_ADJ legitimidade_N social_ADJ ,_PU como_KS evidenciado_PCP por_PREP pesquisa_N do_PREP+ART Conselho_NPROP Federal_NPROP de_NPROP Administração_NPROP ,_PU divulgada_PCP no_PREP+ART mês_N passado_PCP ,_PU que_PRO-KS apurou_V 85_NUM %_N de_PREP apoio_N dos_PREP+ART administradores_N de_PREP empresas_N ao_PREP+ART projeto_N ._END
 Com_PREP a_ART extinção_N do_PREP+ART IPMF_NPROP ,_PU no_PREP+ART final_N do_PREP+ART ano_N ,_PU se_PROPESS espera_V que_KS a_ART proposta_N do_PREP+ART Imposto_N Único_ADJ seja_V resgatada_PCP ._END
-Marcos_NPROP CINTRA_NPROP CAVALCANTI_NPROP DE_NPROP ALBUQUERQUE_NPROP ,_PU 48_NUM ,_PU doutor_N em_PREP Economia_NPROP pela_PREP+ART Universidade_NPROP de_NPROP Harvard_NPROP (_PU EUA_NPROP )_PU ,_PU é_V vereador_N da_PREP+ART cidade_N de_PREP São_NPROP Paulo_NPROP pelo_PREP+ART PL_NPROP e_KC professor_N titular_ADJ da_PREP+ART Fundação_NPROP Getúlio_NPROP Vargas_NPROP (_PU SP_NPROP )_PU ._END
-Foi_V secretário_N do_PREP+ART Planejamento_N e_KC de_PREP Privatização_N e_KC Parceria_N do_PREP+ART Município_N de_PREP São_NPROP Paulo_NPROP (_PU administração_N Paulo_NPROP Maluf_NPROP )_PU ._END
+Marcos_NPROP CINTRA_NPROP CAVALCANTI_NPROP DE_NPROP ALBUQUERQUE_NPROP ,_PU 48_NUM ,_PU doutor_N em_PREP Economia_NPROP pela_PREP+ART Universidade_NPROP de_NPROP Harvard_NPROP (_PU EUA_NPROP )_PU ,_PU é_V vereador_N da_PREP+ART cidade_N de_PREP São Paulo_NPROP pelo_PREP+ART PL_NPROP e_KC professor_N titular_ADJ da_PREP+ART Fundação_NPROP Getúlio_NPROP Vargas_NPROP (_PU SP_NPROP )_PU ._END
+Foi_V secretário_N do_PREP+ART Planejamento_N e_KC de_PREP Privatização_N e_KC Parceria_N do_PREP+ART Município_N de_PREP São Paulo_NPROP (_PU administração_N Paulo_NPROP Maluf_NPROP )_PU ._END
 Renda_N fixa_PCP rendeu_V mais_ADV
 Embora_KS parcial_ADJ ,_PU este_PROADJ balanço_N indica_V que_KS devem_V ter_V fechado_PCP o_ART mês_N com_PREP rentabilidade_N bem_ADV menor_ADJ que_KS o_ART segmento_N de_PREP renda_N fixa_PCP ,_PU que_PRO-KS ficou_V na_PREP+ART faixa_N de_PREP 3_NUM %_N líquidos_ADJ ._END
 Foi_V um_ART comportamento_N atípico_ADJ ,_PU explicado_PCP pela_PREP+ART influência_N que_PRO-KS a_ART expectativa_N das_PREP+ART eleições_N exerce_V sobre_PREP investidores_N nacionais_ADJ e_KC estrangeiros_ADJ ._END
@@ -1484,13 +1484,13 @@ Deve_V -se_PROPESS lembrar_V também_PDEN que_KS os_ART 2,42_NUM %_N foram_V a_A
 Houve_V fundos_N com_PREP perdas_N nominais_ADJ e_KC outros_PROSUB com_PREP ganhos_N expressivos_ADJ ,_PU caso_N do_PREP+ART Tendência_NPROP (_PU 12,12_NUM %_N )_PU ,_PU Lloyds_NPROP Export_NPROP (_PU 10,90_NUM %_N 8,79_NUM %_N )_PU ,_PU Bancocidade_NPROP (_PU 8,28_NUM %_N )_PU ,_PU Abc_NPROP Roma_NPROP (_PU 7,78_NUM %_N )_PU e_KC Fator_NPROP (_PU 7,67_NUM %_N )_PU ._END
 Por_PREP terem_V carteiras_N de_PREP papéis_N diversificadas_PCP e_KC estratégias_N próprias_PROADJ de_PREP atuação_N no_PREP+ART mercado_N ,_PU os_ART fundos_N de_PREP ações_N se_PROPESS diferenciam_V muito_ADV em_PREP rentabilidade_N e_KC riscos_N ._END
 Centro_N tem_V maior_ADJ preço_N
-O_ART preço_N médio_ADJ do_PREP+ART metro_N quadrado_ADJ de_PREP área_N útil_ADJ dos_PREP+ART apartamentos_N novos_ADJ lançados_PCP em_PREP São_NPROP Paulo_NPROP continua_V relativamente_ADV estável_ADJ ,_PU segundo_PREP pesquisa_N semanal_ADJ do_PREP+ART Datafolha_NPROP ._END
+O_ART preço_N médio_ADJ do_PREP+ART metro_N quadrado_ADJ de_PREP área_N útil_ADJ dos_PREP+ART apartamentos_N novos_ADJ lançados_PCP em_PREP São Paulo_NPROP continua_V relativamente_ADV estável_ADJ ,_PU segundo_PREP pesquisa_N semanal_ADJ do_PREP+ART Datafolha_NPROP ._END
 Nos_PREP+ART Jardins_NPROP ,_PU o_ART bairro_N mais_ADV caro_ADJ ,_PU o_ART metro_N está_V em_PREP R$_CUR 1.949_NUM ,_PU na_PREP+ART média_N ._END
 Na_PREP+ART Saúde_NPROP ficou_V em_PREP R$_CUR 1.805_NUM ._END
 Por_PREP região_N ,_PU o_ART maior_ADJ preço_N médio_ADJ é_V o_PROSUB do_PREP+ART centro_N ,_PU com_PREP R$_CUR 1.627_NUM ._END
 Na_PREP+ART região_N norte_ADJ ,_PU R$_CUR 1.048_NUM ,_PU na_PREP+ART sul_N ,_PU R$_CUR 1.258_NUM ,_PU na_PREP+ART leste_N ,_PU R$_CUR 1.025_NUM e_KC na_PREP+ART oeste_N ,_PU preço_N médio_ADJ de_PREP R$_CUR 1.472_NUM ._END
 Leia_V Mais_ADV sobre_PREP este_PROADJ mercado_N no_PREP+ART caderno_N Imóveis_NPROP ._END
-Os_ART preços_N dos_PREP+ART carros_N usados_PCP subiram_V 4,18_NUM %_N ,_PU em_PREP média_N ,_PU em_PREP setembro_N em_PREP São_NPROP Paulo_NPROP ,_PU conforme_PREP amostra_N de_PREP quatro_NUM modelos_N ,_PU anos_N 86_N a_PREP 91_N ,_PU de_PREP pesquisa_N Datafolha_NPROP ._END
+Os_ART preços_N dos_PREP+ART carros_N usados_PCP subiram_V 4,18_NUM %_N ,_PU em_PREP média_N ,_PU em_PREP setembro_N em_PREP São Paulo_NPROP ,_PU conforme_PREP amostra_N de_PREP quatro_NUM modelos_N ,_PU anos_N 86_N a_PREP 91_N ,_PU de_PREP pesquisa_N Datafolha_NPROP ._END
 Os_ART preços_N médios_ADJ sobem_V desde_PREP o_ART início_N de_PREP julho_N ,_PU embora_KS com_PREP grandes_ADJ disparidades_N ._END
 Em_PREP setembro_N ,_PU o_ART Gol_NPROP Cl_NPROP 91_N ,_PU por_PDEN exemplo_PDEN ,_PU subiu_V 7,34_NUM %_N ._END
 O_ART Uno_NPROP S_NPROP 87_N ,_PU 0,94_NUM %_N ._END
@@ -1498,7 +1498,7 @@ O_PROSUB 91_N subiu_V 5,18_NUM %_N ._END
 O_ART se_PROPESS valorizou_V 5,16_NUM %_N ,_PU o_ART 2,49_NUM %_N e_KC o_ART Monza_NPROP SLE_NPROP ,_PU 3,44_NUM %_N ._END
 Leia_V Mais_ADV sobre_PREP este_PROADJ mercado_N no_PREP+ART caderno_N Veículos_NPROP ._END
 Cotações_N sobem_V 6,16_NUM %_N ._END
-As_ART cotações_N das_PREP+ART linhas_N telefônicas_ADJ vendidas_PCP no_PREP+ART mercado_N livre_ADJ de_PREP São_NPROP Paulo_NPROP subiram_V 6,16_NUM %_N ,_PU em_PREP média_N ,_PU em_PREP setembro_N ._END
+As_ART cotações_N das_PREP+ART linhas_N telefônicas_ADJ vendidas_PCP no_PREP+ART mercado_N livre_ADJ de_PREP São Paulo_NPROP subiram_V 6,16_NUM %_N ,_PU em_PREP média_N ,_PU em_PREP setembro_N ._END
 Os_ART dados_N baseiam_V -se_PROPESS em_PREP uma_ART amostra_N de_PREP dez_NUM linhas_N pesquisadas_PCP pelo_PREP+ART Datafolha_NPROP ._END
 Todas_PROSUB subiram_V ._END
 A_ART maior_ADJ alta_N foi_V na_PREP+ART Penha_NPROP ,_PU com_PREP 10,92_NUM %_N ,_PU seguida_PCP por_PREP Santana_NPROP ,_PU 10,11_NUM %_N ,_PU Guarani_NPROP ,_PU 8,47_NUM %_N ,_PU e_KC Alphaville_NPROP ,_PU 7,11_NUM %_N ._END
@@ -1893,7 +1893,7 @@ O_ART mercado_N hoje_ADV é_V comprador_N de_PREP carros_N "_PU populares_ADJ "_
 Cai_V a_ART venda_N de_PREP carros_N médios_ADJ e_KC grandes_ADJ ,_PU em_PREP proveito_N dos_PREP+PROSUB pequenos_ADJ ._END
 A_ART Ford_NPROP não_ADV tem_V modelo_N na_PREP+ART faixa_N inicial_ADJ ._END
 Vai_V ter_V que_KS importar_V o_ART Fiesta_NPROP ._END
-Serão_V 20_NUM mil_NUM unidades_N inicialmente_ADV ,_PU antes_PREP da_PREP+ART montagem_N em_PREP (_PU "_PU complete_NPROP knocked_NPROP down_NPROP "_PU ,_PU o_ART carro_N vem_V desmontado_PCP )_PU ,_PU que_PRO-KS pode_V ser_V feita_PCP na_PREP+ART fábrica_N do_PREP+ART Taboão_NPROP (_PU São_NPROP Bernardo_NPROP do_NPROP Campo_NPROP ,_PU SP_NPROP )_PU ou_KC no_PREP+ART Espírito_NPROP Santo_NPROP ._END
+Serão_V 20_NUM mil_NUM unidades_N inicialmente_ADV ,_PU antes_PREP da_PREP+ART montagem_N em_PREP (_PU "_PU complete_NPROP knocked_NPROP down_NPROP "_PU ,_PU o_ART carro_N vem_V desmontado_PCP )_PU ,_PU que_PRO-KS pode_V ser_V feita_PCP na_PREP+ART fábrica_N do_PREP+ART Taboão_NPROP (_PU São Bernardo_NPROP do_NPROP Campo_NPROP ,_PU SP_NPROP )_PU ou_KC no_PREP+ART Espírito_NPROP Santo_NPROP ._END
 É_V pelo_PREP+ART porto_N de_PREP Vitória_NPROP (_PU ES_NPROP )_PU que_PRO-KS entrarão_V os_ART pequenos_N da_PREP+ART Ford_NPROP ,_PU vindos_PCP da_PREP+ART Europa_NPROP ._END
 Em_PREP 1996_N ,_PU os_ART Fiesta_NPROP serão_V fabricados_PCP no_PREP+ART Brasil_NPROP ._END
 Logo_ADV ,_PU o_ART presidente_N alemão_ADJ da_PREP+ART Ford_NPROP Brasil_NPROP ,_PU Udo_NPROP Kruse_NPROP ,_PU volta_V a_PREP Portugal_NPROP ._END
@@ -1927,7 +1927,7 @@ Analistas_N acham_V que_KS o_ART banco_N e_KC a_ART corretora_N têm_V clientes_
 Mãos_N lavadas_PCP
 Moreira_NPROP Ferreira_NPROP rebate_V a_ART crítica_N do_PREP+ART grupo_N Novo_ADJ Ciesp_NPROP e_KC diz_V que_KS não_ADV lhe_PROPESS cabe_V decidir_V sozinho_ADJ sobre_PREP as_ART eleições_N nas_PREP+ART entidades_N que_PRO-KS dirige_V ._END
 "_PU O_ART presidente_N é_V porta-voz_N da_PREP+ART decisão_N que_PRO-KS a_ART diretoria_N executiva_ADJ deixará_V para_PREP o_ART plenário_N tomar_V ._END
-Dados_N preliminares_ADJ mostram_V um_ART crescimento_N real_ADJ de_PREP vendas_N de_PREP 6_NUM %_N em_PREP São_NPROP Paulo_NPROP ,_PU incluindo_V bens_N duráveis_ADJ ._END
+Dados_N preliminares_ADJ mostram_V um_ART crescimento_N real_ADJ de_PREP vendas_N de_PREP 6_NUM %_N em_PREP São Paulo_NPROP ,_PU incluindo_V bens_N duráveis_ADJ ._END
 Demanda_N localizada_PCP
 Dados_N do_PREP+ART comércio_N indicam_V crescimento_N de_PREP 7_NUM %_N em_PREP agosto_N (_PU sobre_PREP julho_N )_PU ,_PU excluindo_V -se_PROPESS as_ART vendas_N de_PREP automóveis_N ._END
 No_PREP+ART caso_N ,_PU nota_V -se_PROPESS a_ART concentração_N na_PREP+ART venda_N de_PREP bens_N de_PREP consumo_N duráveis_ADJ ._END
@@ -1958,8 +1958,8 @@ Como_ADV poderia_V a_ART indústria_N abastecer_V o_ART mercado_N com_PREP a_ART
 A_ART decisão_N do_PREP+ART governo_N de_PREP realizar_V leilões_N é_V ,_PU portanto_KC ,_PU extremamente_ADV justa_ADJ para_PREP o_ART consumidor_N brasileiro_ADJ ._END
 Afinal_ADV ,_PU por_PREP que_PRO-KS é_V que_KS ele_PROPESS ,_PU morando_V no_PREP+ART país_N que_PRO-KS é_V o_ART maior_ADJ produtor_N mundial_ADJ de_PREP café_N e_KC que_PRO-KS possui_V um_ART estoque_N público_ADJ de_PREP 17_NUM milhões_N de_PREP sacas_N ,_PU haveria_V de_PREP pagar_V um_ART custo_N altíssimo_ADJ por_PREP um_ART produto_N que_PRO-KS faz_V parte_N de_PREP seu_PROADJ dia-a-dia_N ,_PU principalmente_ADV para_PREP as_ART populações_N de_PREP baixa_ADJ renda_N ?_PU
 Primeiro_N ,_PU porque_KS só_PDEN os_ART leilões_N ,_PU mesmo_PDEN com_PREP as_ART altas_N verificadas_PCP ,_PU puderam_V garantir_V abastecimento_N ._END
-Segundo_N ,_PU porque_KS a_ART indústria_N ,_PU ciente_ADJ de_PREP seu_PROADJ compromisso_N para_PREP com_PREP o_ART plano_N de_PREP estabilização_N ,_PU vem_V mantendo_V o_ART preço_N do_PREP+ART quilo_N do_PREP+ART café_N industrializado_PCP em_PREP torno_PREP de_PREP R$_CUR 6,00_NUM desde_PREP maio_N (_PU base_N São_NPROP Paulo_NPROP ,_PU cujo_PRO-KS ICMS_NPROP é_V de_PREP 18_NUM %_N )_PU ._END
-É_V importante_ADJ notar_V que_KS esse_PROADJ preço_N do_PREP+ART café_N na_PREP+ART indústria_N não_ADV foi_V alterado_PCP nem_ADV mesmo_PDEN com_PREP as_ART duas_NUM geadas_N ocorridas_PCP em_PREP junho_N ,_PU que_PRO-KS atingiram_V grande_ADJ parte_N da_PREP+ART lavoura_N do_PREP+ART Paraná_NPROP ,_PU São_NPROP Paulo_NPROP e_KC Minas_NPROP Gerais_NPROP e_KC impulsionaram_V os_ART preços_N para_ADV cima_ADV ,_PU inclusive_PDEN os_PROSUB de_PREP leilão_N ._END
+Segundo_N ,_PU porque_KS a_ART indústria_N ,_PU ciente_ADJ de_PREP seu_PROADJ compromisso_N para_PREP com_PREP o_ART plano_N de_PREP estabilização_N ,_PU vem_V mantendo_V o_ART preço_N do_PREP+ART quilo_N do_PREP+ART café_N industrializado_PCP em_PREP torno_PREP de_PREP R$_CUR 6,00_NUM desde_PREP maio_N (_PU base_N São Paulo_NPROP ,_PU cujo_PRO-KS ICMS_NPROP é_V de_PREP 18_NUM %_N )_PU ._END
+É_V importante_ADJ notar_V que_KS esse_PROADJ preço_N do_PREP+ART café_N na_PREP+ART indústria_N não_ADV foi_V alterado_PCP nem_ADV mesmo_PDEN com_PREP as_ART duas_NUM geadas_N ocorridas_PCP em_PREP junho_N ,_PU que_PRO-KS atingiram_V grande_ADJ parte_N da_PREP+ART lavoura_N do_PREP+ART Paraná_NPROP ,_PU São Paulo_NPROP e_KC Minas_NPROP Gerais_NPROP e_KC impulsionaram_V os_ART preços_N para_ADV cima_ADV ,_PU inclusive_PDEN os_PROSUB de_PREP leilão_N ._END
 Deve_V -se_PROPESS lembrar_V que_KS a_ART garantia_N desse_PREP+PROADJ preço_N médio_ADJ pelas_PREP+ART indústrias_N foi_V possibilitada_PCP pela_PREP+ART forma_N transparente_ADJ e_KC democrática_ADJ com_PREP que_PRO-KS os_ART leilões_N públicos_ADJ vêm_V sendo_V realizados_PCP :_PU de_PREP pequenas_ADJ quantias_N e_KC de_PREP realização_N periódica_ADJ ,_PU permitindo_V o_ART abastecimento_N do_PREP+ART mercado_N interno_ADJ e_KC inibindo_V qualquer_PROADJ manipulação_N ou_KC interferência_N nas_PREP+ART cotações_N internacionais_ADJ ._END
 É_V ,_PU portanto_KC ,_PU um_ART grande_ADJ equívoco_N pensar_V em_PREP leilão_N geral_ADJ ,_PU onde_ADV-KS são_V ofertadas_PCP grandes_ADJ quantias_N ,_PU pois_KC ,_PU sim_ADV ,_PU corre_V -se_PROPESS o_ART risco_N de_PREP deprimir_V os_ART preços_N internacionais_ADJ ._END
 se_PROPESS portanto_KC fundamental_ADJ que_PRO-KS o_ART governo_N mantenha_V seu_PROADJ programa_N de_PREP leiloar_V para_PREP as_ART indústrias_N de_PREP café_N torrado_PCP e_KC moído_PCP ,_PU a_PREP partir_PREP de_PREP setembro_N e_KC até_PREP meados_N de_PREP maio_N do_PREP+ART próximo_ADJ ano_N ,_PU as_ART 5_NUM milhões_N de_PREP sacas_N anteriormente_ADV anunciadas_PCP ._END
@@ -2018,10 +2018,10 @@ A_ART receita_N obtida_PCP pelo_PREP+ART Brasil_NPROP nas_PREP+ART exportações
 De_PREP acordo_PREP com_PREP a_ART Secex_NPROP (_PU Secretaria_NPROP de_NPROP Comércio_NPROP Exterior_NPROP )_PU ,_PU as_ART exportações_N somaram_V em_PREP julho_N 91,3_NUM mil_NUM t_N ,_PU no_PREP+ART valor_N de_PREP US$_CUR 71,7_NUM milhões_N ._END
 No_PREP+ART acumulado_N dos_PREP+ART primeiros_ADJ sete_NUM meses_N do_PREP+ART ano_N ,_PU o_ART Brasil_NPROP colocou_V no_PREP+ART mercado_N externo_ADJ 614,6_NUM mil_NUM t_N de_PREP suco_N ,_PU pouco_ADV menos_ADV que_KS as_ART 617,6_NUM mil_NUM t_N registradas_PCP no_PREP+ART mesmo_PROADJ período_N de_PREP 93_N ._END
 IPV_NPROP apura_V redução_N de_PREP 0,94_NUM %_N no_PREP+ART varejo_N em_PREP 30_NUM dias_N em_PREP SP_NPROP
-Os_ART preços_N no_PREP+ART comércio_N varejista_ADJ caíram_V em_PREP agosto_N 0,94_NUM %_N em_PREP média_N na_PREP+ART região_N metropolitana_ADJ de_PREP São_NPROP Paulo_NPROP ._END
+Os_ART preços_N no_PREP+ART comércio_N varejista_ADJ caíram_V em_PREP agosto_N 0,94_NUM %_N em_PREP média_N na_PREP+ART região_N metropolitana_ADJ de_PREP São Paulo_NPROP ._END
 Este_PROSUB foi_V o_ART resultado_N do_PREP+ART IPV_NPROP (_PU Índice_NPROP de_NPROP Preços_NPROP no_NPROP varejo_NPROP )_PU ._END
 O_ART índice_N semanal_ADJ ,_PU porém_KC ,_PU registrou_V alta_N de_PREP 0,25_NUM %_N ._END
-Os_ART dados_N são_V da_PREP+ART FCESP_NPROP (_PU Federação_NPROP do_NPROP Comércio_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU ._END
+Os_ART dados_N são_V da_PREP+ART FCESP_NPROP (_PU Federação_NPROP do_NPROP Comércio_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP )_PU ._END
 O_ART grupo_N dos_PREP+ART produtos_N semiduráveis_ADJ (_PU vestuário_N ,_PU tecidos_N e_KC calçados_N )_PU teve_V queda_N de_PREP 0,96_NUM %_N no_PREP+ART mês_N ._END
 Estes_PROADJ dois_NUM segmentos_N mostram_V os_ART efeitos_N das_PREP+ART liquidações_N ._END
 No_PREP+ART grupo_N de_PREP bens_N não_ADV duráveis_ADJ (_PU alimentos_N ,_PU higiene_N pessoal_ADJ ,_PU limpeza_N doméstica_ADJ e_KC farmacêuticos_N )_PU a_ART queda_N verificada_PCP foi_V de_PREP 0,17_NUM %_N ._END
@@ -2103,7 +2103,7 @@ Empréstimos_N
 Empréstimos_N por_PREP um_NUM dia_N (_PU "_PU hot_N money_N "_PU )_PU contratados_PCP ontem_ADV :_PU as_ART taxas_N variaram_V de_PREP 5,30_NUM %_N ao_PREP+ART mês_N a_PREP 5,40_NUM %_N ao_PREP+ART mês_N ._END
 Para_PREP 30_NUM dias_N (_PU capital_N de_PREP giro_N )_PU :_PU as_ART taxas_N variaram_V entre_PREP 56_NUM %_N e_KC 64,5_NUM %_N ao_PREP+ART ano_N ._END
 Bolsas_N
-São_NPROP Paulo_NPROP :_PU o_ART índice_N fechou_V a_PREP 53.294_NUM pontos_N com_PREP baixa_N de_PREP 0,93_NUM %_N e_KC volume_N financeiro_ADJ de_PREP R$_CUR 283,170_NUM milhões_N ._END
+São Paulo_NPROP :_PU o_ART índice_N fechou_V a_PREP 53.294_NUM pontos_N com_PREP baixa_N de_PREP 0,93_NUM %_N e_KC volume_N financeiro_ADJ de_PREP R$_CUR 283,170_NUM milhões_N ._END
 Rio_NPROP :_PU baixa_N de_PREP 1,0_NUM %_N (_PU )_PU ,_PU fechando_V com_PREP 20.672_NUM pontos_N e_KC volume_N financeiro_ADJ de_PREP R$_CUR 50,528_NUM milhões_N ._END
 Bolsas_N no_PREP+ART exterior_N
 O_ART índice_N Dow_NPROP Jones_NPROP da_PREP+ART Bolsa_N de_PREP Nova_NPROP York_NPROP fechou_V a_PREP 3.913,42_NUM pontos_N ._END
@@ -2141,14 +2141,14 @@ Greco_NPROP prevê_V danos_N mais_ADV graves_ADJ se_KS a_ART estiagem_N prolonga
 No_PREP+ART momento_N ,_PU a_ART florada_N do_PREP+ART limão_N é_V a_PROSUB mais_ADV afetada_PCP na_PREP+ART região_N ._END
 Segundo_PREP o_ART agrônomo_N ,_PU a_ART última_ADJ chuva_N significativa_ADJ ocorreu_V em_PREP maio_N ._END
 O_ART falta_N de_PREP chuvas_N destruiu_V pastagens_N inteiras_ADJ no_PREP+ART interior_N paulista_ADJ ._END
-Na_PREP+ART região_N de_PREP São_NPROP José_NPROP do_NPROP Rio_NPROP Preto_NPROP ,_PU no_PREP+ART norte_N do_PREP+ART Estado_N ,_PU o_ART agrônomo_N José_NPROP Azevedo_NPROP Soares_NPROP ,_PU da_PREP+ART Casa_NPROP da_NPROP Agricultura_NPROP ,_PU diz_V que_KS o_ART fogo_N toma_V conta_N de_PREP muitos_PROADJ pastos_N ._END
+Na_PREP+ART região_N de_PREP São José_NPROP do_NPROP Rio_NPROP Preto_NPROP ,_PU no_PREP+ART norte_N do_PREP+ART Estado_N ,_PU o_ART agrônomo_N José_NPROP Azevedo_NPROP Soares_NPROP ,_PU da_PREP+ART Casa_NPROP da_NPROP Agricultura_NPROP ,_PU diz_V que_KS o_ART fogo_N toma_V conta_N de_PREP muitos_PROADJ pastos_N ._END
 Os_ART animais_N passam_V fome_N ,_PU o_PROSUB que_PRO-KS pode_V complicar_V o_ART abastecimento_N de_PREP carne_N mais_ADV adiante_ADV ._END
 A_ART situação_N também_PDEN é_V grave_ADJ na_PREP+ART região_N de_PREP Ribeirão_NPROP Preto_NPROP ,_PU onde_ADV-KS os_ART pastos_N tinham_V sido_PCP prejudicados_PCP pelas_PREP+ART geadas_N de_PREP junho_N e_KC julho_N ._END
 A_ART cotação_N fechou_V em_PREP baixa_N ontem_ADV em_PREP Nova_NPROP York_NPROP ,_PU em_PREP função_PREP de_PREP previsões_N de_PREP chuvas_N no_PREP+ART Brasil_NPROP no_PREP+ART próximo_ADJ final_N de_PREP semana_N ._END
 Pela_PREP+ART manhã_N as_ART cotações_N subiram_V por_PREP causa_PREP de_PREP rumores_N no_PREP+ART mercado_N de_PREP que_PRO-KS os_ART estoques_N oficiais_ADJ do_PREP+ART Brasil_NPROP seriam_V bem_ADV menores_ADJ que_KS as_ART 17_NUM milhões_N de_PREP sacas_N estimadas_PCP pelo_PREP+ART governo_N ._END
 Os_ART estoques_N estão_V sendo_V auditados_PCP pela_PREP+ART empresa_N SGS_NPROP ._END
 Nível_N de_PREP atividade_N é_V estável_ADJ ,_PU diz_V Fiesp_NPROP
-O_ART diretor_N interino_ADJ de_PREP Economia_N da_PREP+ART Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP ,_PU Feres_NPROP Abujamra_NPROP ,_PU divulgou_V ontem_ADV o_ART INA_NPROP (_PU Indicador_NPROP do_NPROP Nível_NPROP de_NPROP Atividades_NPROP )_PU ,_PU que_PRO-KS indicou_V um_ART quadro_N de_PREP relativa_ADJ estabilidade_N na_PREP+ART indústria_N paulista_ADJ em_PREP julho_N ._END
+O_ART diretor_N interino_ADJ de_PREP Economia_N da_PREP+ART Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP ,_PU Feres_NPROP Abujamra_NPROP ,_PU divulgou_V ontem_ADV o_ART INA_NPROP (_PU Indicador_NPROP do_NPROP Nível_NPROP de_NPROP Atividades_NPROP )_PU ,_PU que_PRO-KS indicou_V um_ART quadro_N de_PREP relativa_ADJ estabilidade_N na_PREP+ART indústria_N paulista_ADJ em_PREP julho_N ._END
 O_ART INA_NPROP mostrou_V crescimento_N de_PREP 0,9_NUM %_N em_PREP julho_N ,_PU em_PREP relação_PREP ao_PREP+ART mesmo_PROADJ mês_N do_PREP+ART ano_N passado_PCP ._END
 Mas_KC o_ART INA_NPROP dessazonalizado_ADJ de_PREP julho_N de_PREP 94_N em_PREP relação_PREP ao_PREP+ART mês_N anterior_ADJ registrou_V ligeira_ADJ queda_N de_PREP 0,3_NUM %_N ._END
 A_ART Fiesp_NPROP atribuiu_V à_PREP+ART "_PU desova_N "_PU de_PREP estoques_N o_ART crescimento_N do_PREP+ART INA_NPROP de_PREP julho_N deste_PREP+PROADJ ano_N em_PREP relação_PREP ao_PREP+ART mesmo_PROADJ mês_N do_PREP+ART ano_N passado_PCP ._END
@@ -2177,7 +2177,7 @@ Segundo_PREP os_ART analistas_N do_PREP+ART mercado_N ,_PU a_ART inflação_N co
 Dependente_N reduz_V Ir_NPROP na_PREP+ART fonte_N já_ADV em_PREP agosto_N
 Com_PREP a_ART nova_ADJ virada_N da_PREP+ART Ufir_NPROP "_PU cheia_ADJ "_PU ,_PU que_PRO-KS vale_V R$_CUR 0,6207_NUM a_PREP partir_PREP de_PREP hoje_ADV ,_PU rendimentos_N até_PREP R$_CUR 620,70_NUM estarão_V isentos_ADJ do_PREP+ART pagamento_N do_PREP+ART Imposto_NPROP de_NPROP Renda_NPROP na_PREP+ART fonte_N em_PREP setembro_N ._END
 Para_PREP se_PROPESS chegar_V à_PREP+ART base_N de_PREP cálculo_N ,_PU podem_V ser_V deduzidas_PCP 100_NUM Ufir_NPROP (_PU ou_KC R$_CUR 62,07_NUM )_PU por_PREP dependente_N ._END
-Segundo_PREP Claire_NPROP Regina_NPROP ,_PU auditora_N fiscal_ADJ da_PREP+ART Receita_NPROP em_PREP São_NPROP Paulo_NPROP ,_PU este_PROADJ novo_ADJ valor_N de_PREP abatimento_N já_ADV valeu_V para_PREP agosto_N ._END
+Segundo_PREP Claire_NPROP Regina_NPROP ,_PU auditora_N fiscal_ADJ da_PREP+ART Receita_NPROP em_PREP São Paulo_NPROP ,_PU este_PROADJ novo_ADJ valor_N de_PREP abatimento_N já_ADV valeu_V para_PREP agosto_N ._END
 Assim_KC ,_PU as_ART empresas_N que_PRO-KS fizeram_V o_ART cálculo_N em_PREP agosto_N com_PREP base_N em_PREP 40_NUM Ufir_NPROP por_PREP dependente_N terão_V de_PREP refazer_V -lo_PROPESS ,_PU compensando_V o_ART contribuinte_N em_PREP setembro_N ._END
 A_ART alíquota_N de_PREP 35_NUM %_N alcança_V poucos_PROADJ assalariados_N ,_PU já_KS que_KS ela_PROPESS vale_V para_PREP a_ART parcela_N de_PREP rendimentos_N acima_PREP de_PREP R$_CUR 11.172,60_NUM em_PREP setembro_N ._END
 A_ART tabela_N do_PREP+ART Ir_NPROP é_V progressiva_ADJ ,_PU ou_PDEN seja_PDEN ,_PU cada_PROADJ "_PU fatia_N "_PU do_PREP+ART salário_N é_V tributada_PCP pela_PREP+ART respectiva_ADJ alíquota_N ,_PU inclusive_PDEN a_PROSUB de_PREP zero_NUM por_PREP cento_N (_PU parcela_N até_PREP R$_CUR 620,70_NUM )_PU ._END
@@ -2188,7 +2188,7 @@ A_ART expectativa_N para_PREP agosto_N -_PU ainda_ADV não_ADV contabilizado_PCP
 A_ART afirmação_N é_V de_PREP Wanderley_NPROP Vettore_NPROP ,_PU diretor_N comercial_ADJ do_PREP+ART banco_N múltiplo_NPROP ,_PU que_PRO-KS trabalha_V com_PREP mil_NUM pontos-de-venda_N e_KC realiza_V perto_PREP de_PREP 200_NUM mil_NUM operações_N de_PREP financiamento_N ao_PREP+ART consumidor_N por_PREP mês_N ._END
 "_PU Estamos_V preocupados_PCP "_PU ,_PU diz_V o_ART executivo_N ._END
 Explica_V :_PU a_ART alta_N do_PREP+ART volume_N de_PREP crédito_N desde_PREP maio_N tem_V sido_PCP em_PREP média_N de_PREP 10_NUM %_N ao_PREP+ART mês_N até_PREP agora_ADV -_PU uma_ART desproporção_N perto_PREP do_PREP+ART índice_N de_PREP inadimplência_N ._END
-Associação_NPROP Comercial_NPROP de_NPROP São_NPROP Paulo_NPROP que_KS a_ART inadimplência_N em_PREP agosto_N cresceu_V 33,7_NUM %_N sobre_PREP a_PROSUB julho_N e_KC 35_NUM %_N sobre_PREP agosto_N de_PREP 93_N ._END
+Associação_NPROP Comercial_NPROP de_NPROP São Paulo_NPROP que_KS a_ART inadimplência_N em_PREP agosto_N cresceu_V 33,7_NUM %_N sobre_PREP a_PROSUB julho_N e_KC 35_NUM %_N sobre_PREP agosto_N de_PREP 93_N ._END
 Foram_V 61.042_NUM registros_N ._END
 (_PU )_PU
 Câmara_N aprova_V exibição_N das_PREP+ART taxas_N de_PREP juros_N
@@ -2290,13 +2290,13 @@ Liberado_PCP ,_PU Ezequiel_NPROP deverá_V compor_V o_ART meio-campo_N com_PREP 
 Moacir_NPROP ,_PU que_PRO-KS não_ADV passa_V por_PREP uma_ART boa_ADJ fase_N ,_PU foi_V preterido_PCP por_PREP Silva_NPROP ,_PU que_PRO-KS pretende_V assim_KC uma_ART marcação_N forte_ADJ no_PREP+ART setor_N com_PREP o_ART próprio_PROADJ Ezequiel_NPROP e_KC Zé_NPROP Elias_NPROP ._END
 "_PU Ele_PROPESS é_V quem_PRO-KS manda_V e_KC eu_PROPESS respeito_V "_PU ,_PU afirmou_V ._END
 Henrique_NPROP continua_V fora_PREP da_PREP+ART equipe_N e_KC só_PDEN deve_V voltar_V em_PREP três_NUM semanas_N ._END
-Ontem_ADV à_PREP+ART tarde_N ,_PU no_PREP+ART Parque_NPROP São_NPROP Jorge_NPROP ,_PU a_ART equipe_N fez_V um_ART recreativo_ADJ ._END
+Ontem_ADV à_PREP+ART tarde_N ,_PU no_PREP+ART Parque_NPROP São Jorge_NPROP ,_PU a_ART equipe_N fez_V um_ART recreativo_ADJ ._END
 Após_PREP o_ART treinamento_N ,_PU Carlos_NPROP Alberto_NPROP Silva_NPROP orientou_V Marcelinho_NPROP ,_PU Wilson_NPROP Mano_NPROP ,_PU Zé_NPROP Elias_NPROP e_KC Rivaldo_NPROP a_PREP treinar_V cobranças_N de_PREP falta_N perto_PREP da_PREP+ART área_N ,_PU com_PREP barreira_N ._END
 Outro_PROADJ solicitado_PCP foi_V o_ART zagueiro_N Gralak_NPROP ,_PU que_PRO-KS disparava_V a_ART bola_N mais_ADV da_PREP+ART intermediária_N ._END
 A_ART violência_N do_PREP+ART chute_N de_PREP Gralak_NPROP acabou_V machucando_V um_ART torcedor_N ,_PU que_PRO-KS assistia_V ao_PREP+ART treino_N das_PREP+ART arquibancadas_N do_PREP+ART estádio_N ._END
 O_ART garoto_N ficou_V com_PREP o_ART olho_N roxo_ADJ e_KC foi_V prontamente_ADV atendido_PCP pelo_PREP+ART departamento_N médico_ADJ do_PREP+ART clube_N ._END
 Pelos_PREP+ART treinamentos_N ,_PU Silva_NPROP deve_V estar_V esperando_V um_ART número_N de_PREP faltas_N elevado_PCP por_PREP parte_PREP da_PREP+ART zaga_N do_PREP+ART América_NPROP ._END
-O_ART time_N de_PREP São_NPROP José_NPROP de_NPROP Rio_NPROP Preto_NPROP ,_PU em_PREP quarto_ADJ lugar_N na_PREP+ART tabela_N com_PREP 22_NUM pontos_N ,_PU tem_V a_ART segunda_ADJ defesa_N menos_PDEN vazada_PCP do_PREP+ART campeonato_N ._END
+O_ART time_N de_PREP São José_NPROP de_NPROP Rio_NPROP Preto_NPROP ,_PU em_PREP quarto_ADJ lugar_N na_PREP+ART tabela_N com_PREP 22_NUM pontos_N ,_PU tem_V a_ART segunda_ADJ defesa_N menos_PDEN vazada_PCP do_PREP+ART campeonato_N ._END
 Levou_V apenas_PDEN 15_NUM gols_N e_KC já_ADV tirou_V pontos_N importantes_ADJ de_PREP todas_PROADJ equipes_N consideradas_PCP grandes_ADJ ,_PU inclusive_PDEN o_ART Corinthians_NPROP ._END
 No_PREP+ART primeiro_ADJ turno_N do_PREP+ART campeonato_N ,_PU as_ART equipes_N empataram_V em_PREP 0_N a_PREP 0_N ._END
 Viola_N é_V dúvida_N para_PREP o_ART jogo_N de_PREP hoje_ADV à_PREP+ART tarde_N entre_PREP Corinthians_NPROP e_KC América_NPROP ,_PU no_PREP+ART Pacaembu_NPROP ._END
@@ -2304,7 +2304,7 @@ O_ART jogador_N sentiu_V uma_ART fisgada_N no_PREP+ART treino_N de_PREP anteonte
 Foi_V dispensado_PCP do_PREP+ART recreativo_ADJ de_PREP ontem_ADV como_PREP medida_N de_PREP prevenção_N ._END
 Viola_N passou_V o_ART dia_N em_PREP tratamento_N ,_PU que_PRO-KS deve_V se_PROPESS estender_V até_PREP momentos_N antes_ADV da_PREP+ART partida_N ._END
 "_PU Dificilmente_ADV sofro_V contusões_N ._END
-Se_KS melhorar_V vou_V jogar_V "_PU ,_PU afirmou_V o_ART jogador_N ,_PU ontem_ADV no_PREP+ART Parque_NPROP São_NPROP Jorge_NPROP ._END
+Se_KS melhorar_V vou_V jogar_V "_PU ,_PU afirmou_V o_ART jogador_N ,_PU ontem_ADV no_PREP+ART Parque_NPROP São Jorge_NPROP ._END
 Para_PREP o_ART médico_N da_PREP+ART equipe_N Joaquim_NPROP Grava_NPROP ,_PU Viola_N tem_V chance_N de_PREP atuar_V ._END
 "_PU Só_ADV devemos_V ver_V se_KS o_ART tratamento_N à_PREP+ART base_N de_ADJ gelo_ADJ ,_PU infra-vermelho_N e_KC ionização_N resolverá_V a_ADV tempo_ADV ._END
 "_PU O_ART problema_N foi_V à_PREP+ART noite_N ._END

@@ -191,7 +191,7 @@ Quanto_PREP ao_PREP+ART plano_N ,_PU ele_PROPESS não_ADV vai_V acabar_V de_ADV 
 Belmiro_NPROP Valverde_NPROP Castor_NPROP ,_PU diretor-superintendente_N do_PREP+ART Banco_NPROP Bamerindus_NPROP :_PU "_PU Vejo_V o_ART real_N de_PREP forma_N bastante_ADV positiva_ADJ ._END
 A_ART implantação_N da_PREP+ART nova_ADJ moeda_N ocorreu_V de_PREP maneira_N tranquila_ADJ sem_PREP a_ART confusão_N dos_PREP+ART planos_N anteriores_ADJ ._END
 Treinamos_V nossos_PROADJ gerentes_N há_V um_NUM mês_N e_KC meio_N e_KC vamos_V oferecer_V aos_PREP+ART nossos_PROADJ 2,5_NUM milhões_N de_PREP clientes_N de_PREP conta-corrente_N e_KC 3,5_NUM milhões_N de_PREP clientes_N da_PREP+ART poupança_N uma_ART cartilha_N sobre_PREP o_ART real_N "_PU ._END
-Mario_NPROP Bernardini_NPROP ,_PU diretor_N da_PREP+ART Fiesp_NPROP (_PU Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU :_PU "_PU O_ART plano_N vai_V ter_V sucesso_N ._END
+Mario_NPROP Bernardini_NPROP ,_PU diretor_N da_PREP+ART Fiesp_NPROP (_PU Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP )_PU :_PU "_PU O_ART plano_N vai_V ter_V sucesso_N ._END
 Torcemos_V para_PREP que_KS esse_PROADJ sucesso_N seja_V o_ADV mais_ADV permanente_ADJ possível_ADV porque_KS a_ART estabilização_N da_PREP+ART moeda_N interessa_V a_PREP quem_PRO-KS produz_V ._END
 Tememos_V juros_N altos_ADJ ._END
 O_ART governo_N deveria_V impor_V perdas_N ao_PREP+ART aplicador_N e_KC não_ADV ao_PREP+ART tomador_N ._END
@@ -329,7 +329,7 @@ O_ART próprio_PROADJ ministro_N da_PREP+ART Fazenda_N ,_PU Rubens_NPROP Ricuper
 Os_ART Estados_N do_PREP+ART Sul_NPROP são_V os_PROSUB que_PRO-KS possuem_V menos_PROADJ poder_N de_PREP fiscalização_N ._END
 Para_PREP cada_PROADJ fiscal_N da_PREP+ART Sunab_NPROP em_PREP Santa_NPROP Catarina_NPROP ,_PU existem_V 121_NUM supermercados_N ._END
 No_PREP+ART Paraná_NPROP ,_PU a_ART relação_N é_V de_PREP um_N para_PREP 79_N ,_PU e_KC ,_PU no_PREP+ART Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP ,_PU um_N para_PREP 57_N ._END
-Em_PREP São_NPROP Paulo_NPROP ,_PU são_V 23_N para_PREP cada_PROADJ fiscal_N ._END
+Em_PREP São Paulo_NPROP ,_PU são_V 23_N para_PREP cada_PROADJ fiscal_N ._END
 O_ART superintendente_N nacional_ADJ da_PREP+ART Sunab_NPROP ,_PU Celsius_NPROP Lodder_NPROP ,_PU prefere_V dizer_V que_KS o_ART órgão_N vai_V "_PU acompanhar_V "_PU e_KC não_ADV monitorar_V os_ART preços_N ._END
 No_PREP+ART mercado_N cambial_ADJ ,_PU os_ART bancos_N procuraram_V reduzir_V o_ART volume_N de_PREP operações_N ,_PU aguardando_V o_ART megaleilão_N do_PREP+ART Banco_NPROP Central_NPROP no_PREP+ART período_N da_PREP+ART tarde_N ._END
 Isso_PROSUB tiveram_V pesados_PCP prejuízos_N no_PREP+ART dia_N anterior_ADJ ._END
@@ -342,7 +342,7 @@ Os_ART investidores_N estavam_V aplicando_V no_PREP+ART dólar_N no_PREP+ART par
 O_ART mercado_N financeiro_ADJ começou_V a_PREP trabalhar_V com_PREP expectativa_N de_PREP juros_N para_PREP julho_N ._END
 No_PREP+ART mercado_N futuro_ADJ de_PREP Di_NPROP ,_PU a_ART estimativa_N de_PREP taxa_N de_PREP juros_N acumulada_PCP para_PREP o_ART próximo_ADJ mês_N era_V ontem_ADV de_PREP 7,22_NUM %_N ._END
 No_PREP+ART mercado_N de_PREP CDI_NPROP ,_PU a_ART taxa_N média_ADJ do_PREP+ART over_N foi_V de_PREP 10,91_NUM %_N ao_PREP+ART mês_N ._END
-As_ART Bolsas_N de_PREP Valores_N operaram_V ontem_ADV em_PREP baixa_N de_PREP 5,36_NUM %_N em_PREP São_NPROP Paulo_NPROP e_KC 4,4_NUM %_N no_PREP+ART Rio_NPROP (_PU )_PU ,_PU por_PREP causa_PREP da_PREP+ART expectativa_N de_PREP desestímulo_N a_PREP aplicações_N de_PREP investidores_N estrangeiros_ADJ no_PREP+ART mercado_N acionário_ADJ ._END
+As_ART Bolsas_N de_PREP Valores_N operaram_V ontem_ADV em_PREP baixa_N de_PREP 5,36_NUM %_N em_PREP São Paulo_NPROP e_KC 4,4_NUM %_N no_PREP+ART Rio_NPROP (_PU )_PU ,_PU por_PREP causa_PREP da_PREP+ART expectativa_N de_PREP desestímulo_N a_PREP aplicações_N de_PREP investidores_N estrangeiros_ADJ no_PREP+ART mercado_N acionário_ADJ ._END
 Os_ART cinco_NUM maiores_ADJ fundões_N registravam_V rentabilidade_N diária_ADJ de_PREP 1,866_NUM %_N no_PREP+ART último_ADJ dia_N 28_N ,_PU projetando_V rendimento_N de_PREP 43,81_NUM %_N no_PREP+ART mês_N ._END
 Segundo_PREP a_ART Andima_NPROP ,_PU a_ART taxa_N média_ADJ do_PREP+ART over_N foi_V de_PREP 60,62_NUM %_N ao_PREP+ART mês_N ,_PU significando_V rendimento_N diário_ADJ de_PREP 2,02_NUM %_N ,_PU com_PREP rentabilidade_N de_PREP 50,60_NUM %_N no_PREP+ART mês_N ._END
 No_PREP+ART mercado_N de_PREP Certificados_NPROP de_NPROP Depósito_NPROP Interbancário_NPROP (_PU CDIs_NPROP )_PU ,_PU a_ART taxa_N média_ADJ de_PREP 10,91_NUM %_N ao_PREP+ART mês_N ,_PU contra_PREP 60,77_NUM %_N ao_PREP+ART mês_N no_PREP+ART dia_N anterior_ADJ ._END
@@ -352,7 +352,7 @@ Empréstimos_N por_PREP um_NUM dia_N (_PU "_PU hot_N money_N "_PU )_PU contratad
 Para_PREP 32_NUM dias_N (_PU capital_N de_PREP giro_N )_PU :_PU taxa_N prefixada_PCP de_PREP 7,60_NUM %_N ao_PREP+ART mês_N ._END
 :_PU 7,25_NUM %_N ao_PREP+ART ano_N ._END
 :_PU 5,1875_NUM %_N ._END
-São_NPROP Paulo_NPROP :_PU o_ART índice_N fechou_V a_PREP 36.231_NUM pontos_N com_PREP baixa_N de_PREP 5,36_NUM %_N e_KC volume_N financeiro_ADJ de_PREP Cr$_CUR 477,415_NUM bilhões_N ,_PU contra_PREP Cr$_CUR 761,503_NUM bilhões_N no_PREP+ART dia_N anterior_ADJ ._END
+São Paulo_NPROP :_PU o_ART índice_N fechou_V a_PREP 36.231_NUM pontos_N com_PREP baixa_N de_PREP 5,36_NUM %_N e_KC volume_N financeiro_ADJ de_PREP Cr$_CUR 477,415_NUM bilhões_N ,_PU contra_PREP Cr$_CUR 761,503_NUM bilhões_N no_PREP+ART dia_N anterior_ADJ ._END
 Rio_NPROP :_PU queda_N de_PREP 4,4_NUM %_N (_PU )_PU ,_PU fechando_V com_PREP 140.000_NUM pontos_N e_KC volume_N financeiro_ADJ de_PREP Cr$_CUR 341,572_NUM bilhões_N ,_PU contra_PREP Cr$_CUR 91,624_NUM bilhões_N no_PREP+ART dia_N anterior_ADJ ._END
 O_ART índice_N em_PREP Londres_NPROP fechou_V a_PREP 2.276,70_NUM pontos_N ,_PU contra_PREP 2.297,80_N no_PREP+ART dia_N anterior_ADJ ._END
 Em_PREP Tóquio_NPROP ,_PU o_ART índice_N fechou_V com_PREP 20.643,93_NUM pontos_N ,_PU contra_PREP 20.481,00_NUM pontos_N no_PREP+ART dia_N anterior_ADJ ._END
@@ -376,7 +376,7 @@ O_ART presidente_N da_PREP+ART Confenen_NPROP (_PU Confederação_NPROP Nacional
 "_PU Como_KS foi_V o_ART que_PRO-KS propôs_V ,_PU achamos_V que_KS tem_V grande_ADJ chance_N de_PREP ser_V oficializada_PCP "_PU ._END
 Essa_PROADJ regra_N ,_PU em_PREP vez_PREP de_PREP tomar_V as_ART mensalidades_N de_PREP novembro_N ,_PU dezembro_N ,_PU janeiro_N e_KC fevereiro_N utiliza_V a_ART média_N dos_PREP+ART diferentes_PROADJ valores_N propostos_PCP para_PREP a_ART matrícula_N de_PREP novembro_N a_PREP janeiro_N ,_PU além_PREP da_PREP+ART mensalidade_N de_PREP fevereiro_N ._END
 Esse_PROADJ aumento_N está_V previsto_PCP na_PREP+ART lei_N das_PREP+ART mensalidades_N escolares_ADJ em_ADV vigor-_ADV número_N 8.170/91_N ._END
-A_ART lei_N 8.170/91_N autoriza_V os_ART estabelecimentos_N privados_PCP de_PREP ensino_N a_PREP repassar_V às_PREP+ART mensalidades_N 70_NUM %_N do_PREP+ART reajuste_N dos_PREP+ART professores_N na_PREP+ART data-base_N (_PU em_PREP março_N em_PREP São_NPROP Paulo_NPROP )_PU e_KC 30_NUM %_N da_PREP+ART inflação_N acumulada_PCP entre_PREP janeiro_N e_KC julho_N ._END
+A_ART lei_N 8.170/91_N autoriza_V os_ART estabelecimentos_N privados_PCP de_PREP ensino_N a_PREP repassar_V às_PREP+ART mensalidades_N 70_NUM %_N do_PREP+ART reajuste_N dos_PREP+ART professores_N na_PREP+ART data-base_N (_PU em_PREP março_N em_PREP São Paulo_NPROP )_PU e_KC 30_NUM %_N da_PREP+ART inflação_N acumulada_PCP entre_PREP janeiro_N e_KC julho_N ._END
 A_ART liminar_N concedida_PCP pelo_PREP+ART STF_NPROP (_PU Supremo_NPROP Tribunal_NPROP Federal_NPROP )_PU derrubando_V diversos_PROADJ artigos_N da_PREP+ART MP_N de_PREP conversão_N das_PREP+ART mensalidades_N não_ADV revogou_V a_ART lei_N 8.170/91_N ._END
 A_ART Fleischmann_NPROP Royal_NPROP e_KC a_ART Copersucar_NPROP ,_PU empresas_N da_PREP+ART área_N de_PREP alimentos_N ,_PU foram_V autuadas_PCP ontem_ADV pelo_PREP+ART Procon_NPROP por_PREP praticarem_V aumentos_N abusivos_ADJ de_PREP preços_N ._END
 Segundo_PREP o_ART Procon_NPROP ,_PU as_ART empresas_N estavam_V vendendo_V leite_N em_PREP pó_N (_PU )_PU e_KC açúcar_N cristal_ADJ (_PU Copersucar_NPROP )_PU por_PREP preços_N acima_PREP da_PREP+ART média_N em_PREP URV_N (_PU Unidade_N Real_N de_N Valor_N )_PU ,_PU de_PREP setembro_N a_PREP dezembro_N de_PREP 93_N ._END
@@ -394,7 +394,7 @@ O_ART valor_N não_ADV foi_V revelado_PCP ._END
 Pelo_PREP+ART acordo_N ,_PU os_ART clientes_N da_PREP+ART norte_N americana_N no_PREP+ART Brasil_NPROP eram_V atendidos_PCP pela_PREP+ART brasileira_N ._END
 Paulo_NPROP Salles_NPROP ,_PU presidente_N da_PREP+ART agência_N ,_PU diz_V que_KS tudo_PROSUB começou_V depois_KS que_KS 40_NUM %_N do_PREP+ART capital_N da_PREP+ART empresa_N em_PREP posse_N da_PREP+ART holandesa_N Vendex_NPROP N._NPROP H._NPROP V._NPROP foi_V readquirido_PCP pela_PREP+ART Salles_NPROP em_PREP outubro_N passado_PCP ._END
 A_ART Vendex_NPROP se_PROPESS incorporou_V como_PREP sócia_N da_PREP+ART Salles_NPROP em_PREP setembro_N de_PREP 87_N ._END
-O_ART grupo_N Pão_NPROP de_NPROP Açúcar_NPROP registrou_V ontem_ADV sua_PROADJ lista_N de_PREP preços_N em_PREP cruzeiros_N reais_N no_PREP+ART 7º_ADJ Cartório_NPROP de_NPROP Registro_NPROP de_NPROP Títulos_NPROP e_NPROP Documentos_NPROP de_PREP São_NPROP Paulo_NPROP ._END
+O_ART grupo_N Pão_NPROP de_NPROP Açúcar_NPROP registrou_V ontem_ADV sua_PROADJ lista_N de_PREP preços_N em_PREP cruzeiros_N reais_N no_PREP+ART 7º_ADJ Cartório_NPROP de_NPROP Registro_NPROP de_NPROP Títulos_NPROP e_NPROP Documentos_NPROP de_PREP São Paulo_NPROP ._END
 Hoje_ADV a_ART operação_N será_V repetida_PCP para_PREP preços_N em_PREP reais_N ._END
 informação_N foi_V dada_PCP pela_PREP+ART assessoria_N do_PREP+ART grupo_N no_PREP+ART início_N da_PREP+ART noite_N ._END
 A_ART Folha_NPROP havia_V solicitado_PCP ,_PU às_PREP+ART 12h30_N ,_PU e_KC em_PREP seis_NUM telefonemas_N ,_PU informação_N sobre_PREP o_ART local_N e_KC a_ART hora_N do_PREP+ART registro_N ._END
@@ -405,7 +405,7 @@ O_ART Carrefour_NPROP se_PROPESS compromete_V a_PREP devolver_V ,_PU no_PREP+ART
 Nas_PREP+ART redes_N Carrefour_NPROP e_KC Pão_NPROP de_NPROP Açúcar_NPROP ,_PU parte_N das_PREP+ART lojas_N fecharam_V ontem_ADV para_PREP balanço_N e_KC troca_N de_PREP etiquetas_N e_KC as_PROSUB que_PRO-KS estiveram_V abertas_PCP fecharão_V hoje_ADV ._END
 Nas_PREP+ART lojas_N do_PREP+ART Eldorado_NPROP e_KC Paes_NPROP Mendonça_NPROP ,_PU o_ART movimento_N só_PDEN será_V interrompido_PCP hoje_ADV pela_PREP+ART manhã_N ,_PU até_PREP à_PREP+ART 11h_N ._END
 Os_ART supermercados_N Sé_NPROP e_KC Cândia_NPROP informaram_V que_KS o_ART funcionamento_N hoje_ADV será_V normal_ADJ ._END
-Os_ART ambulantes_N do_PREP+ART centro_N de_PREP São_NPROP Paulo_NPROP estão_V confusos_ADJ sobre_PREP a_ART nova_ADJ moeda_N ._END
+Os_ART ambulantes_N do_PREP+ART centro_N de_PREP São Paulo_NPROP estão_V confusos_ADJ sobre_PREP a_ART nova_ADJ moeda_N ._END
 Eles_PROPESS preferem_V receber_V cruzeiros_N reais_N até_PREP o_ART próximo_ADJ dia_N 15_N para_PREP dar_V tempo_N de_PREP aprender_V a_ART conversão_N ._END
 Esmeralda_NPROP da_NPROP Silva_NPROP diz_V que_KS vai_V continuar_V a_PREP vender_V mexerica_N em_PREP sua_PROADJ banca_N no_PREP+ART largo_NPROP do_NPROP Arouche_NPROP por_PREP Cr$_CUR 200_NUM ._END
 Aparecida_NPROP de_NPROP Jesus_NPROP ,_PU vendedora_N de_PREP cadeiras_N de_PREP plástico_N para_PREP crianças_N na_PREP+ART rua_N 24_NPROP de_NPROP Maio_NPROP ,_PU converteu_V na_PREP+ART base_N do_PREP+ART um_NUM por_PREP um_NUM ._END
@@ -607,7 +607,7 @@ Muito_ADV ._END
 Se_KS o_ART freguês_N reclamar_V ,_PU mando_V ele_PROPESS ir_V ao_PREP+ART supermecado_N ._END
 "_PU Aí_IN tem_V que_KS ser_V mais_PROSUB ,_PU né_IN ?_PU
 Meu_PROADJ preço_N (_PU da_PREP+ART dose_N de_PREP cachaça_N )_PU à_PREP+ART vista_N vai_V subir_V para_PREP R$_CUR 300_NUM "_PU ._END
-A_ART Federação_NPROP do_NPROP Comércio_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP faz_V uma_ART recomendação_N aos_PREP+ART lojistas_N no_PREP+ART primeiro_ADJ dia_N do_PREP+ART real_N :_PU o_ART dinheiro_N que_PRO-KS sobra_V no_PREP+ART caixa_N deve_V ser_V aplicado_PCP no_PREP+ART mercado_N financeiro_ADJ ._END
+A_ART Federação_NPROP do_NPROP Comércio_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP faz_V uma_ART recomendação_N aos_PREP+ART lojistas_N no_PREP+ART primeiro_ADJ dia_N do_PREP+ART real_N :_PU o_ART dinheiro_N que_PRO-KS sobra_V no_PREP+ART caixa_N deve_V ser_V aplicado_PCP no_PREP+ART mercado_N financeiro_ADJ ._END
 A_ART federação_N está_V encaminhando_V aos_PREP+ART seus_PROADJ 142_NUM associados_N dicas_N para_PREP facilitar_V o_ART dia-a-dia_N dos_PREP+ART lojistas_N na_PREP+ART nova_ADJ moeda_N ._END
 Para_PREP os_ART economistas_N da_PREP+ART entidade_N ,_PU o_ART comércio_N deve_V manter_V o_ART estoque_N baixo_ADJ ._END
 "_PU Não_ADV haverá_V explosão_N de_PREP demanda_N "_PU ,_PU diz_V Antonio_NPROP Carlos_NPROP Borges_NPROP ,_PU superintendente_N técnico_ADJ ._END
@@ -625,7 +625,7 @@ Para_PREP atrair_V clientes_N ,_PU o_ART Mappin_NPROP começa_V a_PREP aceitar_V
 Mantém_V as_ART vendas_N à_PREP+ART prazo_N em_PREP até_PDEN cinco_NUM vezes_N ._END
 Sérgio_NPROP Orciuolo_NPROP ,_PU diretor_N de_PREP comunicação_N e_KC promoções_N ,_PU informa_V que_KS o_ART Mappin_NPROP recebeu_V 800_NUM mil_NUM moedas_N novas_ADJ (_PU quatro_NUM toneladas_N )_PU nestes_PREP+PROADJ últimos_ADJ dias_N ._END
 "_PU Estamos_V prontos_ADJ para_PREP atender_V clientes_N que_PRO-KS se_PROPESS adaptaram_V ao_PREP+ART real_N e_KC aqueles_PROSUB que_PRO-KS querem_V usar_V o_ART cruzeiro_N real_N "_PU ,_PU diz_V ._END
-A_ART diretoria_N do_PREP+ART Ponto_NPROP Frio_NPROP se_PROPESS reuniu_V ontem_ADV em_PREP São_NPROP Paulo_NPROP para_PREP analisar_V a_ART ampliação_N das_PREP+ART vendas_N à_PREP+ART prazo_N ._END
+A_ART diretoria_N do_PREP+ART Ponto_NPROP Frio_NPROP se_PROPESS reuniu_V ontem_ADV em_PREP São Paulo_NPROP para_PREP analisar_V a_ART ampliação_N das_PREP+ART vendas_N à_PREP+ART prazo_N ._END
 Até_PREP ontem_ADV ,_PU o_ART crediário_N se_PROPESS estendia_V até_PREP seis_NUM prestações_N ._END
 A_ART taxa_N de_PREP juros_N praticada_PCP era_V de_PREP 9_NUM %_N ao_PREP+ART mês_N ._END
 O_ART Ponto_NPROP Frio_NPROP também_PDEN criou_V a_ART figura_N do_PREP+ART trocador_N funcionário_ADJ que_PRO-KS vai_V trocar_V cruzeiros_N reais_N por_PREP reais_N ._END
@@ -680,8 +680,8 @@ O_ART resultado_N de_PREP R$_CUR 3,636364_NUM não_ADV pode_V ser_V arredondado_
 A_PREP cada_PROADJ dia_N ,_PU dois_NUM grupos_N de_PREP 21_NUM mil_NUM policiais_N se_PROPESS revezavam_V nas_PREP+ART ruas_N ._END
 Das_PREP+ART 6h_N às_PREP+ART 22h_N ,_PU trabalhavam_V 14_NUM mil_NUM homens_N ._END
 Das_PREP+ART 22h_N às_PREP+ART 6h_N ,_PU 7.000_N ._END
-Em_PREP 11_NUM pontos_N da_PREP+ART cidade_N de_PREP São_NPROP Paulo_NPROP a_ART polícia_N deixou_V de_PREP prontidão_N policiais_N armados_PCP com_PREP fuzis_N e_KC metralhadoras_N para_PREP possíveis_ADJ bloqueios_N ._END
-Na_PREP+ART Grande_ADJ São_NPROP Paulo_NPROP existem_V outros_PROADJ 290_NUM minipontos_N de_PREP bloqueio_N ._END
+Em_PREP 11_NUM pontos_N da_PREP+ART cidade_N de_PREP São Paulo_NPROP a_ART polícia_N deixou_V de_PREP prontidão_N policiais_N armados_PCP com_PREP fuzis_N e_KC metralhadoras_N para_PREP possíveis_ADJ bloqueios_N ._END
+Na_PREP+ART Grande_ADJ São Paulo_NPROP existem_V outros_PROADJ 290_NUM minipontos_N de_PREP bloqueio_N ._END
 A_ART "_PU operação_N real_ADJ "_PU teve_V quatro_NUM etapas_N ._END
 A_ART primeira_N foi_V encaminhar_V o_ART dinheiro_N do_PREP+ART Banco_NPROP Central_NPROP para_PREP as_ART grandes_ADJ agências_N ._END
 A_ART segunda_N foi_V distribuir_V o_ART dinheiro_N dessas_PREP+PROADJ grande_ADJ agências_N para_PREP as_ART agências_N operacionais_ADJ dos_PREP+ART bancos_N ,_PU supermercados_N ,_PU shoppings_N ,_PU grandes_ADJ empresas_N e_KC metrô_N ._END
@@ -849,7 +849,7 @@ Em_PREP função_PREP da_PREP+ART tecnologia_N utilizada_PCP ,_PU essas_PROADJ m
 Um_PROSUB 9.221_N gasta_V 96_NUM %_N menos_PROADJ energia_N que_PRO-KS um_ART IBM_N 3.090_N de_PREP mesmo_PROADJ desempenho_N e_KC ocupa_V meio_NUM metro_N quadrado_N ._END
 O_PROPESS 3.090_N precisa_V de_PREP sala_N com_PREP 34_NUM metros_N quadrados_N ,_PU área_N equivalente_ADJ a_PREP de_PREP quatro_NUM vagas_N para_PREP carros_N ._END
 É_V um_ART sistema_N completo_ADJ para_PREP banco_N de_PREP dados_N ,_PU incluindo_V o_ART computador_N ,_PU programas_N e_KC serviços_N ._END
-Em_PREP escolas_N públicas_ADJ e_KC particulares_ADJ de_PREP São_NPROP Paulo_NPROP ,_PU as_ART crianças_N começam_V a_PREP usar_V o_ART computador_N antes_ADV de_PREP aprender_V a_PREP escrever_V "_PU É_V um_ART atrativo_N a_PROADJ mais_PROADJ para_PREP a_ART criança_N aprender_V "_PU ,_PU afirma_V Joana_NPROP Ida_NPROP Bernardini_NPROP ,_PU monitora_N de_PREP informática_N no_PREP+ART Liceu_NPROP Pasteur_NPROP ,_PU onde_ADV-KS desde_PREP a_ART pré-escola_N os_ART micros_N são_V ferramenta_N de_PREP ensino_N ._END
+Em_PREP escolas_N públicas_ADJ e_KC particulares_ADJ de_PREP São Paulo_NPROP ,_PU as_ART crianças_N começam_V a_PREP usar_V o_ART computador_N antes_ADV de_PREP aprender_V a_PREP escrever_V "_PU É_V um_ART atrativo_N a_PROADJ mais_PROADJ para_PREP a_ART criança_N aprender_V "_PU ,_PU afirma_V Joana_NPROP Ida_NPROP Bernardini_NPROP ,_PU monitora_N de_PREP informática_N no_PREP+ART Liceu_NPROP Pasteur_NPROP ,_PU onde_ADV-KS desde_PREP a_ART pré-escola_N os_ART micros_N são_V ferramenta_N de_PREP ensino_N ._END
 No_PREP+ART Objetivo_NPROP Júnior_NPROP ,_PU alunos_N de_PREP três_NUM anos_N brincam_V com_PREP jogos_N educativos_ADJ no_PREP+ART computador_N ._END
 Na_PREP+ART rede_N municipal_ADJ de_PREP ensino_N ,_PU a_ART iniciação_N também_PDEN acontece_V na_PREP+ART pré-escola_N ._END
 "_PU Quando_KS uma_ART criança_N usa_V o_ART computador_N ,_PU ela_PROPESS não_ADV está_V se_PROPESS comportando_V criança_N ,_PU mas_KC sim_ADV um_ART adulto_N ,_PU do_PREP+ART ponto_N de_PREP vista_N mental_ADJ "_PU ,_PU diz_V ele_PROPESS ._END
@@ -893,7 +893,7 @@ Ele_PROPESS conclui_V :_PU "_PU Muita_PROADJ gente_N está_V com_PREP o_ART comp
 "_PU Eu_PROPESS rabiscava_V toda_PROADJ a_ART tela_N com_PREP tinta_N "_PU ._END
 Lúcia_NPROP Giglio_NPROP Veltri_NPROP ,_PU 6_NUM ,_PU é_V das_PREP+ART alunas_N do_PREP+ART Pré_N 2_N do_PREP+ART Objetivo_NPROP Júnior_NPROP ._END
 Ela_PROPESS está_V começando_V a_PREP ser_V alfabetizada_PCP e_KC ,_PU seus_PROADJ colegas_N ,_PU usa_V o_ART computador_N sem_PREP medo_N ._END
-Na_PREP+ART sala_N computadores_ADJ do_PREP+ART Objetivo_NPROP ,_PU em_PREP Pinheiros_NPROP (_PU zona_N oeste_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ,_PU ela_PROPESS deu_V entrevista_N à_PREP+ART Folha_NPROP ._END
+Na_PREP+ART sala_N computadores_ADJ do_PREP+ART Objetivo_NPROP ,_PU em_PREP Pinheiros_NPROP (_PU zona_N oeste_ADJ de_PREP São Paulo_NPROP )_PU ,_PU ela_PROPESS deu_V entrevista_N à_PREP+ART Folha_NPROP ._END
 A_PREP seguir_V ,_PU os_ART principais_ADJ trechos_N ._END
 Gosto_V ._END
 Eu_PROPESS tenho_V em_PREP casa_N ._END
@@ -945,7 +945,7 @@ Custa_V US$_CUR 45_NUM na_PREP+ART Multimídia_NPROP Center_NPROP (_PU tel_N ._E
 011_N 959-2650_N )_PU ._END
 Ricardo_NPROP Penna_NPROP Franca_NPROP ,_PU 14_NUM ,_PU está_V na_PREP+ART 8ª_ADJ série_N do_PREP+ART 1º_ADJ grau_N ,_PU faz_V natação_N ,_PU vai_V a_PREP festas_N e_KC trabalha_V ._END
 É_V "_PU piloto_N de_PREP games_N "_PU desde_PREP os_ART 11_NUM anos_N ._END
-Ele_PROPESS presta_V assessoria_N para_PREP a_PREP ,_PU de_PREP São_NPROP Paulo_NPROP ._END
+Ele_PROPESS presta_V assessoria_N para_PREP a_PREP ,_PU de_PREP São Paulo_NPROP ._END
 Começou_V a_PREP mexer_V com_PREP computadores_N com_PREP dez_NUM anos_N ,_PU usando_V um_PROSUB hoje_ADV ultrapassado_PCP XT_N ._END
 O_ART trabalho_N não_ADV durou_V muito_PROADJ ,_PU só_PDEN cerca_PREP de_PREP seis_NUM meses_N ._END
 "_PU Eu_PROPESS tinha_V que_KS trabalhar_V em_PREP casa_N ,_PU atender_V o_ART telefone_N ._END
@@ -953,7 +953,7 @@ Eu_PROPESS queria_V sair_V ,_PU jogar_V bola_N ._END
 A_ART saída_N não_ADV cortou_V os_ART laços_N com_PREP a_ART empresa_N ._END
 "_PU Eu_PROPESS acabo_V o_ART jogo_N e_KC dou_V as_ART dicas_N para_PREP eles_PROPESS "_PU ,_PU diz_V ._END
 No_PREP+ART ano_N passado_PCP ,_PU o_ART "_PU bico_N "_PU rendeu_V US$_CUR 60_NUM por_PREP dia_N de_PREP feira_N ._END
-Ricardo_NPROP joga_V no_PREP+ART micro_N que_KS tem_V em_PREP casa_N ,_PU em_PREP (_PU São_NPROP Paulo_NPROP )_PU ._END
+Ricardo_NPROP joga_V no_PREP+ART micro_N que_KS tem_V em_PREP casa_N ,_PU em_PREP (_PU São Paulo_NPROP )_PU ._END
 É_V um_ART 386_N DX_N de_PREP 33_NUM MHz_N ,_PU com_PREP CD-ROM_N ,_PU placa_N de_PREP som_N ,_PU monitor_N colorido_PCP e_KC disco_N rígido_ADJ de_PREP 120_NUM Mbytes_N ._END
 O_ART segredo_N está_V nos_PREP+ART programas_N de_PREP projeto_N e_KC manufatura_N auxiliados_ADJ por_PREP computador_N (_PU CAD/CAM_NPROP ,_PU sigla_N em_PREP inglês_N )_PU ,_PU que_PRO-KS ganham_V cada_PROADJ vez_N mais_PROADJ recursos_N ._END
 Os_ART mais_PROADJ avançados_N permitem_V até_PREP testar_V uma_ART peça_N que_PRO-KS existe_V apenas_PDEN no_PREP+ART computador_N ._END

@@ -173,7 +173,7 @@ Tenra_ADJ e_KC com_PREP um_ART leve_ADJ gosto_N de_PREP caça_N apreciadíssima_
 Finalizando_V a_ART linha_N de_PREP aves_N ,_PU tem_V o_ART marreco_N de_N Pequim_N ,_PU sempre_ADV traduzido_PCP erroneamente_ADV como_PREP pato_N ,_PU matéria-prima_N de_PREP uma_PROSUB das_PREP+ART melhores_ADJ iguarias_N da_PREP+ART gastronomia_N mundial_ADJ :_PU o_ART marreco_N laqueado_PCP de_PREP Pequim_NPROP ._END
 A_ART Condimenta_N distribui_V também_PDEN o_ART coelho_N ,_PU que_PRO-KS ,_PU por_PREP simples_ADJ preconceito_N ,_PU ainda_ADV não_ADV entrou_V na_PREP+ART nossa_PROADJ rotina_N alimentar_ADJ ,_PU o_PROSUB que_PROSUB é_V lamentável_ADJ ,_PU uma_KS vez_KS que_KS tem_V nível_N alto_ADJ de_PREP proteína_N ,_PU baixo_ADJ colesterol_N e_KC sabor_N interessantíssimo_ADJ ;_PU e_KC o_ART carneiro_N importado_PCP do_PREP+ART Uruguai_NPROP ,_PU com_PREP a_ART manta_N exata_ADJ de_PREP gordura_N ,_PU o_PROSUB que_PROSUB propicia_V uma_ART melhor_ADJ cocção_N ._END
 Todas_PROADJ estas_PROADJ carnes_N exigem_V uma_ART marinada_N própria_PROADJ para_PREP que_KS consolidem_V o_ART seu_PROADJ sabor_N ._END
-Um_ART restaurante_N em_PREP São_NPROP Paulo_NPROP onde_ADV-KS podem_V ser_V experimentadas_PCP algumas_PROSUB destas_PREP+PROADJ caças_N é_V o_ART Refúgio_NPROP Del_NPROP Viejo_NPROP Conde_NPROP ,_PU com_PREP uma_ART cozinha_N interessante_ADJ ,_PU que_PRO-KS vale_V uma_ART visita_N ._END
+Um_ART restaurante_N em_PREP São Paulo_NPROP onde_ADV-KS podem_V ser_V experimentadas_PCP algumas_PROSUB destas_PREP+PROADJ caças_N é_V o_ART Refúgio_NPROP Del_NPROP Viejo_NPROP Conde_NPROP ,_PU com_PREP uma_ART cozinha_N interessante_ADJ ,_PU que_PRO-KS vale_V uma_ART visita_N ._END
 Condimenta_NPROP Iguarias_NPROP :_PU r_N ._END
 Alves_NPROP Guimarães_NPROP ,_PU 1374_NUM ,_PU tel_N ._END 011/263-1007_N
 Refúgio_NPROP DEL_NPROP Viejo_NPROP Conde_NPROP :_PU r_N ._END
@@ -307,7 +307,7 @@ Europa_NPROP ,_PU 158_NUM ,_PU tel_N ._END 280-0896_N ,_PU Jardins_NPROP )_PU ._
 De_PREP ter_N a_PREP dom_N das_PREP+ART 13h_N às_PREP+ART 22h_N ._END
 Entrada_N franca_ADJ ._END
 Até_PREP 31_N de_PREP julho_N ._END
-Luzes_NPROP Na_NPROP Cidade_NPROP -_PU A_ART exposição_N reúne_V 36_NUM fotos_N inéditas_ADJ de_PREP São_NPROP Paulo_NPROP em_PREP várias_PROADJ épocas_N ,_PU acompanhadas_PCP por_PREP textos_N de_PREP autores_N como_PREP João_NPROP Antonio_NPROP e_KC José_NPROP Paulo_NPROP Paes_NPROP ._END
+Luzes_NPROP Na_NPROP Cidade_NPROP -_PU A_ART exposição_N reúne_V 36_NUM fotos_N inéditas_ADJ de_PREP São Paulo_NPROP em_PREP várias_PROADJ épocas_N ,_PU acompanhadas_PCP por_PREP textos_N de_PREP autores_N como_PREP João_NPROP Antonio_NPROP e_KC José_NPROP Paulo_NPROP Paes_NPROP ._END
 A_ART temática_N é_V a_ART iluminação_N do_PREP+ART meio_N urbano_ADJ ._END
 Galeria_NPROP do_NPROP Chá_NPROP (_PU passagem_N subterrânea_ADJ na_PREP+ART rua_N Cel_NPROP ._END
 De_PREP seg_N a_PREP sáb_N das_PREP+ART 9h_N às_PREP+ART 22h_N ._END
@@ -325,7 +325,7 @@ Seg_N a_PREP sex_N das_PREP+ART 9h30_N às_PREP+ART 18h30_N ._END
 Até_PREP 29_N de_PREP julho_N ._END
 Jogo_NPROP Do_NPROP Olhar_NPROP -_PU O_ART fotógrafo_N Luiz_NPROP Carlos_NPROP Felizardo_NPROP expõe_V seu_PROADJ trabalho_N até_PREP dia_N 3_N de_PREP julho_N ._END
 A_ART exposição_N inclui_V contatos_N e_KC ampliações_N de_PREP paisagens_N ,_PU cenas_N urbanas_ADJ e_KC arquitetura_N ._END
-Masp_NPROP -_PU Museu_NPROP de_NPROP Arte_NPROP de_NPROP São_NPROP Paulo_NPROP Assis_NPROP Chateaubriand_NPROP (_PU av.Paulista_NPROP ._END
+Masp_NPROP -_PU Museu_NPROP de_NPROP Arte_NPROP de_NPROP São Paulo_NPROP Assis_NPROP Chateaubriand_NPROP (_PU av.Paulista_NPROP ._END
 ,_PU 1.578_NUM ,_PU tel_N ._END 251-5644_N )_PU ._END
 Sáb_N e_KC dom_N ,_PU das_PREP+ART 14h_N às_PREP+ART 18h_N ._END
 Uma_ART Luz_N no_PREP+ART Fim_N Do_PREP+ART Túnel_N -_PU Série_N de_PREP 36_NUM painéis_N fotográficos_ADJ que_PRO-KS mostra_V aspectos_N documentais_ADJ da_PREP+ART implantação_N das_PREP+ART ferrovias_N no_PREP+ART Brasil_NPROP no_PREP+ART período_N de_PREP 1870_N a_PREP 1940_N ._END
@@ -360,7 +360,7 @@ MARCELLO_NPROP NITSCHE_NPROP -_PU A_ART exposição_N individual_ADJ traz_V "_PU
 Ana_NPROP Cláudia_NPROP Roso_NPROP Escritório_NPROP de_NPROP Arte_NPROP (_PU r_N ._END
 José_NPROP Maria_NPROP Lisboa_NPROP ,_PU 1.008_NUM ,_PU tel_N ._END 881-6824_N )_PU ._END
 Seg_N a_PREP sex_N das_PREP+ART 14h_N às_PREP+ART 20h_N e_KC sáb_N das_PREP+ART 10h_N às_PREP+ART 14h_N ._END
-Marco_NPROP Paulo_NPROP ROLLA_NPROP -_PU O_ART artista_N plástico_ADJ mineiro_ADJ faz_V sua_PROADJ sétima_N individual_ADJ em_PREP São_NPROP Paulo_NPROP ,_PU com_PREP 11_NUM pinturas_N em_PREP acrílico_N sobre_PREP tela_N ._END
+Marco_NPROP Paulo_NPROP ROLLA_NPROP -_PU O_ART artista_N plástico_ADJ mineiro_ADJ faz_V sua_PROADJ sétima_N individual_ADJ em_PREP São Paulo_NPROP ,_PU com_PREP 11_NUM pinturas_N em_PREP acrílico_N sobre_PREP tela_N ._END
 Bento_NPROP Freitas_NPROP ,_PU 33_NUM ,_PU tel_N ._END 220-5910_N )_PU ._END
 Seg_N a_PREP sex_N das_PREP+ART 11h_N às_PREP+ART 19h_N e_KC sáb_N das_PREP+ART 11h_N às_PREP+ART 15h_N ._END
 MARCELO_NPROP VILLARES_NPROP -_PU O_ART artista_N expõe_V 18_NUM pinturas_N em_PREP colagem_N e_KC tinta_N acrílica_ADJ sobre_PREP madeira_N ._END
@@ -394,7 +394,7 @@ Até_PREP 17_N de_PREP julho_N ._END
 ,_PU 141_NUM ,_PU tel_N ._END 227-6329_N ,_PU Luz_NPROP )_PU ._END
 A_ART entrada_N é_V franca_ADJ ._END
 Norma_NPROP GRINBERG_NPROP -_PU A_ART artista_N expõe_V uma_ART instalação_N chamada_PCP "_PU Instalação_NPROP Humanóides_NPROP Transmutaões_NPROP :_PU "_PU ,_PU inspirada_PCP numa_PREP+ART figura_N humana_ADJ ._END
-Museu_NPROP de_NPROP Arte_NPROP Contemporânea_NPROP da_NPROP Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU r._NPROP da_NPROP Reitoria_NPROP ._END
+Museu_NPROP de_NPROP Arte_NPROP Contemporânea_NPROP da_NPROP Universidade_NPROP de_NPROP São Paulo_NPROP (_PU r._NPROP da_NPROP Reitoria_NPROP ._END
 De_PREP ter_N a_PREP sex_N das_PREP+ART 12h_N às_PREP+ART 20h_N ;_PU sáb_N e_KC dom_N das_PREP+ART 10h_N às_PREP+ART 18h_N ._END
 Até_PREP 7_N de_PREP agosto_N ._END
 Coletivas_N
@@ -404,7 +404,7 @@ Galeria_NPROP de_NPROP Arte_NPROP do_NPROP Sesi_NPROP (_PU av._NPROP Paulista_NP
 ,_PU 1.313_NUM ,_PU tel_N ._END 253-5877_N )_PU ._END
 De_PREP ter_N a_PREP sex_N das_PREP+ART 8h30_N às_PREP+ART 20h30_N ,_PU sáb_N e_KC dom_N das_PREP+ART 14h30_N às_PREP+ART 20h30_N ._END
 Contemporâneos_N no_PREP+ART Acervo_N Do_PREP+ART MASP_NPROP :_PU Décadas_N De_PREP 80_N E_KC 90_N -_PU Estarão_V expostas_PCP 28_NUM obras_N da_PREP+ART coleção_N do_PREP+ART museu_N de_PREP autoria_N de_PREP 23_NUM artistas_N ligados_PCP a_PREP várias_PROADJ tendências_N e_KC que_PRO-KS utilizam_V diversos_PROADJ meios_N de_PREP expressão_N ._END
-Masp_NPROP -_PU Museu_NPROP de_NPROP Arte_NPROP de_NPROP São_NPROP Paulo_NPROP Assis_NPROP Chateubriand_NPROP (_PU av.Paulista_NPROP ._END
+Masp_NPROP -_PU Museu_NPROP de_NPROP Arte_NPROP de_NPROP São Paulo_NPROP Assis_NPROP Chateubriand_NPROP (_PU av.Paulista_NPROP ._END
 Ter_N a_PREP sex_N das_PREP+ART 13h_N às_PREP+ART 17h_N ,_PU sáb_N e_KC dom_N das_PREP+ART 14h_N às_PREP+ART 18h_N ._END
 Dentre_PREP eles_PROPESS estão_V :_PU Gustavo_NPROP Rosa_NPROP ,_PU Aldemir_NPROP Martins_NPROP ,_PU João_NPROP Calixto_NPROP e_KC outros_PROSUB ._END
 Galeria_NPROP Gossman_NPROP (_PU r._NPROP Bela_NPROP Cintra_NPROP ._END
@@ -423,7 +423,7 @@ Espaço_NPROP Cultural_NPROP Citybank_NPROP (_PU av._NPROP Paulista_NPROP ._END
 Seg_N a_PREP sex_N ,_PU das_PREP+ART 10h_N às_PREP+ART 19h_N e_KC sáb_N ,_PU dom_N e_KC feriados_N das_PREP+ART 10h_N às_PREP+ART 16h_N ._END
 América_NPROP -_PU A_ART mostra_N de_PREP arte_N contemporânea_ADJ reúne_V 112_NUM destacados_PCP artistas_N de_PREP 38_NUM países_N diferentes_ADJ ,_PU comparando_V seus_PROADJ olhares_N sobre_PREP o_ART continente_N americano_ADJ ._END
 Dentre_PREP os_ART brasileiros_N estão_V presentes_ADJ :_PU Adir_NPROP Sodré_NPROP ,_PU Fernando_NPROP Baril_NPROP ,_PU Siron_NPROP Franco_NPROP e_KC outros_PROSUB ._END
-Masp_NPROP -_PU Museu_NPROP de_NPROP Arte_NPROP de_NPROP São_NPROP Paulo_NPROP Assis_NPROP Chateubriand_NPROP (_PU av._NPROP Paulista_NPROP ._END
+Masp_NPROP -_PU Museu_NPROP de_NPROP Arte_NPROP de_NPROP São Paulo_NPROP Assis_NPROP Chateubriand_NPROP (_PU av._NPROP Paulista_NPROP ._END
 A_ART exposição_N estará_V nos_PREP+ART mezaninos_N (_PU 1º_N e_KC 2º_N )_PU e_KC no_PREP+ART intermezanino_N ._END
 A_NPROP Arte_NPROP DOS_NPROP Imigrantes_NPROP Alemães_NPROP No_NPROP Brasil_NPROP -_PU A_ART exposição_N faz_V parte_N das_PREP+ART comemorações_N dos_PREP+ART 170_NUM anos_N de_PREP imigração_N dos_PREP+ART países_N de_PREP língua_N alemã_ADJ ._END
 Os_ART trabalhos_N expostos_PCP são_V das_PREP+ART artistas_N Gisela_NPROP Schmidt_NPROP e_KC Karin_NPROP Rosenbaum_NPROP ._END
@@ -438,8 +438,8 @@ Ter_N a_PREP sex_N ,_PU das_PREP+ART 12h_N às_PREP+ART 20h_N ,_PU sáb_N e_KC d
 Até_PREP 21_N de_PREP julho_N ._END
 Cries_NPROP And_NPROP WHISPERS_NPROP -_PU A_ART exposição_N reúne_V uma_ART seleção_N de_PREP pinturas_N e_KC desenhos_N em_PREP pastel_N de_PREP 19_NUM artistas_N britânicos_ADJ que_PRO-KS notabilizaram_V -se_PROPESS durante_PREP a_ART década_N de_PREP 70_N ._END
 Dentre_PREP eles_PROPESS estão_V :_PU Lisa_NPROP Milroy_NPROP ,_PU Steven_NPROP Campbell_NPROP e_KC Ansel_NPROP Krut_NPROP ._END
-2ª_ADJ Mostra_N Do_PREP+ART Programa_N Anual_ADJ De_PREP Exposições_N -_PU Centro_NPROP Cultural_NPROP São_NPROP Paulo_NPROP -_PU A_ART exposição_N coletiva_ADJ conta_V com_PREP a_ART participação_N dos_PREP+ART artistas_N Albano_NPROP Afonso_NPROP ,_PU Marcia_NPROP Xavier_NPROP ,_PU Fernando_NPROP Lucchesi_NPROP ,_PU Livia_NPROP Flores_NPROP e_KC outros_PROSUB ._END
-Centro_NPROP Cultural_NPROP São_NPROP Paulo_NPROP (_PU r.Vergueiro_NPROP ._END
+2ª_ADJ Mostra_N Do_PREP+ART Programa_N Anual_ADJ De_PREP Exposições_N -_PU Centro_NPROP Cultural_NPROP São Paulo_NPROP -_PU A_ART exposição_N coletiva_ADJ conta_V com_PREP a_ART participação_N dos_PREP+ART artistas_N Albano_NPROP Afonso_NPROP ,_PU Marcia_NPROP Xavier_NPROP ,_PU Fernando_NPROP Lucchesi_NPROP ,_PU Livia_NPROP Flores_NPROP e_KC outros_PROSUB ._END
+Centro_NPROP Cultural_NPROP São Paulo_NPROP (_PU r.Vergueiro_NPROP ._END
 ,_PU 1000_NUM ,_PU 664_NUM ,_PU tel_N ._END 277-3611_N )_PU ._END
 De_PREP ter_N a_PREP dom_N das_PREP+ART 9h_N às_PREP+ART 22h_N ._END
 Abertura_N hoje_ADV das_PREP+ART 20h_N às_PREP+ART 22h_N ._END
@@ -460,7 +460,7 @@ Quarta-feira_N tem_V programa_N duplo_ADJ no_PREP+ART Rio_NPROP ._END
 Os_ART amantes_N da_PREP+ART dança_N podem_V ir_V ao_PREP+ART Municipal_NPROP em_PREP seu_PROADJ modelo_N Tijuca_NPROP para_PREP ver_V o_ART Momix_NPROP (_PU lembra_V ?_PU )_PU e_KC o_ART espetáculo_N de_PREP Debora_NPROP Colker_NPROP ,_PU com_PREP figurinos_N do_PREP+ART premiado_PCP estilista_N de_PREP barbies_NPROP Tufi_NPROP Duek_NPROP ._END
 Depois_ADV ,_PU os_ART amantes_N do_PREP+ART bas-fond_N podem_V disputar_V um_ART convite_N para_PREP a_ART ValDemente_NPROP especial_ADJ patrocinada_PCP pela_PREP+ART Forum_NPROP ._END
 O_ART som_N ,_PU claro_ADJ ,_PU é_V de_PREP Felipe_NPROP Venâncio_NPROP ._END
-Ah_IN ,_PU e_KC diz_V que_KS já_ADV tem_V data_N a_ART versão_N da_PREP+ART ValDemente_NPROP em_PREP São_NPROP Paulo_NPROP ,_PU dia_N 27_N de_PREP julho_N ._END
+Ah_IN ,_PU e_KC diz_V que_KS já_ADV tem_V data_N a_ART versão_N da_PREP+ART ValDemente_NPROP em_PREP São Paulo_NPROP ,_PU dia_N 27_N de_PREP julho_N ._END
 A_PREP confirmar_V ._END
 E_KC Ricardo_NPROP van_NPROP Steen_NPROP deixou_V o_ART Brasil_NPROP no_PREP+ART fim-de-semana_N ,_PU depois_PREP de_PREP movimentar_V o_ART meio_N publicitário_ADJ com_PREP seu_PROADJ filme_N de_PREP chocolates_N com_PREP Gisela_NPROP Marques_NPROP interpretamdo_V Gilda_NPROP -_PU que_PRO-KS todos_PROSUB e_KC todas_PROSUB queriam_V fazer_V mas_KC foi_V para_PREP poucos_PROSUB e_KC poucas_PROSUB ._END
 Agora_ADV é_V a_ART vez_N de_PREP J._NPROP R._NPROP Duran_NPROP ._END ,_PU que_PRO-KS ,_PU no_PREP+ART Brasil_NPROP mesmo_PROADJ ,_PU inicia_V -se_PROPESS na_PREP+ART publicidade_N ,_PU a_PREP exemplo_N de_PREP ilustres_ADJ colegas_N ,_PU né_IN ?_PU
@@ -468,7 +468,7 @@ Passe_V perto_PREP dele_PREP+PROPESS e_KC faça_V seu_PROADJ melhor_ADJ bu_N ._E
 Se_PROPESS vira_V ._END
 Quer_V dançar_V ?_PU
 Tem_V Renato_NPROP Lopes_NPROP hoje_ADV e_KC amanhã_ADV no_PREP+ART Galpão_NPROP Paparazzi_NPROP ._END
-E_KC já_ADV é_V hit_N absoluto_ADJ de_PREP pista_N em_PREP São_NPROP Paulo_NPROP "_PU In_NPROP the_NPROP Ghetto_NPROP "_PU ,_PU de_PREP David_NPROP Morales_NPROP ._END
+E_KC já_ADV é_V hit_N absoluto_ADJ de_PREP pista_N em_PREP São Paulo_NPROP "_PU In_NPROP the_NPROP Ghetto_NPROP "_PU ,_PU de_PREP David_NPROP Morales_NPROP ._END
 E_KC são_V os_ART próprios_PROADJ DJs_N quem_PRO-KS jogam_V notas_N de_PREP dólares_N de_PREP brinquedo_N lá_ADV das_PREP+ART cabines_N ._END
 Solicite_V a_PREP seu_PROADJ DJ_N favorito_ADJ ._END
 Também_PDEN já_ADV estão_V escolhidos_PCP os_ART cinco_NUM clipes_N brasileiros_ADJ que_PRO-KS vão_V entrar_V na_PREP+ART votação_N do_PREP+ART público_N da_PREP+ART MTV_NPROP para_PREP o_ART Video_NPROP Music_NPROP Awards_NPROP (_PU VMA's_NPROP ,_PU pronuncia_V -se_PROPESS vi-e-meis_N )_PU ,_PU em_PREP setembro_N ._END
@@ -714,7 +714,7 @@ A_ART caixa_N com_PREP o_ART CD_N ,_PU disquete_N e_KC livreto_N custam_V US$_CU
 LUÍS_NPROP ANTÔNIO_NPROP GIRON_NPROP a_PREP convite_N da_PREP+ART Agência_NPROP Austríaca_NPROP de_NPROP Turismo_NPROP e_KC da_PREP+ART Lufthansa_NPROP
 Publicadas_PCP no_PREP+ART Brasil_NPROP
 Asa_N de_PREP morcego_N
-Teve_V cardápio_N especial_ADJ o_ART jantar_N de_PREP anteontem_ADV de_PREP José_NPROP Sarney_NPROP com_PREP Saulo_NPROP Ramos_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+Teve_V cardápio_N especial_ADJ o_ART jantar_N de_PREP anteontem_ADV de_PREP José_NPROP Sarney_NPROP com_PREP Saulo_NPROP Ramos_NPROP ,_PU em_PREP São Paulo_NPROP ._END
 Trazendo_V assim_ADV de_ADV volta_ADV o_ART marido_N de_PREP Marly_NPROP à_PREP+ART baila_N ._END
 Professor_NPROP Pardal_NPROP
 Apesar_PREP de_PREP levar_V todo_PROADJ o_ART jeito_N ,_PU Daniel_NPROP Dantas_NPROP ,_PU presidente_N do_PREP+ART -_PU Banco_NPROP Icatu_NPROP -_PU não_ADV pensa_V só_PDEN naquilo_PREP+PROSUB -_PU isto_PDEN é_PDEN ,_PU em_PREP cifras_N ._END
@@ -724,17 +724,17 @@ Foi_V de_PREP US$_CUR 130_NUM milhões_N a_ART oferta_N que_PRO-KS o_ART grupo_N
 E_KC apesar_PREP de_PREP ter_V esbarrado_PCP nos_PREP+ART números_N ,_PU a_ART proposta_N do_PREP+ART perdedor_N ,_PU o_ART Pactual-Avipal_NPROP ,_PU previa_V desembolso_N maior_ADJ na_PREP+ART primeira_ADJ parcela_N ._END
 O_ART mercado_N estranhou_V ._END
 Flipper_NPROP
-Teve_V motivo_N especial_ADJ a_ART aterrissagem_N de_PREP Lilibeth_NPROP Monteiro_NPROP de_NPROP Carvalho_NPROP anteontem_ADV em_PREP São_NPROP Paulo_NPROP ._END
+Teve_V motivo_N especial_ADJ a_ART aterrissagem_N de_PREP Lilibeth_NPROP Monteiro_NPROP de_NPROP Carvalho_NPROP anteontem_ADV em_PREP São Paulo_NPROP ._END
 Veio_V se_PROPESS juntar_V a_PREP Francine_NPROP e_KC Jacques_NPROP Cousteau_NPROP -_PU e_KC juntos_ADJ os_ART três_N foram_V recebidos_PCP ontem_ADV no_PREP+ART Palácio_NPROP dos_NPROP Bandeirantes_NPROP por_PREP Luiz_NPROP Antonio_NPROP Fleury_NPROP Filho_NPROP ._END
 Para_PREP discutir_V sobre_PREP ecologia_N -_PU e_KC projetos_N para_PREP gerações_N futuras_ADJ ._END
 Borracha_N
-ex-big_N boss_N do_PREP+ART São_NPROP Paulo_NPROP ,_PU José_NPROP Eduardo_NPROP Mesquita_NPROP Pimenta_NPROP tem_V projeto_N novo_ADJ para_PREP a_ART sua_PROADJ Secretaria_NPROP Municipal_NPROP de_NPROP Esportes_NPROP e_NPROP Recreação_NPROP ._END
-Quer_V organizar_V em_PREP São_NPROP Paulo_NPROP maratona_N tal_KS e_KS qual_KS a_PROSUB de_PREP Nova_NPROP York_NPROP ._END
+ex-big_N boss_N do_PREP+ART São Paulo_NPROP ,_PU José_NPROP Eduardo_NPROP Mesquita_NPROP Pimenta_NPROP tem_V projeto_N novo_ADJ para_PREP a_ART sua_PROADJ Secretaria_NPROP Municipal_NPROP de_NPROP Esportes_NPROP e_NPROP Recreação_NPROP ._END
+Quer_V organizar_V em_PREP São Paulo_NPROP maratona_N tal_KS e_KS qual_KS a_PROSUB de_PREP Nova_NPROP York_NPROP ._END
 Condão_N ;_PU Pantufas_N
 Condão_N
 Chegada_N a_PREP um_ART contato_N imediato_ADJ com_PREP ,_PU Plutão_NPROP ,_PU Júpiter_NPROP e_KC seus_PROADJ colegas_N ,_PU Lilly_NPROP de_NPROP Carvalho_NPROP tem_V interlocutora_N explícita_ADJ para_PREP questões_N astrológicas_ADJ ._END
 Trata_V -se_PROPESS da_PREP+ART Ex-frenética_N Leiloca_NPROP ,_PU expert_N no_PREP+ART ramo_N ._END
-Enquanto_KS a_ART Casa_NPROP Cor_NPROP ferve_V em_PREP São_NPROP Paulo_NPROP ,_PU Campos_NPROP do_NPROP Jordão_NPROP também_PDEN prepara_V sua_PROADJ versão_N própria_PROADJ para_PREP abrir_V o_ART inverno_N ._END
+Enquanto_KS a_ART Casa_NPROP Cor_NPROP ferve_V em_PREP São Paulo_NPROP ,_PU Campos_NPROP do_NPROP Jordão_NPROP também_PDEN prepara_V sua_PROADJ versão_N própria_PROADJ para_PREP abrir_V o_ART inverno_N ._END
 Com_PREP aval_N da_PREP+ART Tabacow_NPROP ,_PU estréia_V dia_N 3_N de_PREP julho_N -_PU e_KC terá_V o_ART château_N de_PREP Wesley_NPROP Duke_NPROP Lee_NPROP como_PREP cenário_N ._END
 Olacyr_NPROP de_NPROP Moraes_NPROP está_V fazendo_V escola_N ._END
 Também_PDEN rei_N -_PU só_PDEN que_PRO-KS do_PREP+ART -_PU arroz_N ,_PU Érico_NPROP Ribeiro_NPROP entrou_V naquela_PREP+PROSUB de_PREP dessa_PREP+PROADJ vida_N nada_PROSUB se_PROPESS leva_V ._END
@@ -801,9 +801,9 @@ Ulrich_NPROP escreveu_V tarde_ADV da_PREP+ART noite_N em_PREP seu_PROADJ diário
 Trechos_N inéditos_ADJ extraídos_PCP do_PREP+ART "_PU Rascunho_NPROP Literário_NPROP "_PU ,_PU de_PREP Robert_NPROP Musil_NPROP
 Diretora_N filma_V sua_PROADJ versão_N de_PREP Kafka_NPROP
 Da_PREP+ART Reportagem_NPROP Local_NPROP
-A_ART diretora_N Bia_NPROP Lessa_NPROP nasceu_V em_PREP São_NPROP Paulo_NPROP em_PREP 1958_N ._END
+A_ART diretora_N Bia_NPROP Lessa_NPROP nasceu_V em_PREP São Paulo_NPROP em_PREP 1958_N ._END
 Trabalhou_V com_PREP Antunes_NPROP Filho_NPROP ,_PU mas_KC começou_V sua_PROADJ carreira_N no_PREP+ART Rio_NPROP ,_PU onde_ADV-KS mora_V ._END
-Estreou_V em_PREP São_NPROP Paulo_NPROP em_PREP 84_N ,_PU no_PREP+ART teatro_N Mars_NPROP ,_PU com_PREP "_PU Exercício_NPROP nº_NPROP 1_NPROP "_PU ._END
+Estreou_V em_PREP São Paulo_NPROP em_PREP 84_N ,_PU no_PREP+ART teatro_N Mars_NPROP ,_PU com_PREP "_PU Exercício_NPROP nº_NPROP 1_NPROP "_PU ._END
 Suas_PROADJ peças_N mais_ADV conhecidas_PCP são_V "_PU Orlando_NPROP "_PU ,_PU "_PU Cartas_NPROP Portuguesas_NPROP "_PU ,_PU "_PU Don_NPROP Giovanni_NPROP "_PU e_KC "_PU Viagem_NPROP ao_NPROP Centro_NPROP da_NPROP Terra_NPROP "_PU ._END
 (_PU MC_NPROP )_PU
 Escritor_N publicou_V romances_N ,_PU novelas_N e_KC peças_N
@@ -906,7 +906,7 @@ Agora_ADV ,_PU com_PREP os_ART Atores_NPROP do_NPROP Cricot_NPROP 2_NPROP ,_PU j
 "_PU Como_ADV será_V agora_ADV sem_PREP ele_PROPESS ,_PU ou_KC será_V que_KS não_ADV será_V ?_PU "_PU ,_PU perguntava_V Gerald_NPROP Thomas_NPROP ,_PU nesta_PREP+PROADJ Folha_NPROP ,_PU quando_PREP da_PREP+ART morte_N do_PREP+ART polonês_N ,_PU em_PREP 1990_N ._END
 o_PROSUB que_PRO-KS se_PROPESS viu_V em_PREP "_PU Manjacy_NPROP "_PU ,_PU ou_KC "_PU Maníacos_NPROP "_PU ,_PU a_ART resposta_N é_V que_PRO-KS não_ADV é_V grande_ADJ coisa_N ,_PU mais_ADV ._END
 Eles_PROPESS seguem_V museologicamente_ADV no_PREP+ART mesmo_PROADJ "_PU teatro_N da_PREP+ART morte_N "_PU ._END
-Tanto_KS que_KS logo_ADV se_PROPESS diz_V que_KS "_PU nada_PROSUB vai_V acontecer_V aqui_ADV "_PU -_PU uma_PROSUB das_PREP+ART primeiras_N das_PREP+ART poucas_PROADJ frases_N decoradas_PCP em_PREP português_N para_PREP as_ART apresentações_N em_PREP São_NPROP Paulo_NPROP ._END
+Tanto_KS que_KS logo_ADV se_PROPESS diz_V que_KS "_PU nada_PROSUB vai_V acontecer_V aqui_ADV "_PU -_PU uma_PROSUB das_PREP+ART primeiras_N das_PREP+ART poucas_PROADJ frases_N decoradas_PCP em_PREP português_N para_PREP as_ART apresentações_N em_PREP São Paulo_NPROP ._END
 Quer_V dizer_V ,_PU cenas_N vão_V -se_PROPESS acumulando_V sem_PREP nexo_N ._END
 Impressões_N ,_PU imagens_N ,_PU pequenas_ADJ brincadeiras_N e_KC ironias_N ._END
 Maníacos_NPROP seriam_V -_PU esta_PROSUB é_V a_ART idéia_N -_PU os_ART atores_N ,_PU que_PRO-KS agem_V como_PREP bonecos_N ,_PU com_PREP movimentos_N repetitivos_ADJ ,_PU algo_N obsessivos_ADJ ,_PU como_KS era_V do_PREP+ART diretor_N ._END
@@ -1232,7 +1232,7 @@ A_ART emissora_N brasileira_ADJ promete_V exibir_V -lo_PROPESS sem_PREP cortes_N
 Produzido_PCP pela_PREP+ART norte-americana_ADJ Abc_NPROP ,_PU o_ART "_PU World_NPROP News_NPROP "_PU tem_V como_PREP âncora_N o_ART canadense_N Peter_NPROP Jennings_NPROP ,_PU ex-correspondente_N em_PREP Londres_NPROP e_KC Tóquio_NPROP ._END
 Nos_PREP+ART Estados_NPROP Unidos_NPROP ,_PU o_ART telejornal_N ocupa_V a_ART faixa_N das_PREP+ART 18h30_N às_PREP+ART 19h_N (_PU horário_N de_PREP Nova_NPROP York_NPROP )_PU ._END
 No_PREP+ART Brasil_NPROP ,_PU vai_V abrir_V e_KC fechar_V a_ART programação_N da_PREP+ART Bandeirantes_NPROP ._END
-emissora_N de_PREP São_NPROP Paulo_NPROP pretende_V mostrar_V -lo_PROPESS ,_PU portanto_KC ,_PU logo_ADV após_PREP o_ART "_PU Jornal_NPROP da_NPROP Noite_NPROP "_PU ,_PU que_PRO-KS costuma_V terminar_V entre_PREP 0h30_N e_KC 1h_N ._END
+emissora_N de_PREP São Paulo_NPROP pretende_V mostrar_V -lo_PROPESS ,_PU portanto_KC ,_PU logo_ADV após_PREP o_ART "_PU Jornal_NPROP da_NPROP Noite_NPROP "_PU ,_PU que_PRO-KS costuma_V terminar_V entre_PREP 0h30_N e_KC 1h_N ._END
 Pretende_V ,_PU também_PDEN ,_PU reprisar_V -lo_PROPESS no_PREP+ART dia_N seguinte_ADJ ,_PU às_PREP+ART 5h_N -_PU trinta_NUM minutos_N antes_PREP do_PREP+ART programa_N religioso_ADJ "_PU Igreja_NPROP da_NPROP Graça_NPROP "_PU ._END
 Dentro_PREP de_PREP uma_NUM semana_N ,_PU em_PREP Nova_NPROP York_NPROP ,_PU o_ART superintendente_N da_PREP+ART Bandeirantes_NPROP ,_PU Roberto_NPROP de_NPROP Oliveira_NPROP ,_PU deverá_V assinar_V com_PREP a_ART Abc_NPROP o_ART contrato_N que_PRO-KS permitirá_V a_ART retransmissão_N do_PREP+ART "_PU World_NPROP News_NPROP "_PU ._END
 O_ART acordo_N terá_V validade_N de_PREP dois_NUM anos_N ._END
@@ -1334,7 +1334,7 @@ Masoquismo_N
 É_V uma_ART vingança_N ,_PU uma_ART humilhação_N ._END
 FHC_NPROP tem_V todas_PROADJ as_ART razões_N do_PREP+ART mundo_N para_PREP ser_V vaidoso_ADJ ._END
 Já_ADV escrevi_V sobre_PREP isso_PROSUB :_PU quem_PROSUB ,_PU no_PREP+ART papel_N de_PREP intelectual_N brilhante_ADJ ,_PU de_PREP bom_ADJ de_PREP boca_N ,_PU de_PREP sedutor_N ,_PU teria_V a_ART força_N de_PREP ser_V tímido_ADJ e_KC modesto_ADJ ?_PU
-Mas_KC ele_PROPESS aprendeu_V muito_PROSUB ,_PU até_PDEN demais_PROSUB ,_PU com_PREP a_ART derrota_N que_PRO-KS sofreu_V para_PREP Jânio_NPROP na_PREP+ART disputa_N pela_PREP+ART Prefeitura_N de_PREP São_NPROP Paulo_NPROP ._END
+Mas_KC ele_PROPESS aprendeu_V muito_PROSUB ,_PU até_PDEN demais_PROSUB ,_PU com_PREP a_ART derrota_N que_PRO-KS sofreu_V para_PREP Jânio_NPROP na_PREP+ART disputa_N pela_PREP+ART Prefeitura_N de_PREP São Paulo_NPROP ._END
 Tinha_V -se_PROPESS sentado_PCP ,_PU triunfante_ADJ ,_PU antes_PREP das_PREP+ART eleições_N ,_PU na_PREP+ART cadeira_N do_PREP+ART prefeito_N ._END
 Perdeu_V ._END
 O_ART seu_PROADJ lado_N pimpão_ADJ ,_PU pavoneante_ADJ ,_PU teve_V de_PREP retrair_V -se_PROPESS ._END
@@ -1375,11 +1375,11 @@ Começa_V hoje_ADV a_ART mostra_N que_PRO-KS comemora_V os_ART 30_NUM anos_N da_
 Evento_N :_PU Glauber_NPROP Rocha_NPROP ,_PU um_NPROP Leão_NPROP ao_NPROP Meio-Dia_NPROP
 Exposição_N de_PREP desenhos_N :_PU a_PREP partir_PREP de_PREP hoje_ADV até_PREP dia_N 26_N ,_PU das_PREP+ART 14h_N às_PREP+ART 22h_N (_PU de_PREP terça_N a_PREP domingo_N )_PU
 Onde_ADV :_PU Mis_NPROP (_PU av._NPROP Europa_NPROP ._END
-,_PU 158_NUM ,_PU tel_N ._END 280-0896_N ,_PU Jardins_NPROP ,_PU zona_N oeste_ADJ de_PREP São_NPROP Paulo_NPROP )_PU
+,_PU 158_NUM ,_PU tel_N ._END 280-0896_N ,_PU Jardins_NPROP ,_PU zona_N oeste_ADJ de_PREP São Paulo_NPROP )_PU
 Entrada_N :_PU franca_ADJ
 O_ART Mis_NPROP comemora_V os_ART 30_NUM anos_N da_PREP+ART primeira_ADJ exibição_N de_PREP "_PU Deus_NPROP e_NPROP o_NPROP Diabo_NPROP na_NPROP Terra_NPROP do_NPROP Sol_NPROP "_PU ,_PU de_PREP Glauber_NPROP Rocha_NPROP (_PU 1939-1981_N )_PU ,_PU com_PREP um_ART evento_N que_PRO-KS reúne_V os_ART filmes_N e_KC uma_ART exposição_N de_PREP desenhos_N do_PREP+ART cineasta_N ._END
 O_ART único_ADJ filme_N ausente_ADJ na_PREP+ART mostra_N do_PREP+ART Mis_NPROP é_V o_ART curta-metragem_N "_PU Di_NPROP "_PU (_PU 1977_N )_PU ,_PU interditado_PCP judicialmente_ADV para_PREP exibição_N a_PREP pedido_N da_PREP+ART família_N do_PREP+ART pintor_N Di_NPROP Cavalcanti_NPROP ._END
-A_ART exposição_N de_PREP desenhos_N ,_PU inédita_ADJ em_PREP São_NPROP Paulo_NPROP ,_PU traz_V imagens_N produzidas_PCP a_PREP lápis_N ,_PU caneta_N esferográfica_ADJ e_KC hidrográfica_ADJ ,_PU registrando_V esboços_N de_PREP roteiros_N que_PRO-KS ilustravam_V suas_PROADJ anotações_N ._END
+A_ART exposição_N de_PREP desenhos_N ,_PU inédita_ADJ em_PREP São Paulo_NPROP ,_PU traz_V imagens_N produzidas_PCP a_PREP lápis_N ,_PU caneta_N esferográfica_ADJ e_KC hidrográfica_ADJ ,_PU registrando_V esboços_N de_PREP roteiros_N que_PRO-KS ilustravam_V suas_PROADJ anotações_N ._END
 Sua_PROADJ mãe_N ,_PU Lúcia_NPROP Rocha_NPROP ,_PU costumava_V recolher_V -los_PROPESS e_KC passava_V -os_PROPESS a_PREP ferro_N ,_PU arquivando_V a_ART coleção_N ._END
 Nos_PREP+ART desenhos_N ,_PU destaca_V -se_PROPESS a_ART preocupação_N de_PREP Glauber_NPROP em_PREP estilizar_V arquétipos_N ,_PU como_PREP a_ART figura_N de_PREP um_ART santo_N ou_KC de_PREP um_ART Jesus_NPROP na_PREP+ART cruz_N ,_PU delineando_V os_ART tipos_N mitológicos_ADJ personalizados_PCP em_PREP seus_PROADJ filmes_N ._END
 Os_ART personagens_N que_PRO-KS habitam_V sua_PROADJ obra_N são_V ,_PU numa_PREP+ART primeira_ADJ fase_N ,_PU personificações_N simbólicas_ADJ que_PRO-KS se_PROPESS chocam_V num_PREP+ART universo_N agreste_ADJ e_KC atemporal_ADJ ._END
@@ -1440,7 +1440,7 @@ O_ART compositor_N mineiro_ADJ fez_V uma_ART pausa_N na_PREP+ART turnê_N mundia
 Milton_NPROP vem_V à_PREP+ART cidade_N para_PREP o_ART show_N no_PREP+ART Ibirapuera_NPROP ._END
 Depois_ADV ,_PU se_PROPESS apresenta_V em_PREP Campinas_NPROP ,_PU no_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP e_KC Lisboa_NPROP ,_PU danda_V início_N a_ART parte_N européia_ADJ de_PREP sua_PROADJ turnê_N ._END
 Seus_PROADJ shows_N no_PREP+ART exterior_N continuam_V no_PREP+ART segundo_ADJ semestre_N ,_PU com_PREP datas_N agendadas_PCP nos_PREP+ART Estados_NPROP Unidos_NPROP e_KC em_PREP países_N da_PREP+ART Europa_NPROP ._END
-A_ART apresentação_N de_PREP Milton_NPROP com_PREP a_ART Orquestra_NPROP Sinfônica_NPROP de_NPROP Campinas_NPROP faz_V parte_N do_PREP+ART projeto_N São_NPROP Paulo_NPROP Passo_NPROP e_NPROP Compasso_NPROP ,_PU da_PREP+ART Secretaria_NPROP Municipal_NPROP de_NPROP Cultura_NPROP ._END
+A_ART apresentação_N de_PREP Milton_NPROP com_PREP a_ART Orquestra_NPROP Sinfônica_NPROP de_NPROP Campinas_NPROP faz_V parte_N do_PREP+ART projeto_N São Paulo_NPROP Passo_NPROP e_NPROP Compasso_NPROP ,_PU da_PREP+ART Secretaria_NPROP Municipal_NPROP de_NPROP Cultura_NPROP ._END
 '_PU Pic_NPROP e_NPROP Nic_NPROP '_PU diverte_V com_PREP cenas_N previsíveis_ADJ
 Mônica_NPROP RODRIGUES_NPROP Costa_NPROP
 Editora_N da_PREP+ART Folhinha_NPROP
@@ -1523,7 +1523,7 @@ Abrindo_V o_ART programa_N de_PREP hoje_ADV e_KC amanhã_ADV aparece_V a_ART Ice
 Já_ADV na_PREP+ART quinta-feira_N ,_PU a_ART abertura_N fica_V com_PREP o_ART saxofonista_N Derico_NPROP Sciotti_NPROP ,_PU que_PRO-KS acaba_V de_PREP lançar_V seu_PROADJ CD_N ._END
 Shows_N :_PU Raul_NPROP de_NPROP Souza_NPROP ,_PU Tributo_N a_ART Albert_NPROP Collins_NPROP e_KC Derico_NPROP Sciotti_NPROP
 Onde_ADV :_PU Bourbon_NPROP Street_NPROP (_PU r._NPROP dos_NPROP Chanés_NPROP
-,_PU 127_NUM ,_PU tel_N ._END 61-1643_N ,_PU Moema_NPROP ,_PU zona_N sul_ADJ de_PREP São_NPROP Paulo_NPROP )_PU
+,_PU 127_NUM ,_PU tel_N ._END 61-1643_N ,_PU Moema_NPROP ,_PU zona_N sul_ADJ de_PREP São Paulo_NPROP )_PU
 :_PU Cr$_CUR 5.000_NUM (_PU couvert_N artístico_ADJ )_PU ;_PU Cr$_CUR 4.500_NUM (_PU consumação_N mínima_ADJ )_PU
 Chega_V ao_PREP+ART Brasil_NPROP pacote_N com_PREP nove_NUM CDs_N de_PREP obras_N italianas_ADJ e_KC alemãs_ADJ ._END
 PÁG_N ._END
@@ -1615,7 +1615,7 @@ Neles_PREP+PROPESS escancarou_V o_PRO-KS que_PRO-KS durante_PREP anos_N vira_V e
 Vangloriou_V -se_PROPESS de_PREP ser_V a_ART única_ADJ pessoa_N com_PREP a_ART capacidade_N e_KC a_ART coragem_N de_PREP escrever_V tudo_PROADJ aquilo_PROSUB ._END
 "_PU Nunca_ADV tive_V os_ART mesmos_PROADJ valores_N daquela_PREP+PROADJ gente_N "_PU ,_PU explicou_V -se_PROPESS ._END
 E_KC foi_V definitivamente_ADV expulso_PCP do_PREP+ART Olimpo_NPROP ._END
-Como_KS não_ADV podia_V deixar_V de_PREP ser_V ,_PU há_V mais_PROADJ homossexuais_N nas_PREP+ART páginas_N de_PREP "_PU Capote,_NPROP Uma_NPROP Biografia_NPROP ,_PU "_PU do_KS que_KS nas_PREP+ART ruas_N de_PREP São_NPROP Francisco_NPROP ._END
+Como_KS não_ADV podia_V deixar_V de_PREP ser_V ,_PU há_V mais_PROADJ homossexuais_N nas_PREP+ART páginas_N de_PREP "_PU Capote,_NPROP Uma_NPROP Biografia_NPROP ,_PU "_PU do_KS que_KS nas_PREP+ART ruas_N de_PREP São Francisco_NPROP ._END
 De_PREP Chistopher_NPROP Isherwood_NPROP a_PREP Gore_NPROP Vidal_NPROP ,_PU passando_V por_PREP Cole_NPROP Porter_NPROP ,_PU Tennessee_NPROP Williams_NPROP ,_PU Cecil_NPROP Beaton_NPROP ,_PU Harold_NPROP Nicholson_NPROP ,_PU Andy_NPROP Warhol_NPROP ,_PU Yukio_NPROP Mishima_NPROP e_KC Montgomery_NPROP Clift_NPROP ,_PU entre_PREP outros_PROSUB menos_ADV célebres_ADJ -_PU quase_ADV todos_PROADJ personagens_N de_PREP algum_PROADJ episódio_N escabroso_ADJ e_KC deprimente_ADJ ._END
 Capote_NPROP teve_V três_NUM grandes_ADJ amantes_N fixos_PCP ,_PU ilustres_ADJ desconhecidos_N ,_PU e_KC diversos_PROADJ casos_N fugazes_ADJ com_PREP parceiros_N de_PREP variada_PCP extração_N ,_PU conquistados_PCP em_PREP saunas_N e_KC coquetéis_N ._END
 Jurava_V ter_V dormido_PCP com_PREP os_ART atores_N Errol_NPROP Flynn_NPROP (_PU "_PU estávamos_V de_PREP porre_N e_KC ele_PROPESS demorou_V a_PREP gozar_V "_PU )_PU e_KC John_NPROP Garfield_NPROP (_PU também_PDEN "_PU cantado_PCP "_PU por_PREP sua_PROADJ mãe_N )_PU ,_PU mas_KC a_ART mais_ADV fantástica_ADJ de_PREP suas_PROADJ façanhas_N foi_V a_ART transa_N que_PRO-KS teria_V tido_PCP com_PREP o_ART seu_PROADJ editor_N francês_ADJ ,_PU na_PREP+ART Gallimard_NPROP :_PU o_ART escritor_N Albert_NPROP Camus_NPROP ,_PU tido_PCP e_KC havido_PCP como_PREP heterossexual_N convicto_ADJ e_KC mulherengo_ADJ ._END
@@ -1680,7 +1680,7 @@ Prova_N disso_PREP+PROSUB é_V a_ART exposição_N que_PRO-KS Wulf_NPROP Werzoge
 São_V 124_NUM fotos_N de_PREP 41_NUM autores_N ,_PU que_PRO-KS além_PREP de_PREP documentais_N valem_V como_PREP obras_N de_PREP arte_N em_PREP si_PROPESS mesmas_PROADJ ._END
 A_ART mostra_N chega_V ao_PREP+ART Brasil_NPROP com_PREP dez_NUM anos_N de_PREP atraso_N ,_PU mas_KC devidamente_ADV atualizada_PCP ._END
 Já_ADV percorreu_V a_ART Europa_NPROP ,_PU andou_V pelos_PREP+ART EUA_NPROP e_KC ,_PU no_PREP+ART ano_N passado_PCP ,_PU esteve_V na_PREP+ART Colômbia_NPROP ,_PU Peru_NPROP ,_PU Bolívia_NPROP e_KC Equador_NPROP ._END
-Promovida_PCP pelo_PREP+ART Instituto_NPROP de_NPROP Relações_NPROP Culturais_NPROP com_PREP o_ART Exterior_N ,_PU órgão_N do_PREP+ART governo_N alemão_ADJ ,_PU voltou_V a_PREP Stuttgart_NPROP para_PREP restaurada_PCP e_KC agora_ADV desembarca_V no_PREP+ART Brasil_NPROP por_PREP conta_N do_PREP+ART Instituto_NPROP Goethe_NPROP ,_PU que_PRO-KS a_PROPESS levará_V depois_ADV a_PREP Belo_NPROP Horizonte_NPROP ,_PU Salvador_NPROP ,_PU Recife_NPROP ,_PU Brasília_NPROP ,_PU Curitiba_NPROP ,_PU Florianópolis_NPROP ,_PU Porto_NPROP Alegre_NPROP e_KC São_NPROP Paulo_NPROP ._END
+Promovida_PCP pelo_PREP+ART Instituto_NPROP de_NPROP Relações_NPROP Culturais_NPROP com_PREP o_ART Exterior_N ,_PU órgão_N do_PREP+ART governo_N alemão_ADJ ,_PU voltou_V a_PREP Stuttgart_NPROP para_PREP restaurada_PCP e_KC agora_ADV desembarca_V no_PREP+ART Brasil_NPROP por_PREP conta_N do_PREP+ART Instituto_NPROP Goethe_NPROP ,_PU que_PRO-KS a_PROPESS levará_V depois_ADV a_PREP Belo_NPROP Horizonte_NPROP ,_PU Salvador_NPROP ,_PU Recife_NPROP ,_PU Brasília_NPROP ,_PU Curitiba_NPROP ,_PU Florianópolis_NPROP ,_PU Porto_NPROP Alegre_NPROP e_KC São Paulo_NPROP ._END
 Quem_PROSUB vê_V as_ART fotos_N hoje_ADV -_PU travando_V contato_N com_PREP as_ART obras_N de_PREP arte_N e_KC paisagens_N que_PRO-KS -_PU talvez_PDEN estranhe_V que_KS um_ART dia_N trabalhos_N de_PREP fotógrafos_N como_PREP Josef_NPROP Albers_NPROP ,_PU Gertrud_NPROP Arndt_NPROP ,_PU Eugen_NPROP Batz_NPROP ,_PU Herbert_NPROP Bayer_NPROP ,_PU Erich_NPROP Cosemuller_NPROP ,_PU Kathina_NPROP Both_NPROP ,_PU Laszló_NPROP Maholy-Nagy_NPROP ,_PU Edumund_NPROP Collein_NPROP ,_PU Warner_NPROP Graef_NPROP e_KC T._NPROP Luz_NPROP Feininger_NPROP tenham_V sido_PCP considerados_PCP menores_ADJ ._END
 "_PU Na_PREP+ART primeira_ADJ fase_N da_PREP+ART Bauhaus_NPROP ,_PU marcada_PCP pelo_PREP+ART expressionismo_N ,_PU a_ART fotografia_N não_ADV tinha_V muita_PROADJ importância_N ._END
 Inclusive_PDEN como_PREP passatempo_N ,_PU seja_V entre_PREP os_ART estudantes_N ,_PU seja_V entre_PREP os_ART professores_N ,_PU era_V pouco_ADV empregada_PCP ._END
@@ -1700,7 +1700,7 @@ Assim_ADV ,_PU passaram_V a_ART noite_N -_PU uma_PROSUB com_PREP gestos_N desesp
 Exausta_PCP com_PREP o_ART esforço_N ,_PU a_ART rã_N maior_ADJ morreu_V afogada_PCP ._END
 A_ART outra_PROSUB conseguiu_V boiar_V a_ART noite_N inteira_ADJ -_PU e_KC ,_PU quando_KS ,_PU na_PREP+ART manhã_N seguinte_ADJ ,_PU resolveu_V entregar_V -se_PROPESS à_PREP+ART morte_N ,_PU reparou_V que_KS os_ART movimentos_N de_PREP sua_PROADJ companheira_N haviam_V transformado_PCP o_ART leite_N em_PREP manteiga_N ._END
 Valeska_NPROP Soares_NPROP deixa_V arte_N morrer_V ao_ADV vivo_ADV
-A_ART artista_N ,_PU selecionada_PCP para_PREP a_ART Bienal_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU expõe_V hoje_ADV seus_PROADJ objetos_N na_PREP+ART galeria_N Camargo_NPROP Villaça_NPROP
+A_ART artista_N ,_PU selecionada_PCP para_PREP a_ART Bienal_NPROP de_PREP São Paulo_NPROP ,_PU expõe_V hoje_ADV seus_PROADJ objetos_N na_PREP+ART galeria_N Camargo_NPROP Villaça_NPROP
 Exposição_N :_PU Valeska_NPROP Soares_NPROP
 Obras_N :_PU Instalação_N ,_PU objetos_N e_KC fotografias_N
 Onde_ADV :_PU galeria_N Camargo_NPROP Villaça_NPROP (_PU r_N ._END
@@ -1708,7 +1708,7 @@ Fradique_NPROP Coutinho_NPROP ,_PU 1.500_NUM ,_PU Vila_NPROP Madalena_NPROP ,_PU
 Há_V uma_ART imagem_N horrível_ADJ na_PREP+ART nova_ADJ exposição_N de_PREP Valeska_NPROP Soares_NPROP ._END
 A_ART fotografia_N de_PREP um_ART buraco_N que_PRO-KS se_PROPESS assemelha_V a_PREP um_ART umbigo_N mas_KC não_ADV é_V ,_PU um_ART buraco_N em_PREP forma_PREP de_PREP gota_N de_PREP onde_KS sai_V uma_ART secreção_N prateada_PCP ,_PU colocado_PCP (_PU porque_KS há_V um_ART aspecto_N artificial_ADJ nessa_PREP+PROADJ fenda_N )_PU em_PREP alguma_PROADJ parte_N irreconhecível_ADJ de_PREP um_ART corpo_N humano_ADJ emoldurado_PCP por_PREP um_ART tecido_N de_PREP veludo_N vermelho_ADJ ._END
 É_V uma_ART fantasia_N você_PROPESS pensar_V que_KS é_V puro_ADJ ou_KC perverso_ADJ ._END
-Na_PREP+ART verdade_N ,_PU você_PROPESS é_V as_ART duas_NUM coisas_N "_PU ,_PU diz_V Soares_NPROP ,_PU 37_NUM ,_PU que_PRO-KS está_V entre_PREP os_ART brasileiros_N selecionados_PCP para_PREP a_ART Bienal_NPROP de_PREP São_NPROP Paulo_NPROP deste_PREP+PROADJ ano_N ._END
+Na_PREP+ART verdade_N ,_PU você_PROPESS é_V as_ART duas_NUM coisas_N "_PU ,_PU diz_V Soares_NPROP ,_PU 37_NUM ,_PU que_PRO-KS está_V entre_PREP os_ART brasileiros_N selecionados_PCP para_PREP a_ART Bienal_NPROP de_PREP São Paulo_NPROP deste_PREP+PROADJ ano_N ._END
 "_PU Trabalho_V com_PREP um_ART sistema_N de_PREP oposições_N :_PU repulsa/atração_N ,_PU feminino/masculino_N "_PU ,_PU diz_V a_ART artista_N ._END
 Sua_PROADJ representação_N do_PREP+ART corpo_N ,_PU por_PDEN exemplo_PDEN ,_PU carrega_V a_ART marca_N de_PREP algo_PROSUB artificial_ADJ ,_PU construído_PCP ,_PU falso_ADJ ._END
 O_PROSUB mais_ADV perturbador_ADJ ,_PU porém_KC ,_PU é_V que_KS essa_PROADJ "_PU artificialidade_N "_PU não_ADV é_V um_ART mero_ADJ jogo_N de_PREP simulações_N estéticas_ADJ ._END
@@ -1944,7 +1944,7 @@ Ele_PROPESS telefonou_V esta_PROADJ semana_N para_PREP o_ART primeiro-irmão_N L
 Recebeu_V um_ART "_PU não_N "_PU ._END
 Carvalho_N
 Começa_V a_PREP surgir_V no_PREP+ART PT_NPROP uma_ART saída_N para_PREP Lula_NPROP -_PU caso_KS ele_PROPESS perca_V a_ART corrida_N rumo_PREP ao_PREP+ART Planalto_N ._END
-Batizado_PCP de_PREP Projeto_NPROP Lula_NPROP 96_NPROP ,_PU tentaria_V transformar_V o_ART candidato_N em_PREP prefeito_N de_PREP São_NPROP Paulo_NPROP ._END
+Batizado_PCP de_PREP Projeto_NPROP Lula_NPROP 96_NPROP ,_PU tentaria_V transformar_V o_ART candidato_N em_PREP prefeito_N de_PREP São Paulo_NPROP ._END
 Com_PREP toda_PROADJ a_ART visibilidade_N a_PREP que_PRO-KS o_ART cargo_N dá_V direito_N ._END
 Caramelo_N
 Mas_KC só_PDEN as_PROSUB que_PRO-KS não_ADV mostram_V nada_PROSUB de_PREP comprometedor_ADJ ._END
@@ -1972,7 +1972,7 @@ Estréia_V no_PREP+ART métier_N como_PREP co-produtora_N Cosette_NPROP Alves_NP
 Veio_V com_PREP trilha_N sonora_ADJ caseira_ADJ o_ART último_ADJ programa_N do_PREP+ART PSDB_NPROP no_PREP+ART horário_N gratuito_ADJ ._END
 O_ART coro_N que_PRO-KS mandava_V ver_V naquela_PREP+PROADJ musiquinha_N de_PREP campanha_N era_V formado_PCP por_PREP produtores_N ,_PU redatores_N ,_PU enfim_ADV por_PREP toda_PROADJ a_ART -_PU Geraldo_NPROP Walther_NPROP e_KC Nizan_NPROP Guanaes_NPROP Compris_NPROP ._END
 As_ART pastilhas_N Valda_NPROP demonstraram_V ser_V bálsamo_N ideal_ADJ para_PREP candidatos_N à_PREP+ART beira_N das_PREP+ART urnas_N ._END
-É_V terça-feira_N a_ART estréia_N de_PREP José_NPROP Spaniol_NPROP na_PREP+ART galeria_N São_NPROP Paulo_NPROP ._END
+É_V terça-feira_N a_ART estréia_N de_PREP José_NPROP Spaniol_NPROP na_PREP+ART galeria_N São Paulo_NPROP ._END
 Com_PREP cocktail_N no_PREP+ART Escritório_N de_PREP arte_N de_PREP Renato_NPROP Magalhães_NPROP Gouvêa_NPROP ,_PU Oded_NPROP Grajew_NPROP pilota_V quinta-feira_N o_ART lançamento_N do_PREP+ART cartão_N de_PREP crédito_N Fundação_NPROP Abrinq_NPROP Visa_NPROP Internacional_NPROP ._END
 Louco_ADJ para_PREP ter_V um_ART Jaguar_NPROP ,_PU Clóvis_NPROP Callia_NPROP abocanhou_V a_ART conta_N :_PU é_V a_ART Standard_NPROP Ogilvy_NPROP &_NPROP Mather_NPROP que_PRO-KS vai_V cuidar_V da_PREP+ART comunicação_N do_PREP+ART lançamento_N do_PREP+ART carro_N no_PREP+ART Brasil_NPROP ._END
 Com_PREP um_NUM pé_N na_PREP+ART Bienal_NPROP e_KC outro_PROSUB na_PREP+ART Feira_NPROP de_NPROP Frankfurt_NPROP ,_PU Pedro_NPROP Paulo_NPROP de_NPROP Sena_NPROP Madureira_NPROP embarca_V hoje_ADV para_PREP a_ART Alemanha_NPROP ._END
@@ -2112,7 +2112,7 @@ Na_PREP+ART quinta-feira_N ,_PU a_ART gravadora_N alemã_ADJ Deutsche_NPROP Gram
 "_PU Tracing_NPROP Narcissus_NPROP "_PU volta_V à_PREP+ART cena_N em_PREP Nova_NPROP York_NPROP e_KC no_PREP+ART Festival_NPROP de_NPROP Viena_NPROP ,_PU no_PREP+ART ano_N que_PRO-KS vem_V ._END
 18ª_ADJ Mostra_NPROP exibe_V 20_NUM clássicos_N restaurados_PCP
 Cinco_NUM faroestes_N de_PREP John_NPROP Ford_NPROP e_KC quatro_NUM musicais_N de_PREP Vincente_NPROP Minnelli_NPROP estão_V entre_PREP as_ART principais_ADJ atrações_N do_PREP+ART festival_N
-Esta_PROSUB é_V para_PREP os_ART cinéfilos_N começarem_V a_PREP fazer_V fila_N desde_PREP hoje_ADV :_PU a_PREP 18ª_ADJ Mostra_NPROP Internacional_NPROP de_NPROP Cinema_NPROP de_PREP São_NPROP Paulo_NPROP fechou_V a_ART exibição_N de_PREP 11_NUM musicais_N da_PREP+ART Metro_NPROP e_KC de_PREP nove_NUM faroestes_N clássicos_ADJ ._END
+Esta_PROSUB é_V para_PREP os_ART cinéfilos_N começarem_V a_PREP fazer_V fila_N desde_PREP hoje_ADV :_PU a_PREP 18ª_ADJ Mostra_NPROP Internacional_NPROP de_NPROP Cinema_NPROP de_PREP São Paulo_NPROP fechou_V a_ART exibição_N de_PREP 11_NUM musicais_N da_PREP+ART Metro_NPROP e_KC de_PREP nove_NUM faroestes_N clássicos_ADJ ._END
 Mas_KC ,_PU cópias_N dos_PREP+ART 20_NUM filmes_N são_V em_PREP 35_NUM mm._N e_KC foram_V restauradas_PCP (_PU uma_ART associação_N da_PREP+ART empresa_N francesa_ADJ de_PREP champagne_N Piper-Heidsieck_NPROP e_KC do_PREP+ART British_NPROP Film_NPROP Institut_NPROP )_PU ._END
 É_V verdade_N que_KS muita_PROADJ gente_N já_ADV pôde_V ver_V esses_PROADJ filmes_N em_PREP TV_N ou_KC vídeo_N ._END
 Ainda_KS que_KS tivessem_V passado_PCP há_V dois_NUM meses_N em_PREP cinema_N ,_PU no_KC entanto_KC ,_PU haveria_V motivo_N para_PREP ver_V a_ART série_N produzida_PCP por_PREP Arthur_NPROP Freed_NPROP ,_PU o_ART mago_N dos_PREP+ART musicais_N ._END
@@ -2273,8 +2273,8 @@ Afinal_ADV ,_PU a_ART peripécia_N vem_V da_PREP+ART cultura_N neandertalense_AD
 PáGINA_NPROP :_PU 6-4_N
 Seis_NUM escritores_N fotografam_V os_ART vários_PROADJ ângulos_N do_PREP+ART cotidiano_ADJ no_PREP+ART país_N
 A_PREP convite_N do_PREP+ART Mais_PROSUB !_PU ,_PU seis_NUM escritores_N de_PREP diversas_PROADJ partes_N do_PREP+ART país_N criaram_V curtas_ADJ "_PU cenas_N brasileiras_ADJ "_PU ._END
-A_ART idéia_N central_ADJ originou_V -se_PROPESS do_PREP+ART filme_N de_PREP Robert_NPROP Altman_NPROP ,_PU "_PU Short_NPROP Cuts_NPROP -_PU Cenas_NPROP da_NPROP Vida_NPROP "_PU (_PU em_PREP cartaz_N em_PREP São_NPROP Paulo_NPROP )_PU ,_PU por_ADV sua_ADV vez_ADV adaptado_PCP de_PREP contos_N do_PREP+ART escritor_N Raymond_NPROP Carver_NPROP ._END
-Além_PREP de_PREP Felinto_NPROP e_KC Carone_NPROP ,_PU de_PREP São_NPROP Paulo_NPROP ,_PU e_KC Sant_NPROP Anna_NPROP ,_PU do_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP ,_PU participam_V desta_PREP+PROADJ miniantologia_N de_PREP "_PU cenas_N da_PREP+ART vida_N brasileira_ADJ "_PU os_ART escritores_N Luiz_NPROP Villela_NPROP ,_PU de_PREP Minas_NPROP Gerais_NPROP ,_PU Milton_NPROP Hatoum_NPROP ,_PU do_PREP+ART Amazonas_NPROP ,_PU e_KC João_NPROP Gilberto_NPROP Noll_NPROP ,_PU do_PREP+ART Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP ._END
+A_ART idéia_N central_ADJ originou_V -se_PROPESS do_PREP+ART filme_N de_PREP Robert_NPROP Altman_NPROP ,_PU "_PU Short_NPROP Cuts_NPROP -_PU Cenas_NPROP da_NPROP Vida_NPROP "_PU (_PU em_PREP cartaz_N em_PREP São Paulo_NPROP )_PU ,_PU por_ADV sua_ADV vez_ADV adaptado_PCP de_PREP contos_N do_PREP+ART escritor_N Raymond_NPROP Carver_NPROP ._END
+Além_PREP de_PREP Felinto_NPROP e_KC Carone_NPROP ,_PU de_PREP São Paulo_NPROP ,_PU e_KC Sant_NPROP Anna_NPROP ,_PU do_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP ,_PU participam_V desta_PREP+PROADJ miniantologia_N de_PREP "_PU cenas_N da_PREP+ART vida_N brasileira_ADJ "_PU os_ART escritores_N Luiz_NPROP Villela_NPROP ,_PU de_PREP Minas_NPROP Gerais_NPROP ,_PU Milton_NPROP Hatoum_NPROP ,_PU do_PREP+ART Amazonas_NPROP ,_PU e_KC João_NPROP Gilberto_NPROP Noll_NPROP ,_PU do_PREP+ART Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP ._END
 A_ART capa_N do_PREP+ART Mais_PROSUB !_PU
 e_KC as_ART xilogravuras_N que_PRO-KS ilustram_V os_ART contos_N foram_V feitas_PCP pelo_PREP+ART artista_N plástico_ADJ paulista_N Alberto_NPROP Alexandre_NPROP Martins_NPROP ._END
 Quantas_PROADJ palavras_N assim_KC na_PREP+ART vidade_N tantos_PROSUB ,_PU meu_IN Deus_IN ?_PU
@@ -2363,7 +2363,7 @@ Trabalhou_V por_PREP 15_NUM anos_N no_PREP+ART Depto._NPROP de_NPROP Teoria_NPRO
 É_V do_PREP+ART Depto._NPROP de_NPROP Teoria_NPROP Literária_NPROP da_PREP+ART USP_NPROP desde_PREP 1992_N ._END
 Traduz_V a_ART obra_N de_PREP de_PREP Franz_NPROP Kafka_NPROP para_PREP a_ART Brasiliense_NPROP desde_PREP 1984_N ._END
 Tem_V três_NUM livros_N de_PREP contos_N :_PU "_PU As_NPROP Marcas_NPROP do_NPROP Real_NPROP "_PU (_PU 1979_N )_PU ,_PU "_PU Aos_NPROP Pés_NPROP de_NPROP Matilda_NPROP "_PU (_PU 1980_N )_PU e_KC "_PU Dias_NPROP Melhores_NPROP "_PU (_PU 1984_N )_PU ._END
-MARILENE_NPROP FELINTO_NPROP ,_PU nasceu_V em_PREP Recife_NPROP (_PU PE_NPROP )_PU e_KC vive_V em_PREP São_NPROP Paulo_NPROP desde_PREP 1969_N ._END
+MARILENE_NPROP FELINTO_NPROP ,_PU nasceu_V em_PREP Recife_NPROP (_PU PE_NPROP )_PU e_KC vive_V em_PREP São Paulo_NPROP desde_PREP 1969_N ._END
 É_V formada_PCP em_PREP pela_PREP+ART USP_NPROP ._END
 Publicou_V também_PDEN "_PU O_NPROP Lago_NPROP Encantado_NPROP de_NPROP Grongonzo_NPROP "_PU e_KC "_PU Postcard_NPROP "_PU ._END
 É_V articulista_N da_PREP+ART Folha_NPROP ._END
@@ -2375,7 +2375,7 @@ Mora_V em_PREP Ituiutaba_NPROP ._END
 É_V formado_PCP em_PREP pela_PREP+ART USP_NPROP ._END
 Estudou_V gravura_N em_PREP metal_N e_KC xilogravura_N Pratt_NPROP Graphics_NPROP Center_NPROP (_PU )_PU ._END
 Publicou_V em_PREP 1990_N "_PU Poemas_NPROP "_PU ._END
-Vive_V em_PREP São_NPROP Paulo_NPROP ._END
+Vive_V em_PREP São Paulo_NPROP ._END
 PáGINA_N :_PU 6-5_N
 O_ART jacaretinga_N estremeceu_V ,_PU rabeou_V ,_PU descaiu_V o_ART focinho_N ferido_PCP
 Especial_ADV para_PREP Folha_NPROP

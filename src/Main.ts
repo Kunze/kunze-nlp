@@ -19,7 +19,7 @@ CorporaCYKParserFactory.create().then((parser) => {
     DefaultHmmTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");
 
-        let phrases = "A caça ou captura de animais silvestres para futura comercialização é proibida em muitos locais do brasil.";
+        let phrases = "Logo, ao comprar produtos derivados da madeira, procure por esse selo.";
         let tokens = tagger.tag(phrases.trim());
         let text = new Text(tokens);
 

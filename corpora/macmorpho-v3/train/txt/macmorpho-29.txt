@@ -31,7 +31,7 @@ Há_V diversas_PROADJ opções_N de_PREP software_N para_PREP editoração_N ele
 Além_ADV desses_PREP+PROADJ programas_N ,_PU há_V os_ART software_N para_PREP desenho_N ,_PU como_PREP o_ART "_PU CorelDraw_NPROP !_PU
 Para_PREP fazer_V a_ART impressão_N ,_PU é_V recomendável_ADJ utilizar_V uma_ART impressora_N a_PREP laser_N com_PREP resolução_N de_PREP pelo_PDEN menos_PDEN 600_NUM dpi_N (_PU pontos_N por_PREP polegada_N )_PU ,_PU para_PREP garantir_V um_ART bom_ADJ padrão_N de_PREP qualidade_N no_PREP+ART acabamento_N final_ADJ do_PREP+ART trabalho_N ._END
 Você_PROPESS pode_V obter_V maiores_ADJ informações_N entrando_V em_PREP contato_N com_PREP o_ART setor_N de_PREP apoio_N tecnológico_ADJ do_PREP+ART Senai_NPROP ,_PU pelo_PREP+ART telefone_N (_PU 011_N 264-2195_N )_PU ,_PU que_PRO-KS oferece_V orientação_N e_KC treinamento_N na_PREP+ART área_N de_PREP impressão_N em_PREP serigrafia_N ._END
-Barão_NPROP de_NPROP Limeira_NPROP ,_PU 425_NUM ,_PU 4.º_N andar_V ,_PU São_NPROP Paulo_NPROP ,_PU SP_NPROP ,_PU Cep_N 01202-001_N ._END
+Barão_NPROP de_NPROP Limeira_NPROP ,_PU 425_NUM ,_PU 4.º_N andar_V ,_PU São Paulo_NPROP ,_PU SP_NPROP ,_PU Cep_N 01202-001_N ._END
 Mudar_V a_ART configuração_N de_PREP um_ART computador_N portátil_ADJ acarreta_V ,_PU na_PREP+PROSUB melhor_N das_PREP+ART hipóteses_N ,_PU numa_PREP+ART operação_N manual_ADJ que_ADV-KS nem_ADV todos_PROSUB estão_V preparados_PCP para_PREP enfrentar_V ._END
 Uma_ART ida_N ao_PREP+ART revendedor_N especializado_PCP pode_V aumentar_V bastante_ADV os_ART custos_N ._END
 Por_PREP isso_PROSUB mesmo_PROADJ ,_PU os_ART cartões_N de_PREP computador_N ,_PU lançados_PCP há_V três_NUM anos_N ,_PU estão_V se_PROPESS tornando_V muito_ADV populares_ADJ entre_PREP os_ART usuários_N de_PREP PC_NPROP ._END
@@ -136,8 +136,8 @@ SYS_NPROP do_PREP+ART DOS_NPROP ,_PU e_KC de_PREP configuração_N do_PREP+ART "
 Quanto_PREP ao_PREP+ART ambiente_N operacional_ADJ resultante_ADJ ,_PU ambos_PROSUB são_V excelentes_ADJ ._END
 Já_ADV o_ART kit_N Sound_NPROP Blaster_NPROP é_V mais_ADV voltado_PCP para_PREP uso_N profissional_ADJ da_PREP+ART multimídia_N ,_PU uma_KS vez_KS que_KS é_V mais_ADV modular_ADJ e_KC mais_ADV padrão_ADJ ,_PU e_KC portanto_KC a_ART identificação_N do_KS que_KS cada_PROADJ componente_N faz_V ,_PU bem_KC como_KC sua_PROADJ configuração_N e_KC extensão_N ,_PU está_V mais_ADV disponível_ADJ para_PREP o_ART usuário_N ._END
 Apenas_ADV uma_ART ressalva_N :_PU apesar_PREP da_PREP+ART especificação_N MPC_NPROP mínima_N exigir_V um_ART PC_N 386_N SX_N a_PREP 16_NUM MHz_N ,_PU com_PREP vídeo_N VGA_NPROP ,_PU um_ART processador_N PC_N 386_N DX_N a_PREP 33_NUM MHz_N e_KC vídeo_N Super_NPROP VGA_NPROP operando_V no_PREP+ART modo_N 800_N x_N 600_N com_PREP 256_NUM cores_N é_V quase_ADV uma_ART exigência_N para_PREP que_KS se_PROPESS possa_V obter_V integralmente_ADV os_ART benefícios_N que_PRO-KS os_ART recursos_N dos_PREP+ART kits_N incorporam_V ._END
-Os_ART testes_N de_PREP avaliação_N dos_PREP+ART kits_N multimídia_ADJ Sony_NPROP Desktop_NPROP Lybrary_NPROP e_KC Sound_NPROP Blaster_NPROP Edutainment_NPROP CD_NPROP 16_NPROP foram_V realizados_PCP no_PREP+ART Laboratório_NPROP Didático-Científico_NPROP de_NPROP Computação_NPROP do_PREP+ART ICMSC-USP_NPROP (_PU Instituto_NPROP de_NPROP Ciências_NPROP Matemáticas_NPROP de_NPROP São_NPROP Carlos_NPROP ,_PU da_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU por_PREP Agma_NPROP Juci_NPROP Machado_NPROP Traina_NPROP e_KC Caetano_NPROP Traina_NPROP Jr._NPROP ._END
-Agma_NPROP Juci_NPROP Machado_NPROP Traina_NPROP é_V doutora_N em_PREP física_N aplicada_PCP pelo_PREP+ART IFQSC_NPROP (_PU Instituto_NPROP de_NPROP Física_NPROP e_NPROP Química_NPROP da_PREP+ART Universidade_NPROP de_NPROP São_NPROP Carlos_NPROP )_PU e_KC professora_N de_PREP computação_N gráfica_N ,_PU linguagens_N de_PREP programação_N e_KC software_N básico_ADJ ._END
+Os_ART testes_N de_PREP avaliação_N dos_PREP+ART kits_N multimídia_ADJ Sony_NPROP Desktop_NPROP Lybrary_NPROP e_KC Sound_NPROP Blaster_NPROP Edutainment_NPROP CD_NPROP 16_NPROP foram_V realizados_PCP no_PREP+ART Laboratório_NPROP Didático-Científico_NPROP de_NPROP Computação_NPROP do_PREP+ART ICMSC-USP_NPROP (_PU Instituto_NPROP de_NPROP Ciências_NPROP Matemáticas_NPROP de_NPROP São Carlos_NPROP ,_PU da_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP )_PU por_PREP Agma_NPROP Juci_NPROP Machado_NPROP Traina_NPROP e_KC Caetano_NPROP Traina_NPROP Jr._NPROP ._END
+Agma_NPROP Juci_NPROP Machado_NPROP Traina_NPROP é_V doutora_N em_PREP física_N aplicada_PCP pelo_PREP+ART IFQSC_NPROP (_PU Instituto_NPROP de_NPROP Física_NPROP e_NPROP Química_NPROP da_PREP+ART Universidade_NPROP de_NPROP São Carlos_NPROP )_PU e_KC professora_N de_PREP computação_N gráfica_N ,_PU linguagens_N de_PREP programação_N e_KC software_N básico_ADJ ._END
 Caetano_NPROP Traina_NPROP Jr._NPROP é_V doutor_N em_PREP física_N aplicada_PCP e_KC professor_N livre-docente_N de_PREP banco_N de_PREP dados_N ,_PU sistemas_N operacionais_ADJ ,_PU sistemas_N de_PREP interface_N homem-máquina_N e_KC linguagens_N de_PREP programação_N ._END
 Os_ART testes_N foram_V executados_PCP em_PREP duas_NUM plataformas_N :_PU microcomputador_N AT_N 486_N DX2_N 66_NUM MHz_N ,_PU com_PREP 16_NUM Mbytes_N de_PREP memória_N RAM_N ,_PU disco_N rígido_ADJ de_PREP 240_NUM Mbytes_N ,_PU monitor_N SVGA_NPROP colorido_PCP e_KC microcomputador_N AT_N 386_N SX_N 20_NUM MHz_N ,_PU com_PREP 4_NUM Mbytes_N de_PREP memória_N RAM_N ,_PU disco_N rígido_ADJ de_PREP 80_NUM Mbytes_N e_KC monitor_N SVGA_NPROP colorido_PCP ._END
 Em_PREP multimídia_N ,_PU existem_V alguns_PROADJ padrões_N de_PREP fato_N ,_PU como_PREP o_ART MIDI_NPROP para_PREP música_N sintetizada_PCP ,_PU e_KC os_ART arquivos_N ._END
@@ -165,7 +165,7 @@ Sabia_V -se_PROPESS de_PREP "_PU O_NPROP Sepultamento_NPROP "_PU ,_PU obra_N atr
 O_ART CD_N informa_V ,_PU traz_V a_ART ficha_N de_PREP cada_PROADJ quadro_N e_KC remete_V a_PREP outros_PROADJ verbetes_N ._END
 E_KC quem_PROSUB sabia_V que_KS a_ART coleção_N possui_V uma_ART paisagem_N brasileira_ADJ de_PREP Frans_NPROP Post_NPROP ?_PU
 Pois_KC ela_PROPESS está_V lá_ADV ,_PU em_PREP preto_N e_KC branco_N ,_PU mas_KC com_PREP uma_ART correta_ADJ ,_PU embora_KS sintética_ADJ ,_PU ficha_N que_PRO-KS explica_V quem_PRO-KS foi_V o_ART artista_N e_KC o_PROSUB que_PROSUB andou_V fazendo_V no_PREP+ART Brasil_NPROP ._END
-É_V surpresa_ADJ atrás_PREP de_PREP surpresa_N ,_PU principalmente_ADV quando_KS o_ART CD_N revela_V que_KS "_PU A_NPROP Batalha_NPROP de_NPROP São_NPROP Romano_NPROP "_PU ,_PU de_PREP Paolo_NPROP Uccello_NPROP ,_PU integrava_V um_ART quadro_N maior_ADJ -_PU e_KC reconstitui_V o_PRO-KS que_PRO-KS seria_V o_ART quadro_N -_PU e_KC que_KS Piero_NPROP della-Francesca_NPROP pensava_V em_PREP matemática_N mesmo_PDEN quando_KS pintava_V -_PU linhas_N surgem_V para_PREP demonstrar_V a_ART composição_N de_PREP "_PU O_NPROP Batismo_NPROP de_NPROP Cristo_NPROP "_PU ._END
+É_V surpresa_ADJ atrás_PREP de_PREP surpresa_N ,_PU principalmente_ADV quando_KS o_ART CD_N revela_V que_KS "_PU A_NPROP Batalha_NPROP de_NPROP São Romano_NPROP "_PU ,_PU de_PREP Paolo_NPROP Uccello_NPROP ,_PU integrava_V um_ART quadro_N maior_ADJ -_PU e_KC reconstitui_V o_PRO-KS que_PRO-KS seria_V o_ART quadro_N -_PU e_KC que_KS Piero_NPROP della-Francesca_NPROP pensava_V em_PREP matemática_N mesmo_PDEN quando_KS pintava_V -_PU linhas_N surgem_V para_PREP demonstrar_V a_ART composição_N de_PREP "_PU O_NPROP Batismo_NPROP de_NPROP Cristo_NPROP "_PU ._END
 Como_KS diria_V o_ART velho_ADJ McLuhan_NPROP ,_PU o_ART acervo_N da_PREP+ART National_NPROP Gallery_NPROP ,_PU o_ART meio_N é_V a_ART mensagem_N A_ART musicologia_N é_V um_PROSUB dos_PREP+ART ramos_N mais_ADV entediantes_ADJ do_PREP+ART conhecimento_N ._END
 Assusta_V qualquer_PROADJ um_PROSUB ler_V ou_KC assistir_V a_PREP uma_ART análise_N de_PREP partitura_N ._END
 O_ART programa_N multimídia_ADJ ajuda_V a_PREP tirar_V o_ART perfume_N de_PREP aula_N de_PREP anatomia_N da_PREP+ART análise_N de_PREP partitura_N ._END
@@ -232,7 +232,7 @@ Essa_PROADJ rede_N ,_PU criada_PCP há_V 20_NUM anos_N pelo_PREP+ART Departament
 Os_ART serviços_N mais_ADV procurados_PCP na_PREP+ART InterNet_NPROP são_V correio_N eletrônico_ADJ e_KC transferência_N de_PREP arquivos_N ,_PU conhecida_PCP como_PREP FTP_NPROP (_PU File_NPROP Transfer_NPROP Protocol_NPROP )_PU ._END
 Para_PREP se_PROPESS ter_V uma_ART idéia_N da_PREP+ART importância_N da_PREP+ART InterNet_NPROP ,_PU a_ART Casa_NPROP Branca_NPROP está_V conectada_PCP a_ART essa_PROADJ rede_N ,_PU disponibilizando_V publicações_N e_KC documentos_N para_PREP qualquer_PROADJ pessoa_N do_PREP+ART mundo_N ._END
 Alguns_PROADJ BBS_NPROP oferecem_V serviço_N de_PREP conexão_N com_PREP a_PREP InterNet_NPROP ._END
-O_ART Canal_NPROP Vip_NPROP tem_V correio_N eletrônico_ADJ através_ADV da_PREP+ART Fapesp_NPROP (_PU Fundação_NPROP de_NPROP Amparo_NPROP à_NPROP Pesquisa_NPROP do_PREP+ART Estado_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU ._END
+O_ART Canal_NPROP Vip_NPROP tem_V correio_N eletrônico_ADJ através_ADV da_PREP+ART Fapesp_NPROP (_PU Fundação_NPROP de_NPROP Amparo_NPROP à_NPROP Pesquisa_NPROP do_PREP+ART Estado_NPROP de_NPROP São Paulo_NPROP )_PU ._END
 Basta_V se_PROPESS conectar_V ,_PU deixar_V a_ART mensagem_N e_KC de_PREP duas_NUM em_PREP horas_N ela_PROPESS é_V enviada_N para_PREP a_PREP Fapesp_NPROP ,_PU de_PREP onde_KS as_ART mensagens_N são_V enviadas_N para_PREP o_ART exterior_N e_KC de_PREP onde_ADV vêm_V as_ART respostas_N ._END
 Como_KS a_ART Fapesp_NPROP é_V de_PREP cunho_N acadêmico_ADJ ,_PU não_ADV são_V permitidas_PCP trocas_N de_PREP mensagens_N comerciais_ADJ nem_ADV transferências_N de_PREP arquivos_N ._END
 O_ART Mandic_NPROP também_PDEN faz_V sua_PROADJ conexão_N via_PREP Fapesp_NPROP ,_PU três_NUM vezes_N por_PREP dia_N ,_PU oferecendo_V correio_N eletrônico_ADJ para_PREP mensagens_N acadêmicas_ADJ ._END
@@ -393,7 +393,7 @@ Para_PREP usar_V os_ART discos_N CD-ROM_NPROP -_PU de_PREP US$_CUR 49_NUM a_PREP
 Além_PREP disso_PREP+PROSUB ,_PU o_ART micro_N pode_V processar_V textos_N ,_PU planilhas_N de_PREP cálculo_N e_KC ser_V usado_PCP também_PDEN para_PREP jogos_N e_KC várias_PROADJ outras_PROADJ atividades_N ._END
 Os_ART programas_N em_PREP CD-ROM_N têm_V seu_PROADJ charme_N na_PREP+ART interatividade_N ._END
 O_ART usuário_N pode_V ,_PU por_PDEN exemplo_PDEN ,_PU fazer_V o_ART programa_N ir_V rapidamente_ADV de_PREP um_NUM verbete_N a_PREP outro_PROSUB ,_PU ou_KC ver_V vídeos_N e_KC ouvir_V músicas_N a_PREP partir_PREP de_PREP um_ART toque_N no_PREP+ART mouse_N ._END
-Para_PREP o_ART professor_N de_PREP comunicação_N visual_ADJ de_PREP PUC-SP_NPROP (_PU Pontifícia_NPROP Universidade_NPROP Católica_NPROP de_PREP São_NPROP Paulo_NPROP )_PU Arlindo_NPROP Machado_NPROP ,_PU a_ART maior_ADJ vantagem_N dos_PREP+ART CD-ROM_N está_V na_PREP+ART redução_N do_PREP+ART preço_N da_PREP+ART cultura_N ._END
+Para_PREP o_ART professor_N de_PREP comunicação_N visual_ADJ de_PREP PUC-SP_NPROP (_PU Pontifícia_NPROP Universidade_NPROP Católica_NPROP de_PREP São Paulo_NPROP )_PU Arlindo_NPROP Machado_NPROP ,_PU a_ART maior_ADJ vantagem_N dos_PREP+ART CD-ROM_N está_V na_PREP+ART redução_N do_PREP+ART preço_N da_PREP+ART cultura_N ._END
 Nos_PREP+ART EUA_NPROP a_ART produção_N de_PREP um_ART CD-ROM_N custa_V a_PREP partir_PREP de_PREP US$_CUR 0,30_NUM ._END
 No_PREP+ART Brasil_NPROP custa_V US$_CUR 2_NUM -_PU mesmo_PDEN assim_PDEN ,_PU é_V bem_ADV mais_ADV barato_ADJ que_KS um_ART livro_N (_PU US$_CUR 9_NUM a_PREP US$_CUR 12_NUM )_PU ._END
 O_ART preço_N para_PREP o_ART consumidor_N também_PDEN diminui_V ._END
@@ -446,7 +446,7 @@ Traz_V em_PREP CD-ROM_N sete_NUM publicações_N norte-americanas_ADJ ,_PU inclu
 Obs_N ._END
 Onde_ADV Encontrar_V :_PU Os_ART programas_N multimídia_ADJ sobre_PREP artes_N ,_PU música_N ,_PU literatura_N e_KC conhecimentos_N gerais_ADJ ,_PU distribuídos_PCP em_PREP CD-ROM_N ,_PU provocam_V polêmica_N entre_PREP os_ART educadores_N ._END
 "_PU Os_ART programas_N que_PRO-KS estão_V no_PREP+ART mercado_N não_ADV têm_V densidade_N para_PREP universitários_N ._END
-"_PU ,_PU diz_V Claudete_NPROP Junqueira_NPROP ,_PU professora_N docente_N do_PREP+ART departamento_N de_PREP geografia_N da_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU USP_NPROP )_PU ._END
+"_PU ,_PU diz_V Claudete_NPROP Junqueira_NPROP ,_PU professora_N docente_N do_PREP+ART departamento_N de_PREP geografia_N da_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP (_PU USP_NPROP )_PU ._END
 "_PU As_ART informações_N são_V fragmentadas_PCP "_PU ,_PU afirma_V ._END
 Além_PREP disso_PREP+PROSUB ,_PU há_V erros_N de_PREP informação_N ._END
 "_PU Alguns_PROADJ programas_N anunciam_V café_N e_KC mostram_V trigo_N "_PU ._END
@@ -551,18 +551,18 @@ Os_ART microprocessadores_N (_PU chips_N )_PU 80.486_N DX4_NPROP são_V os_ART s
 Os_ART modelos_N anteriores_ADJ ao_PREP+ART DX4_NPROP funcionam_V com_PREP tensão_N de_PREP 5_NUM volts_N ,_PU dissipando_V (_PU especialmente_ADV no_PREP caso_PREP do_PREP+ART DX2_NPROP )_PU muito_PROADJ calor_N ._END
 O_ART modelo_N DX4_NPROP pode_V operar_V a_PREP 75_NUM ou_KC 100_NUM MHz_N ,_PU funciona_V com_PREP tensão_N de_PREP 3,3_NUM volts_N ,_PU dissipa_V uma_ART quantidade_N bem_ADV menor_ADJ de_PREP calor_N e_KC é_V cerca_PREP de_PREP três_NUM vezes_N rápido_ADJ que_KS o_PROPESS 80.486_N DX-33_NPROP ._END
 Colaboram_V Marcos_NPROP José_NPROP Santana_NPROP ,_PU Regina_NPROP Helena_NPROP Carlucci_NPROP Santana_NPROP e_KC João_NPROP Carlos_NPROP de_NPROP Moraes_NPROP Morselli_NPROP Jr._NPROP
-Os_ART testes_N com_PREP o_ART microcomputador_N Station_NPROP 90_NPROP ,_PU da_PREP+ART Monydata_NPROP ,_PU foram_V realizados_PCP no_PREP+ART Laboratório_NPROP de_NPROP Sistemas_NPROP Digitais_NPROP (_PU LaSD_NPROP )_PU do_PREP+ART Departamento_NPROP de_NPROP Ciências_NPROP de_NPROP Computação_NPROP Estatística_NPROP do_PREP+ART Instituto_NPROP de_NPROP Ciências_NPROP Matemáticas_NPROP de_NPROP São_NPROP Carlos_NPROP -_PU USP_NPROP ._END
+Os_ART testes_N com_PREP o_ART microcomputador_N Station_NPROP 90_NPROP ,_PU da_PREP+ART Monydata_NPROP ,_PU foram_V realizados_PCP no_PREP+ART Laboratório_NPROP de_NPROP Sistemas_NPROP Digitais_NPROP (_PU LaSD_NPROP )_PU do_PREP+ART Departamento_NPROP de_NPROP Ciências_NPROP de_NPROP Computação_NPROP Estatística_NPROP do_PREP+ART Instituto_NPROP de_NPROP Ciências_NPROP Matemáticas_NPROP de_NPROP São Carlos_NPROP -_PU USP_NPROP ._END
 Utilizou_V -se_PROPESS o_ART sistema_N operacional_ADJ "_PU MS_NPROP DOS_NPROP 6.2_NPROP "_PU ._END
 A_ART qualidade_N mecânica_ADJ e_KC elétrica_ADJ dos_PREP+ART equipamentos_N foi_V efetuada_PCP por_PREP inspeção_N ._END
 O_ART nível_N de_PREP compatibilidade_N foi_V verificado_PCP através_ADV da_PREP+ART execução_N de_PREP alguns_PROADJ programas_N chave_ADJ ,_PU entre_PREP os_PRO-KS quais_PRO-KS o_ART "_PU Microsoft_NPROP Windows_NPROP 3.1_NPROP "_PU e_KC o_ART "_PU Netware_NPROP "_PU ._END
-Marcos_NPROP José_NPROP Santana_NPROP é_V mestre_N em_PREP ciências_N da_PREP+ART computação_N pela_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU Instituto_NPROP de_NPROP Ciências_NPROP Matemáticas_NPROP de_NPROP São_NPROP Carlos_NPROP -_PU ICMSC_NPROP )_PU ,_PU PhD_N em_PREP eletrônica/computação_N pela_PREP+ART Universidade_NPROP de_NPROP Southampton_NPROP (_PU Inglaterra_NPROP )_PU ._END
+Marcos_NPROP José_NPROP Santana_NPROP é_V mestre_N em_PREP ciências_N da_PREP+ART computação_N pela_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP (_PU Instituto_NPROP de_NPROP Ciências_NPROP Matemáticas_NPROP de_NPROP São Carlos_NPROP -_PU ICMSC_NPROP )_PU ,_PU PhD_N em_PREP eletrônica/computação_N pela_PREP+ART Universidade_NPROP de_NPROP Southampton_NPROP (_PU Inglaterra_NPROP )_PU ._END
 Desenvolve_V pesquisas_N na_PREP+ART área_N de_PREP sistemas_N distribuídos_PCP e_KC programação_N concorrente_ADJ ._END
-Nivaldi_NPROP Calônego_NPROP Jr._NPROP é_V mestre_N em_PREP ciências_N da_PREP+ART computação_N e_KC matemática_N computacional_ADJ pela_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU ICMSC_NPROP )_PU ._END
-Doutorando_V em_PREP computação_N pela_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU ICMSC_NPROP )_PU ._END
-Regina_NPROP Helena_NPROP Carlucci_NPROP Santana_NPROP é_V mestre_N em_PREP ciências_N da_PREP+ART computação_N pela_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU ICMSC_NPROP )_PU ,_PU PhD_N em_PREP eletrônica/computação_N pela_PREP+ART Universidade_NPROP de_NPROP Southampton_NPROP (_PU Inglaterra_NPROP )_PU ._END
-Walter_NPROP Gomes_NPROP Pedroso_NPROP Jr._NPROP é_V bacharel_N em_PREP ciências_N da_PREP+ART computação_N pela_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU ICMSC_NPROP )_PU ._END
+Nivaldi_NPROP Calônego_NPROP Jr._NPROP é_V mestre_N em_PREP ciências_N da_PREP+ART computação_N e_KC matemática_N computacional_ADJ pela_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP (_PU ICMSC_NPROP )_PU ._END
+Doutorando_V em_PREP computação_N pela_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP (_PU ICMSC_NPROP )_PU ._END
+Regina_NPROP Helena_NPROP Carlucci_NPROP Santana_NPROP é_V mestre_N em_PREP ciências_N da_PREP+ART computação_N pela_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP (_PU ICMSC_NPROP )_PU ,_PU PhD_N em_PREP eletrônica/computação_N pela_PREP+ART Universidade_NPROP de_NPROP Southampton_NPROP (_PU Inglaterra_NPROP )_PU ._END
+Walter_NPROP Gomes_NPROP Pedroso_NPROP Jr._NPROP é_V bacharel_N em_PREP ciências_N da_PREP+ART computação_N pela_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP (_PU ICMSC_NPROP )_PU ._END
 É_V aluna_N de_PREP mestrado_N onde_KS desenvolve_V pesquisa_N na_PREP+ART área_N de_PREP sistemas_N distribuídos_PCP e_KC programação_N concorrente_ADJ ._END
-João_NPROP Carlos_NPROP de_NPROP Moraes_NPROP Morselli_NPROP Jr._NPROP é_V bacharel_N em_PREP ciências_N da_PREP+ART computação_N pela_PREP+ART Universidade_NPROP Estadual_NPROP Paulista_NPROP (_PU Ibilce_NPROP ,_PU de_PREP São_NPROP José_NPROP do_NPROP Rio_NPROP Preto_NPROP )_PU ._END
+João_NPROP Carlos_NPROP de_NPROP Moraes_NPROP Morselli_NPROP Jr._NPROP é_V bacharel_N em_PREP ciências_N da_PREP+ART computação_N pela_PREP+ART Universidade_NPROP Estadual_NPROP Paulista_NPROP (_PU Ibilce_NPROP ,_PU de_PREP São José_NPROP do_NPROP Rio_NPROP Preto_NPROP )_PU ._END
 A_ART PC_NPROP Auxiliar_NPROP ,_PU de_PREP Blumenau_NPROP (_PU SC_NPROP )_PU e_KC a_ART Mega_NPROP ,_PU de_PREP Itu_NPROP (_PU SP_NPROP )_PU anunciaram_V um_ART acordo_N para_PREP desenvolver_V programas_N em_PREP conjunto_N ._END
 O_ART sistema_N financeiro_ADJ "_PU Decisor_NPROP "_PU é_V o_ART carro-chefe_N da_PREP+ART nova_ADJ linha_N ._END
 Informações_N :_PU tel_N ._END
@@ -572,7 +572,7 @@ Entre_PREP os_ART novos_ADJ produtos_N está_V a_ART linha_N de_PREP concentrado
 (_PU 011_N 816-0700_N )_PU ._END
 Pode_V ser_V usado_PCP em_PREP papel_N comum_ADJ ,_PU vegetal_ADJ e_KC poliéster_N em_PREP folhas_N ou_KC rolos_N na_PREP+ART largura_N de_PREP até_PREP 900_NUM mm_N ._END
 (_PU 011_N 835-8444_N )_PU ._END
-A_ART Plansys_NPROP estará_V mostrando_V toda_PROADJ a_ART linha_N de_PREP produtos_N Hayes_NPROP durante_PREP a_PREP Fenasoft_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+A_ART Plansys_NPROP estará_V mostrando_V toda_PROADJ a_ART linha_N de_PREP produtos_N Hayes_NPROP durante_PREP a_PREP Fenasoft_NPROP ,_PU em_PREP São Paulo_NPROP ._END
 Entre_PREP as_ART linhas_N de_PREP produtos_N estão_V modems_N para_PREP vários_PROADJ tipos_N de_PREP micros_N e_KC placas_N fax/modem_N ._END
 (_PU 031_N 286-3190_N )_PU ._END
 Entre_PREP os_ART novos_ADJ programas_N shareware_N (_PU de_PREP baixo_ADV custo_V )_PU da_PREP+ART Kanópus_NPROP estão_V "_PU Envision_NPROP Publisher_NPROP "_PU (_PU R$_CUR 3_NUM )_PU ,_PU "_PU Word_NPROP Rescue_NPROP "_PU (_PU R$_CUR 2_NUM )_PU para_PREP crianças_N e_KC "_PU BCAD_NPROP "_PU (_PU R$_CUR 2_NUM )_PU para_PREP projeto_N em_PREP duas_NUM dimensões_N ._END
@@ -608,8 +608,8 @@ Participam_V cerca_PREP de_PREP cem_NUM expositores_N ,_PU mostrando_V lançamen
 Preço_N :_PU O_ART ingresso_N que_PRO-KS dá_V acesso_N à_PREP+ART feira_N é_V um_ART cartão_N magnético_ADJ e_KC custa_V R$_CUR 10_NUM ._END
 Congresso_N :_PU Todas_PROADJ as_ART palestras_N ,_PU seminários_N e_KC workshops_N acontecem_V no_PREP+ART Palácio_NPROP das_NPROP Convenções_NPROP ,_PU das_PREP+PROSUB 8h_N às_PREP+ART 22_N ._END
 Reservas_N podem_V ser_V feitas_PCP pelos_PREP+ART telefones_N (_PU 011_N 822-4308_N )_PU e_KC (_PU 0482_N 24-4305_N )_PU ._END
-Táxi_N :_PU O_ART preço_N de_PREP uma_ART corrida_N de_PREP táxi_N comum_ADJ da_PREP+ART avenida_N Paulista_NPROP ,_PU esquina_N com_PREP rua_N Augusta_NPROP (_PU região_N central_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ,_PU até_PREP o_ART Anhembi_NPROP (_PU zona_N norte_ADJ de_PREP São_NPROP Paulo_NPROP )_PU varia_V de_PREP R$_CUR 8_NUM a_PREP R$_CUR 10_NUM ._END
-Do_PREP+ART aeroporto_N de_PREP Congonhas_NPROP (_PU zona_N sul_ADJ de_PREP São_NPROP Paulo_NPROP )_PU até_PREP o_ART Anhembi_NPROP ,_PU o_ART preço_N de_PREP uma_ART corrida_N pode_V variar_V entre_PREP R$_CUR 13_NUM e_KC R$_CUR 15_NUM ._END
+Táxi_N :_PU O_ART preço_N de_PREP uma_ART corrida_N de_PREP táxi_N comum_ADJ da_PREP+ART avenida_N Paulista_NPROP ,_PU esquina_N com_PREP rua_N Augusta_NPROP (_PU região_N central_ADJ de_PREP São Paulo_NPROP )_PU ,_PU até_PREP o_ART Anhembi_NPROP (_PU zona_N norte_ADJ de_PREP São Paulo_NPROP )_PU varia_V de_PREP R$_CUR 8_NUM a_PREP R$_CUR 10_NUM ._END
+Do_PREP+ART aeroporto_N de_PREP Congonhas_NPROP (_PU zona_N sul_ADJ de_PREP São Paulo_NPROP )_PU até_PREP o_ART Anhembi_NPROP ,_PU o_ART preço_N de_PREP uma_ART corrida_N pode_V variar_V entre_PREP R$_CUR 13_NUM e_KC R$_CUR 15_NUM ._END
 Algumas_PROADJ empresas_N como_ADV a_ART Ligue_NPROP Táxi_NPROP (_PU tel_N ._END
 011_N 873-2000_N )_PU atendem_V a_PREP domicílio_N ,_PU cobrando_V taxa_V extra_N de_PREP R$_CUR 2_NUM ._END
 Estacionamento_N :_PU O_ART Anhembi_NPROP tem_V dois_NUM estacionamentos_N ,_PU com_PREP capacidade_N para_PREP 7.500_NUM carros_N ._END
@@ -887,7 +887,7 @@ A_ART diminuição_N de_PREP preço_N será_V possível_ADJ porque_KS a_ART empr
 A_ART Elgin_NPROP Samsung_NPROP EE-809_NPROP (_PU US$_CUR 238_NUM )_PU está_V entre_PREP os_ART primeiros_ADJ modelos_N de_PREP impressoras_N de_PREP 9_NUM agulhas_N ._END
 Outra_PROADJ opção_N é_V a_ART EE-324_NPROP (_PU US$_CUR 420_NUM )_PU ,_PU de_PREP 80_NUM colunas_N e_KC 24_NUM agulhas_N ._END
 A_PREP Espaço_NPROP em_NPROP Dados_NPROP está_V lançando_V um_ART programa_N permite_V mapear_V votação_N ,_PU definir_V o_ART perfil_N dos_PREP+ART eleitores_N e_KC planejar_V a_ART discussão_N de_PREP projetos_N ._END
-Usando_V a_ART tecnologia_N de_PREP GIS_NPROP (_PU Sistema_NPROP de_NPROP Informações_NPROP Geográficas_NPROP )_PU ,_PU o_ART programa_N cruza_V dados_N sobre_PREP o_ART perfil_N socioeconômico_ADJ de_PREP São_NPROP Paulo_NPROP com_PREP os_ART resultados_N das_PREP+ART eleições_N de_PREP 92_N ._END
+Usando_V a_ART tecnologia_N de_PREP GIS_NPROP (_PU Sistema_NPROP de_NPROP Informações_NPROP Geográficas_NPROP )_PU ,_PU o_ART programa_N cruza_V dados_N sobre_PREP o_ART perfil_N socioeconômico_ADJ de_PREP São Paulo_NPROP com_PREP os_ART resultados_N das_PREP+ART eleições_N de_PREP 92_N ._END
 Os_ART dados_N são_V inseridos_PCP em_PREP mapas_N geográficos_ADJ ,_PU permitindo_V saber_V quantos_PRO-KS votos_N os_ART eleitos_PCP de_PREP 92_N tiveram_V em_PREP cada_PROADJ zona_N eleitoral_ADJ ._END
 Pode_V -se_PROPESS analisar_V ainda_ADV níveis_N de_PREP escolaridade_N ,_PU de_PREP renda_N e_KC faixa_N etária_ADJ dos_PREP+ART eleitores_N ._END
 Além_PREP de_PREP fazer_V um_ART retrospecto_N sobre_PREP sua_PROADJ eleição_N ,_PU os_ART políticos_N podem_V usar_V o_ART programa_N para_PREP organizar_V suas_PROADJ atividades_N ._END
@@ -920,13 +920,13 @@ Custa_V US$_CUR 349_NUM nos_PREP+ART Estados_NPROP Unidos_NPROP ._END
 Surgem_V ainda_ADV novos_ADJ sistemas_N para_PREP acrescentar_V aos_PREP+ART microcomputadores_N a_ART capacidade_N de_PREP reconhecer_V escrita_N a_ART mão_N ._END
 Um_PROSUB desses_PREP+PROADJ programas_N é_V o_ART "_PU Rite-Expressions_NPROP "_PU ,_PU da_PREP+ART Inforite_NPROP ,_PU que_PRO-KS permite_V incluir_V anotações_N em_PREP programas_N comuns_ADJ para_PREP DOS_NPROP e_KC "_PU Windows_NPROP "_PU ._END
 O_ART mercado_N está_V recheado_PCP de_PREP programas_N para_PREP criar_V projetos_N em_PREP microcomputadores_N PC_NPROP ._END
-Eles_PROPESS foram_V mostrados_PCP na_PREP+ART feira_N Compugrafic_NPROP ,_PU que_PRO-KS aconteceu_V na_PREP+ART semana_N passada_PCP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+Eles_PROPESS foram_V mostrados_PCP na_PREP+ART feira_N Compugrafic_NPROP ,_PU que_PRO-KS aconteceu_V na_PREP+ART semana_N passada_PCP ,_PU em_PREP São Paulo_NPROP ._END
 O_ART "_PU Arris_NPROP for_NPROP Windows_NPROP "_PU tem_V duas_NUM versões_N :_PU "_PU Arquiteto_NPROP Pleno_NPROP "_PU (_PU US$_CUR 2.800_NUM )_PU e_KC "_PU Arquiteto_NPROP Senior_NPROP "_PU (_PU US$_CUR 3.800_NUM )_PU ._END
 A_NPROP D_NPROP Lafer_NPROP ._END
 está_V vendendo_V a_ART versão_N do_PREP+ART "_PU Arc_NPROP ._END
 "_PU (_PU 5.015_NUM URVs_N )_PU para_PREP projetos_N de_PREP arquitetura_N em_PREP três_NUM dimensões_N ._END
 Funciona_V em_PREP Macintosh_NPROP ._END
-A_ART TQS_NPROP ,_PU de_PREP São_NPROP Paulo_NPROP ,_PU tem_V sete_NUM módulos_N para_PREP projeto_N estrutural_ADJ e_KC três_N para_PREP construção_N civil_ADJ ._END
+A_ART TQS_NPROP ,_PU de_PREP São Paulo_NPROP ,_PU tem_V sete_NUM módulos_N para_PREP projeto_N estrutural_ADJ e_KC três_N para_PREP construção_N civil_ADJ ._END
 Entre_PREP os_PROSUB de_PREP estrutura_N estão_V o_ART "_PU CAD_NPROP Fôrmas_NPROP "_PU e_KC o_ART "_PU CAD_NPROP Vigas_NPROP "_PU (_PU ambos_PROSUB por_PREP US$_CUR 1.500_NUM )_PU ._END
 Para_PREP construção_N civil_ADJ ,_PU a_ART TQS_NPROP tem_V o_ART "_PU CAD_NPROP Madeira_NPROP "_PU e_KC o_ART "_PU CAD_NPROP Corbar_NPROP "_PU (_PU US$_CUR 2.800_NUM )_PU -_PU para_PREP corte_N de_PREP madeira_N e_KC aço_N ,_PU respectivamente_ADV ._END
 O_ART módulo_N básico_ADJ ,_PU para_PREP desenho_N ,_PU custa_V US$_CUR 3.950_NUM ._END
@@ -991,7 +991,7 @@ Além_PREP de_PREP ser_V que_KS o_ART modelo_N externo_ADJ ,_PU o_ART ventrícul
 A_ART pessoa_N poderá_V levar_V -la_PROPESS nas_PREP+ART costas_N ,_PU permanecendo_V meses_N com_PREP o_ART ventrículo_N artificial_ADJ ._END
 Isso_PROSUB inviabiliza_V a_ART locomoção_N e_KC faz_V com_PREP que_KS só_PDEN possa_V ser_V usado_PCP por_PREP dias_N ou_KC semanas_N ._END
 O_ART ventrículo_N interno_ADJ poderá_V estar_V pronto_ADJ até_PREP o_ART final_N do_PREP+ART ano_N ._END
-O_ART Festival_NPROP Mundial_NPROP do_NPROP Minuto_NPROP ,_PU que_PRO-KS acontece_V em_PREP São_NPROP Paulo_NPROP e_KC mostra_V filmes_N que_PRO-KS têm_V em_PREP comum_ADJ a_ART duração_N máxima_ADJ de_PREP 60_NUM segundos_N ,_PU vai_V virar_V CD-ROM_N ._END
+O_ART Festival_NPROP Mundial_NPROP do_NPROP Minuto_NPROP ,_PU que_PRO-KS acontece_V em_PREP São Paulo_NPROP e_KC mostra_V filmes_N que_PRO-KS têm_V em_PREP comum_ADJ a_ART duração_N máxima_ADJ de_PREP 60_NUM segundos_N ,_PU vai_V virar_V CD-ROM_N ._END
 A_ART Agência_NPROP Observatório_NPROP ,_PU que_PRO-KS realiza_V o_ART evento_N ,_PU lança_V também_PDEN um_ART serviço_N de_PREP informaçoes_N e_KC troca_N de_PREP mensagens_N por_PREP computador_N (_PU BBS_NPROP )_PU para_PREP videomakers_N e_KC interessados_N em_PREP cultura_N ._END
 "_PU Esse_PROADJ CD_N não_ADV vai_V ser_V apenas_PDEN um_NUM slide_N show_N "_PU ,_PU diz_V Marcelo_NPROP Masagão_NPROP ,_PU diretor_N da_PREP+ART Observatório_N ._END
 A_ART idéia_N é_V incluir_V animações_N e_KC "_PU criar_V surpresas_N "_PU para_PREP o_ART usuário_N ._END
@@ -1009,7 +1009,7 @@ Quem_PRO-KS tem_V modem_N mais_ADV lento_ADJ pode_V participar_V ,_PU mas_KC vai
 Douglas_NPROP Ford_NPROP Rea_NPROP é_V um_PROSUB dos_PREP+ART expoentes_N da_PREP+ART imagem_N digital_ADJ nos_PREP+ART EUA_NPROP ,_PU onde_KS trabalha_V como_PREP professor_N da_PREP+ART Escola_NPROP de_NPROP Artes_NPROP Gráficas_NPROP e_NPROP Fotografia_NPROP do_PREP+ART Instituto_NPROP de_NPROP Tecnologia_NPROP de_NPROP Rochester_NPROP ._END
 Rea_NPROP ,_PU 46_NUM ,_PU orienta_V artistas_N e_KC profissionais_N interessados_PCP no_PREP+ART processo_N de_PREP digitalização_N da_PREP+ART imagem_N e_KC dirige_V o_ART projeto_N (_PU )_PU ._END
 Está_V editando_V uma_ART revista_N interativa_ADJ em_PREP CD-ROM_N ,_PU com_PREP artigos_N sobre_PREP pesquisas_N de_PREP laboratório_N e_KC estúdio_N ._END
-Rea_NPROP esteve_V em_PREP São_NPROP Paulo_NPROP na_PREP+ART Semana_NPROP Internacional_NPROP da_NPROP Fotografia_NPROP ,_PU promovida_PCP pelo_PREP+ART Núcleo_NPROP dos_NPROP Amigos_NPROP da_NPROP Fotografia_NPROP (_PU NaFoto_NPROP )_PU em_PREP abril_N ._END
+Rea_NPROP esteve_V em_PREP São Paulo_NPROP na_PREP+ART Semana_NPROP Internacional_NPROP da_NPROP Fotografia_NPROP ,_PU promovida_PCP pelo_PREP+ART Núcleo_NPROP dos_NPROP Amigos_NPROP da_NPROP Fotografia_NPROP (_PU NaFoto_NPROP )_PU em_PREP abril_N ._END
 A_PREP seguir_V ,_PU trechos_N de_PREP entrevista_N à_PREP+ART Folha_NPROP sobre_PREP a_ART implantação_N e_KC evolução_N da_PREP+ART imagem_N digital_ADJ ._END
 Qual_PROSUB é_V sua_PROADJ avaliação_N sobre_PREP a_ART imagem_N digital_ADJ ?_PU
 Ela_PROPESS ainda_ADV não_ADV alcançou_V o_ART potencial_N terá_V daqui_PREP+ADV a_PREP cinco_NUM ou_KC dez_NUM anos_N ._END
@@ -1152,14 +1152,14 @@ No_PREP+ART dia_N 14_N de_PREP maio_N ,_PU acontece_V no_PREP+ART mesmo_PROADJ l
 Tel_N ._END
 De_PREP 16_N a_PREP 21_N de_PREP maio_N acontece_V o_PROPESS 1º_ADJ Seminário_NPROP Internacional_NPROP de_NPROP Fotografia_NPROP no_PREP+ART Senac_NPROP ._END
 No_PREP+ART dia_N 16_N de_PREP maio_N ,_PU a_ART historiadora_N Naomi_NPROP Rosenblum_NPROP faz_V um_ART painel_N da_PREP+ART história_N da_PREP+ART fotografia_N ._END
-Inscrições_N podem_V ser_V feitas_PCP na_PREP+ART rua_N Dr._NPROP Vilanova_NPROP ,_PU (_PU centro_N de_PREP São_NPROP Paulo_NPROP )_PU ._END
+Inscrições_N podem_V ser_V feitas_PCP na_PREP+ART rua_N Dr._NPROP Vilanova_NPROP ,_PU (_PU centro_N de_PREP São Paulo_NPROP )_PU ._END
 (_PU 011_N 256-5522_N )_PU ._END
 "_PU Intimidade_NPROP "_PU é_V o_ART nome_N da_PREP+ART exposição_N de_PREP fotografias_N de_PREP Moa_NPROP Sitibaldi_NPROP ._END
 A_ART mostra_N acontece_V na_PREP+ART Casa_NPROP de_NPROP Fotografia_NPROP Fuji_NPROP até_PREP o_ART dia_N 27_N de_PREP maio_N ._END
 São_V 30_NUM fotos_N que_PRO-KS mostram_V a_ART "_PU intimidade_N "_PU de_PREP frutas_N e_KC legumes_N ._END
 O_ART horário_N da_PREP+ART exposição_N é_V de_PREP segunda_N a_PREP sexta-feira_N ,_PU das_PREP+PROSUB 9h_N às_PREP+ART 19h_N ,_PU e_KC sábado_N das_PREP+ART 13_N às_PREP+ART 19h_N ._END
 Av._N
-Vereador_NPROP José_NPROP Diniz_NPROP ,_PU 3.400_NUM (_PU zona_N sul_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ._END
+Vereador_NPROP José_NPROP Diniz_NPROP ,_PU 3.400_NUM (_PU zona_N sul_ADJ de_PREP São Paulo_NPROP )_PU ._END
 A_ART escola_N Imagem_NPROP &_NPROP Ação_NPROP oferece_V em_PREP maio_N e_KC junho_N curso_N básico_ADJ de_PREP fotografia_N ,_PU com_PREP aulas_N duas_NUM vezes_N por_PREP semana_N ._END
 As_ART inscrições_N podem_V ser_V feitas_PCP até_PREP a_ART próxima_ADJ semana_N ._END
 Preço_N :_PU três_NUM parcelas_N de_PREP 95_NUM URVs_N ._END
@@ -1175,7 +1175,7 @@ Quem_PRO-KS quiser_V livros_N de_PREP informática_N pode_V optar_V pela_PREP+AR
 Para_PREP ter_V acesso_N a_PREP essas_PROADJ lojas_N eletrônicas_ADJ é_V preciso_ADJ ter_V um_NUM micro_N com_PREP modem_N ou_KC fax/modem_N e_KC ser_V assinante_N do_PREP+ART BBS_NPROP Mandic_NPROP ._END
 Os_ART telefones_N são_V (_PU 011_N 816-3245_N )_PU (_PU voz_N )_PU e_KC (_PU 011_N 816-3911_N )_PU (_PU modem_N )_PU ._END
 É_V preciso_ADJ cuidados_PCP antes_ADV de_PREP comprar_V produtos_N por_PREP televendas_N ._END
-Segundo_PREP Regina_NPROP Bucco_NPROP ,_PU 33_NUM ,_PU chefe_N de_PREP atendimento_N do_PREP+ART Procon_NPROP ,_PU orgão_N de_PREP defesa_N do_PREP+ART consumidor_N de_PREP São_NPROP Paulo_NPROP ,_PU o_ART consumidor_N deve_V se_PROPESS informar_V sobre_PREP capacidade_N ,_PU dimensões_N e_KC origem_N do_PREP+ART produto_N ._END
+Segundo_PREP Regina_NPROP Bucco_NPROP ,_PU 33_NUM ,_PU chefe_N de_PREP atendimento_N do_PREP+ART Procon_NPROP ,_PU orgão_N de_PREP defesa_N do_PREP+ART consumidor_N de_PREP São Paulo_NPROP ,_PU o_ART consumidor_N deve_V se_PROPESS informar_V sobre_PREP capacidade_N ,_PU dimensões_N e_KC origem_N do_PREP+ART produto_N ._END
 Além_PREP disso_PREP+PROSUB ,_PU precisa_V solicitar_V o_ART número_N do_PREP+ART pedido_N e_KC exigir_V nota_N fiscal_ADJ para_PREP eventuais_ADJ reclamações_N ._END
 O_ART fornecedor_N (_PU fabricante_N ou_KC revenda_N )_PU tem_V 30_NUM dias_N para_PREP resolver_V o_ART problema_N ._END
 Quem_PRO-KS compra_V produtos_N para_PREP prestar_V serviços_N ou_KC desenvolver_V programas_N não_ADV está_V coberto_PCP pelo_PREP+ART Código_NPROP do_NPROP Consumidor_NPROP ._END
@@ -1206,10 +1206,10 @@ Segundo_PREP Ricardo_NPROP Jordão_NPROP ,_PU 24_NUM ,_PU gerente_N de_PREP mark
 Quem_PRO-KS procura_V micros_N ,_PU impressoras_N ,_PU acessórios_N e_KC programas_N para_PREP escritório_N e_KC educativos_ADJ pode_V recorrer_V também_PDEN à_PREP+ART Central_NPROP Line_NPROP ._END
 No_PREP+ART televendas_N da_PREP+ART Computer_NPROP Place_NPROP é_V possível_ADJ encontrar_V micros_N ,_PU impressoras_N ,_PU disquetes_N ,_PU papel_N para_PREP impressora_N e_KC programas_N ._END
 Os_ART prazos_N de_PREP entrega_N das_PREP+ART empresas_N acima_ADV variam_V de_PREP um_NUM a_PREP 20_NUM dias_N ._END
-A_ART maioria_N cobra_V frete_N para_PREP entregas_N fora_PREP de_PREP São_NPROP Paulo_NPROP ._END
-"_PU Enviar_V um_ART veículo_N a_PREP São_NPROP Paulo_NPROP para_PREP comprar_V um_ART programa_N sai_V mais_ADV caro_ADJ do_KS que_KS comprar_V o_ART produto_N por_PREP fax_N ou_KC telefone_N "_PU ._END
+A_ART maioria_N cobra_V frete_N para_PREP entregas_N fora_PREP de_PREP São Paulo_NPROP ._END
+"_PU Enviar_V um_ART veículo_N a_PREP São Paulo_NPROP para_PREP comprar_V um_ART programa_N sai_V mais_ADV caro_ADJ do_KS que_KS comprar_V o_ART produto_N por_PREP fax_N ou_KC telefone_N "_PU ._END
 é_V um_PROSUB dos_PREP+ART motivos_N pelos_PREP+PRO-KS quais_PRO-KS o_ART advogado_N Marco_NPROP Antonio_NPROP Pezolatto_NPROP ,_PU sócio_N do_PREP+ART escritório_N M._NPROP
-A._NPROP Pezolatto_NPROP ,_PU de_PREP Santa_NPROP Barbara_NPROP d'Oeste_NPROP (_PU 120_NUM km_N a_PREP oeste_N de_PREP São_NPROP Paulo_NPROP )_PU ,_PU é_V adepto_N do_PREP+ART televendas_N ._END
+A._NPROP Pezolatto_NPROP ,_PU de_PREP Santa_NPROP Barbara_NPROP d'Oeste_NPROP (_PU 120_NUM km_N a_PREP oeste_N de_PREP São Paulo_NPROP )_PU ,_PU é_V adepto_N do_PREP+ART televendas_N ._END
 Pezolatto_NPROP já_ADV comprou_V da_PREP+ART Brasoftware_NPROP planilhas_N ,_PU processadores_N e_KC organizadores_N de_PREP mesa_N e_KC diz_V que_KS nunca_ADV teve_V problemas_N com_PREP os_ART produtos_N ._END
 O_ART programa_N apresentou_V falhas_N ._END
 Ele_PROPESS tentou_V trocar_V -lo_PROPESS e_KC não_ADV conseguiu_V ._END
@@ -1259,8 +1259,8 @@ A_ART rotação_N das_PREP+ART linhas_N ,_PU no_PREP caso_PREP do_PREP+ART fax_N
 O_ART mesmo_PROADJ ábaco_N serve_V para_PREP protocolo_N (_PU "_PU handshaking_N "_PU )_PU quando_ADV-KS um_NUM aparelho_N encriptador_ADJ entra_V em_PREP contato_N com_PREP outro_PROSUB -_PU a_ART regra_N da_PREP+ART criptografia_N é_V que_KS os_ART aparelhos_N trabalhem_V sempre_ADV em_PREP pares_N ._END
 O_ART protocolo_N vai_V reconhecer_V o_ART aparelho_N semelhante_ADJ ,_PU decodificando_V a_ART mensagem_N ._END
 Chamadas_N que_PRO-KS não_ADV estejam_V criptografadas_PCP vão_V para_PREP o_ART aparelho_N normal_ADJ (_PU fax_N ,_PU telefone_N ou_KC modem_N )_PU ._END
-A_ART história_N ,_PU a_ART geografia_N e_KC a_ART arquitetura_N de_PREP 40_NUM cidades_N do_PREP+ART Vale_NPROP do_NPROP Paraíba_NPROP e_KC do_PREP+ART norte_ADJ de_PREP São_NPROP Paulo_NPROP são_V o_ART centro_N de_PREP um_ART programa_N multimídia_ADJ que_PRO-KS pesquisadores_N da_PREP+ART Universidade_NPROP do_NPROP Vale_NPROP do_NPROP Paraíba_NPROP estão_V desenvolvendo_V ._END
-O_ART projeto_N Túnel_NPROP do_NPROP Tempo_NPROP foi_V apresentado_PCP na_PREP+ART semana_N passada_PCP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU durante_PREP o_ART simpósio_N "_PU Multimídia_NPROP para_NPROP Arquitetura_NPROP e_NPROP Urbanismo_NPROP "_PU ._END
+A_ART história_N ,_PU a_ART geografia_N e_KC a_ART arquitetura_N de_PREP 40_NUM cidades_N do_PREP+ART Vale_NPROP do_NPROP Paraíba_NPROP e_KC do_PREP+ART norte_ADJ de_PREP São Paulo_NPROP são_V o_ART centro_N de_PREP um_ART programa_N multimídia_ADJ que_PRO-KS pesquisadores_N da_PREP+ART Universidade_NPROP do_NPROP Vale_NPROP do_NPROP Paraíba_NPROP estão_V desenvolvendo_V ._END
+O_ART projeto_N Túnel_NPROP do_NPROP Tempo_NPROP foi_V apresentado_PCP na_PREP+ART semana_N passada_PCP ,_PU em_PREP São Paulo_NPROP ,_PU durante_PREP o_ART simpósio_N "_PU Multimídia_NPROP para_NPROP Arquitetura_NPROP e_NPROP Urbanismo_NPROP "_PU ._END
 "_PU A_ART gente_N está_V começando_V a_PREP desenvolver_V o_ART programa_N agora_KC "_PU ,_PU diz_V Almir_NPROP Pereira_NPROP dos_NPROP Santos_NPROP ,_PU do_PREP+ART Laboratório_NPROP de_NPROP Geoprocessamento_NPROP e_NPROP Multimídia_NPROP da_PREP+ART Univap_NPROP ._END
 A_ART idéia_N é_V ter_V um_ART protótipo_N para_PREP demonstração_N até_PDEN o_ART final_N do_PREP+ART ano_N ._END
 O_ART sistema_N vai_V incluir_V também_PDEN fotos_N e_KC imagens_N de_PREP vídeo_N ,_PU além_PREP de_PREP mapas_N da_PREP+ART região_N ._END
@@ -1326,7 +1326,7 @@ Cada_PROADJ usuário_N precisa_V ter_V uma_ART "_PU caixa_N postal_ADJ "_PU para
 A_ART vantagem_N de_PREP ter_V acesso_N a_PREP essa_PROADJ rede_N pública_ADJ é_V poder_V conectar_V -se_PROPESS com_PREP pessoas_N do_PREP+ART outro_PROADJ lado_N do_PREP+ART mundo_N ,_PU sem_PREP ter_V pagar_V ligação_N internacional_ADJ ._END
 Podem_V -se_PROPESS ainda_ADV pesquisar_V informações_N de_PREP universidades_N ._END
 No_PREP+ART Brasil_NPROP o_ART acesso_N em_PREP tempo_N real_ADJ não_ADV é_V aberto_PCP a_PREP qualquer_PROADJ usuário_N ._END
-Esse_PROADJ acesso_N só_PDEN é_V possível_ADJ para_PREP quem_PRO-KS está_V ligado_PCP a_PREP alguma_PROADJ instituição_N de_PREP pesquisa_N ,_PU como_PREP a_ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP ._END
+Esse_PROADJ acesso_N só_PDEN é_V possível_ADJ para_PREP quem_PRO-KS está_V ligado_PCP a_PREP alguma_PROADJ instituição_N de_PREP pesquisa_N ,_PU como_PREP a_ART Universidade_NPROP de_NPROP São Paulo_NPROP ._END
 Quem_PRO-KS não_ADV for_V pesquisador_N pode_V acionar_V a_ART Internet_NPROP via_PREP BBS_NPROP (_PU veja_V quadro_N ao_PREP+ART lado_N )_PU ._END
 Para_PREP usar_V o_ART serviço_N ,_PU é_V preciso_ADJ cadastrar_V -se_PROPESS em_PREP um_ART BBS_NPROP que_PRO-KS tenha_V acesso_N à_PREP+ART Internet_NPROP e_KC ganhar_V um_ART número_N de_PREP "_PU caixa_N postal_ADJ "_PU ._END
 Envie_V a_ART mensagem_N para_PREP o_ART endereço_N de_PREP interesse_N ._END
@@ -1384,9 +1384,9 @@ Prefira_V também_PDEN os_ART modelos_N que_PRO-KS fazem_V uso_N "_PU inteligent
 Teclado_N -_PU Experimente_V o_ART portátil_N e_KC confira_V se_KS as_ART teclas_N não_ADV são_V muito_ADV juntas_PCP (_PU os_ART dedos_N esbarram_V nas_PREP+ART teclas_N )_PU ._END
 A_ART CDC_NPROP aluga_V modelos_N de_PREP várias_PROADJ marcas_N ._END
 Luciano_NPROP Costa_NPROP Ferreira_NPROP ,_PU diretor_N da_PREP+ART CDC_NPROP ,_PU diz_V que_KS o_ART prazo_N mínimo_ADJ para_PREP aluguel_N é_V de_PREP três_NUM dias_N ._END
-A_ART diária_N é_V de_PREP 12_NUM URVs_N para_PREP a_ART Grande_N São_NPROP Paulo_NPROP ._END
+A_ART diária_N é_V de_PREP 12_NUM URVs_N para_PREP a_ART Grande_N São Paulo_NPROP ._END
 Fora_ADV da_PREP+ART região_N ,_PU o_ART preço_N sobre_PREP 6_NUM %_N ._END
-Em_PREP São_NPROP Paulo_NPROP ,_PU basta_V ligar_V que_KS a_ART CDC_NPROP entrega_V no_PREP+ART endereço_N indicado_PCP e_KC ensina_V a_PREP usar_V o_ART equipamento_N ._END
+Em_PREP São Paulo_NPROP ,_PU basta_V ligar_V que_KS a_ART CDC_NPROP entrega_V no_PREP+ART endereço_N indicado_PCP e_KC ensina_V a_PREP usar_V o_ART equipamento_N ._END
 Colocar_V o_ART notebook_N no_PREP+ART seguro_N é_V praticamente_ADV impossível_ADJ ._END
 As_ART empresas_N de_PREP seguro_N enquadram_V o_ART notebook_N na_PREP+ART categoria_N All_NPROP Risks_NPROP ,_PU que_PRO-KS inclui_V equipamentos_N de_PREP uso_N pessoal_ADJ e_KC cobre_V roubo_N e_KC furto_N ._END
 Para_PREP empresas_N ,_PU o_ART seguro_N do_PREP+ART notebook_N é_V possível_ADJ desde_KS que_KS haja_V outros_PROADJ bens_N segurados_PCP ._END

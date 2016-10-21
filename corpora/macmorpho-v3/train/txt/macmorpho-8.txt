@@ -14,7 +14,7 @@ Trancou_V -se_PROPESS no_PREP+ART quarto_N ._END
 Imaginou_V -se_PROPESS na_PREP+ART sala_N de_PREP projeção_N ,_PU o_ART filme_N pronto_ADJ ,_PU pôs_V -se_PROPESS a_PREP ler_V ,_PU dirigir_V o_ART argumento_N ._END
 Contra_PREP a_ART moça_N do_PREP+ART tempo_N ,_PU embonecada_PCP dando_V suas_PROADJ previsões_N para_PREP o_ART amanhã_N impecável_ADJ :_PU receito_V secas_N intermináveis_ADJ ,_PU rios_N temporários_ADJ ,_PU tufões_N ,_PU terremotos_N ,_PU o_ART inesperado_ADJ vendaval_N que_PRO-KS varra_V do_PREP+ART mapa_N a_ART cara_N previsível_ADJ do_PREP+ART mapa_N e_KC da_PREP+ART moça_N meteorológica_ADJ ._END
 No_PREP+ART take_N ,_PU no_PREP+ART close_N ,_PU a_ART negrinha_N sertaneja_ADJ da_PREP+ART serra_N do_PREP+ART Gibão_NPROP ._END
-Ao_PREP+ART fundo_N ,_PU o_ART São_NPROP Francisco_NPROP ,_PU a_ART largura_N do_PREP+ART rio_N de_PREP barro_N ,_PU de_PREP baldo_N ,_PU o_ART riobaldo_N das_PREP+ART correntezas_N ,_PU o_ART rio_N do_PREP+ART Chico_NPROP nacional_ADJ ._END
+Ao_PREP+ART fundo_N ,_PU o_ART São Francisco_NPROP ,_PU a_ART largura_N do_PREP+ART rio_N de_PREP barro_N ,_PU de_PREP baldo_N ,_PU o_ART riobaldo_N das_PREP+ART correntezas_N ,_PU o_ART rio_N do_PREP+ART Chico_NPROP nacional_ADJ ._END
 -_PU certificou_V -se_PROPESS ,_PU interrompidas_PCP projeção_N e_KC notas_N pela_PREP+ART empregada_N que_PRO-KS entrou_V no_PREP+ART quarto_N ._END
 Precisava_V despedir_V -la_PROPESS ._END
 Trabalhava_V desde_PREP os_ART 12_NUM anos_N e_KC nenhum_PROADJ reis-reais_N que_PRO-KS pagasse_V a_ART moça_N ._END
@@ -24,7 +24,7 @@ Tratava_V -se_PROPESS do_PREP+ART fiofó_N da_PREP+ART galinha_N :_PU o_ART fiof
 Cara_ADV a_ADV cara_ADV com_PREP a_ART empregada_N ,_PU nem_ADV sempre_ADV entendia_V o_PRO-KS que_PRO-KS ela_PROPESS dizia_V ._END
 O_ART móbile_N de_PREP pássaros_N de_PREP cerâmica_N pendia_V do_PREP+ART teto_N sobre_PREP a_ART cabeça_N da_PREP+ART empregada_N ._END
 Era_V preciso_ADJ piedade_N ._END
-A_ART menina_N é_V um_ART tiçãozinho_N de_PREP gente_N ,_PU pobre_ADJ entre_PREP pobres_N ,_PU na_PREP+ART pobreza_N fluvial_ADJ e_KC afluente_ADJ do_PREP+ART São_NPROP Francisco_NPROP ,_PU o_ART Chicoião_NPROP ._END
+A_ART menina_N é_V um_ART tiçãozinho_N de_PREP gente_N ,_PU pobre_ADJ entre_PREP pobres_N ,_PU na_PREP+ART pobreza_N fluvial_ADJ e_KC afluente_ADJ do_PREP+ART São Francisco_NPROP ,_PU o_ART Chicoião_NPROP ._END
 Sim_ADV ,_PU pode_V dizer_V -_PU a_ART empregada_N intrometeu_V -se_PROPESS ,_PU voltando_V ._END
 Interrompendo_V projeção_N e_KC notas_N (_PU precisava_V despedir_V -la_PROPESS )_PU ,_PU ergueu_V o_ART olhar_N de_PREP constrangimento_N que_PRO-KS se_PROPESS ergue_V para_PREP os_ART cegos_N ._END
 Pois_KC descobrira_V que_KS a_ART empregada_N não_ADV sabia_V ler_V ,_PU tratava_V -a_PROPESS com_PREP o_ART inevitável_ADJ remorso_N que_PRO-KS sentia_V pelos_PREP+ART cegos_N ._END
@@ -57,7 +57,7 @@ Era_V ali_ADV o_ART banheiro_N do_PREP+ART mocambo_N ,_PU ali_ADV para_PREP cus_
 Encerrada_PCP a_ART projeção_N ._END
 É_V a_ART empregada_N veio_V se_PROPESS desculpar_V ,_PU veio_V confessar_V que_KS andava_V comendo_V os_ART pássaros_N de_PREP barro_N ,_PU o_ART barro_N dos_PREP+ART pássaros_N ,_PU o_ART móbile_N ,_PU quebrando_V pedacinhos_N e_KC roendo_V ,_PU mastigando_V ,_PU chupando_V todo_PROADJ dia_N um_ADV pouco_ADV ,_PU devido_PREP à_PREP+ART irresistível_ADJ vontade_N inexplicável_ADJ de_PREP comer_V do_PREP+ART barro_N vermelho_ADJ ,_PU isso_PROSUB só_PDEN ,_PU só_PDEN isso_PROSUB só_PDEN ..._END
 Não_ADV sei_V o_PROSUB quê_PROSUB ..._END
-A_ART empregada_N tatu_N ,_PU jeca_N ,_PU não_ADV sabia_V que_KS tinha_V o_ART Necator_N americanus_N ,_PU o_ART mal-da-terra_N ,_PU o_ART amarelão_N na_PREP+ART luz_N intestinal_ADJ ,_PU que_PRO-KS alimentava_V lombrigas_N ,_PU ascárides_N infestando_V -lhe_PROPESS as_ART tripas_N cheias_ADJ da_PREP+ART farinha_N do_PREP+ART barro_N ,_PU da_PREP+ART cerâmica_N de_PREP Tracunhaém_NPROP ,_PU da_PREP+ART argila_N nacional_ADJ do_PREP+ART rio_N São_NPROP Francisco_NPROP descendo_V em_PREP corredeiras_N tão_ADV largo_ADJ tão_ADV lindo_ADJ ._END
+A_ART empregada_N tatu_N ,_PU jeca_N ,_PU não_ADV sabia_V que_KS tinha_V o_ART Necator_N americanus_N ,_PU o_ART mal-da-terra_N ,_PU o_ART amarelão_N na_PREP+ART luz_N intestinal_ADJ ,_PU que_PRO-KS alimentava_V lombrigas_N ,_PU ascárides_N infestando_V -lhe_PROPESS as_ART tripas_N cheias_ADJ da_PREP+ART farinha_N do_PREP+ART barro_N ,_PU da_PREP+ART cerâmica_N de_PREP Tracunhaém_NPROP ,_PU da_PREP+ART argila_N nacional_ADJ do_PREP+ART rio_N São Francisco_NPROP descendo_V em_PREP corredeiras_N tão_ADV largo_ADJ tão_ADV lindo_ADJ ._END
 Mas_KC o_ART telefone_N tocou_V alarmado_PCP ._END
 Recusavam_V seu_PROADJ argumento_N ,_PU seu_PROADJ roteiro_N ,_PU cineasta_N que_PRO-KS jamais_ADV seria_V ,_PU uma_ART pena_N ,_PU pois_KC tinha_V o_ART imaginário_N cheio_ADJ de_PREP barro_N ,_PU de_PREP amor_N pela_PREP+ART terra_N ,_PU pelo_PREP+ART vermelhão_N da_PREP+ART chuva_N de_PREP enxurrada_N do_PREP+ART rio_N do_PREP+ART Chico_NPROP ,_PU pela_PREP+ART gente_N e_KC pela_PREP+ART técnica_N da_PREP+ART gente_N dos_PREP+ART bonecos_N de_PREP barro_N ._END
 Você_PROPESS fica_V ,_PU Francisca_NPROP -_PU concluiu_V ,_PU para_PREP a_ART empregada_N ._END
@@ -262,7 +262,7 @@ Em_PREP 25/3_N ,_PU o_ART economista_N Paul_NPROP Singer_NPROP entra_V no_PREP+A
 NABOKOV_NPROP ;_PU Memória_N
 PáGINA_N :_PU 6-12_N
 Erramos_V
-A_ART Ars_NPROP Poética_NPROP está_V preparando_V para_PREP a_ART Bienal_NPROP Internacional_NPROP do_NPROP Livro_NPROP (_PU São_NPROP Paulo_NPROP )_PU um_ART pacote_N Vladimir_NPROP Nabokov_NPROP (_PU foto_N )_PU ._END
+A_ART Ars_NPROP Poética_NPROP está_V preparando_V para_PREP a_ART Bienal_NPROP Internacional_NPROP do_NPROP Livro_NPROP (_PU São Paulo_NPROP )_PU um_ART pacote_N Vladimir_NPROP Nabokov_NPROP (_PU foto_N )_PU ._END
 Já_ADV a_ART Companhia_NPROP das_NPROP Letras_NPROP irá_V lançar_V "_PU Lolita_NPROP "_PU ,_PU obra_N que_PRO-KS tornou_V o_ART romancista_N russo_ADJ (_PU 1899-1977_N )_PU um_ART nome_N conhecido_PCP ._END
 "_PU Tirandentes_NPROP -_NPROP retrato_NPROP de_NPROP uma_NPROP cidade_NPROP "_PU é_V uma_ART obra_N magnificamente_ADV editada_PCP pela_PREP+ART Campos_NPROP Gerais_NPROP ._END
 A_ART cidade_N é_V descrita_PCP com_PREP precisão_N poética_ADJ por_PREP Lélia_NPROP Coelho_NPROP Frota_NPROP ._END
@@ -271,31 +271,31 @@ Futebol_N ;_PU Opera_NPROP NOSTRA_NPROP
 A_ART proximidade_N da_PREP+ART copa_N do_N mundo_N estimula_V novos_ADJ lançamentos_N ._END
 Só_PDEN a_ART Companhia_NPROP das_NPROP Letras_NPROP está_V programando_V para_PREP este_PROADJ primeiro_ADJ semestre_N três_NUM livros_N ._END
 Em_PREP final_N de_PREP abril_N sai_V "_PU À_NPROP Copa_NPROP que_NPROP Ninguém_NPROP Viu_NPROP "_PU com_PREP textos_N de_PREP Jô_NPROP Soares_NPROP ,_PU Armando_NPROP Nogueira_NPROP e_KC Roberto_NPROP Muylaert_NPROP ._END
-O_ART lançamento_N do_PREP+ART livro_N será_V dia_N 11_N ,_PU às_PREP+ART 20hs_N ,_PU na_PREP+ART Livraria_NPROP Timbre_NPROP ,_PU Shopping_NPROP da_NPROP Gávea_NPROP (_PU r._NPROP Marquês_NPROP de_NPROP São_NPROP Vicente_NPROP ,_PU 52_NUM ,_PU loja_N 221_N ,_PU 2º_ADJ piso_N )_PU ._END
-Historiografia_NPROP da_NPROP imigração_NPROP para_NPROP São_NPROP Paulo_NPROP de_PREP Boris_NPROP Fausto_NPROP ._END
+O_ART lançamento_N do_PREP+ART livro_N será_V dia_N 11_N ,_PU às_PREP+ART 20hs_N ,_PU na_PREP+ART Livraria_NPROP Timbre_NPROP ,_PU Shopping_NPROP da_NPROP Gávea_NPROP (_PU r._NPROP Marquês_NPROP de_NPROP São Vicente_NPROP ,_PU 52_NUM ,_PU loja_N 221_N ,_PU 2º_ADJ piso_N )_PU ._END
+Historiografia_NPROP da_NPROP imigração_NPROP para_NPROP São Paulo_NPROP de_PREP Boris_NPROP Fausto_NPROP ._END
 5_NUM URVs_N
-De_NPROP mascates_NPROP a_NPROP doutores:_NPROP sírios_NPROP e_NPROP libaneses_NPROP em_NPROP São_NPROP Paulo_NPROP de_PREP Oswaldo_NPROP Truzzi_NPROP ._END
-Negócios_NPROP &_NPROP Famílias:_NPROP armênios_NPROP em_NPROP São_NPROP Paulo_NPROP ,_PU de_PREP Roberto_NPROP Grun_NPROP ._END
+De_NPROP mascates_NPROP a_NPROP doutores:_NPROP sírios_NPROP e_NPROP libaneses_NPROP em_NPROP São Paulo_NPROP de_PREP Oswaldo_NPROP Truzzi_NPROP ._END
+Negócios_NPROP &_NPROP Famílias:_NPROP armênios_NPROP em_NPROP São Paulo_NPROP ,_PU de_PREP Roberto_NPROP Grun_NPROP ._END
 6_NUM
 Romanceiro_NPROP da_NPROP imigração_NPROP japonesa_NPROP ,_PU de_PREP Célia_NPROP Sakurai_NPROP ._END
-Os_ART livros_N acima_ADV são_ADJ lançamento_N da_PREP+ART Sumaré_NPROP (_PU av._NPROP Dr._NPROP Arnaldo_NPROP ,_PU 1.973_NUM ,_PU São_NPROP Paulo_NPROP ,_PU tel._N 011_N 263-1605_N )_PU ,_PU co-edição_N Fapesp_NPROP
+Os_ART livros_N acima_ADV são_ADJ lançamento_N da_PREP+ART Sumaré_NPROP (_PU av._NPROP Dr._NPROP Arnaldo_NPROP ,_PU 1.973_NUM ,_PU São Paulo_NPROP ,_PU tel._N 011_N 263-1605_N )_PU ,_PU co-edição_N Fapesp_NPROP
 Contos_N leves_ADJ sobre_PREP temas_N pesados_ADJ
 O_ART livro_N "_PU A_NPROP Vida_NPROP Secreta_NPROP dos_NPROP Relógios_NPROP e_NPROP Outras_NPROP Histórias_NPROP "_PU ,_PU de_PREP Roney_NPROP Cytrynowicz_NPROP ,_PU inaugura_V a_ART coleção_N "_PU Brasilis_NPROP "_PU ,_PU que_PRO-KS ,_PU segundo_PREP a_ART editora_N (_PU )_PU ,_PU pretende_V "_PU garantir_V espaço_N permanente_ADJ aos_PREP+ART novos_ADJ autores_N brasileiros_ADJ de_PREP ficção_N "_PU ._END
 Esta_PROADJ posição_N já_ADV bastaria_V para_PREP tornar_V -lo_PROPESS bem-vindo_ADJ ,_PU mas_KC ele_PROPESS com_PREP certeza_N não_ADV o_PROPESS é_V por_PREP causa_N de_PREP isso_PROSUB ._END
-Em_PREP pequenas_ADJ histórias_N ,_PU o_ART autor_N faz_V desfilarem_V reminiscências_N da_PREP+ART sua_PROADJ infância_N de_PREP menino_N judeu_ADJ em_PREP São_NPROP Paulo_NPROP ,_PU misturando_V -as_PROPESS com_PREP lembranças_N do_PREP+ART sofrimento_N e_KC da_PREP+ART opressão_N de_PREP sobreviventes_N dos_PREP+ART campos_N de_PREP extermínio_N nazistas_ADJ na_PREP+ART Segunda_NPROP Guerra_NPROP Mundial_NPROP ,_PU muitos_PROSUB ainda_ADV prisioneiros_ADJ ,_PU mas_KC agora_ADV das_PREP+ART recordações_N ._END
+Em_PREP pequenas_ADJ histórias_N ,_PU o_ART autor_N faz_V desfilarem_V reminiscências_N da_PREP+ART sua_PROADJ infância_N de_PREP menino_N judeu_ADJ em_PREP São Paulo_NPROP ,_PU misturando_V -as_PROPESS com_PREP lembranças_N do_PREP+ART sofrimento_N e_KC da_PREP+ART opressão_N de_PREP sobreviventes_N dos_PREP+ART campos_N de_PREP extermínio_N nazistas_ADJ na_PREP+ART Segunda_NPROP Guerra_NPROP Mundial_NPROP ,_PU muitos_PROSUB ainda_ADV prisioneiros_ADJ ,_PU mas_KC agora_ADV das_PREP+ART recordações_N ._END
 "_PU A_ART memória_N fica_V nos_PREP+ART ossos_N "_PU ,_PU diz_V um_PROSUB deles_PREP+PROPESS ._END
 Não_ADV existem_V no_PREP+ART livro_N descrições_N "_PU realistas_ADJ "_PU da_PREP+ART chamada_N "_PU solução_N final_ADJ "_PU ._END
-Da_PREP+ART parte_N do_PREP+ART menino_N em_PREP São_NPROP Paulo_NPROP ,_PU há_V reconstituições_N saudosistas_ADJ de_PREP um_ART afeto_N já_ADV distante_ADJ e_KC da_PREP+ART perplexidade_N ,_PU recorrente_ADJ ,_PU diante_PREP de_PREP comportamentos_N dos_PREP+ART adultos_N de_PREP sua_PROADJ família_N ._END
+Da_PREP+ART parte_N do_PREP+ART menino_N em_PREP São Paulo_NPROP ,_PU há_V reconstituições_N saudosistas_ADJ de_PREP um_ART afeto_N já_ADV distante_ADJ e_KC da_PREP+ART perplexidade_N ,_PU recorrente_ADJ ,_PU diante_PREP de_PREP comportamentos_N dos_PREP+ART adultos_N de_PREP sua_PROADJ família_N ._END
 Cytrynowicz_NPROP utiliza_V -se_PROPESS da_PREP+ART memória_N da_PREP+ART dor_N para_PREP relatar_V a_ART dor_N da_PREP+ART memória_N ,_PU e_KC ,_PU no_PREP+ART conjunto_N ,_PU produz_V contos_N que_PRO-KS ,_PU tratando_V de_PREP temas_N pesados_ADJ e_KC polêmicos_ADJ ,_PU conseguem_V ser_V leves_ADJ e_KC delicados_ADJ ._END
 Há_V três_NUM exceções_N ._END
-No_PREP+ART bem-humorado_ADJ "_PU A_NPROP Guerra_NPROP das_NPROP Matzot_NPROP "_PU ,_PU o_ART autor_N deixa_V o_ART território_N da_PREP+ART memória_N e_KC sai_V -se_PROPESS bem_ADV imaginando_V uma_ART guerrilha_N comercial_ADJ entre_PREP lojistas_N judeus_ADJ ,_PU árabes_ADJ e_KC coreanos_ADJ na_PREP+ART atualidade_N ,_PU numa_PREP+ART sátira_N das_PREP+ART relações_N entre_PREP essas_PROADJ etnias_N em_PREP São_NPROP Paulo_NPROP ._END
+No_PREP+ART bem-humorado_ADJ "_PU A_NPROP Guerra_NPROP das_NPROP Matzot_NPROP "_PU ,_PU o_ART autor_N deixa_V o_ART território_N da_PREP+ART memória_N e_KC sai_V -se_PROPESS bem_ADV imaginando_V uma_ART guerrilha_N comercial_ADJ entre_PREP lojistas_N judeus_ADJ ,_PU árabes_ADJ e_KC coreanos_ADJ na_PREP+ART atualidade_N ,_PU numa_PREP+ART sátira_N das_PREP+ART relações_N entre_PREP essas_PROADJ etnias_N em_PREP São Paulo_NPROP ._END
 Já_ADV em_PREP "_PU Barracão_NPROP II_NPROP "_PU ,_PU o_ART melhor_ADJ momento_N de_PREP Cytrynowicz_NPROP ,_PU é_V a_ART leveza_N anterior_ADJ que_PRO-KS sai_V de_PREP cena_N ,_PU o_ART reencontro_N entre_PREP uma_ART vítima_N e_KC seu_PROADJ carrasco_N nazista_ADJ ,_PU 45_NUM anos_N depois_ADV da_PREP+ART guerra_N ,_PU atinge_V em_PREP poucos_PROADJ e_KC curtos_ADJ parágrafos_N uma_ART dramaticidade_N instigante_ADJ ._END
 Além_PREP disso_PREP+PROSUB ,_PU Cytrynowicz_NPROP ,_PU autor_N de_PREP um_ART livro_N anterior_ADJ não-ficcional_ADJ sobre_PREP o_ART Holocausto_NPROP -_PU tema_N que_PRO-KS ,_PU como_ADV se_PROPESS vê_V ,_PU não_ADV o_PROPESS -_PU ,_PU faz_V boa_ADJ estréia_N ._END
 E_KC a_PREP julgar_V por_PREP um_ART conto_N como_PREP "_PU Barracãp_NPROP II_NPROP "_PU ,_PU não_ADV é_V irrealista_ADJ prever_V que_KS suas_PROADJ próximas_ADJ obras_N poderão_V ser_V tão_ADV bem-vindas_ADJ como_PREP esta_PROSUB ._END
 A_NPROP Vida_NPROP Secreta_NPROP dos_NPROP Relógios_NPROP e_NPROP Outras_NPROP Histórias_NPROP ,_PU de_PREP Roney_NPROP Cytrynowicz_NPROP ._END
 Coleção_NPROP Brasilis_NPROP ._END
 Projeto_N gráfico_ADJ e_KC capa_N de_PREP Alfredo_NPROP S._NPROP V._NPROP Coelho_NPROP ._END
-Scritta_NPROP (_PU r._NPROP Germaine_NPROP Burchard_NPROP ,_PU 286_NUM ,_PU São_NPROP Paulo_NPROP ,_PU Cep_N 05002-061_N ,_PU tel._N 011_N 262-1155_N ,_PU fax_N 864-9320_N )_PU ._END
+Scritta_NPROP (_PU r._NPROP Germaine_NPROP Burchard_NPROP ,_PU 286_NUM ,_PU São Paulo_NPROP ,_PU Cep_N 05002-061_N ,_PU tel._N 011_N 262-1155_N ,_PU fax_N 864-9320_N )_PU ._END
 77_NUM págs_N ._END 11,12_NUM URVs_N
 Rocco_NPROP ._END
 179_NUM págs_N ._END 12,14_NUM URVs_N
@@ -422,7 +422,7 @@ Desse_PREP+PROADJ panorama_N todo_PROADJ ,_PU emergem_V como_PREP atores_N desta
 Na_PREP+ART verdade_N ,_PU "_PU Cobras_NPROP e_NPROP Lagartos_NPROP "_PU revela_V com_PREP primor_N de_PREP detalhes_N -_PU para_PREP um_ART leitor_N mais_ADV desavisado_PCP ,_PU por_ADV vezes_ADV ,_PU -_PU ,_PU um_ART contexto_N repleto_ADJ de_PREP "_PU cientistas_N maravilhosos_ADJ com_PREP suas_PROADJ instituições_N voadoras_ADJ "_PU ;_PU o_ART desenho_N de_PREP uma_ART geração_N que_PRO-KS acreditou_V piamente_ADV no_PREP+ART poder_N das_PREP+ART ciências_N e_KC em_PREP seu_PROADJ potencial_N de_PREP transformação_N ._END
 Contexto_N intelectual_ADJ por_ADV certo_ADV datado_PCP ,_PU o_ART final_N dos_PREP+ART anos_N 30_N marca_V o_ART final_N desse_PREP+PROADJ período_N tão_ADV caracterizado_PCP pelo_PREP+ART sucesso_N de_PREP projetos_N personalistas_ADJ ,_PU com_PREP claras_ADJ perspectivas_N de_PREP intervenção_N ,_PU e_KC sobretudo_PDEN pautados_PCP por_PREP uma_ART crença_N suprema_ADJ na_PREP+ART pesquisa_N básica_ADJ ._END
 Mas_KC ,_PU nesse_PREP+PROADJ terreno_N ,_PU tinha_V mesmo_PDEN razão_N Artur_NPROP Neiva_NPROP ,_PU quando_KS ainda_ADV nos_PREP+ART anos_N 30_N afirmava_V ,_PU que_KS o_ART "_PU Brasil_NPROP ainda_ADV acampa_V "_PU ._END
-LILIA_NPROP MORITZ_NPROP SCHWARCZ_NPROP ,_PU professora_N do_PREP+ART Departamento_NPROP de_NPROP Antropologia_NPROP da_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP
+LILIA_NPROP MORITZ_NPROP SCHWARCZ_NPROP ,_PU professora_N do_PREP+ART Departamento_NPROP de_NPROP Antropologia_NPROP da_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP
 Capa_N de_PREP Isabel_NPROP Carballo_NPROP G_NPROP &_NPROP C_NPROP ._END
 Projeto_N visual_ADJ de_PREP Lourdes_NPROP Guacira_NPROP da_NPROP Silva_NPROP ._END
 151_NUM págs_N ._END
@@ -436,7 +436,7 @@ CONTRATRANSFERÊNCIA_NPROP -_NPROP A_NPROP Questão_NPROP Fundamental_NPROP Da_N
 Escuta_NPROP (_PU r._NPROP Dr._NPROP Homem_NPROP de_NPROP Mello_NPROP ,_PU 351_NUM ,_PU SP_NPROP ,_PU tel._N 011_N 65-8950_N )_PU ._END
 Estudo_N da_PREP+ART contratransferência_N ,_PU ou_KC presença_N do_PREP+ART analista_N no_PREP+ART tratamento_N ,_PU considerada_PCP aqui_ADV "_PU a_ART questão_N fundamental_ADJ da_PREP+ART psicanálise_N "_PU ._END
 Monstros,_NPROP Demônios_NPROP E_NPROP Encantamentos_NPROP No_NPROP Fim_NPROP Da_NPROP Idade_NPROP Média_NPROP ,_PU de_PREP Claude_NPROP Kappler_NPROP ._END
-Martins_NPROP Fontes_NPROP (_PU r._NPROP Cons._NPROP Ramalho_NPROP ,_PU 330/340_NUM ,_PU São_NPROP Paulo_NPROP ,_PU tel._N 011_N 239-3677_N )_PU ._END
+Martins_NPROP Fontes_NPROP (_PU r._NPROP Cons._NPROP Ramalho_NPROP ,_PU 330/340_NUM ,_PU São Paulo_NPROP ,_PU tel._N 011_N 239-3677_N )_PU ._END
 497_NUM págs_N ._END
 Ensaio_N pretende_V abordar_V a_ART noção_N de_PREP monstro_N do_PREP+ART século_N 13_N ao_PREP+ART 15_N ,_PU sob_PREP a_ART perspectiva_N da_PREP+ART história_N da_PREP+ART mentalidades_N ._END
 Ilustrado_PCP ._END
@@ -446,12 +446,12 @@ Série_N Somma_NPROP ._END
 Estudo_N pretende_V recuperar_V uma_ART história_N paralela_ADJ dos_PREP+ART bruxos_N no_PREP+ART Ocidente_NPROP ,_PU chegando_V até_PREP a_ART "_PU bruxaria_N moderna_ADJ "_PU ._END
 A_NPROP Arte_NPROP E_NPROP Seus_NPROP Objetos_NPROP ,_PU de_PREP Richard_NPROP Wolheim_NPROP ._END
 Tradução_N de_PREP Marcelo_NPROP Brandão_NPROP Cipolla_NPROP ._END
-Martins_NPROP Fontes_NPROP (_PU r._NPROP Conselheiro_NPROP Ramalho_NPROP ,_PU 330/340_NUM ,_PU São_NPROP Paulo_NPROP ,_PU tel._N 011_N 239-3677_N ,_PU Cep_N 0132500_N )_PU ._END
+Martins_NPROP Fontes_NPROP (_PU r._NPROP Conselheiro_NPROP Ramalho_NPROP ,_PU 330/340_NUM ,_PU São Paulo_NPROP ,_PU tel._N 011_N 239-3677_N ,_PU Cep_N 0132500_N )_PU ._END
 231_NUM págs_N ._END
 Estudo_N clássico_ADJ ._END
 Parte_N do_PREP+ART ponto_N de_N vista_N de_PREP que_PRO-KS a_ART arte_N deve_V ser_V entendida_PCP simultaneamente_ADV do_PREP+ART ponto_N de_N vista_N do_PREP+ART artista_N e_KC do_PREP+ART espectador_N ._END
 A_NPROP Cor_NPROP ELOQUENTE_NPROP ,_PU de_PREP Jacqueline_NPROP Lichtenstein_NPROP ._END
-Siciliano_NPROP (_PU r._NPROP Raimundo_NPROP Pereira_NPROP de_NPROP Magalhães_NPROP ,_PU 3.305_NUM ,_PU São_NPROP Paulo_NPROP ,_PU tel._N 011_N 831-9518_N )_PU ._END
+Siciliano_NPROP (_PU r._NPROP Raimundo_NPROP Pereira_NPROP de_NPROP Magalhães_NPROP ,_PU 3.305_NUM ,_PU São Paulo_NPROP ,_PU tel._N 011_N 831-9518_N )_PU ._END
 250_NUM págs_N ._END
 A_ART autora_N acompanha_V o_ART uso_N da_PREP+ART cor_N nas_PREP+ART artes_N plásticas_ADJ ,_PU tanto_KC do_PREP+ART ponto_N histórico_ADJ quanto_KC do_PREP+ART ponto_N de_N vista_N artístico_ADJ ._END
 Apesar_NPROP DOS_NPROP Pesares..._NPROP Adoro_NPROP Empresas_NPROP ,_PU de_PREP Sérgio_NPROP Kehl_NPROP ._END
@@ -459,12 +459,12 @@ Projeto_N gráfico_ADJ de_PREP José_NPROP Orlovitz_NPROP Levitas_NPROP e_KC Sil
 Edgard_NPROP BlÅcher_NPROP (_PU Cx._N Postal_N 01061-970_N ,_PU SP_NPROP )_PU ._END
 316_NUM págs_N ._END
 Estudo_N sobre_PREP a_ART dinâmica_N da_PREP+ART estrutura_N empresarial_ADJ ._END
-O_ART autor_N é_V consultor_N de_PREP empresas_N e_KC professor_N da_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP ._END
+O_ART autor_N é_V consultor_N de_PREP empresas_N e_KC professor_N da_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP ._END
 Tradução_N de_PREP Júlio_NPROP Ludemir_NPROP ._END
 414_NUM págs_N ._END
 Manual_N para_PREP empresários_N ,_PU que_PRO-KS ensina_V a_PREP como_KS criar_V estratégias_N para_PREP motivar_V os_ART empregados_N ,_PU do_PREP+ART autor_N de_PREP "_PU Vencendo_NPROP a_NPROP Crise_NPROP "_PU ._END
 Drogas_NPROP E_NPROP Cidadania_NPROP ,_PU organização_N de_PREP Alba_NPROP Zaluar_NPROP ._END
-Editora_NPROP Brasiliense_NPROP (_PU avenida_NPROP Marquês_NPROP de_NPROP São_NPROP Vicente_NPROP ,_PU 1771_NUM ,_PU São_NPROP Paulo_NPROP ,_PU telefone_N 011_N 67-9717_N ,_PU Cep_N 01139-903_N )_PU ._END
+Editora_NPROP Brasiliense_NPROP (_PU avenida_NPROP Marquês_NPROP de_NPROP São Vicente_NPROP ,_PU 1771_NUM ,_PU São Paulo_NPROP ,_PU telefone_N 011_N 67-9717_N ,_PU Cep_N 01139-903_N )_PU ._END
 171_NUM páginas_N ._END
 Debate_N sobre_PREP a_ART criminalização_N das_PREP+ART drogas_N ilícitas_ADJ ._END
 Gilberto_NPROP Velho_NPROP escreve_V sobre_PREP a_ART dimensão_N cultural_ADJ do_PREP+ART mundo_N das_PREP+ART drogas_N ,_PU entre_PREP outros_PROSUB ._END
@@ -508,13 +508,13 @@ FRANKLIN_NPROP De_NPROP Matos_NPROP é_V professor_N de_PREP Estética_NPROP do_
 Carta_NPROP aos_NPROP Surdos-Mudos_NPROP ,_PU de_PREP Denis_NPROP Diderot_NPROP ._END
 Tradução_N ,_PU apresentação_N e_KC notas_N de_PREP Magnólia_NPROP Costa_NPROP Santos_NPROP ._END
 Citações_N do_PREP+ART grego_N e_KC do_PREP+ART latim_N traduzidas_PCP por_PREP João_NPROP Ângelo_NPROP Oliva_NPROP Neto_NPROP ._END
-Nova_NPROP Alexandria_NPROP (_PU r._NPROP Urano_NPROP ,_PU 215_NUM ,_PU São_NPROP Paulo_NPROP ,_PU tel._N 270-8627_N ,_PU Cep_N 01529-010_N )_PU ._END
+Nova_NPROP Alexandria_NPROP (_PU r._NPROP Urano_NPROP ,_PU 215_NUM ,_PU São Paulo_NPROP ,_PU tel._N 270-8627_N ,_PU Cep_N 01529-010_N )_PU ._END
 95_NUM págs_N ._END 13,50_NUM URVs_N
 O_ART filósofo_N (_PU 1731-1784_N )_PU foi_V o_ART principal_ADJ organizador_N da_PREP+ART "_PU Enciclopédia_NPROP "_PU ._END
 Conheceu_V Rousseau_NPROP em_PREP 1741_N e_KC ,_PU através_PREP dele_PREP+PROPESS ,_PU conheceu_V mais_ADV tarde_ADV Condillac_NPROP ._END
 Em_PREP 1743_N ,_PU casou_V -se_PROPESS secretamente_ADV com_PREP Antoinette_NPROP Champion_NPROP ._END
 Diderot_NPROP começou_V a_PREP trabalhar_V na_PREP+ART "_PU Enciclopédia_NPROP "_PU em_PREP 1745_N ,_PU com_PREP Jean_NPROP Le_NPROP Rond_NPROP D'_NPROP Alembert_NPROP como_PREP co-editor_N ,_PU e_KC completou_V -a_PROPESS em_PREP 1772_N ._END
-No_PREP+ART fim_N de_PREP sua_PROADJ vida_N ,_PU Diderot_NPROP gozou_V da_PREP+ART amizade_N e_KC ajuda_V financeira_ADJ de_PREP Catarina_NPROP da_PREP+ART Rússia_NPROP ,_PU e_KC em_PREP 1773_N morou_V em_PREP São_NPROP Petersburgo_NPROP por_PREP cinco_NUM meses_N ._END
+No_PREP+ART fim_N de_PREP sua_PROADJ vida_N ,_PU Diderot_NPROP gozou_V da_PREP+ART amizade_N e_KC ajuda_V financeira_ADJ de_PREP Catarina_NPROP da_PREP+ART Rússia_NPROP ,_PU e_KC em_PREP 1773_N morou_V em_PREP São Petersburgo_NPROP por_PREP cinco_NUM meses_N ._END
 Música_N também_PDEN se_PROPESS faz_V com_PREP idéias_N
 Sai_V "_PU Contemplating_NPROP Music_NPROP "_PU ,_PU antologia_N de_PREP estética_N musical_ADJ
 Seis_NUM anos_N e_KC 2.000_NUM páginas_N deosi_PREP do_PREP+ART primeiro_ADJ lançamento_N ,_PU aparece_V agora_ADV este_PROADJ quarto_ADJ e_KC último_ADJ volume_N da_PREP+ART monumental_ADJ antologia_N de_PREP fontes_N da_PREP+ART estética_N musical_ADJ ,_PU organizada_PCP por_PREP Carl_NPROP Dahlhaus_NPROP e_KC Ruth_NPROP Katz_NPROP ._END
@@ -568,7 +568,7 @@ Foi_V então_ADV necessário_ADJ dar_V um_ART balanço_N ,_PU que_PRO-KS vem_V a
 Ele_PROPESS foi_V portanto_KC a_ART síntese_N orientada_PCP pelo_PREP+ART homem_N certo_ADJ na_PREP+ART hora_N certa_ADJ ,_PU isto_PDEN é_PDEN ,_PU o_ART momento_N da_PREP+ART grande_ADJ virada_N de_PREP que_PRO-KS saiu_V a_ART cultura_N científica_ADJ do_PREP+ART Brasil_NPROP atual_ADJ ._END
 Por_PREP isso_PROSUB ,_PU quase_ADV 40_NUM anos_N depois_ADV ainda_ADV possui_V atualidade_N e_KC força_N inspiradora_ADJ ._END
 E_KC para_PREP entender_V bem_ADV a_ART sua_PROADJ natureza_N ,_PU assim_KC como_KC o_ART seu_PROADJ papel_N ,_PU é_V preciso_ADJ ter_V em_PREP mente_N as_ART palavras_N do_PREP+ART organizador_N no_PREP+ART final_N da_PREP+ART "_PU Introdução_NPROP "_PU ,_PU quando_ADV-KS diz_V que_KS àquela_PREP+PROADJ altura_N estávamos_V no_PREP+ART começo_N de_PREP uma_ART "_PU revolução_N intelectual_ADJ "_PU no_PREP+ART Brasil_NPROP ,_PU de_KS modo_KS que_KS esta_PROADJ obra_N ,_PU longe_PREP de_PREP ser_V um_ART panorama_N conclusivo_ADJ ,_PU era_V "_PU a_ART primeira_ADJ "_PU tomada_N de_PREP consciência_N "_PU de_PREP uma_PROSUB das_PREP+ART mais_ADV importantes_ADJ transformações_N por_PREP que_PRO-KS passa_V a_ART cultura_N do_PREP+ART país_N ,_PU na_PREP+ART época_N atual_ADJ "_PU ._END
-Fui_V aluno_N e_KC ,_PU em_ADV seguida_ADV ,_PU durante_PREP 16_NUM anos_N ,_PU colaborador_N de_PREP Fernando_NPROP de_NPROP Azevedo_NPROP na_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP ._END
+Fui_V aluno_N e_KC ,_PU em_ADV seguida_ADV ,_PU durante_PREP 16_NUM anos_N ,_PU colaborador_N de_PREP Fernando_NPROP de_NPROP Azevedo_NPROP na_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP ._END
 Durante_PREP trinta_NUM e_KC tantos_PROADJ anos_N ,_PU até_PREP sua_PROADJ morte_N ,_PU fomos_V amigos_N fraternais_ADJ ,_PU apesar_PREP da_PREP+ART diferença_N de_PREP idade_N ._END
 Lembro_V bem_ADV do_PREP+ART seu_PROADJ esforço_N no_PREP+ART preparo_N e_KC realização_N deste_PREP+PROADJ livro_N ,_PU e_KC nunca_ADV esquecerei_V a_ART intensidade_N com_PREP que_PRO-KS acreditava_V nas_PREP+ART idéias_N sobre_PREP as_PRO-KS quais_PRO-KS o_PROPESS baseou_V ,_PU e_KC estão_V expostas_PCP na_PREP+ART citada_PCP "_PU Introdução_N "_PU ._END
 Quando_KS falo_V em_PREP geração_N da_PREP+ART República_NPROP ,_PU penso_V em_PREP homens_N que_PRO-KS apostaram_V na_PREP+ART possibilidade_N de_PREP mudar_V para_PREP melhor_ADV a_ART vida_N em_PREP sociedade_N ,_PU certos_ADJ de_PREP que_KS as_ART utopias_N dão_V acesso_N ao_PREP+ART real_N ._END
@@ -579,7 +579,7 @@ Aprofundou_V -se_PROPESS na_PREP+ART história_N ,_PU na_PREP+ART filosofia_N e_
 No_KC entanto_KC ,_PU num_PREP+ART paradoxo_N aparente_ADJ ,_PU desde_PREP cedo_ADV deu_V importância_N maior_ADJ ao_PREP+ART saber_N científico_ADJ na_PREP+ART formação_N da_PREP+ART mentalidade_N moderna_ADJ ,_PU além_PREP de_PREP se_PROPESS interessar_V ,_PU a_PREP partir_PREP dos_PREP+ART anos_N de_PREP 1910_N ,_PU por_PREP atividades_N tão_ADV pouco_ADV estimadas_PCP pelos_PREP+ART homens_N cultos_ADJ da_PREP+ART época_N ginástica_N e_KC os_ART esportes_N ,_PU que_PRO-KS recomendou_V como_PREP força_N educativa_ADJ ._END
 No_PREP+ART campo_N do_PREP+ART pensamento_N ,_PU dedicou_V -se_PROPESS bem_ADV cedo_ADV à_PREP+ART sociologia_N ,_PU segundo_PREP uma_ART orientaçào_N que_PRO-KS se_PROPESS chamava_V "_PU positiva_N "_PU (_PU não_ADV positivista_ADJ )_PU e_KC suscitava_V grandes_ADJ reservas_N das_PREP+ART tendências_N conservadoras_ADJ ._END
 Graças_PREP a_PREP ela_PROPESS ganhou_V uma_ART visão_N renovada_PCP do_PREP+ART processo_N educacional_ADJ e_KC ,_PU a_PREP despeito_PREP da_PREP+ART herança_N autoritária_ADJ de_PREP seus_PROADJ mestres_N ,_PU tendeu_V às_PREP+ART atitudes_N rebeldes_ADJ ,_PU acolhendo_V as_ART inovações_N e_KC lutando_V pela_PREP+ART pedagogia_N da_PREP+ART persuasão_N ,_PU do_PREP+ART aprendizado_N tolerante_ADJ e_KC do_PREP+ART trabalho_N de_PREP equipe_N ._END
-E_KC isto_PROSUB é_V apenas_PDEN um_ART pequeno_ADJ exemplo_N da_PREP+ART sua_PROADJ vocação_N modernizadora_ADJ ,_PU bem_ADV expressa_V numa_PREP+ART frase_N de_PREP suas_PROADJ memórias_N ,_PU com_PREP referência_N precisamente_ADV às_PREP+ART lutas_N que_PRO-KS cercaram_V a_ART fundação_N da_PREP+ART Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP :_PU "_PU (_PU ..._END )_PU não_ADV estávamos_V ali_ADV ,_PU no_PREP+ART Conselho_NPROP ,_PU para_PREP consagrar_V velhos_ADJ hábitos_N e_KC rotinas_N ._END
+E_KC isto_PROSUB é_V apenas_PDEN um_ART pequeno_ADJ exemplo_N da_PREP+ART sua_PROADJ vocação_N modernizadora_ADJ ,_PU bem_ADV expressa_V numa_PREP+ART frase_N de_PREP suas_PROADJ memórias_N ,_PU com_PREP referência_N precisamente_ADV às_PREP+ART lutas_N que_PRO-KS cercaram_V a_ART fundação_N da_PREP+ART Universidade_NPROP de_NPROP São Paulo_NPROP :_PU "_PU (_PU ..._END )_PU não_ADV estávamos_V ali_ADV ,_PU no_PREP+ART Conselho_NPROP ,_PU para_PREP consagrar_V velhos_ADJ hábitos_N e_KC rotinas_N ._END
 Mas_KC ,_PU para_PREP proceder_V à_PREP+ART reformulação_N de_PREP problemas_N e_KC situações_N "_PU ._END
 Coisas_N como_PREP estas_PROSUB esclarecem_V porque_ADV-KS ,_PU apesar_PREP de_PREP ter_V feito_PCP nome_N inicialmente_ADV com_PREP estudos_N sobre_PREP a_PREP Antiguidade_NPROP Clássica_NPROP ,_PU sempre_ADV lutou_V pelo_PREP+ART predomínio_N das_PREP+ART matérias_N científicas_ADJ nos_PREP+ART currículos_N escolares_ADJ ,_PU combatendo_V a_ART tendência_N que_PRO-KS lhe_PROPESS parecia_V arcaica_ADJ de_PREP hipertrofiar_V as_ART humanidades_N tradicionais_ADJ ._END
 O_ART seu_PROADJ alvo_N era_V um_ART humanismo_N moderno_ADJ ,_PU nutrido_PCP pela_PREP+ART capacidade_N de_PREP construir_V a_ART reflexão_N e_KC a_ART visão_N do_PREP+ART mundo_N sobre_PREP os_ART resultados_N da_PREP+ART ciência_N ._END
@@ -603,9 +603,9 @@ Se_KS a_PREP essa_PROADJ tendência_N literária_ADJ e_KC livresca_ADJ ,_PU que_
 Pois_KC não_ADV é_V menor_ADJ o_ART perigo_N que_PRO-KS oferece_V à_PREP+ART cultura_N científica_ADJ o_ART desmesurado_PCP crescimento_N das_PREP+ART universidades_N ,_PU e_KC particularmente_ADV das_PREP+ART faculdades_N de_PREP filosofia_N ,_PU ciências_N e_KC letras_N ,_PU cuja_PRO-KS expansão_N numérica_ADJ não_ADV se_PROPESS tem_V feito_PCP nem_KC se_PROPESS poderia_V fazer_V senão_ADV ao_PREP+ART preço_N da_PREP+ART qualidade_N de_PREP ensino_N ,_PU que_PRO-KS se_PROPESS inaugurou_V num_PREP+ART baixo_ADJ nível_N e_KC cuja_PRO-KS degradação_N progressiva_ADJ terá_V de_PREP forçosamente_ADV abrir_V caminho_N ,_PU em_PREP prejuízo_N do_PREP+ART espírito_N crítico_ADJ e_KC experimental_ADJ ,_PU ao_PREP+ART retorno_N do_PREP+ART ideal_N antigo_ADJ e_KC a_PREP toda_PROADJ uma_ART espécie_N de_PREP incursões_N literárias_ADJ e_KC acadêmicas_ADJ ,_PU mais_ADV ou_ADV menos_ADV dissimuladas_PCP sob_PREP o_ART nome_N ,_PU o_ART aparato_N e_KC as_ART roupagens_N científicas_ADJ ._END
 Nesta_PREP+PROADJ pequena_ADJ introdução_N ,_PU acabamos_V de_PREP ver_V ,_PU ao_PREP+PRO-KS que_PRO-KS julgo_V ,_PU como_KS nasceu_V e_KC se_PROPESS desenvolveu_V ,_PU em_PREP nossa_PROADJ vida_N intelectual_ADJ ,_PU o_ART pensamento_N científico_ADJ ._END
 Quem_PROSUB foi_V Azevedo_NPROP
-Fernando_NPROP de_NPROP Azevedo_NPROP nasceu_V em_PREP São_NPROP Gonçalo_NPROP do_NPROP Sapucaí_NPROP (_PU MG_NPROP )_PU ,_PU a_PREP 2_N de_PREP abril_N de_PREP 1894_N ,_PU e_KC morreu_V a_PREP 17_N de_PREP setembro_N de_PREP 1974_N (_PU São_NPROP Paulo_NPROP )_PU ._END
+Fernando_NPROP de_NPROP Azevedo_NPROP nasceu_V em_PREP São Gonçalo_NPROP do_NPROP Sapucaí_NPROP (_PU MG_NPROP )_PU ,_PU a_PREP 2_N de_PREP abril_N de_PREP 1894_N ,_PU e_KC morreu_V a_PREP 17_N de_PREP setembro_N de_PREP 1974_N (_PU São Paulo_NPROP )_PU ._END
 Formado_PCP em_PREP direito_N ,_PU foi_V professor_N ,_PU crítico_N literário_ADJ e_KC cientista_N social_ADJ ._END
-Foi_V também_PDEN diretor_N do_PREP+ART Centro_NPROP Regional_NPROP de_NPROP Pesquisas_NPROP Educacionais_NPROP de_PREP São_NPROP Paulo_NPROP (_PU 1956-1960_N )_PU ;_PU membro_N da_PREP+ART Academia_NPROP Brasileira_NPROP de_NPROP Letras_NPROP (_PU 1968_N )_PU e_KC da_PREP+ART Academia_NPROP Paulista_NPROP de_NPROP Letras_NPROP (_PU 1969_N )_PU ._END
+Foi_V também_PDEN diretor_N do_PREP+ART Centro_NPROP Regional_NPROP de_NPROP Pesquisas_NPROP Educacionais_NPROP de_PREP São Paulo_NPROP (_PU 1956-1960_N )_PU ;_PU membro_N da_PREP+ART Academia_NPROP Brasileira_NPROP de_NPROP Letras_NPROP (_PU 1968_N )_PU e_KC da_PREP+ART Academia_NPROP Paulista_NPROP de_NPROP Letras_NPROP (_PU 1969_N )_PU ._END
 Entre_PREP suas_PROADJ obras_N ,_PU destacam_V -se_PROPESS "_PU A_NPROP Cultura_NPROP Brasileira_NPROP "_PU (_PU 1943_N )_PU e_KC "_PU Sociologia_NPROP Educacional_NPROP "_PU (_PU 1940_N )_PU ._END
 Recebeu_V a_ART Cruz_NPROP Oficial_NPROP da_PREP+ART Legião_NPROP de_NPROP Honra_NPROP ,_PU da_PREP+ART França_NPROP (_PU 1954_N )_PU e_KC foi_V Professor_NPROP Emérito_NPROP da_PREP+ART USP_NPROP ._END
 Silêncio_N de_PREP um_ART bom_ADJ pensador_N
@@ -776,7 +776,7 @@ Nem_ADV de_PREP longe_ADV está_V encerrado_PCP o_ART trabalho_N do_PREP+ART gru
 Mas_KC o_ART sequenciamento_N já_ADV realizado_PCP indica_V que_KS o_ART gene_N codifica_V uma_ART proteína_N diversa_ADJ da_PREP+PROSUB de_PREP outros_PROADJ supressores_N ,_PU fato_N que_PRO-KS justificaria_V tratar_V -se_PROPESS de_PREP um_ART novo_ADJ tipo_N de_PREP gene_N supressor_ADJ ._END
 Essa_PROADJ proteína_N pertence_V a_PREP uma_ART nova_ADJ classe_N de_PREP certa_PROADJ espécie_N de_PREP proteína_N que_PRO-KS se_PROPESS supõe_V exercer_V função_N na_PREP+ART transmissão_N de_PREP sinais_N ,_PU na_PREP+ART adesão_N celular_ADJ e_KC no_PREP+ART atingir_N dos_PREP+ART alvos_N celulares_ADJ ._END
 Ela_PROPESS se_PROPESS acha_V provavelmente_ADV situada_PCP na_PREP+ART membrana_N celular_ADJ ._END
-Celso_NPROP Massumoto_NPROP ,_PU especialista_N em_PREP transplante_N de_PREP medula_N óssea_ADJ da_PREP+ART Fundação_NPROP Pró-Sangue/Hemocentro_NPROP de_NPROP São_NPROP Paulo_NPROP ,_PU responde_V :_PU
+Celso_NPROP Massumoto_NPROP ,_PU especialista_N em_PREP transplante_N de_PREP medula_N óssea_ADJ da_PREP+ART Fundação_NPROP Pró-Sangue/Hemocentro_NPROP de_NPROP São Paulo_NPROP ,_PU responde_V :_PU
 "_PU Sim_ADV ._END
 Já_ADV existem_V evidências_N na_PREP+ART literatura_N médica_ADJ de_PREP que_KS o_ART transplante_N cura_V o_ART paciente_N de_PREP leucemia_N linfóide_N aguda_ADJ -_PU tipo_N de_PREP câncer_N no_PREP+ART sangue_N ._END
 "_PU Há_V pacientes_N que_PRO-KS apresentam_V 10_NUM a_PREP 15_NUM anos_N de_PREP sobrevida_N depois_PREP de_PREP realizado_PCP o_ART transplante_N ,_PU que_PRO-KS começou_V a_PREP ser_V feito_PCP experimentalmente_ADV há_V cerca_PREP de_PREP 20_NUM anos_N ._END
@@ -1013,7 +1013,7 @@ Acho_V que_KS o_ART meio_N tem_V influência_N ,_PU mas_KC não_ADV é_V tanto_A
 Quando_ADV o_ART Sr._N conheceu_V o_ART Gustavo_NPROP Capanema_NPROP e_KC o_ART Le_NPROP Corbusier_NPROP ?_PU
 Primeiro_ADV conheci_V o_ART Lúcio_NPROP ._END
 Depois_ADV foi_V o_ART Capanema_NPROP ._END
-Considero_V o_ART período_N do_PREP+ART Capanema_NPROP como_PREP o_PROSUB da_PREP+ART Semana_NPROP de_NPROP Arte_NPROP Moderna_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU porque_KS no_PREP+ART governo_N dele_PREP+PROPESS houve_V muita_PROADJ abertura_N para_PREP a_ART liberdade_N da_PREP+ART criação_N ._END
+Considero_V o_ART período_N do_PREP+ART Capanema_NPROP como_PREP o_PROSUB da_PREP+ART Semana_NPROP de_NPROP Arte_NPROP Moderna_NPROP de_PREP São Paulo_NPROP ,_PU porque_KS no_PREP+ART governo_N dele_PREP+PROPESS houve_V muita_PROADJ abertura_N para_PREP a_ART liberdade_N da_PREP+ART criação_N ._END
 Era_V um_ART sujeito_N muito_ADV bom_ADJ ,_PU honesto_ADJ ,_PU decente_ADJ ._END
 O_ART prédio_N é_V de_PREP 36_N ._END
 O_ART Le_NPROP Corbusier_NPROP estava_V aqui_ADV para_PREP fazer_V palestras_N e_KC o_ART projeto_N da_PREP+ART Cidade_NPROP Universitária_NPROP ._END
@@ -1046,7 +1046,7 @@ Achei_V uma_ART besteira_N :_PU como_ADV é_V que_KS a_ART casa_N podia_V ser_V 
 A_ART casa_N era_V num_PREP+ART determinado_PCP terreno_N ,_PU para_PREP ser_V igual_ADJ teria_V que_KS ser_V em_PREP outro_PROADJ terreno_N parecido_PCP ._END
 E_KC ela_PROPESS foi_V feita_PCP para_PREP mim_PROPESS ,_PU com_PREP a_ART minha_PROADJ vida_N mais_ADV simples_ADJ ,_PU de_PREP arquiteto_N ._END
 Antes_ADV mesmo_PDEN da_PREP+ART Pampulha_NPROP ,_PU quando_KS comecei_V a_PREP estudar_V ,_PU sentia_V que_KS o_ART racionalismo_N não_ADV fazia_V sentido_N ._END
-A_ART arquitetura_N que_PRO-KS gosto_V e_KC que_PRO-KS bem_ADV se_PROPESS caracteriza_V no_PREP+ART Memorial_NPROP da_NPROP América_NPROP Latina_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP -_PU é_V a_ART que_PRO-KS utiliza_V a_ART técnica_N em_PREP todas_PROADJ as_ART suas_PROADJ possibilidades_N ._END
+A_ART arquitetura_N que_PRO-KS gosto_V e_KC que_PRO-KS bem_ADV se_PROPESS caracteriza_V no_PREP+ART Memorial_NPROP da_NPROP América_NPROP Latina_NPROP ,_PU em_PREP São Paulo_NPROP -_PU é_V a_ART que_PRO-KS utiliza_V a_ART técnica_N em_PREP todas_PROADJ as_ART suas_PROADJ possibilidades_N ._END
 Por_PDEN exemplo_PDEN ,_PU no_PREP+ART Memorial_NPROP tem_V uma_ART viga_N de_PREP 90_NUM metros_N ._END
 Acho_V que_KS nunca_ADV se_PROPESS fez_V uma_PROSUB assim_ADV ._END
 Mas_KC o_ART apoio_N da_PREP+ART viga_N eu_PROPESS não_ADV coloquei_V devia_V :_PU subi_V ,_PU achei_V que_KS ficava_V mais_ADV bonito_ADJ ._END
@@ -1338,7 +1338,7 @@ Em_PREP 1930_N a_ART Bauhaus_NPROP estava_V sediada_PCP em_PREP Dassau_NPROP ._E
 Em_PREP 1933_N ,_PU quando_ADV-KS os_ART nazistas_N chegaram_V ao_PREP+ART poder_N ,_PU a_ART Bauhaus_NPROP fechou_V definitivamente_ADV suas_PROADJ portas_N ._END
 Durante_PREP sua_PROADJ existência_N atribulada_PCP essa_PROADJ escola_N aproximou_V a_ART arte_N do_PREP+ART sistema_N industrial_ADJ e_KC influenciou_V artistas_N como_PREP Paul_NPROP Klee_NPROP ,_PU Kandinsky_NPROP e_KC Marcel_NPROP Breuer_NPROP ._END
 Cândido_NPROP Portinari_NPROP (_PU 1903-1962_N )_PU ,_PU um_PROSUB dos_PREP+ART mais_ADV conhecidos_PCP pintores_N brasileiros_ADJ ,_PU foi_V amigo_N de_PREP Niemeyer_NPROP e_KC também_PDEN colaborou_V na_PREP+ART construção_N do_PREP+ART prédio_N do_PREP+ART Ministério_NPROP da_NPROP Educação_NPROP ._END
-Filho_N de_PREP imigrantes_N italianos_ADJ ,_PU Portinari_NPROP nasceu_V em_PREP Brodósqui_NPROP ,_PU então_ADV uma_ART zona_N cafeeira_ADJ do_PREP+ART interior_N de_PREP São_NPROP Paulo_NPROP ._END
+Filho_N de_PREP imigrantes_N italianos_ADJ ,_PU Portinari_NPROP nasceu_V em_PREP Brodósqui_NPROP ,_PU então_ADV uma_ART zona_N cafeeira_ADJ do_PREP+ART interior_N de_PREP São Paulo_NPROP ._END
 Aos_PREP+ART 15_NUM anos_N participou_V da_PREP+ART decoração_N da_PREP+ART igrejinha_N de_PREP sua_PROADJ cidade_N ._END
 Casou_V -se_PROPESS na_PREP+ART França_NPROP e_KC retornou_V ao_PREP+ART Brasil_NPROP em_PREP 1930_N ._END
 então_ADV iniciou_V sua_PROADJ fase_N de_PREP grande_ADJ produção_N pictórica_ADJ ,_PU libertou_V -se_PROPESS definitivamente_ADV do_PREP+ART academicismo_N e_KC passou_V a_PREP ser_V reconhecido_PCP no_PREP+ART exterior_N ._END
@@ -1346,14 +1346,14 @@ Portinari_NPROP fez_V diversas_PROADJ exposições_N na_PREP+ART Europa_NPROP e_
 Recebeu_V a_ART Legião_NPROP de_NPROP Honra_NPROP da_NPROP França_NPROP em_PREP 1946_N e_KC ,_PU em_PREP 1958_N ,_PU realizou_V o_ART painel_N "_PU Guerra_NPROP e_NPROP Paz_NPROP "_PU na_PREP+ART sede_N da_PREP+ART ONU_NPROP ,_PU em_PREP Nova_NPROP York_NPROP ._END
 Bruno_NPROP Giorgi_NPROP (_PU 1905-1993_N )_PU ,_PU foi_V para_PREP a_ART escultura_N o_PROSUB que_PRO-KS Portinari_NPROP foi_V para_PREP a_ART pintura_N brasileira_ADJ ._END
 Nascido_PCP em_PREP Mocóca_NPROP ,_PU no_PREP+ART interior_N paulista_ADJ ,_PU e_KC também_PDEN filho_V de_PREP italianos_N ,_PU Giorgi_NPROP estudou_V em_PREP Roma_NPROP e_KC em_PREP Paris_NPROP ._END
-Voltou_V a_PREP São_NPROP Paulo_NPROP em_PREP 1939_N ._END
+Voltou_V a_PREP São Paulo_NPROP em_PREP 1939_N ._END
 De_PREP 1943_N até_PREP sua_PROADJ morte_N viveu_V no_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP ._END
 Entre_PREP suas_PROADJ obras_N estão_V as_ART principais_ADJ esculturas_N de_PREP Brasília_NPROP ,_PU com_PREP destaque_N para_PREP "_PU Os_NPROP Candangos_NPROP "_PU ,_PU ao_PREP+ART Palácio_NPROP do_NPROP Planalto_NPROP ,_PU e_KC para_PREP "_PU Meteoro_NPROP "_PU ,_PU uma_ART esfera_N de_PREP 50_NUM toneladas_N em_PREP mármore_N de_PREP Carrara_NPROP que_PRO-KS está_V pousada_PCP no_PREP+ART espelho_N d'_N água_N do_PREP+ART Palácio_NPROP do_NPROP Itamaraty_NPROP ._END
 Estudou_V arquitetura_N e_KC ,_PU em_PREP 1900_N ,_PU foi_V a_PREP Paris_NPROP para_PREP trabalhar_V como_PREP desenhista_N de_PREP um_ART arquiteto_N ._END
 Como_PREP reação_N ao_PREP+ART impressionismo_N ,_PU pintou_V "_PU A_NPROP Costureira_NPROP "_PU ._END
 Foi_V amigo_N de_PREP Picasso_NPROP e_KC Braque_NPROP ._END
 Trabalhou_V com_PREP Le_NPROP Corbusier_NPROP e_KC fez_V diversas_PROADJ exposições_N em_PREP Nova_NPROP York_NPROP ._END
-Em_PREP 1955_N ,_PU pouco_ADV antes_ADV de_PREP morrer_V ,_PU recebeu_V o_ART grande_ADJ prêmio_N internacional_ADJ da_PREP+ART 3ª_ADJ Bienal_NPROP de_NPROP São_NPROP Paulo_NPROP ._END
+Em_PREP 1955_N ,_PU pouco_ADV antes_ADV de_PREP morrer_V ,_PU recebeu_V o_ART grande_ADJ prêmio_N internacional_ADJ da_PREP+ART 3ª_ADJ Bienal_NPROP de_NPROP São Paulo_NPROP ._END
 Nascido_PCP em_PREP Paris_NPROP ,_PU Malraux_NPROP publicou_V seu_PROADJ primeiro_ADJ livro_N ilustrado_PCP por_PREP Fernand_NPROP Léger_NPROP -_PU em_PREP 1921_N ._END
 Malraux_NPROP recebeu_V o_ART Prêmio_NPROP Goncourt_NPROP em_PREP 1933_N com_PREP "_PU A_NPROP Condição_NPROP Humana_NPROP "_PU ,_PU que_PRO-KS exalta_V o_ART heroísmo_N do_PREP+ART povo_N chinês_ADJ ._END
 Militante_N do_PREP+ART Partido_NPROP Comunista_NPROP Francês_NPROP ,_PU lutou_V contra_PREP Franco_NPROP na_PREP+ART Guerra_NPROP Civil_NPROP espanhola_ADJ ._END
@@ -1362,7 +1362,7 @@ Foi_V muito_ADV criticado_PCP até_PREP 1930_N ,_PU "_PU por_PREP distorcer_V fo
 Só_ADV durante_PREP a_ART Segunda_NPROP Guerra_NPROP seu_PROADJ trabalho_N passou_V a_PREP ser_V reconhecido_PCP ._END
 Ainda_KC assim_KC Moore_NPROP ,_PU o_ART escultor_N preferido_PCP de_PREP Niemeyer_NPROP ,_PU teve_V que_KS escutar_V críticas_N como_PREP a_PROSUB do_PREP+ART príncipe_N Philip_NPROP ,_PU marido_N da_PREP+ART rainha_N Elizabeth_NPROP 2ª_NPROP ,_PU que_PRO-KS afirmou_V que_KS suas_PROADJ esculturas_N "_PU parecem_V o_ART cálculo_N renal_ADJ de_PREP um_ART macaco_N "_PU ._END
 Recebeu_V em_PREP 1948_N o_ART primeiro_ADJ prêmio_N de_PREP escultura_N na_PREP+ART Bienal_NPROP de_NPROP Veneza_NPROP ._END
-Esteve_V no_PREP+ART Brasil_NPROP em_PREP 1953_N ,_PU ano_N em_PREP que_PRO-KS recebeu_V o_ART prêmio_N internacional_ADJ na_PREP+ART 2ª_ADJ Bienal_NPROP de_NPROP São_NPROP Paulo_NPROP ._END
+Esteve_V no_PREP+ART Brasil_NPROP em_PREP 1953_N ,_PU ano_N em_PREP que_PRO-KS recebeu_V o_ART prêmio_N internacional_ADJ na_PREP+ART 2ª_ADJ Bienal_NPROP de_NPROP São Paulo_NPROP ._END
 Raymond_NPROP Aron_NPROP (_PU 1905-1983_N )_PU ,_PU jornalista_N e_KC pensador_N francês_ADJ ,_PU foi_V um_PROSUB dos_PREP+ART expoentes_N do_PREP+ART pensamento_N liberal_ADJ ._END
 Analista_N dos_PREP+ART dilemas_N da_PREP+ART sociedade_N industrial_ADJ ,_PU Aron_NPROP polemizou_V com_PREP o_ART marxismo_N ,_PU o_PRO-KS que_PRO-KS o_PROPESS incompatibilizou_V com_PREP Sartre_NPROP e_KC Merleau-Ponty_NPROP ,_PU seus_PROADJ amigos_N de_PREP juventude_N ._END
 Darcy_NPROP Ribeiro_NPROP ,_PU antropólogo_N ,_PU etnólogo_N ,_PU educador_N e_KC militante_N político_ADJ ,_PU é_V senador_N da_PREP+ART República_NPROP pelo_PREP+ART PDT-RJ_NPROP ._END
@@ -1432,7 +1432,7 @@ A_ART Obra_N ;_PU Trecho_N
 O_NPROP Enigma_NPROP da_NPROP Chegada_NPROP ,_PU de_PREP V._NPROP S._NPROP Naipaul_NPROP ._END
 Capa_N de_PREP Takashi_NPROP Fukushima_NPROP ._END
 Companhia_NPROP das_NPROP Letras_NPROP (_PU r._NPROP Tupi_NPROP
-,_PU 522_NUM ,_PU São_NPROP Paulo_NPROP ,_PU Cep_N 01233-000_N ,_PU tel._N 011_N 826-1822_N ,_PU fax_N 011_N 286-5523_N )_PU ._END
+,_PU 522_NUM ,_PU São Paulo_NPROP ,_PU Cep_N 01233-000_N ,_PU tel._N 011_N 826-1822_N ,_PU fax_N 011_N 286-5523_N )_PU ._END
 337_NUM págs_N ._END Cr$_CUR 15.840_NUM
 E_KC o_ART cenário_N da_PREP+ART minha_PROADJ infância_N tinha_V algumas_PROADJ características_N físicas_ADJ que_PRO-KS reforçavam_V essa_PROADJ tendência_N a_PREP esperar_V ,_PU a_PREP recolher_V -me_PROPESS ._END
 Em_PREP Trinidad_NPROP ,_PU vivíamos_V cercados_PCP de_PREP anúncios_N de_PREP coisas_N que_PRO-KS não_ADV eram_V mais_ADV fabricadas_PCP ,_PU ou_KC que_ADV-KS ,_PU por_PREP causa_N da_PREP+ART guerra_N e_KC das_PREP+ART dificuldades_N de_PREP transporte_N ,_PU não_ADV podiam_V mais_ADV ser_V adquiridas_PCP ._END

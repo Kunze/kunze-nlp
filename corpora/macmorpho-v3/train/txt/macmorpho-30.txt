@@ -1,5 +1,5 @@
 ﻿011_N 744-3134_N )_PU vende_V a_ART placa_N por_PREP US$_CUR 600_NUM ou_KC um_NUM kit_N ,_PU que_PRO-KS inclui_V ainda_ADV acionador_N de_PREP CD_N e_KC programas_N ._END
-A_ART Alcabyt_NPROP apresentou_V ontem_ADV ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU novas_ADJ estações_N multimídia_ADJ -_PU computadores_N para_PREP ver_V e_KC criar_V programas_N com_PREP textos_N ,_PU sons_N e_KC imagens_N em_PREP movimento_N ._END
+A_ART Alcabyt_NPROP apresentou_V ontem_ADV ,_PU em_PREP São Paulo_NPROP ,_PU novas_ADJ estações_N multimídia_ADJ -_PU computadores_N para_PREP ver_V e_KC criar_V programas_N com_PREP textos_N ,_PU sons_N e_KC imagens_N em_PREP movimento_N ._END
 A_ART estação_N ALC_NPROP 486_NPROP Mm_NPROP é_V voltada_PCP para_PREP quem_PRO-KS quer_V apenas_PDEN usar_V programas_N multimídia_ADJ ._END
 Já_ADV a_ART ALC_NPROP 486_NPROP MMP_NPROP é_V para_PREP quem_PRO-KS pretende_V criar_V programas_N com_PREP vídeo_N e_KC sons_N ._END
 Os_ART dois_NUM modelos_N vêm_V em_PREP gabinete_N que_PRO-KS tem_V caixas_N de_PREP som_N embutidas_PCP e_KC amplificador_N de_PREP 60_NUM watts_N ._END
@@ -9,7 +9,7 @@ caro_ADJ ,_PU o_ART modelo_N para_PREP uso_N profissional_ADJ também_ADV aprese
 A_ART memória_N é_V de_PREP 16_NUM Mbytes_N ._END
 A_ART MMP_NPROP tem_V disco_N rígido_ADJ de_PREP 260_NUM Mbytes_N ,_PU dois_NUM acionadores_N de_PREP disquetes_N ,_PU CD-ROM_N regravável_ADJ e_KC monitor_N colorido_PCP de_PREP 17_NUM polegadas_N ._END
 Vem_V com_PREP placa_N de_PREP som_N Sound_NPROP Blaster_NPROP Pro_NPROP ,_PU placa_N digitalizadora_ADJ de_PREP imagem_N e_KC placa_N de_PREP TV_N Galaxy_NPROP ,_PU que_PRO-KS permite_V sintonizar_V TV_N e_KC capturar_V imagens_N ._END
-O_ART preço_N ,_PU com_PREP impostos_N de_PREP São_NPROP Paulo_NPROP ,_PU é_V US$_CUR 11.363_NUM ._END
+O_ART preço_N ,_PU com_PREP impostos_N de_PREP São Paulo_NPROP ,_PU é_V US$_CUR 11.363_NUM ._END
 Os_ART dois_NUM modelos_N vêm_V com_PREP programas_N básicos_ADJ ._END
 A_ART estação_N Mm_N tem_V "_PU MS_NPROP DOS_NPROP 6.2_NPROP "_PU e_KC "_PU Windows_NPROP 3.1_NPROP "_PU ._END
 Além_ADV desses_PREP+PROSUB ,_PU a_ART profissional_N inclui_V ainda_ADV o_ART "_PU Microsoft_NPROP Multimedia_NPROP Development_NPROP "_PU ._END
@@ -35,9 +35,9 @@ Aparentemente_ADV ,_PU as_ART empresas_N estão_V mais_ADV preocupadas_PCP em_PR
 É_V que_KS apesar_PREP do_PREP+ART ceticismo_N ,_PU a_ART Sony_NPROP já_ADV anunciou_V que_KS vai_V lançar_V seu_PROADJ próprio_ADJ comunicador_N pessoal_ADJ ,_PU com_PREP mais_PROADJ uma_NUM novidade_N :_PU ele_PROPESS funcionará_V como_PREP controle_N remoto_ADJ para_PREP todos_PROADJ os_ART eletrônicos_N domésticos_ADJ ,_PU da_PREP+ART TV_N ao_PREP+ART CD_N ._END
 Computadores_N facilitam_V a_ART alfabetização_N ,_PU ampliam_V a_ART capacidade_N de_PREP comunicação_N e_KC aumentam_V o_ART campo_N de_PREP trabalho_N para_PREP deficientes_N físicos_ADJ ._END
 A_ART informática_N é_V usada_PCP também_PDEN na_PREP+ART terapia_N de_PREP portadores_N de_PREP diversos_PROADJ tipos_N de_PREP deficiência_N ._END
-Na_PREP+ART escola_N Quero-Quero_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU crianças_N com_PREP lesões_N no_PREP+ART sistema_N nervoso_ADJ usam_V a_ART informática_N para_PREP "_PU falar_V "_PU ._END
+Na_PREP+ART escola_N Quero-Quero_NPROP ,_PU em_PREP São Paulo_NPROP ,_PU crianças_N com_PREP lesões_N no_PREP+ART sistema_N nervoso_ADJ usam_V a_ART informática_N para_PREP "_PU falar_V "_PU ._END
 Na_PREP+ART AACD_NPROP ,_PU mais_PREP de_PREP 200_NUM crianças_N com_PREP paralisia_N cerebral_ADJ estão_V sendo_V alfabetizadas_PCP por_PREP computador_N ._END
-Em_PREP Recife_NPROP ,_PU cegos_N trabalham_V como_PREP programadores_N na_PREP+ART Companhia_NPROP Hidro_NPROP Elétrica_NPROP do_PREP+ART São_NPROP Francisco_NPROP graças_PREP a_PREP micros_N com_PREP sistema_N de_PREP som_N ._END
+Em_PREP Recife_NPROP ,_PU cegos_N trabalham_V como_PREP programadores_N na_PREP+ART Companhia_NPROP Hidro_NPROP Elétrica_NPROP do_PREP+ART São Francisco_NPROP graças_PREP a_PREP micros_N com_PREP sistema_N de_PREP som_N ._END
 sobre_PREP sistemas_N computacionais_ADJ para_PREP deficientes_N nas_PREP+ART págs_N ._END
 A_ART menina_N V_NPROP S_NPROP ._END ,_PU 12_NUM ,_PU usa_V há_V seis_NUM meses_N programa_N de_PREP computador_N para_PREP ajudar_V na_PREP+ART correção_N de_PREP problemas_N na_PREP+ART fala_N ._END
 Ela_PROPESS não_ADV consegue_V pronunciar_V adequadamente_ADV sons_N como_PREP os_PROSUB do_PREP+ART s_N e_KC do_PREP+ART z_N ._END
@@ -50,7 +50,7 @@ Neste_PREP+PROADJ ano_N ,_PU o_ART uso_N do_PREP+ART sistema_N ,_PU que_PRO-KS f
 Nos_PREP+ART EUA_NPROP existem_V versões_N especiais_ADJ para_PREP deficientes_N visuais_ADJ de_PREP fitas_N de_PREP vídeo_N dos_PREP+ART filmes_N "_PU Sister_NPROP Act_NPROP "_PU (_PU Mudança_NPROP de_NPROP Hábito_NPROP )_PU ,_PU com_PREP Whoopi_NPROP Goldberg_NPROP (_PU foto_N )_PU ,_PU "_PU Walt_NPROP Disney's_NPROP Beauty_NPROP and_NPROP the_NPROP Beast_NPROP "_PU (_PU A_NPROP Bela_NPROP e_NPROP a_NPROP Fera_NPROP )_PU e_KC "_PU Indiana_NPROP Jones_NPROP and_NPROP the_NPROP Last_NPROP Crusade_NPROP "_PU (_PU Indiana_NPROP Jones_NPROP e_NPROP a_NPROP Última_NPROP Cruzada_NPROP )_PU com_PREP descrição_N das_PREP+ART cenas_N Nos_PREP+ART países_N adiantados_PCP ,_PU paralisia_N cerebral_ADJ só_PDEN acontece_V em_PREP crianças_N prematuras_ADJ ._END
 (_PU De_PREP Ivan_NPROP Ferraretto_NPROP ,_PU médico_N e_KC diretor_N clínico_ADJ da_PREP+ART Associação_NPROP de_NPROP Assistência_NPROP à_NPROP Crianças_NPROP Defeituosas_NPROP ,_PU que_PRO-KS trabalha_V há_V 28_NUM anos_N com_PREP deficientes_N físicos_ADJ ._END
 "_PU O_ART computador_N me_PROPESS dá_V a_ART chance_N de_PREP pensar_V e_KC ser_V livre_N para_PREP me_PROPESS comunicar_V com_PREP as_ART pessoas_N ._END
-(_PU De_PREP Sandra_NPROP Mara_NPROP ,_PU 16_NUM ,_PU que_PRO-KS usa_V um_ART aparelho_N na_PREP+ART cabeça_N para_PREP escrever_V acionando_V as_ART teclas_N do_PREP+ART computador_N na_PREP+ART escola_N Quero-Quero_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP )_PU ._END
+(_PU De_PREP Sandra_NPROP Mara_NPROP ,_PU 16_NUM ,_PU que_PRO-KS usa_V um_ART aparelho_N na_PREP+ART cabeça_N para_PREP escrever_V acionando_V as_ART teclas_N do_PREP+ART computador_N na_PREP+ART escola_N Quero-Quero_NPROP ,_PU em_PREP São Paulo_NPROP )_PU ._END
 ..._END produtos_N educacionais_ADJ e_KC de_PREP reabilitação_N que_PRO-KS funcionam_V em_PREP computadores_N Macintosh_NPROP estão_V catalogados_PCP pela_PREP+ART Apple_NPROP ._END
 A_ART empresa_N mantém_V um_ART escritório_N especial_ADJ nos_PREP+ART EUA_NPROP para_PREP educação_N ._END
 (_PU 001-408_N 974-3219_N )_PU ,_PU fax_N (_PU 001-408_N 253-1352_N )_PU ._END
@@ -128,7 +128,7 @@ A_ART Blazie_NPROP Engineering_NPROP ,_PU também_PDEN dos_PREP+ART EUA_NPROP ,_
 O_ART "_PU Braille'n_NPROP Speak_NPROP "_PU é_V um_ART processador_N de_PREP textos_N com_PREP corretor_N ortográfico_ADJ ,_PU sintetizador_N de_PREP voz_N e_KC tradutor_N para_PREP braile_N ._END
 Inclui_V as_ART funções_N relógio_N ,_PU calendário_N e_KC calculadora_N ._END
 O_ART telefone_N da_PREP+ART empresa_N é_V (_PU 001-410_N 893-9333_N )_PU ._END
-A_ART Feira_NPROP da_NPROP Pechincha_NPROP Informática_NPROP ,_PU que_PRO-KS acontece_V na_PREP+ART próxima_ADJ semana_N no_PREP+ART pavilhão_N da_PREP+ART Bienal_NPROP do_NPROP Ibirapuera_NPROP (_PU zona_N sul_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ,_PU promete_V trazer_V ao_PREP+ART visitante_N uma_ART série_N de_PREP promoções_N ._END
+A_ART Feira_NPROP da_NPROP Pechincha_NPROP Informática_NPROP ,_PU que_PRO-KS acontece_V na_PREP+ART próxima_ADJ semana_N no_PREP+ART pavilhão_N da_PREP+ART Bienal_NPROP do_NPROP Ibirapuera_NPROP (_PU zona_N sul_ADJ de_PREP São Paulo_NPROP )_PU ,_PU promete_V trazer_V ao_PREP+ART visitante_N uma_ART série_N de_PREP promoções_N ._END
 Organizada_PCP pela_PREP+ART Rosa_NPROP &_NPROP Misoguchi_NPROP (_PU tel_N ._END 011_N 530-1800_N )_PU ,_PU entre_PREP os_ART dias_N 22_N e_KC 25_N de_PREP março_N ,_PU tem_V entrada_N gratuita_ADJ ._END
 Entre_PREP os_ART destaques_N estão_V programas_N de_PREP informática_N que_PRO-KS podem_V ser_V adquiridos_PCP com_PREP bom_ADJ desconto_N no_PREP+ART estande_N da_PREP+ART Cs_NPROP Compusoftware_NPROP ._END
 A_ART revenda_N leva_V toda_PROADJ a_ART linha_N de_PREP programas_N da_PREP+ART Micrografx_NPROP ,_PU com_PREP redução_N de_PREP até_PDEN 45_NUM %_N ._END
@@ -141,7 +141,7 @@ A_ART nova_ADJ rede_N ganhou_V velocidade_N e_KC compatibilidade_N com_PREP a_AR
 Usuários_N de_PREP "_PU Lantastic_NPROP "_PU se_PROPESS comunicam_V com_PREP "_PU Netware_NPROP como_PREP se_KS estivessem_V em_PREP uma_ART única_ADJ rede_N ._END
 A_ART SMS_NPROP lança_V no-breaks_N inteligentes_ADJ para_PREP redes_N ._END
 Essas_PROSUB são_V algumas_PROSUB das_PREP+ART novidades_N que_PRO-KS serão_V apresentadas_PCP pela_PREP+ART Moddata_NPROP na_PREP+ART 4ª_ADJ Telexpo_NPROP 94_N -_PU Feira_NPROP e_NPROP Congresso_NPROP de_NPROP Telecomunicações_NPROP ._END
-O_ART evento_N acontece_V no_PREP+ART pavilhão_N de_PREP exposições_N da_PREP+ART Bienal_NPROP ,_PU no_PREP+ART parque_N ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU entre_PREP os_ART dias_N 22_N e_KC 25_N de_PREP março_N ._END
+O_ART evento_N acontece_V no_PREP+ART pavilhão_N de_PREP exposições_N da_PREP+ART Bienal_NPROP ,_PU no_PREP+ART parque_N ,_PU em_PREP São Paulo_NPROP ,_PU entre_PREP os_ART dias_N 22_N e_KC 25_N de_PREP março_N ._END
 A_ART feira_N reúne_V mais_PREP de_PREP 130_NUM expositores_N -_PU Moddata_NPROP ,_PU Infranav_NPROP ,_PU Compugraf_NPROP e_KC CPM_NPROP ,_PU entre_PREP outras_PROSUB -_PU e_KC mostra_V a_ART crescente_ADJ integração_N entre_PREP telecomunicações_N e_KC informática_N ._END
 A_ART Matec_NPROP lança_V o_ART Md-110_NPROP BPN_NPROP (_PU )_PU e_KC o_ART Md-110_NPROP Voice_NPROP ,_PU dois_NUM produtos_N fabricados_PCP pela_PREP+ART Ericsson_NPROP para_PREP integração_N de_PREP voz_N ,_PU dados_N e_KC imagens_N em_PREP redes_N de_PREP fibras_N ópticas_ADJ ._END
 Os_ART equipamentos_N permitem_V transmitir_V multimídia_N em_PREP tempo_N real_ADJ e_KC atendem_V à_PREP+ART automação_N de_PREP escritório_N ._END
@@ -198,7 +198,7 @@ A_ART Climatempo_NPROP ,_PU empresa_N especializada_PCP em_PREP meteorologia_N ,
 "_PU Investimos_V no_PREP+ART BBS_NPROP meteorológico_ADJ porque_KS é_V um_ART serviço_N difundido_PCP nos_PREP+ART EUA_NPROP e_KC acreditamos_V que_KS há_V mercado_N no_PREP+ART Brasil_NPROP "_PU ,_PU diz_V Carlos_NPROP Nascimento_NPROP ,_PU 32_NUM ,_PU da_PREP+ART Climatempo_NPROP ._END
 O_ART BBS_NPROP atende_V a_PREP pessoas_N físicas_ADJ e_KC a_PREP empresas_N ,_PU oferecendo_V fotos_N de_PREP satélite_N sobre_PREP as_ART condições_N climáticas_ADJ da_PREP+ART América_NPROP do_NPROP Sul_NPROP ._END
 O_ART usuário_N recebe_V também_PDEN um_ART programa_N para_PREP animar_V as_ART fotos_N e_KC destacar_V detalhes_N ._END
-Estão_V disponíveis_ADJ previsões_N detalhadas_PCP para_PREP os_ART Estados_N de_PREP São_NPROP Paulo_NPROP ,_PU Paraná_NPROP e_KC Minas_NPROP Gerais_NPROP ._END
+Estão_V disponíveis_ADJ previsões_N detalhadas_PCP para_PREP os_ART Estados_N de_PREP São Paulo_NPROP ,_PU Paraná_NPROP e_KC Minas_NPROP Gerais_NPROP ._END
 Em_ADV breve_ADV outros_PROADJ Estados_N serão_V atendidos_PCP ._END
 A_ART assinatura_N mensal_ADJ custa_V US$_CUR 30_NUM ;_PU a_ART semestral_ADJ ,_PU US$_CUR 80_NUM ._END
 Os_ART programas_N educativos_ADJ multimídia_ADJ fazem_V os_ART conceitos_N de_PREP física_N ,_PU química_N ,_PU eletricidade_N e_KC óptica_N saírem_V dos_PREP+ART laboratórios_N dos_PREP+ART cientistas_N para_PREP cair_V no_PREP+ART domínio_N das_PREP+ART crianças_N ._END
@@ -228,7 +228,7 @@ A_ART Epson_NPROP traz_V ao_PREP+ART país_N uma_ART linha_N de_PREP cartões_N 
 Há_V cartões_N de_PREP memória_N ,_PU fax/modem_N e_KC disco_N rígido_ADJ ._END
 Custam_V a_PREP partir_PREP de_PREP R$_CUR 277,20_N ._END
 (_PU 011_N 813-3044_N )_PU ._END
-A_ART Multidoc_NPROP apresentou_V na_PREP+ART InfoImagem_NPROP ,_PU feira_N sobre_PREP arquivo_N eletrônico_ADJ de_PREP documentos_N realizada_PCP em_PREP São_NPROP Paulo_NPROP na_PREP+ART semana_N passada_PCP ,_PU o_ART programa_N "_PU Search_NPROP &_NPROP Find_NPROP "_PU ,_PU para_PREP organização_N de_PREP arquivos_N ._END
+A_ART Multidoc_NPROP apresentou_V na_PREP+ART InfoImagem_NPROP ,_PU feira_N sobre_PREP arquivo_N eletrônico_ADJ de_PREP documentos_N realizada_PCP em_PREP São Paulo_NPROP na_PREP+ART semana_N passada_PCP ,_PU o_ART programa_N "_PU Search_NPROP &_NPROP Find_NPROP "_PU ,_PU para_PREP organização_N de_PREP arquivos_N ._END
 O_ART programa_N ,_PU que_PRO-KS funciona_V com_PREP "_PU Windows_NPROP "_PU ,_PU permite_V recuperar_V textos_N ,_PU tabelas_N ou_KC arquivos_N de_PREP bancos_N de_PREP dados_N a_PREP partir_PREP de_PREP palavras_N ou_KC partes_N de_PREP palavras_N ._END
 Custa_V US$_CUR 225_NUM ._END
 (_PU 0192_N 33-6123_N )_PU ._END
@@ -255,7 +255,7 @@ O_ART interessado_N pode_V ligar_V seu_PROADJ computador_N ao_PREP+ART sistema_N
 Vai_V gastar_V somente_PDEN o_ART custo_N da_PREP+ART ligação_N ,_PU que_PRO-KS é_V cobrado_PCP na_PREP+ART conta_N telefônica_ADJ ._END
 O_ART vice-diretor_N da_PREP+ART instituição_N ,_PU José_NPROP Atílio_NPROP Vanin_NPROP ,_PU 50_NUM ,_PU diz_V que_KS o_ART interessado_N também_PDEN pode_V se_PROPESS cadastrar_V na_PREP+ART Escola_NPROP do_NPROP Futuro_NPROP ,_PU ganhando_V o_ART direito_N de_PREP consultar_V o_ART sistema_N 60_NUM minutos_N por_PREP dia_N ._END
 Onde_ADV Encontrar_V Escola_NPROP do_NPROP Futuro_NPROP :_PU av_N ._END
-Professor_NPROP Luciano_NPROP Gualberto_NPROP ,_PU travessa_N 3_N ,_PU nº_N 71_NUM ,_PU Cidade_NPROP Universitária_NPROP (_PU zona_N oeste_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ,_PU prédio_N do_PREP+ART CCE_NPROP (_PU Centro_NPROP de_NPROP Computação_NPROP Eletrônica_NPROP )_PU ,_PU tel_N ._END (_PU 011_N 818-4928_N )_PU Para_PREP consultar_V o_ART BBS_NPROP da_PREP+ART Fuvest_NPROP :_PU tels_N ._END
+Professor_NPROP Luciano_NPROP Gualberto_NPROP ,_PU travessa_N 3_N ,_PU nº_N 71_NUM ,_PU Cidade_NPROP Universitária_NPROP (_PU zona_N oeste_ADJ de_PREP São Paulo_NPROP )_PU ,_PU prédio_N do_PREP+ART CCE_NPROP (_PU Centro_NPROP de_NPROP Computação_NPROP Eletrônica_NPROP )_PU ,_PU tel_N ._END (_PU 011_N 818-4928_N )_PU Para_PREP consultar_V o_ART BBS_NPROP da_PREP+ART Fuvest_NPROP :_PU tels_N ._END
 Adeptos_N de_PREP astronomia_N podem_V conferir_V no_PREP+ART seu_N Mac_NPROP o_ART CD-ROM_N "_PU Redshift_NPROP "_PU ,_PU lançado_PCP nos_PREP+ART EUA_NPROP ._END
 O_ART programa_N é_V um_ART guia_N em_PREP multimídia_N com_PREP cerca_PREP de_PREP 250_NUM mil_NUM estrelas_N ,_PU todos_PROADJ os_ART planetas_N ,_PU galáxias_N e_KC 5.000_NUM asteróides_N ._END
 Ao_PREP ajustar_V a_ART hora_N e_KC local_N na_PREP+ART tela_N do_PREP+ART micro_N ,_PU o_ART programa_N dá_V detalhes_N de_PREP um_ART planeta_N ,_PU ocupando_V a_ART tela_N inteira_ADJ do_PREP+ART micro_N ._END
@@ -363,7 +363,7 @@ Programas_N mais_ADV antigos_ADJ não_ADV sabem_V para_ADV onde_ADV seguir_V a_A
 Hoje_ADV ,_PU é_V possível_ADJ definir_V uma_ART ordem_N de_PREP leitura_N ._END
 Os_ART OCR_NPROP também_PDEN sofrem_V com_PREP a_ART qualidade_N dos_PREP+ART originais_N ._END
 Impressão_N borrada_PCP ,_PU fotocópias_N ,_PU textos_N de_PREP impressoras_N matriciais_ADJ e_KC fax_N sempre_ADV oferecem_V problemas_N ao_PREP+ART reconhecimento_N ._END
-"_PU Lobo_NPROP Guará_NPROP "_PU ,_PU programa_N multimídia_ADJ da_PREP+ART série_N Minibicho_NPROP ,_PU criado_PCP pela_PREP+ART Trattoria_NPROP di_NPROP Frame_NPROP ,_PU foi_V uma_PROSUB das_PREP+ART novidades_N apresentadas_PCP no_PREP+ART Multimídia_NPROP 94_N ,_PU congresso_N e_KC feira_N de_PREP multimídia_N realizados_PCP na_PREP+ART semana_N passada_PCP em_PREP São_NPROP Paulo_NPROP ._END
+"_PU Lobo_NPROP Guará_NPROP "_PU ,_PU programa_N multimídia_ADJ da_PREP+ART série_N Minibicho_NPROP ,_PU criado_PCP pela_PREP+ART Trattoria_NPROP di_NPROP Frame_NPROP ,_PU foi_V uma_PROSUB das_PREP+ART novidades_N apresentadas_PCP no_PREP+ART Multimídia_NPROP 94_N ,_PU congresso_N e_KC feira_N de_PREP multimídia_N realizados_PCP na_PREP+ART semana_N passada_PCP em_PREP São Paulo_NPROP ._END
 O_ART programa_N traz_V diálogos_N ,_PU textos_N e_KC animações_N sobre_PREP o_ART bicho_N ._END
 Tem_V velocidade_N de_PREP 180_NUM milissegundos_N e_KC custa_V R$_CUR 641_NUM ._END
 Quem_PRO-KS passou_V pela_PREP+ART feira_N pôde_V conferir_V também_PDEN vários_PROADJ quiosques_N para_PREP automação_N bancária_ADJ e_KC comercial_ADJ e_KC informações_N turísticas_ADJ ._END
@@ -494,9 +494,9 @@ Chega_V nova_ADJ versão_N do_PREP+ART '_PU Harvard_NPROP Graphics_NPROP ,_PU pa
 Chegam_V nova_ADJ linha_N de_PREP máquinas_N da_PREP+ART Digital_NPROP e_KC um_ART Presario_NPROP de_PREP 66_NUM MHz_N ._END
 Este_PROADJ mês_N -_PU 12_N de_PREP outubro_N é_V Dia_NPROP da_NPROP Criança_NPROP -_PU pode_V ser_V boa_ADJ oportunidade_N para_PREP dar_V ou_KC pedir_V de_PREP presente_N jogos_N para_PREP computador_N ,_PU programas_N e_KC acessórios_N ._END
 Também_ADV é_V boa_ADJ época_N para_PREP comprar_V um_ART kit_N e_KC transformar_V seu_N PC_NPROP em_PREP uma_ART estação_N multimídia_ADJ ._END
-Lojas_N em_PREP São_NPROP Paulo_NPROP e_KC nas_PREP+ART principais_ADJ capitais_N tentam_V atrair_V compradores_N com_PREP ofertas_N ._END
+Lojas_N em_PREP São Paulo_NPROP e_KC nas_PREP+ART principais_ADJ capitais_N tentam_V atrair_V compradores_N com_PREP ofertas_N ._END
 Algumas_PROSUB sorteiam_V jantares_N e_KC até_PDEN bicicleta_N para_PREP quem_PRO-KS levar_V um_ART soft_N em_PREP CD_N ._END
-A_ART Microsoft_NPROP aproveita_V o_ART mês_N e_KC se_PROPESS instala_V em_PREP quatro_NUM shopping_N centers_N da_PREP+ART cidade_N de_PREP São_NPROP Paulo_NPROP com_PREP estandes_N e_KC micros_N multimídia_ADJ ._END
+A_ART Microsoft_NPROP aproveita_V o_ART mês_N e_KC se_PROPESS instala_V em_PREP quatro_NUM shopping_N centers_N da_PREP+ART cidade_N de_PREP São Paulo_NPROP com_PREP estandes_N e_KC micros_N multimídia_ADJ ._END
 Os_ART produtos_N da_PREP+ART linha_N Home_ADJ estarão_V à_PREP+ART venda_N por_PREP preços_N tentadores_ADJ ._END
 Já_ADV estão_V nas_PREP+ART lojas_N dos_PREP+ART EUA_NPROP a_ART nova_ADJ linha_N de_PREP micros_N multimídia_ADJ da_PREP+ART Packard_NPROP Bell_NPROP ._END
 A_ART família_N de_PREP computadores_N traz_V as_ART caixas_N de_PREP som_N acopladas_PCP ao_PREP+ART monitor_N e_KC processadores_N 486_N e_KC Pentium_NPROP ._END
@@ -613,7 +613,7 @@ A_ART Microsul_NPROP ,_PU revenda_N da_PREP+ART Compaq_NPROP ,_PU fez_V importa�
 A_ART linha_N Presario_NPROP foi_V lançada_PCP pela_PREP+ART Compaq_NPROP ,_PU uma_PROSUB das_PREP+ART maiores_ADJ fabricantes_N de_PREP computadores_N pessoais_ADJ ,_PU para_PREP atingir_V o_ART mercado_N doméstico_ADJ e_KC pequenos_ADJ escritórios_N ._END
 A_ART máquina_N é_V um_ART modelo_N de_PREP mesa_N ,_PU tem_V disco_N rígido_ADJ de_PREP 340_NUM Mbytes_N e_KC é_V fabricada_PCP de_PREP acordo_PREP com_PREP as_ART exigências_N do_PREP+ART Energy_NPROP Star_NPROP -_PU programa_N governamental_ADJ norte-americano_ADJ para_PREP redução_N do_PREP+ART consumo_N de_PREP energia_N em_PREP micros_N ._END
 A_ART Microsul_NPROP está_V comercializando_V o_ART 486/66_N por_PREP R$_CUR 2.799_NUM ._END
-A_ART Equipotel_NPROP feira_N de_PREP produtos_N para_PREP hotéis_N ,_PU bares_N e_KC resturantes_N ,_PU que_PRO-KS aconteceu_V na_PREP+ART semana_N passada_PCP em_PREP São_NPROP Paulo_NPROP ,_PU trouxe_V vários_PROADJ lançamentos_N para_PREP automação_N do_PREP+ART setor_N ._END
+A_ART Equipotel_NPROP feira_N de_PREP produtos_N para_PREP hotéis_N ,_PU bares_N e_KC resturantes_N ,_PU que_PRO-KS aconteceu_V na_PREP+ART semana_N passada_PCP em_PREP São Paulo_NPROP ,_PU trouxe_V vários_PROADJ lançamentos_N para_PREP automação_N do_PREP+ART setor_N ._END
 A_ART Fechaconta_NPROP (_PU tel_N ._END 011_N 820-8487_N )_PU lançou_V uma_ART versão_N integrada_PCP de_PREP seu_PROADJ sistema_N para_PREP automação_N de_PREP hotéis_N e_KC motéis_N ._END
 Além_PREP de_PREP automatizar_V recepção_N e_KC área_N administrativa_ADJ ,_PU o_ART sistema_N traz_V programas_N para_PREP lojas_N ,_PU estacionamento_N ,_PU cabeleireiro_N e_KC lanchonete_N do_PREP+ART hotel_N ._END
 A_ART novidade_N da_PREP+ART MemoConta_NPROP (_PU tel_N ._END 011_N 536-4744_N )_PU foi_V o_ART MemoCash_NPROP ,_PU micro_N e_KC impressora_N específicos_ADJ para_PREP automação_N de_PREP bares_N e_KC restaurantes_N ._END
@@ -637,7 +637,7 @@ Acoplado_PCP à_PREP+ART 35_NUM mm_N Nikon_NPROP F-90_NPROP ,_PU armazena_V foto
 Para_PREP uso_N com_PREP PC_N ,_PU chega_V ao_PREP+ART Brasil_NPROP ano_N que_KS vem_V ._END
 A_ART grande_ADJ atração_N da_PREP+ART empresa_N foi_V a_ART câmera_N digital_ADJ Fujix_NPROP Ds-505/_NPROP DS-515_NPROP ,_PU que_PRO-KS usa_V cartões_N para_PREP a_ART impressão_N de_PREP registros_N ._END
 A_ART Photokina_NPROP é_V bienal_ADJ ._END
-Ocupou_V 210_NUM mil_NUM metros_N quadrados_N -_PU cerca_PREP de_PREP cinco_NUM vezes_N o_ART tamanho_N do_PREP+ART Parque_NPROP Anhembi_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP -_PU divididos_PCP por_PREP 1.550_NUM expositores_N ._END
+Ocupou_V 210_NUM mil_NUM metros_N quadrados_N -_PU cerca_PREP de_PREP cinco_NUM vezes_N o_ART tamanho_N do_PREP+ART Parque_NPROP Anhembi_NPROP ,_PU em_PREP São Paulo_NPROP -_PU divididos_PCP por_PREP 1.550_NUM expositores_N ._END
 A_ART Polaroid_NPROP lançou_V na_PREP+ART Photokina_NPROP a_ART câmera_N 636_N ,_PU com_PREP flash_N e_KC foco_V automáticos_ADJ ._END
 Segundo_PREP a_ART empresa_N norte-americana_ADJ ,_PU a_PREP 636_N analisa_V a_ART qualidade_N de_PREP luz_N do_PREP+ART assunto_N ,_PU como_KS se_KS fosse_V um_ART olho_N humano_ADJ ,_PU além_PREP de_PREP determinar_V a_ART distância_N entre_PREP o_ART objeto_N e_KC a_ART máquina_N e_KC dar_V um_ART balanço_N de_PREP luz_N e_KC sombra_N nas_PREP+ART fotos_N ._END
 De_PREP acordo_PREP com_PREP Alan_NPROP Verch_NPROP ,_PU 50_NUM ,_PU diretor_N de_PREP publicidade_N da_PREP+ART Polaroid_NPROP ,_PU é_V a_ART primeira_ADJ câmera_N com_PREP filmes_N de_PREP revelação_N instantânea_ADJ a_PREP ser_V fabricada_PCP e_KC estará_V à_PREP+ART disposição_N dos_PREP+ART usuários_N em_PREP 1995_N ._END
@@ -656,7 +656,7 @@ Uma_PROSUB das_PREP+ART grandes_ADJ novidades_N da_PREP+ART feira_N para_PREP os
 Com_PREP o_ART corpo_N pesando_V apenas_PDEN 80_NUM gramas_N ,_PU é_V compacta_ADJ e_KC vem_V com_PREP um_ART jogo_N de_PREP 4_NUM lentes_N Carl_NPROP Zeiss_NPROP -_PU de_PREP 16_NUM mm_N ,_PU 28_NUM mm_N ,_PU 45_NUM mm_N e_KC 90_NUM mm_N -_PU e_KC flash_N Contax_NPROP TLA-140_NPROP ._END
 Com_PREP o_ART corpo_N de_PREP titânio_N e_KC o_ART desenho_N clássico_ADJ das_PREP+ART câmeras_N dos_PREP+ART anos_N 60_N ,_PU a_ART G1_NPROP tem_V foco_N automático_ADJ monitorado_PCP por_PREP um_ART microprocessador_N ._END
 O_ART foco_N também_PDEN ser_V manual_ADJ ._END
-A_ART Telesp_NPROP (_PU Telecomunicações_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU criou_V no_PREP+ART Videotexto_NPROP seu_PROADJ primeiro_ADJ serviço_N de_PREP telecompras_N por_PREP micro_N ._END
+A_ART Telesp_NPROP (_PU Telecomunicações_NPROP de_NPROP São Paulo_NPROP )_PU criou_V no_PREP+ART Videotexto_NPROP seu_PROADJ primeiro_ADJ serviço_N de_PREP telecompras_N por_PREP micro_N ._END
 O_ART novo_ADJ serviço_N é_V operado_PCP no_PREP+ART Bis_NPROP (_PU Banco_NPROP Interativo_NPROP de_NPROP Serviços_NPROP )_PU ._END
 O_ART Bis_NPROP é_V um_ART sistema_N de_PREP transações_N bancárias_ADJ para_PREP os_ART clientes_N dos_PREP+ART 44_NUM bancos_N que_PRO-KS operam_V com_PREP o_ART Banco_N 24_N Horas_N da_PREP+ART Tecnologia_N Bancária_ADJ ._END
 Para_PREP operar_V o_ART Bis_NPROP ,_PU pessoas_N físicas_ADJ e_KC lojas_N necessitam_V de_PREP um_ART kit_N da_PREP+ART Itacomp_NPROP ,_PU fornecido_PCP pela_PREP+ART Telesp_NPROP por_PREP aproximadamente_ADV R$_CUR 350_NUM ._END
@@ -669,12 +669,12 @@ Assinatura_N :_PU R$_CUR 10_NUM ao_PREP+ART mês_N ._END
 TELESP_NPROP :_PU tel_N ._END 104_N mais_KC os_ART três_NUM primeiros_ADJ números_N do_PREP+ART telefone_N que_PRO-KS faz_V a_ART chamada_N ._END
 Que_PROADJ tal_PROSUB aproveitar_V esta_PROADJ semana_N para_PREP pedir_V seu_PROADJ jogo_N predileto_ADJ ou_KC programa_N em_PREP CD_N de_PREP presente_N de_PREP Dia_NPROP da_NPROP Criança_NPROP ?_PU
 É_V uma_ART boa_ADJ época_N para_PREP pagar_V menos_ADV por_PREP bons_ADJ títulos_N em_PREP CD-ROM_N ._END
-A_ART Folha_NPROP fez_V um_ART levantamento_N de_PREP preços_N em_PREP nove_NUM lojas_N de_PREP São_NPROP Paulo_NPROP e_KC em_PREP cinco_NUM lojas_N em_PREP outros_PROADJ Estados_N ._END
+A_ART Folha_NPROP fez_V um_ART levantamento_N de_PREP preços_N em_PREP nove_NUM lojas_N de_PREP São Paulo_NPROP e_KC em_PREP cinco_NUM lojas_N em_PREP outros_PROADJ Estados_N ._END
 Há_V de_PREP programas_N educativos_ADJ em_PREP português_N ,_PU que_PRO-KS podem_V ser_V comprados_PCP por_PREP até_PDEN R$_CUR 20_NUM ,_PU a_PREP jogos_N que_PRO-KS não_ADV custam_V mais_PREP de_PREP R$_CUR 10_NUM (_PU veja_V quadro_N )_PU ._END
 Quem_PRO-KS preferir_V games_N mais_ADV sofisticados_PCP em_PREP CD-ROM_N ,_PU com_PREP belas_ADJ telas_N de_PREP resolução_N e_KC efeitos_N de_PREP som_N ,_PU encontra_V bons_ADJ títulos_N ._END
 Na_PREP+ART loja_N Planet_NPROP Music_NPROP ,_PU que_PRO-KS funciona_V de_PREP segunda_N a_PREP domingo_N ,_PU o_ART visitante_N poderá_V experimentar_V em_PREP um_ART micro_N qualquer_PROADJ programa_N antes_ADV de_PREP comprar_V -lo_PROPESS ._END
 Micros_N multimídia_ADJ e_KC kits_N também_PDEN estão_V à_PREP+ART venda_N para_PREP quem_PRO-KS ainda_ADV não_ADV tem_V seu_PROADJ equipamento_N em_PREP casa_N ._END
-Essa_PROADJ loja_N de_PREP CDs_N de_PREP música_N foi_V inaugurada_PCP há_V duas_NUM semanas_N em_PREP São_NPROP Paulo_NPROP e_KC tem_V no_PREP+ART primeiro_ADJ andar_N da_PREP+ART casa_N a_PREP Planet_NPROP Mídia_NPROP ,_PU divisão_N que_PRO-KS conta_V com_PREP pelo_PDEN menos_PDEN 200_NUM títulos_N de_PREP programas_N e_KC jogos_N em_PREP CD-ROM_N ._END
+Essa_PROADJ loja_N de_PREP CDs_N de_PREP música_N foi_V inaugurada_PCP há_V duas_NUM semanas_N em_PREP São Paulo_NPROP e_KC tem_V no_PREP+ART primeiro_ADJ andar_N da_PREP+ART casa_N a_PREP Planet_NPROP Mídia_NPROP ,_PU divisão_N que_PRO-KS conta_V com_PREP pelo_PDEN menos_PDEN 200_NUM títulos_N de_PREP programas_N e_KC jogos_N em_PREP CD-ROM_N ._END
 Antes_ADV de_PREP passar_V por_PREP qualquer_PROADJ loja_N ,_PU verifique_V as_ART formas_N de_PREP pagamento_N ._END
 Os_ART descontos_N oferecidos_PCP pelas_PREP+ART lojas_N também_PDEN devem_V valer_V para_PREP quem_PRO-KS preferir_V pagar_V com_PREP cartão_N de_N crédito_N ._END
 É_V bom_ADJ checar_V a_ART garantia_N para_PREP quem_PRO-KS está_V pensando_V em_PREP comprar_V um_ART kit_N multimídia_ADJ e_KC o_ART suporte_N técnico_ADJ oferecido_PCP para_PREP o_ART jogo_N ou_KC programa_N ._END
@@ -876,7 +876,7 @@ Vem_V com_PREP disco_N rígido_ADJ de_PREP 170_NUM Mbytes_N ,_PU placa_N de_PREP
 Aberta_PCP ao_PREP+ART público_N das_PREP+PROSUB 14h_N às_PREP+ART 22h_N ,_PU a_ART feira_N reúne_V este_PROADJ ano_N mais_PREP de_PREP 500_NUM expositores_N em_PREP uma_ART área_N de_PREP 40_NUM mil_NUM ._END
 Os_ART ingressos_N para_PREP visitar_V a_ART feira_N podem_V ser_V adquiridos_PCP nas_PREP+ART bilheterias_N do_PREP+ART parque_N Anhembi_NPROP por_PREP R$_CUR 20_NUM ._END
 A_ART diária_N do_PREP+ART estacionamento_N custa_V R$_CUR 6,00_NUM ._END
-Quem_PRO-KS mora_V São_NPROP Paulo_NPROP e_KC ainda_ADV não_ADV reservou_V seu_PROADJ hotel_N pode_V recorrer_V à_PREP+ART agência_N oficial_ADJ da_PREP+ART feira_N ,_PU SGP_NPROP International_NPROP Viagens_NPROP e_NPROP Turismo_NPROP (_PU tel_N ._END 011_N 851-3210_N )_PU ._END
+Quem_PRO-KS mora_V São Paulo_NPROP e_KC ainda_ADV não_ADV reservou_V seu_PROADJ hotel_N pode_V recorrer_V à_PREP+ART agência_N oficial_ADJ da_PREP+ART feira_N ,_PU SGP_NPROP International_NPROP Viagens_NPROP e_NPROP Turismo_NPROP (_PU tel_N ._END 011_N 851-3210_N )_PU ._END
 A_ART agência_N oferece_V diárias_N com_PREP até_PREP 50_NUM %_N de_PREP desconto_N ._END
 Além_PREP da_PREP+ART exposição_N de_PREP produtos_N ,_PU acontece_V um_ART congresso_N com_PREP cem_NUM palestras_N ,_PU inscrições_N entre_PREP R$_CUR 345_NUM a_PREP R$_CUR 800_NUM ._END
 No_PREP+ART congresso_N será_V possível_ADJ assistir_V a_PREP palestras_N sobre_PREP economia_N mundial_ADJ ,_PU informática_ADJ na_PREP+ART educação_N e_KC informática_N aplicada_PCP ._END

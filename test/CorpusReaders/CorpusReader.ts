@@ -72,9 +72,10 @@ describe("CorpusReader", () => {
 
         assert.equal(tokens[0].toString(), "_START");
         assert.equal(tokens[1].toString(), "O_ART");
-        assert.equal(tokens[2].toString(), "Murilo Kunze_NPROP");
-        assert.equal(tokens[3].toString(), "é_V");
-        assert.equal(tokens[4].toString(), "programador_N");
-        assert.equal(tokens[5].toString(), "._END");
+        assert.equal(tokens[2].toString(), "Murilo_NPROP");
+        assert.equal(tokens[3].toString(), "Kunze_NPROP");
+        assert.equal(tokens[4].toString(), "é_V");
+        assert.equal(tokens[5].toString(), "programador_N");
+        assert.equal(tokens[6].toString(), "._END");
     });
 });

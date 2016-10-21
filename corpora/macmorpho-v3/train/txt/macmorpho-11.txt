@@ -26,7 +26,7 @@ Aumentam_V a_PREP cada_PROADJ dia_N os_ART assaltos_N aos_PREP+ART carros_N para
 E_KC policiamento_N mesmo_PDEN que_PRO-KS é_V bom_ADJ ,_PU nada_PROSUB ._END
 A_ART dupla_N Liana_NPROP Padilha_NPROP e_KC Regis_NPROP Fadel_NPROP faz_V rasante_N no_PREP+ART Rio_NPROP para_PREP o_ART lançamento_N da_PREP+ART coleção_N de_PREP verão_N da_PREP+ART Sucumbe_NPROP a_NPROP Cólera_NPROP ,_PU segunda-feira_N no_PREP+ART Torre_NPROP de_NPROP Babel_NPROP -_PU com_PREP direito_N a_PREP desfile_N de_PREP Camila_NPROP Pitanga_NPROP e_KC Maurício_NPROP Branco_NPROP ._END
 O_ART arquiteto_N Bruno_NPROP Padovano_NPROP baixa_V dia_N 1º._N em_PREP uma_ART aldeia_N indígena_ADJ no_PREP+ART sul_N do_PREP+ART Paraná_NPROP para_PREP desenvolver_V um_ART trabalho_N local_ADJ ._END
-Emerson_NPROP Fittipaldi_NPROP troca_V seu_PROADJ château_N em_PREP Miami_NPROP por_PREP uma_ART temporada_N em_PREP São_NPROP Paulo_NPROP para_PREP gravar_V o_ART novo_ADJ comercial_N do_PREP+ART Malboro_NPROP o_ART lado_N do_PREP+ART sobrinho_N Christian_NPROP Fittipaldi_NPROP mais_KC Raul_NPROP Boesel_NPROP ._END
+Emerson_NPROP Fittipaldi_NPROP troca_V seu_PROADJ château_N em_PREP Miami_NPROP por_PREP uma_ART temporada_N em_PREP São Paulo_NPROP para_PREP gravar_V o_ART novo_ADJ comercial_N do_PREP+ART Malboro_NPROP o_ART lado_N do_PREP+ART sobrinho_N Christian_NPROP Fittipaldi_NPROP mais_KC Raul_NPROP Boesel_NPROP ._END
 Glória_NPROP Funaro_NPROP já_ADV colocou_V sua_PROADJ coleção_N de_PREP outono-inverno_N nas_PREP+ART praleteiras_N ._END
 Em_PREP busca_N de_PREP novidades_N para_PREP sua_PROADJ loja_N Frederic_NPROP Chopin_NPROP ,_PU Vera_NPROP Lafer_NPROP Lorch_NPROP e_KC Suzi_NPROP Bernard_NPROP aterrissam_V nas_PREP+ART feiras_N de_PREP decoração_N em_PREP Paris_NPROP ._END
 De_PREP passagem_N pela_PREP+ART Espanha_NPROP ,_PU Catherine_NPROP Deneuve_NPROP aproveitou_V para_PREP negar_V os_ART adjetivos_N de_PREP mulher_N distante_ADJ e_KC fria_ADJ que_PRO-KS costumam_V lhe_PROPESS dar_V ,_PU por_PREP se_PROPESS relacionarem_V ao_PREP+ART passado_N ._END
@@ -249,7 +249,7 @@ Ensaios_NPROP Críticos_NPROP ,_PU de_PREP Francesco_NPROP De_NPROP Sanctis_NPRO
 Capa_N de_PREP Juan_NPROP José_NPROP Balzi_NPROP ._END
 Tradução_N ,_PU prefácio_N e_KC notas_N de_PREP Antônio_NPROP Lázaro_NPROP de_NPROP Almeida_NPROP Prado_NPROP ._END
 Editora_NPROP Nova_NPROP Alexandria_NPROP (_PU r._NPROP Urano_NPROP
-,_PU 215_NUM ,_PU São_NPROP Paulo_NPROP ,_PU tel._N 270-8627_N ,_PU Caixa_N Postal_N 12.994_N ,_PU Cep_N 01529-010_N )_PU ._END
+,_PU 215_NUM ,_PU São Paulo_NPROP ,_PU tel._N 270-8627_N ,_PU Caixa_N Postal_N 12.994_N ,_PU Cep_N 01529-010_N )_PU ._END
 319_NUM págs_N ._END Cr$_CUR 8.960_NUM
 Danielle_NPROP Steel_NPROP
 Cr$_CUR 8.290_NUM
@@ -311,7 +311,7 @@ Vozes_NPROP ;_PU Lançamento_N
 Após_PREP cinco_NUM números_N ,_PU a_ART revista_N "_PU Vozes_NPROP "_PU começa_V a_PREP ganhar_V um_ART perfil_N mais_ADV atraente_ADJ ._END
 A_ART última_ADJ entrega_N discute_V "_PU Arte,_NPROP Ética_NPROP e_NPROP Controvérsias_NPROP "_PU e_KC traz_V ,_PU entre_PREP outros_PROSUB ,_PU o_ART seguintes_ADJ ensaios_N "_PU O_NPROP Cubismo_NPROP e_NPROP Picasso_NPROP "_PU (_PU foto_N )_PU de_PREP Henri_NPROP Focillon_NPROP ,_PU "_PU Joan_NPROP Miró_NPROP de_PREP Lorenzo_NPROP Mammi_NPROP e_KC "_PU Wagner_NPROP e_NPROP o_NPROP Judaísmo:_NPROP a_NPROP história_NPROP de_NPROP uma_NPROP controvérsia_NPROP "_PU de_PREP Luiz_NPROP R._NPROP Lopez_NPROP ._END
 O_ART cineasta_N David_NPROP E._NPROP Neves_NPROP autografa_V "_PU Cartas_NPROP do_NPROP Meu_NPROP Bar_NPROP "_PU publicado_PCP pela_PREP+ART Editora_NPROP 34_NPROP ._END
-O_ART lançamento_N acontece_V na_PREP+ART livraria_N do_PREP+ART Museu_NPROP da_NPROP Imagem_NPROP e_NPROP do_NPROP Som_NPROP (_PU av._NPROP Europa_NPROP ,_PU 158_NUM ,_PU São_NPROP Paulo_NPROP )_PU ,_PU a_PREP partir_PREP das_PREP+ART 19h_N ,_PU nesta_PREP+PROADJ quinta-feira_N ,_PU dia_N 20_N ._END
+O_ART lançamento_N acontece_V na_PREP+ART livraria_N do_PREP+ART Museu_NPROP da_NPROP Imagem_NPROP e_NPROP do_NPROP Som_NPROP (_PU av._NPROP Europa_NPROP ,_PU 158_NUM ,_PU São Paulo_NPROP )_PU ,_PU a_PREP partir_PREP das_PREP+ART 19h_N ,_PU nesta_PREP+PROADJ quinta-feira_N ,_PU dia_N 20_N ._END
 Nova_NPROP Fronteira_NPROP ._END
 490_NUM págs_N ._END Cr$_CUR 8.290_NUM
 Romance_N dividido_PCP em_PREP quatro_NUM partes_N ,_PU sobre_PREP um_ART romancista_N que_PRO-KS tenta_V reconstruir_V a_ART morte_N de_PREP um_ART famoso_ADJ escritor_N num_PREP+ART campo_N de_PREP concentração_N ._END
@@ -442,13 +442,13 @@ Depto._NPROP de_NPROP Linguística_NPROP da_NPROP FCL_NPROP
 Edição_N sobre_PREP teatro_N ,_PU com_PREP textos_N desde_PREP a_ART tragédia_N grega_ADJ até_PREP os_ART musicais_N americanos_ADJ ,_PU passando_V pelo_PREP+ART teatro_N inglês_ADJ e_KC francês_ADJ ._END
 Edição_N eletrônica_ADJ de_PREP Image_NPROP Computer_NPROP Graphics_NPROP ._END
 Editora_NPROP Euro-Brasileira_NPROP (_PU al._NPROP Jaú_NPROP
-,_PU 1.742_NUM ,_PU 6.º_ADJ andar_N ,_PU São_NPROP Paulo_NPROP ,_PU Cep_N 01416-901_N ,_PU tel._N 011_N 883-1742_N )_PU ._END
+,_PU 1.742_NUM ,_PU 6.º_ADJ andar_N ,_PU São Paulo_NPROP ,_PU Cep_N 01416-901_N ,_PU tel._N 011_N 883-1742_N )_PU ._END
 120_NUM págs_N ._END Cr$_CUR 2.600_NUM
 O_ART número_N traz_V textos_N de_PREP Fernando_NPROP Henrique_NPROP Cardoso_NPROP ,_PU Delfim_NPROP Netto_NPROP ,_PU e_KC entrevista_N com_PREP Claude_NPROP Lévi-Strauss_NPROP e_KC outros_PROSUB ._END
 600_NPROP Questões_NPROP De_NPROP Cinema_NPROP ,_PU de_PREP Antonio_NPROP Queiroz_NPROP ._END
 Capa_N de_PREP Isabel_NPROP Carballo_NPROP ._END
 Geração_NPROP Editorial_NPROP (_PU r._NPROP Cardoso_NPROP de_NPROP Almeida_NPROP
-,_PU 2.188_NUM ,_PU Perdizes_NPROP ,_PU São_NPROP Paulo_NPROP ,_PU Cep_N 01251_N ,_PU tel._N 011_N 872-0984_N )_PU ._END
+,_PU 2.188_NUM ,_PU Perdizes_NPROP ,_PU São Paulo_NPROP ,_PU Cep_N 01251_N ,_PU tel._N 011_N 872-0984_N )_PU ._END
 Coleção_N de_PREP curiosidades_N cinematográficas_ADJ em_PREP forma_N de_PREP pergunta_N e_KC resposta_N ,_PU de_PREP Casablanca_NPROP a_ART Freddy_NPROP Krueger_NPROP ._END
 Ilustrado_PCP ._END
 Introdução_NPROP Ao_NPROP Cinema_NPROP Brasileiro_NPROP ,_PU de_PREP Ale_NPROP Viany_NPROP ._END
@@ -472,7 +472,7 @@ A_NPROP Saga_NPROP De_NPROP SOFIA_NPROP ,_PU de_PREP Mila_NPROP Oakley_NPROP ._E
 Capa_N de_PREP Dulce_NPROP Doyle_NPROP ._END
 Editora_NPROP Papa-Formiga_NPROP (_PU r._NPROP Tomé_NPROP Portes_NPROP
 236_NUM págs_N ._END Preço_N não_ADV divulgado_PCP
-Romance_N baseado_PCP em_PREP reconstrução_N histórica_ADJ da_PREP+ART cidade_N de_PREP São_NPROP Paulo_NPROP no_PREP+ART século_N 19_N ._END
+Romance_N baseado_PCP em_PREP reconstrução_N histórica_ADJ da_PREP+ART cidade_N de_PREP São Paulo_NPROP no_PREP+ART século_N 19_N ._END
 Distribuído_PCP em_PREP bancas_N de_PREP jornal_N ._END
 Capa_N de_PREP Carin_NPROP Ades_NPROP ._END
 Tradução_N de_PREP Alberto_NPROP Quevedo_NPROP e_KC te_PROPESS a_PROPESS ._END
@@ -670,7 +670,7 @@ Com_PREP respeito_N à_PREP+ART altura_N ,_PU a_ART espécie_N australiana_ADJ d
 Ficou_V comprovado_PCP que_KS se_PROPESS trata_V de_PREP um_ART único_ADJ indivíduo_N ._END
 "_PU O_ART peso_N desses_PREP+PROADJ fungos_N é_V superior_ADJ a_PREP 100_NUM t_N ,_PU comparável_ADJ ao_PREP+PROSUB dos_PREP+ART maiores_ADJ animais_N conhecidos_PCP ,_PU as_ART baleias_N azuis_ADJ (_PU Balaenoptera_N musculus_N )_PU ._END
 Correspondência_N para_PREP a_ART seção_N "_PU Sem_NPROP Mistério_NPROP "_PU deve_V ser_V encaminhada_PCP à_PREP+ART Editoria_NPROP de_NPROP Ciência_NPROP (_PU al._NPROP Barão_NPROP de_NPROP Limeira_NPROP
-,_PU 425_NUM ,_PU 4.º_ADJ andar_N ,_PU Cep_N 01290-900_N ,_PU São_NPROP Paulo_NPROP -_PU SP_NPROP )_PU ,_PU com_PREP nome_N ,_PU idade_N ,_PU profissão_N e_KC endereço_N ._END
+,_PU 425_NUM ,_PU 4.º_ADJ andar_N ,_PU Cep_N 01290-900_N ,_PU São Paulo_NPROP -_PU SP_NPROP )_PU ,_PU com_PREP nome_N ,_PU idade_N ,_PU profissão_N e_KC endereço_N ._END
 A_ART edição_N publicada_PCP em_PREP 25_N de_PREP dezembro_N traz_V artigo_N especial_ADJ sobre_PREP os_ART fatores_N que_PRO-KS dirigem_V as_ART compras_N natalinas_ADJ ._END
 Segundo_PREP o_ART artigo_N ,_PU as_ART compras_N são_V um_ART rito_N anual_ADJ através_PREP do_PREP+PRO-KS qual_PRO-KS mercadorias_N são_V convertidas_PCP em_PREP presentes_N ._END
 Isso_PROSUB explicaria_V a_ART ênfase_N dada_PCP a_PREP itens_N supérfluos_ADJ ,_PU em_PREP detrimento_N das_PREP+ART "_PU necessidades_N "_PU compradas_PCP no_PREP+ART dia-a-dia_N ._END
@@ -683,7 +683,7 @@ A_ART revista_N médica_ADJ traz_V ,_PU em_PREP 11_N de_PREP dezembro_N ,_PU com
 A_ART edição_N de_PREP dezembro_N da_PREP+ART revista_N francesa_ADJ apresenta_V uma_ART análise_N do_PREP+ART conceito_N de_PREP tempo_N em_PREP física_N ._END
 Destaca_V trabalhos_N de_PREP Albert_NPROP Einstein_NPROP ,_PU por_PREP mostrar_V que_KS o_ART tempo_N não_ADV é_V absoluto_ADJ ,_PU e_KC da_PREP+ART mecânica_N estatística_ADJ ,_PU por_PREP tentar_V explicar_V o_ART sentido_N em_PREP que_PRO-KS ele_PROPESS corre_V ._END
 A_ART revista_N levanta_V a_ART possibilidade_N de_PREP uma_ART viagem_N no_PREP+ART tempo_N ._END
-Números_N recentes_ADJ de_PREP revistas_N importadas_PCP de_PREP ciência_N podem_V ser_V encontrados_PCP em_PREP várias_PROADJ bancas_N da_PREP+ART cidade_N de_PREP São_NPROP Paulo_NPROP ,_PU como_PREP Cidade_NPROP Jardim_NPROP (_PU tel._N
+Números_N recentes_ADJ de_PREP revistas_N importadas_PCP de_PREP ciência_N podem_V ser_V encontrados_PCP em_PREP várias_PROADJ bancas_N da_PREP+ART cidade_N de_PREP São Paulo_NPROP ,_PU como_PREP Cidade_NPROP Jardim_NPROP (_PU tel._N
 212-7121_N )_PU ,_PU Jardins_N (_PU tel._N
 282-5143_N )_PU e_KC Villaboim_NPROP (_PU tel._N
 67-2107_N )_PU

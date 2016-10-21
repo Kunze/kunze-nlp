@@ -1,15 +1,15 @@
 ﻿Segundo_PREP Alvarenga_NPROP ,_PU Garcia_NPROP desviou_V o_ART dinheiro_N do_PREP+ART empréstimo_N feito_PCP na_PREP+ART Nossa_NPROP Caixa/Nosso_NPROP Banco_NPROP para_PREP proveito_N próprio_PROADJ ._END
 "_PU Comprou_V uma_ART fazenda_N e_KC tirou_V proveito_N pessoal_ADJ do_PREP+ART dinheiro_N "_PU ._END
-Para_PREP Alvarenga_NPROP ,_PU a_ART acusação_N do_PREP+ART ex-prefeito_N foi_V uma_ART forma_N encontrada_PCP para_PREP chantagear_V o_ART governo_N de_PREP São_NPROP Paulo_NPROP e_KC se_PROPESS livrar_V do_PREP+ART pagamento_N do_PREP+ART empréstimo_N feito_PCP na_PREP+ART Nossa_NPROP Caixa_NPROP ._END
+Para_PREP Alvarenga_NPROP ,_PU a_ART acusação_N do_PREP+ART ex-prefeito_N foi_V uma_ART forma_N encontrada_PCP para_PREP chantagear_V o_ART governo_N de_PREP São Paulo_NPROP e_KC se_PROPESS livrar_V do_PREP+ART pagamento_N do_PREP+ART empréstimo_N feito_PCP na_PREP+ART Nossa_NPROP Caixa_NPROP ._END
 O_ART ex-secretário_N da_PREP+ART administração_N Fleury_NPROP relata_V que_KS Garcia_NPROP apoiou_V Paulo_NPROP Maluf_NPROP (_PU PPR_NPROP )_PU ,_PU na_PREP+ART campanha_N eleitoral_ADJ para_PREP o_ART governo_N do_PREP+ART Estado_N ,_PU em_PREP 90_N ._END
 "_PU Não_ADV teria_V nenhuma_PROADJ lógica_N repassar_V dinheiro_N para_PREP cabo_N eleitoral_ADJ de_PREP outro_PROADJ candidato_N "_PU ,_PU disse_V ._END
 Segundo_PREP ele_PROPESS ,_PU o_ART ex-prefeito_N é_V mau_ADJ pagador_N e_KC tem_V títulos_N protestados_PCP em_PREP cartórios_N (_PU dívidas_N vencidas_PCP e_KC não_ADV pagas_PCP )_PU ._END
 PMDB_NPROP de_PREP SP_NPROP oficializa_V a_ART candidatura_N Barros_NPROP Munhoz_NPROP
-O_ART PMDB_NPROP de_PREP São_NPROP Paulo_NPROP oficializou_V ontem_ADV a_ART candidatura_N do_PREP+ART ex-ministro_N Barros_NPROP Munhoz_NPROP ao_PREP+ART governo_N paulista_ADJ ._END
+O_ART PMDB_NPROP de_PREP São Paulo_NPROP oficializou_V ontem_ADV a_ART candidatura_N do_PREP+ART ex-ministro_N Barros_NPROP Munhoz_NPROP ao_PREP+ART governo_N paulista_ADJ ._END
 O_ART deputado_N Arnaldo_NPROP Jardim_NPROP será_V candidato_N a_ART vice-governador_N ._END
 As_ART duas_NUM vagas_N da_PREP+ART legenda_N ao_PREP+ART Senado_NPROP ficarão_V abertas_PCP até_PREP nova_ADJ convenção_N no_PREP+ART próximo_ADJ dia_N 15_N ._END
 Uma_PROSUB das_PREP+ART vagas_N ao_PREP+ART Senado_NPROP o_ART partido_N pretende_V que_KS seja_V ocupada_PCP pelo_PREP+ART PL_NPROP ,_PU cuja_PRO-KS aliança_N encontra_V -se_PROPESS em_PREP fase_N final_ADJ de_PREP negociação_N ._END
-A_ART outra_PROSUB será_V disputada_PCP entre_PREP o_ART quercista_N José_NPROP Machado_NPROP de_NPROP Campos_NPROP Filho_NPROP e_KC o_ART presidente_N do_PREP+ART PMDB_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU Roberto_NPROP Rollemberg_NPROP ._END
+A_ART outra_PROSUB será_V disputada_PCP entre_PREP o_ART quercista_N José_NPROP Machado_NPROP de_NPROP Campos_NPROP Filho_NPROP e_KC o_ART presidente_N do_PREP+ART PMDB_NPROP de_PREP São Paulo_NPROP ,_PU Roberto_NPROP Rollemberg_NPROP ._END
 "_PU Vamos_V discutir_V no_PREP+ART voto_N quem_PRO-KS será_V o_ART candidato_N ao_PREP+ART Senado_NPROP "_PU ,_PU disse_V Rollemberg_NPROP ._END
 Até_PREP sexta-feira_N à_PREP+ART noite_N ele_PROPESS lutava_V para_PREP ser_V o_ART candidato_N a_ART vice-governador_N ._END
 "_PU Isso_PROSUB será_V resolvido_PCP até_PREP o_ART dia_N 15_N e_KC eu_PROPESS sempre_ADV procuro_V buscar_V a_ART conciliação_N "_PU ._END
@@ -191,7 +191,7 @@ O_ART "_PU novo_ADJ "_PU Lula_NPROP irrita_V os_ART radicais_N do_PREP+ART PT_NP
 Ele_PROPESS quer_V convencer_V o_ART militante_N petista_ADJ de_PREP que_KS radicalismo_N não_ADV ganha_V eleição_N ._END
 Deseja_V também_PDEN provar_V aos_PREP+ART empresários_N que_KS sua_PROADJ reciclagem_N ideológica_ADJ não_ADV é_V mera_ADJ estratégia_N de_PREP campanha_N ._END
 Faltando_V cinco_NUM meses_N para_PREP a_ART eleição_N presidencial_ADJ ,_PU o_ART candidato_N do_PREP+ART PT_NPROP é_V um_ART enigma_N ideológico_ADJ ._END
-Julho_N de_PREP l986_N ,_PU sede_N do_PREP+ART PT_NPROP ,_PU Vila_NPROP Mariana_NPROP ,_PU zona_N sul_ADJ de_PREP São_NPROP Paulo_NPROP ._END
+Julho_N de_PREP l986_N ,_PU sede_N do_PREP+ART PT_NPROP ,_PU Vila_NPROP Mariana_NPROP ,_PU zona_N sul_ADJ de_PREP São Paulo_NPROP ._END
 Em_PREP entrevista_N à_PREP+ART Folha_NPROP ,_PU Luiz_NPROP Inácio_NPROP Lula_NPROP da_NPROP Silva_NPROP prega_V a_ART convocação_N do_PREP+ART Exército_NPROP para_PREP desarmar_V fazendeiros_N e_KC garantir_V a_ART desapropriação_N de_PREP terras_N ._END
 Para_PREP não_ADV permitir_V que_KS uma_ART entidade_N fascista_ADJ como_PREP a_ART UDR_NPROP pudesse_V cantar_V de_PREP galo_N como_KS está_V cantando_V "_PU ._END
 Fevereiro_N de_PREP 93_N ,_PU na_PREP+ART desconhecida_PCP Rio_NPROP Verde_NPROP ,_PU no_PREP+ART interior_N de_PREP Goiás_NPROP ._END
@@ -245,7 +245,7 @@ Hoje_ADV ,_PU se_PROPESS irrita_V com_PREP a_ART exploração_N do_PREP+ART tema
 A_PREP julgar_V pelas_PREP+ART notas_N lançadas_PCP nos_PREP+ART arquivos_N da_PREP+ART Escola_NPROP Estadual_NPROP Marcílio_NPROP Dias_NPROP ,_PU de_PREP Vicente_NPROP de_NPROP Carvalho_NPROP ,_PU distrito_N do_PREP+ART Guarujá_NPROP (_PU SP_NPROP )_PU ,_PU Lula_NPROP foi_V um_ART aluno_N muito_ADV bom_ADJ na_PREP+ART primeira_ADJ série_N do_PREP+ART primário_N ._END
 Sua_PROADJ média_N final_ADJ foi_V ._END
 Lula_NPROP sentou_V -se_PROPESS pela_PREP+ART primeira_ADJ vez_N num_PREP+ART banco_N de_PREP escola_N em_PREP 1955_N ,_PU três_NUM anos_N depois_PREP de_PREP ter_V chegado_PCP a_PREP Santos_NPROP (_PU SP_NPROP )_PU ;_PU tinha_V então_ADV 10_NUM anos_N ._END
-O_ART problema_N é_V que_KS Lula_NPROP mudou_V -se_PROPESS para_PREP São_NPROP Paulo_NPROP em_ADV seguida_ADV e_KC abandonou_V os_ART estudos_N ,_PU só_PDEN retomados_PCP aos_PREP+ART 14_NUM anos_N ,_PU num_PREP+ART curso_N para_PREP formação_N de_PREP torneiros_N mecânicos_ADJ ,_PU no_PREP+ART Senai_NPROP ._END
+O_ART problema_N é_V que_KS Lula_NPROP mudou_V -se_PROPESS para_PREP São Paulo_NPROP em_ADV seguida_ADV e_KC abandonou_V os_ART estudos_N ,_PU só_PDEN retomados_PCP aos_PREP+ART 14_NUM anos_N ,_PU num_PREP+ART curso_N para_PREP formação_N de_PREP torneiros_N mecânicos_ADJ ,_PU no_PREP+ART Senai_NPROP ._END
 A_ART reportagem_N da_PREP+ART Folha_NPROP rastreou_V a_ART evolução_N de_PREP três_NUM pessoas_N que_PRO-KS estudaram_V com_PREP Lula_NPROP no_PREP+ART primário_N e_KC ,_PU ao_PREP+ART contrário_N do_PREP+ART hoje_ADV candidato_N do_PREP+ART PT_NPROP ,_PU deram_V sequência_N aos_PREP+ART estudos_N ._END
 No_PREP+ART Senai_NPROP ,_PU o_ART histórico_N do_PREP+ART candidato_N não_ADV repete_V o_ART bom_ADJ desempenho_N obtido_PCP no_PREP+ART Guarujá_NPROP ._END
 O_ART curso_N de_PREP torneiro_N durou_V de_PREP janeiro_N de_PREP 1961_N a_PREP junho_N de_PREP 1963_N ._END
@@ -260,21 +260,21 @@ Apelidado_PCP de_PREP "_PU Quem_NPROP quem_NPROP "_PU ,_PU uma_ART referência_N
 Foi_V suspenso_PCP por_PREP três_NUM dias_N ._END
 Patrimônio_N é_V pequeno_ADJ ,_PU mas_KC cresceu_V desde_PREP a_ART última_ADJ eleição_N presidencial_ADJ
 O_ART patrimônio_N do_PREP+ART candidato_N do_PREP+ART PT_NPROP à_PREP+ART Presidência_NPROP ,_PU Luiz_NPROP Inácio_NPROP Lula_NPROP da_NPROP Silva_NPROP ,_PU cresceu_V desde_PREP a_ART última_ADJ eleição_N presidencial_ADJ ,_PU em_PREP 89_N ._END
-Ao_PREP concorrer_V ao_PREP+ART cargo_N pela_PREP+ART primeira_ADJ vez_N ,_PU Lula_NPROP tinha_V uma_ART casa_N de_PREP 181_NUM metros_N quadrados_ADJ na_PREP+ART rua_N Maria_NPROP Azevedo_NPROP Florence_NPROP ,_PU em_PREP Jurubatuba_NPROP ,_PU São_NPROP Bernardo_NPROP do_NPROP Campo_NPROP ._END
-Possuía_V também_PDEN dois_NUM carros_N e_KC um_ART caminhão_N ,_PU usado_PCP nos_PREP+ART comícios_N e_KC carreatas_N na_PREP+ART Grande_ADJ São_NPROP Paulo_NPROP ._END
+Ao_PREP concorrer_V ao_PREP+ART cargo_N pela_PREP+ART primeira_ADJ vez_N ,_PU Lula_NPROP tinha_V uma_ART casa_N de_PREP 181_NUM metros_N quadrados_ADJ na_PREP+ART rua_N Maria_NPROP Azevedo_NPROP Florence_NPROP ,_PU em_PREP Jurubatuba_NPROP ,_PU São Bernardo_NPROP do_NPROP Campo_NPROP ._END
+Possuía_V também_PDEN dois_NUM carros_N e_KC um_ART caminhão_N ,_PU usado_PCP nos_PREP+ART comícios_N e_KC carreatas_N na_PREP+ART Grande_ADJ São Paulo_NPROP ._END
 Bens_N atuais_ADJ
 Hoje_ADV ,_PU a_ART casa_N de_PREP Jurubatuba_NPROP está_V com_PREP o_ART financiamento_N quitado_PCP ._END
 Ela_PROPESS está_V emprestada_PCP ao_PREP+ART enteado_N Marcos_NPROP e_KC à_PREP+ART sua_PROADJ nora_N ._END
 Transformada_PCP num_PREP+ART sobrado_N em_PREP estilo_N colonial_ADJ ao_PREP longo_PREP dos_PREP+ART últimos_ADJ 15_NUM anos_N ,_PU a_ART casa_N vale_V cerca_PREP de_PREP US$_CUR 70_NUM mil_NUM (_PU Cr$_CUR 85_NUM milhões_N )_PU ._END
 Desde_PREP 22_N de_PREP julho_N de_PREP 1992_N ,_PU um_ART terreno_N de_PREP 7_NUM mil_NUM metros_N quadrados_ADJ a_ART represa_N Billings_NPROP ,_PU faz_V parte_N do_PREP+ART patrimônio_N de_PREP Lula_NPROP ._END
 Marisa_NPROP comprou_V o_ART terreno_N por_PREP Cr$_CUR 4,25_NUM mil_NUM na_PREP+ART época_N ._END
-Marisa_NPROP ,_PU com_PREP quem_PRO-KS é_V casado_PCP com_PREP comunhão_N total_ADJ de_PREP bens_N ,_PU herdou_V ,_PU com_PREP seus_PROADJ dez_NUM irmãos_N ,_PU uma_ART casa_N com_PREP terreno_N de_PREP 448_NUM metros_N quadrados_ADJ na_PREP+ART Vila_NPROP Miramar_NPROP ,_PU bairro_N pobre_ADJ de_PREP São_NPROP Bernardo_NPROP ._END
+Marisa_NPROP ,_PU com_PREP quem_PRO-KS é_V casado_PCP com_PREP comunhão_N total_ADJ de_PREP bens_N ,_PU herdou_V ,_PU com_PREP seus_PROADJ dez_NUM irmãos_N ,_PU uma_ART casa_N com_PREP terreno_N de_PREP 448_NUM metros_N quadrados_ADJ na_PREP+ART Vila_NPROP Miramar_NPROP ,_PU bairro_N pobre_ADJ de_PREP São Bernardo_NPROP ._END
 O_ART terreno_N vale_V cerca_PREP de_PREP US$_CUR 55_NUM mil_NUM (_PU Cr$_CUR 66,8_NUM milhões_N )_PU ._END
 Lula_NPROP circula_V hoje_ADV em_PREP um_ART Opala_NPROP Diplomata_NPROP azul_ADJ ,_PU ano_N 89_N ,_PU comprado_PCP em_PREP setembro_N de_PREP 1991_N ._END
 Em_PREP seu_PROADJ nome_N também_PDEN estão_V um_ART Opala_NPROP SL_NPROP cinza_ADJ ,_PU ano_N 88_N ,_PU adquirido_PCP em_PREP outubro_N de_PREP 1989_N ,_PU e_KC um_ART Opala_NPROP Diplomata_NPROP prata_ADJ ,_PU ano_N 92_N ,_PU comprado_PCP em_PREP janeiro_N do_PREP+ART ano_N passado_PCP ._END
 Ajuda_N de_PREP amigos_N
 Desde_PREP o_ART segundo_ADJ turno_N das_PREP+ART últimas_ADJ eleições_N presidenciais_ADJ ,_PU Lula_NPROP mora_V em_PREP uma_ART casa_N emprestada_PCP pelo_PREP+ART advogado_N Roberto_NPROP Teixeira_NPROP ._END
-Essa_PROADJ casa_N ,_PU na_PREP+ART São_NPROP João_NPROP ,_PU 279_NUM ,_PU em_PREP ,_PU bairro_N de_PREP classe_N média_ADJ de_PREP São_NPROP Bernardo_NPROP ,_PU tem_V três_NUM quartos_N ,_PU uma_ART sala_N ,_PU uma_ART cozinha_N ,_PU salão_N e_KC quintal_N ,_PU distribuídos_PCP em_PREP 400_NUM metros_N quadrados_ADJ ._END
+Essa_PROADJ casa_N ,_PU na_PREP+ART São João_NPROP ,_PU 279_NUM ,_PU em_PREP ,_PU bairro_N de_PREP classe_N média_ADJ de_PREP São Bernardo_NPROP ,_PU tem_V três_NUM quartos_N ,_PU uma_ART sala_N ,_PU uma_ART cozinha_N ,_PU salão_N e_KC quintal_N ,_PU distribuídos_PCP em_PREP 400_NUM metros_N quadrados_ADJ ._END
 Segundo_PREP levantamento_N feita_PCP pela_PREP+ART Folha_NPROP junto_PREP a_PREP imobiliárias_N ,_PU a_ART casa_N avaliada_PCP em_PREP cerca_PREP de_PREP US$_CUR 150_NUM mil_NUM ._END
 Seu_PROADJ aluguel_N não_ADV sairia_V por_PREP menos_PREP de_PREP US$_CUR 1,5_NUM mil_NUM por_PREP mês_N ._END
 Se_KS Lula_NPROP fosse_V desembolsar_V o_ART dinheiro_N das_PREP+ART mensalidades_N do_PREP+ART colégio_N dos_PREP+ART filhos_N ,_PU teria_V uma_ART baixa_N de_PREP aproximadamente_ADV 700_NUM URVs_N em_PREP seu_PROADJ orçamento_N todos_PROADJ os_ART meses_N ._END
@@ -289,7 +289,7 @@ Seu_PROADJ salário_N mensal_ADJ é_V de_PREP 1.355_NUM URVs_N (_PU Cr$_CUR 1.79
 Nos_PREP+ART registros_N contábeis_ADJ do_PREP+ART PT_NPROP ,_PU os_ART vencimentos_N de_PREP Lula_NPROP estão_V assim_ADV divididos_PCP :_PU 855_NUM URVs_N fixas_ADJ ,_PU mais_KC 500_NUM URVs_N de_PREP verba_N de_PREP representação_N ._END
 O_ART partido_N paga_PCP também_PDEN todas_PROADJ as_ART despesas_N do_PREP+ART seu_PROADJ candidato_N com_PREP viagens_N oficiais_ADJ ._END
 Antes_PREP de_PREP se_PROPESS profissionalizar_V político_N ,_PU Lula_NPROP viveu_V um_ART dilema_N ._END
-Não_ADV sabia_V o_PRO-KS que_PRO-KS faria_V a_PREP partir_PREP de_PREP 1981_N ,_PU ao_PREP+ART término_N do_PREP+ART seu_PROADJ segundo_ADJ e_KC último_ADJ mandato_N como_PREP presidente_N do_PREP+ART Sindicato_NPROP dos_NPROP Metalúrgicos_NPROP de_NPROP São_NPROP Bernardo_NPROP ._END
+Não_ADV sabia_V o_PRO-KS que_PRO-KS faria_V a_PREP partir_PREP de_PREP 1981_N ,_PU ao_PREP+ART término_N do_PREP+ART seu_PROADJ segundo_ADJ e_KC último_ADJ mandato_N como_PREP presidente_N do_PREP+ART Sindicato_NPROP dos_NPROP Metalúrgicos_NPROP de_NPROP São Bernardo_NPROP ._END
 "_PU A_ART única_ADJ coisa_N que_PRO-KS aprendi_V foi_V ser_V torneiro_N mecânico_ADJ "_PU ,_PU disse_V ele_PROPESS em_PREP 1979_N ._END
 E_KC mesmo_PDEN assim_PDEN acho_V que_KS desaprendi_V
 Também_PDEN não_ADV sou_V fanático_ADJ por_PREP política_N ._END
@@ -303,7 +303,7 @@ O_ART principal_ADJ interlocutor_N de_PREP Lula_NPROP era_V Carlos_NPROP Villare
 Em_PREP 1981_N ,_PU após_PREP a_ART fundação_N do_PREP+ART PT_NPROP ,_PU a_ART cúpula_N da_PREP+ART Villares_NPROP aceitou_V graciosamente_ADV uma_ART proposta_N de_PREP acordo_N que_PRO-KS previa_V a_ART demissão_N de_PREP Lula_NPROP ._END
 O_ART desligamento_N foi_V oficializado_PCP no_PREP+ART dia_N 6_N de_PREP maio_N daquele_PREP+PROADJ ano_N ._END
 O_ART dinheiro_N que_PRO-KS recebe_V do_PREP+ART partido_N é_V insuficiente_ADJ para_PREP o_ART pagamento_N de_PREP suas_PROADJ contas_N ._END
-Desde_PREP 89_N ,_PU o_ART candidato_N mora_V de_PREP favor_N num_PREP+ART sobrado_N de_PREP três_NUM quartos_N ,_PU em_PREP São_NPROP Bernardo_NPROP ._END
+Desde_PREP 89_N ,_PU o_ART candidato_N mora_V de_PREP favor_N num_PREP+ART sobrado_N de_PREP três_NUM quartos_N ,_PU em_PREP São Bernardo_NPROP ._END
 A_ART casa_N é_V do_PREP+ART advogado_N Roberto_NPROP Teixeira_NPROP ,_PU simpatizante_N do_PREP+ART PT_NPROP ._END
 (_PU Josias_NPROP de_NPROP Sousa_NPROP )_PU
 Candidato_N tenta_V manter_V imagem_N de_PREP trabalhador_N
@@ -320,7 +320,7 @@ O_ART candidato_N permitiu_V -se_PROPESS apenas_PDEN uma_NUM concessão_N estrat
 "_PU Todo_PROSUB mundo_PROSUB já_ADV se_PROPESS acostumou_V comigo_PREP+PROPESS assim_ADV "_PU ,_PU costuma_V alegar_V ._END
 Começou_V a_PREP cultivar_V -la_PROPESS em_PREP 72_N ._END
 Só_PDEN depois_PREP de_PREP habituar_V -se_PROPESS a_PREP ele_PROPESS ,_PU deixou_V que_KS crescesse_V a_ART barba_N ._END
-Em_PREP 82_N ,_PU Lula_NPROP disputou_V as_ART eleições_N para_PREP o_ART governo_N de_PREP São_NPROP Paulo_NPROP ._END
+Em_PREP 82_N ,_PU Lula_NPROP disputou_V as_ART eleições_N para_PREP o_ART governo_N de_PREP São Paulo_NPROP ._END
 Sob_PREP o_ART argumento_N de_PREP que_KS desejava_V tornar_V válidos_ADJ os_ART votos_N dados_PCP a_ART Lula_NPROP ,_PU Luiz_NPROP Inácio_NPROP da_NPROP Silva_NPROP incorporou_V oficialmente_ADV o_ART apelido_N ao_PREP+ART nome_N ._END
 O_ART apelido_N eterniza_V o_ART operário_N na_PREP+ART certidão_N de_PREP nascimento_N do_PREP+ART candidato_N ._END
 O_ART ex-retirante_N despontou_V nas_PREP+ART portas_N de_PREP fábrica_N do_PREP+ART ABC_NPROP não_ADV Luiz_NPROP Inácio_NPROP ,_PU mas_KC simplesmente_ADV Lula_NPROP ._END
@@ -363,12 +363,12 @@ Ele_PROPESS garante_V que_KS a_ART caravana_N não_ADV foi_V hostilizada_PCP ._E
 Kotscho_NPROP observa_V que_KS Lula_NPROP tinha_V uma_ART vantagem_N :_PU era_V o_ART único_ADJ candidato_N declarado_PCP à_PREP+ART Presidência_NPROP ._END
 Portanto_KC ,_PU não_ADV tinha_V adversários_N com_PREP quem_PRO-KS pudesse_V dividir_V a_ART preferência_N da_PREP+ART população_N ._END
 Prado_NPROP diz_V que_KS deverá_V ocorrer_V apenas_PDEN mais_PROADJ uma_PROSUB nos_PREP+ART moldes_N das_PREP+ART realizadas_N até_PREP aqui_ADV ._END
-Ela_PROPESS vai_V percorrer_V o_ART rio_N São_NPROP Francisco_NPROP durante_PREP a_ART Copa_NPROP do_NPROP Mundo_NPROP ,_PU quando_ADV-KS o_ART ritmo_N da_PREP+ART campanha_N é_V reduzido_PCP ._END
+Ela_PROPESS vai_V percorrer_V o_ART rio_N São Francisco_NPROP durante_PREP a_ART Copa_NPROP do_NPROP Mundo_NPROP ,_PU quando_ADV-KS o_ART ritmo_N da_PREP+ART campanha_N é_V reduzido_PCP ._END
 "_PU Folha_NPROP da_NPROP Tarde_NPROP "_PU vai_V circular_V aos_PREP+ART domingos_N a_PREP partir_PREP de_PREP hoje_ADV
 A_ART "_PU Folha_NPROP da_NPROP Tarde_NPROP "_PU ,_PU jornal_N editado_PCP pela_PREP+ART Empresa_NPROP Folha_NPROP da_NPROP Manhã_NPROP S.A._NPROP ,_PU passa_V a_PREP circular_V aos_PREP+ART domingos_N a_PREP partir_PREP de_PREP hoje_ADV ,_PU com_PREP caderno_N completo_ADJ de_PREP classificados_N e_KC novos_ADJ cadernos_N de_PREP reportagens_N ._END
 Uma_PROSUB das_PREP+ART novidades_N da_PREP+ART edição_N de_PREP hoje_ADV é_V o_ART classificado_N a_PREP preços_N populares_ADJ ._END
 Um_ART módulo_N de_PREP anúncio_N custa_V a_PREP partir_PREP de_PREP 1_NUM URV_N ._END
-O_ART jornal_N traz_V também_PDEN o_ART caderno_N "_PU Metrópole_NPROP "_PU ,_PU com_PREP quatro_NUM páginas_N de_PREP reportagens_N sobre_PREP a_ART cidade_N de_PREP São_NPROP Paulo_NPROP e_KC o_ART interior_N do_PREP+ART Estado_N ._END
+O_ART jornal_N traz_V também_PDEN o_ART caderno_N "_PU Metrópole_NPROP "_PU ,_PU com_PREP quatro_NUM páginas_N de_PREP reportagens_N sobre_PREP a_ART cidade_N de_PREP São Paulo_NPROP e_KC o_ART interior_N do_PREP+ART Estado_N ._END
 Traz_V também_PDEN o_ART "_PU FTVê_NPROP "_PU ,_PU com_PREP programação_N semanal_ADJ da_PREP+ART TV_N de_PREP filmes_N e_KC novelas_N ._END
 O_ART jornal_N ainda_ADV tem_V o_ART caderno_N "_PU Esportes_NPROP "_PU e_KC o_ART caderno_N cultural_ADJ "_PU Show_NPROP "_PU ,_PU que_PRO-KS ganha_V a_ART página_N Astral_NPROP ,_PU com_PREP assuntos_N esotéricos_ADJ ._END
 Desde_PREP o_ART último_ADJ 25_N ,_PU início_N da_PREP+ART promoção_N ,_PU o_ART jornal_N triplicou_V suas_PROADJ vendas_N em_PREP bancas_N ._END
@@ -378,12 +378,12 @@ Na_PREP+ART banca_N ,_PU o_ART jornal_N custa_V Cr$_CUR 400,00_NUM ,_PU o_ART me
 A_ART "_PU Folha_NPROP da_NPROP Tarde_NPROP "_PU de_PREP hoje_ADV tem_V 46_NUM páginas_N ._END
 Durante_PREP a_ART semana_N ,_PU a_ART média_N é_V de_PREP 28_NUM páginas_N ._END
 volta_V ao_PREP+ART ABC_NPROP disfarçado_PCP em_PREP videocarrinho_N
-O_ART videopôquer_NPROP está_V de_ADV volta_ADV a_ART região_N do_PREP+ART ABC_NPROP (_PU Santo_NPROP André_NPROP ,_PU São_NPROP Bernardo_NPROP e_KC São_NPROP Caetano_NPROP )_PU ._END
+O_ART videopôquer_NPROP está_V de_ADV volta_ADV a_ART região_N do_PREP+ART ABC_NPROP (_PU Santo_NPROP André_NPROP ,_PU São Bernardo_NPROP e_KC São Caetano_NPROP )_PU ._END
 O_ART jogo_N do_PREP+ART videocarrinho_N é_V semelhante_ADJ ao_PREP+ART videopôquer_N ._END
 No_PREP+ART verso_N das_PREP+ART cartas_N ,_PU no_PREP+ART lugar_N dos_PREP+PROSUB dos_PREP+ART 4_NUM naipes_N ,_PU há_V imagens_N de_PREP carros_N de_PREP F_NPROP 1_NPROP de_PREP quatro_NUM cores_N diferentes_ADJ ._END
 A_ART Polícia_NPROP Civil_NPROP não_ADV tem_V um_ART laudo_N mostrando_V se_KS existe_V fraude_N ._END
 "_PU A_ART fraude_N acontece_V quando_KS o_ART programa_N da_PREP+ART máquina_N prevê_V uma_ART chance_N de_PREP vitória_N menor_ADJ que_KS 50_NUM %_N ao_PREP+ART apostador_N "_PU ,_PU disse_V o_ART delegado_N Gilson_NPROP Silveira_NPROP ,_PU da_PREP+ART Divisão_NPROP de_NPROP Crimes_NPROP contra_NPROP a_NPROP Economia_NPROP Popular_NPROP ._END
-Na_PREP+ART Meeting_NPROP Point_NPROP ,_PU em_PREP São_NPROP Caetano_NPROP ,_PU o_ART videocarrinho_N é_V a_ART principal_ADJ atração_N ._END
+Na_PREP+ART Meeting_NPROP Point_NPROP ,_PU em_PREP São Caetano_NPROP ,_PU o_ART videocarrinho_N é_V a_ART principal_ADJ atração_N ._END
 Lá_ADV existem_V oito_NUM máquinas_N ._END
 O_ART mínimo_N para_PREP se_PROPESS começar_V a_PREP jogar_V são_ADJ Cr$_CUR 7.000,00_NUM ._END
 O_ART gerente_N da_PREP+ART casa_N ,_PU que_PRO-KS se_PROPESS identificou_V apenas_PDEN por_PREP "_PU Alemão_NPROP "_PU ,_PU afirmou_V que_KS a_ART máquina_N dá_V 70_NUM %_N de_PREP chance_N de_PREP vitória_N ao_PREP+ART jogador_N ._END
@@ -405,7 +405,7 @@ O_ART promotor_N da_PREP+ART VEP_NPROP também_PDEN examina_V o_ART pedido_N ._E
 Se_KS for_V considerado_PCP apto_ADJ a_PREP deixar_V a_ART prisão_N ,_PU o_ART juiz_N da_PREP+ART Vara_NPROP de_NPROP Execuções_NPROP Penais_NPROP concede_V o_ART benefício_N ._END
 O_ART advogado_N de_PREP Aílton_NPROP Guimarães_NPROP Jorge_NPROP (_PU capitão_N Guimarães_NPROP )_PU ,_PU Luís_NPROP Guilherme_NPROP Vieira_NPROP ,_PU disse_V que_KS vai_V pedir_V o_ART benefício_N para_PREP seu_PROADJ cliente_N ._END
 (_PU Sérgio_NPROP Torres_NPROP )_PU
-Três_NUM rapazes_N morreram_V ontem_ADV de_PREP madruagada_N em_PREP um_ART acidente_N na_PREP+ART avenida_N Radial_NPROP Leste_NPROP ,_PU no_PREP+ART Tatuapé_NPROP (_PU zona_N leste_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ._END
+Três_NUM rapazes_N morreram_V ontem_ADV de_PREP madruagada_N em_PREP um_ART acidente_N na_PREP+ART avenida_N Radial_NPROP Leste_NPROP ,_PU no_PREP+ART Tatuapé_NPROP (_PU zona_N leste_ADJ de_PREP São Paulo_NPROP )_PU ._END
 Outros_PROADJ três_N ficaram_V feridos_PCP ._END
 Seis_NUM rapazes_N ,_PU com_PREP idades_N entre_PREP 16_NUM e_KC 21_NUM anos_N ,_PU estavam_V na_PREP+ART Saveiro_NPROP -_PU dois_N na_PREP+ART cabine_N e_KC quatro_N na_PREP+ART caçamba_N e_KC disputavam_V um_ART racha_N (_PU aposta_N de_PREP corrida_N de_PREP carros_N )_PU com_PREP ocupantes_N de_PREP um_NUM Gol_NPROP ._END
 O_ART acidente_N aconteceu_V próximo_PREP ao_PREP+ART viaduto_N Aricanduva_NPROP ,_PU no_PREP+ART sentido_N bairro_N centro_N da_PREP+ART avenida_N Radial_NPROP Leste_NPROP ._END
@@ -526,16 +526,16 @@ Ele_PROPESS avalia_V também_PDEN a_ART política_N cearense_ADJ ,_PU na_PREP+PR
 Num_PREP+ART confidência_N a_PREP um_ART assessor_N ,_PU Fernando_NPROP Henrique_NPROP comentou_V :_PU "_PU Está_V muito_ADV difícil_ADJ eu_PROPESS sair_V ._END
 E_KC está_V muito_ADV difícil_ADJ eu_PROPESS ficar_V "_PU ._END
 Há_V um_ART clima_N de_PREP incerteza_N na_PREP+ART cúpula_N do_PREP+ART PSDB_NPROP sobre_PREP se_KS Fernando_NPROP Henrique_NPROP pode_V ou_KC não_ADV sair_V ._END
-Eles_PROPESS levantam_V a_ART possibilidade_N de_PREP que_KS ,_PU caso_KS não_ADV saia_V ,_PU terão_V de_PREP convencer_V o_ART senador_N Mário_NPROP Covas_NPROP a_PREP abandonar_V sua_PROADJ disposição_N de_PREP disputar_V o_ART governo_N de_PREP São_NPROP Paulo_NPROP ._END
+Eles_PROPESS levantam_V a_ART possibilidade_N de_PREP que_KS ,_PU caso_KS não_ADV saia_V ,_PU terão_V de_PREP convencer_V o_ART senador_N Mário_NPROP Covas_NPROP a_PREP abandonar_V sua_PROADJ disposição_N de_PREP disputar_V o_ART governo_N de_PREP São Paulo_NPROP ._END
 Sobre_PREP o_ART plano_N econômico_ADJ no_PREP+ART caderno_N Plano_NPROP FHC_NPROP
 "_PU Plano_N independe_V do_PREP+ART ministro_N "_PU ._END
-Enviada_N especial_ADJ a_ART São_NPROP José_NPROP dos_NPROP Campos_NPROP
+Enviada_N especial_ADJ a_ART São José dos Campos_NPROP
 "_PU O_ART importante_N é_V que_KS o_ART ministro_N delegue_V corretamente_ADV a_ART condução_N do_PREP+ART plano_N "_PU ,_PU observa_V Brandão_NPROP ._END
 Tápias_NPROP e_KC Brandão_NPROP evitam_V comentar_V a_ART sucessão_N presidencial_ADJ ._END
 "_PU É_V muito_ADV cedo_ADV "_PU ,_PU dizem_V ._END
 "_PU Ainda_ADV não_ADV temos_V candidatos_N definidos_PCP "_PU ,_PU diz_V ._END
 Para_PREP Tápias_NPROP ,_PU Fernando_NPROP Henrique_NPROP "_PU está_V empenhado_PCP em_PREP dar_V sua_PROADJ contribuição_N "_PU ao_PREP+ART combate_N à_PREP+ART inflação_N ._END
-Tápias_NPROP e_KC Brandão_NPROP estiveram_V ontem_ADV em_PREP São_NPROP José_NPROP dos_NPROP Campos_NPROP (_PU SP_NPROP )_PU no_PREP+ART lançamento_N do_PREP+ART Corsa_NPROP ,_PU da_PREP+ART GM_NPROP ._END
+Tápias_NPROP e_KC Brandão_NPROP estiveram_V ontem_ADV em_PREP São José dos Campos_NPROP (_PU SP_NPROP )_PU no_PREP+ART lançamento_N do_PREP+ART Corsa_NPROP ,_PU da_PREP+ART GM_NPROP ._END
 O_ART ministro_N chefe_ADJ da_PREP+ART Casa_NPROP Civil_NPROP ,_PU Henrique_NPROP Hargreaves_NPROP ,_PU representou_V o_ART presidente_N Itamar_NPROP Franco_NPROP no_PREP+ART evento_N ._END
 Hargreaves_NPROP ,_PU acrescentou_V que_KS não_ADV vê_V problemas_N em_PREP uma_ART eventual_ADJ aliança_N entre_PREP o_ART PFL_NPROP e_KC o_ART PSDB_NPROP ,_PU sugerida_PCP pelo_PREP+ART governador_N da_PREP+ART Bahia_NPROP ,_PU Antônio_NPROP Carlos_NPROP Magalhães_NPROP ._END
 "_PU Qualquer_PROADJ aliança_N é_V possível_ADJ "_PU ._END
@@ -572,7 +572,7 @@ Além_PREP dele_PREP+PROPESS ,_PU também_PDEN terão_V direito_N a_ART voz_N o_
 Greenhalgh_NPROP ,_PU membro_N da_PREP+ART Executiva_NPROP petista_ADJ e_KC já_ADV definido_PCP como_PREP coordenador_N da_PREP+ART área_N jurídica_ADJ da_PREP+ART campanha_N de_PREP Lula_NPROP ,_PU mostrará_V casos_N passados_PCP em_PREP que_PRO-KS o_ART partido_N se_PROPESS julgou_V vítima_N de_PREP exploração_N eleitoral_ADJ ._END
 Estão_V listados_ADJ os_ART episódios_N da_PREP+ART morte_N de_PREP trabalhadores_N rurais_ADJ em_PREP Leme_NPROP (_PU SP_NPROP )_PU ,_PU o_ART sequestro_N do_PREP+ART empresário_N Abílio_NPROP Diniz_NPROP e_KC ,_PU mais_ADV recentemente_ADV ,_PU o_ART assassinato_N do_PREP+ART sindicalista_N Oswaldo_NPROP Cruz_NPROP Júnior_NPROP ._END
 Greenhalgh_NPROP tentará_V aplicar_V a_ART "_PU vacina_N "_PU ,_PU ou_PDEN seja_PDEN ,_PU alertar_V que_KS os_ART adversários_N de_PREP Lula_NPROP podem_V atacar_V -lo_PROPESS novamente_ADV sem_PREP provas_N ._END
-Dirceu_NPROP e_KC Olívio_NPROP aparecerão_V na_PREP+ART condição_N de_PREP candidatos_N aos_PREP+ART governos_N de_PREP São_NPROP Paulo_NPROP e_KC Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP ,_PU respectivamente_ADV ._END
+Dirceu_NPROP e_KC Olívio_NPROP aparecerão_V na_PREP+ART condição_N de_PREP candidatos_N aos_PREP+ART governos_N de_PREP São Paulo_NPROP e_KC Rio_NPROP Grande_NPROP do_NPROP Sul_NPROP ,_PU respectivamente_ADV ._END
 O_ART comando_N da_PREP+ART campanha_N de_PREP Dirceu_NPROP avalia_V que_KS a_ART ida_N do_PREP+ART deputado_N no_PREP+ART programa_N do_PREP+ART partido_N praticamente_ADV inviabiliza_V a_ART manobra_N dos_PREP+ART adversários_N internos_ADJ ._END
 Olívio_NPROP e_KC Lula_NPROP devem_V mencionar_V o_ART programa_N de_PREP governo_N que_PRO-KS está_V sendo_V elaborado_PCP pelo_PREP+ART partido_N e_KC convocar_V a_ART militância_N e_KC a_ART população_N à_PREP+ART participação_N no_PREP+ART debate_N do_PREP+ART texto_N ._END
 A_ART revisão_N constitucional_ADJ será_V atacada_PCP ._END
@@ -604,10 +604,10 @@ O_ART anúncio_N foi_V feito_PCP durante_PREP encontro_N de_PREP prefeitos_N em_
 Franco_NPROP terá_V como_PREP principal_ADJ opositor_N o_ART prefeito_N de_PREP Aracaju_NPROP ,_PU Jackson_NPROP Barreto_NPROP (_PU PDT_NPROP )_PU ._END
 O_ART deputado_N federal_ADJ José_NPROP Cicote_NPROP (_PU PT_NPROP SP_NPROP )_PU pede_V hoje_ADV à_PREP+ART o_ART afastamento_N do_PREP+ART desembargador_N Charife_NPROP Oscar_NPROP Abrão_NPROP da_PREP+ART presidência_N do_PREP+ART TRE_NPROP de_PREP Goiás_NPROP e_KC do_PREP+ART advogado_N Enauro_NPROP de_NPROP Freitas_NPROP da_PREP+ART direção_N geral_N do_PREP+ART tribunal_N ._END
 Dom_NPROP Paulo_NPROP receberá_V prêmio_N em_PREP Tóquio_NPROP
-A_ART Fundação_NPROP Niwano_NPROP para_NPROP a_NPROP Paz_NPROP ,_PU do_PREP+ART Japão_NPROP ,_PU anunciou_V que_KS vai_V conceder_V seu_N Prêmio_NPROP da_NPROP Paz_NPROP de_PREP 1994_N para_PREP o_ART cardeal_N arcebispo_ADJ de_PREP São_NPROP Paulo_NPROP ,_PU Dom_NPROP Paulo_NPROP Evaristo_NPROP Arns_NPROP ,_PU por_PREP sua_PROADJ atuação_N em_PREP defesa_N da_PREP+ART democracia_N e_KC dos_PREP+ART direitos_N humanos_ADJ ._END
+A_ART Fundação_NPROP Niwano_NPROP para_NPROP a_NPROP Paz_NPROP ,_PU do_PREP+ART Japão_NPROP ,_PU anunciou_V que_KS vai_V conceder_V seu_N Prêmio_NPROP da_NPROP Paz_NPROP de_PREP 1994_N para_PREP o_ART cardeal_N arcebispo_ADJ de_PREP São Paulo_NPROP ,_PU Dom_NPROP Paulo_NPROP Evaristo_NPROP Arns_NPROP ,_PU por_PREP sua_PROADJ atuação_N em_PREP defesa_N da_PREP+ART democracia_N e_KC dos_PREP+ART direitos_N humanos_ADJ ._END
 O_ART prêmio_N ,_PU no_PREP+ART valor_N de_PREP US$_CUR 190_NUM mil_NUM ,_PU será_V entregue_PCP em_PREP Tóquio_NPROP no_PREP+ART dia_N 11_N de_PREP maio_N ._END
 Santos_NPROP quer_V ser_V o_ART candidato_N do_PREP+ART PMDB_NPROP
-O_ART deputado_N estadual_ADJ Barros_NPROP Munhoz_NPROP e_KC o_ART secretário_N de_PREP Governo_N ,_PU Michel_NPROP Temer_NPROP ,_PU informaram_V ontem_ADV oficialmente_ADV ao_PREP+ART PMDB_NPROP que_KS são_V pré-candidatos_N do_PREP+ART partido_N a_PREP governador_N de_PREP São_NPROP Paulo_NPROP ._END
+O_ART deputado_N estadual_ADJ Barros_NPROP Munhoz_NPROP e_KC o_ART secretário_N de_PREP Governo_N ,_PU Michel_NPROP Temer_NPROP ,_PU informaram_V ontem_ADV oficialmente_ADV ao_PREP+ART PMDB_NPROP que_KS são_V pré-candidatos_N do_PREP+ART partido_N a_PREP governador_N de_PREP São Paulo_NPROP ._END
 O_ART presidente_N do_PREP+ART PMDB_NPROP paulista_ADJ ,_PU Roberto_NPROP Rollemberg_NPROP ,_PU informou_V que_KS realizará_V uma_ART prévia_N entre_PREP os_ART filiados_N do_PREP+ART PMDB_NPROP para_PREP a_ART escolha_N do_PREP+ART candidato_N ._END
 Temer_NPROP deverá_V deixar_V o_ART governo_N até_PREP o_ART final_N desta_PREP+PROADJ semana_N ._END
 "_PU Ninguém_PROSUB será_V candidato_N sem_PREP meu_PROADJ apoio_N "_PU ,_PU afirmou_V Fleury_NPROP ._END
@@ -713,20 +713,20 @@ O_ART governador_N do_PREP+ART Ceará_NPROP ,_PU Ciro_NPROP Gomes_NPROP (_PU PSD
 A_ART proposta_N foi_V defendida_PCP pelo_PREP+ART governador_N da_PREP+ART Bahia_NPROP ,_PU Antônio_NPROP Carlos_NPROP Magalhães_NPROP (_PU PFL_NPROP )_PU ,_PU em_PREP entrevista_N publicada_PCP ontem_ADV pela_PREP+ART Folha_NPROP ._END
 Ciro_NPROP afirmou_V que_KS "_PU a_ART direita_N conservadora_ADJ provavelmente_ADV "_PU vai_V se_PROPESS articular_V em_PREP uma_ART coligação_N no_PREP+ART primeiro_ADJ turno_N da_PREP+ART eleição_N ,_PU porque_KS "_PU está_V assustada_PCP "_PU ._END
 O_ART governador_N do_PREP+ART Ceará_NPROP não_ADV colocou_V ACM_NPROP entre_PREP os_ART representantes_N dessa_PREP+PROADJ ala_N ,_PU dizendo_V que_KS ele_PROPESS é_V um_ART político_N "_PU arejado_PCP "_PU ._END
-Ciro_NPROP lembrou_V o_ART surto_N de_PREP leptospirose_N em_PREP São_NPROP Paulo_NPROP e_KC aproveitou_V para_PREP cutucar_V o_ART governador_N Luiz_NPROP Antonio_NPROP Fleury_NPROP Filho_NPROP (_PU PMDB_NPROP )_PU ._END
+Ciro_NPROP lembrou_V o_ART surto_N de_PREP leptospirose_N em_PREP São Paulo_NPROP e_KC aproveitou_V para_PREP cutucar_V o_ART governador_N Luiz_NPROP Antonio_NPROP Fleury_NPROP Filho_NPROP (_PU PMDB_NPROP )_PU ._END
 "_PU Isso_PROSUB é_V uma_ART fatalidade_N ._END
 Eu_PROPESS torço_V para_PREP que_KS ele_PROPESS resolva_V isso_PROSUB ._END
 Se_KS ele_PROPESS quiser_V ,_PU eu_PROPESS dou_V uma_ART colaboração_N ._END
-Ciro_NPROP esteve_V em_PREP São_NPROP Paulo_NPROP para_PREP dar_V uma_ART palestra_N na_PREP+ART Fiesp_NPROP (_PU Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU ._END
+Ciro_NPROP esteve_V em_PREP São Paulo_NPROP para_PREP dar_V uma_ART palestra_N na_PREP+ART Fiesp_NPROP (_PU Federação_NPROP das_NPROP Indústrias_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP )_PU ._END
 Os_ART empresários_N fizeram_V muitas_PROADJ perguntas_N sobre_PREP sucessão_N ,_PU mas_KC ele_PROPESS se_PROPESS esquivou_V ._END
 (_PU Américo_NPROP Martins_NPROP )_PU
 Raquel_NPROP Cândido_NPROP foge_V do_PREP+ART hospital_N
 Ela_PROPESS estava_V inconformada_PCP porque_KS Sabino_NPROP havia_V cortado_PCP a_ART ajuda_N de_PREP custo_N para_PREP as_ART despesas_N hospitalares_ADJ ._END
 A_ART Folha_NPROP não_ADV conseguiu_V localizar_V a_ART deputada_N no_PREP+ART hospital_N nem_KC em_PREP casa_N ._END
 Covas_NPROP ataca_V Quércia_NPROP e_KC Fleury_NPROP
-O_ART senador_N Mário_NPROP Covas_NPROP ,_PU virtual_ADJ candidato_N do_PREP+ART PSDB_NPROP ao_PREP+ART governo_N do_PREP+ART Estado_N ,_PU escolheu_V o_ART PMDB_NPROP como_PREP alvo_N ao_PREP apresentar_V as_ART diretrizes_N de_PREP seu_PROADJ programa_N de_PREP governo_N cerca_PREP de_PREP 400_NUM tucanos_N ontem_ADV em_PREP São_NPROP Paulo_NPROP ._END
+O_ART senador_N Mário_NPROP Covas_NPROP ,_PU virtual_ADJ candidato_N do_PREP+ART PSDB_NPROP ao_PREP+ART governo_N do_PREP+ART Estado_N ,_PU escolheu_V o_ART PMDB_NPROP como_PREP alvo_N ao_PREP apresentar_V as_ART diretrizes_N de_PREP seu_PROADJ programa_N de_PREP governo_N cerca_PREP de_PREP 400_NUM tucanos_N ontem_ADV em_PREP São Paulo_NPROP ._END
 Ele_PROPESS disse_V que_KS as_ART administrações_N de_PREP Luiz_NPROP Antonio_NPROP Fleury_NPROP Filho_NPROP e_KC Orestes_NPROP Quércia_NPROP foram_V "_PU governos_N fracos_ADJ ,_PU confusos_ADJ e_KC opacos_ADJ "_PU ._END
-Covas_NPROP prometeu_V reverter_V o_PRO-KS que_PRO-KS entende_V ser_V um_ART processo_N de_PREP perda_N de_PREP importância_N política_ADJ de_PREP São_NPROP Paulo_NPROP ._END
+Covas_NPROP prometeu_V reverter_V o_PRO-KS que_PRO-KS entende_V ser_V um_ART processo_N de_PREP perda_N de_PREP importância_N política_ADJ de_PREP São Paulo_NPROP ._END
 As_ART diretrizes_N apresentadas_PCP pelo_PREP+ART senador_N ,_PU que_PRO-KS nortearão_V a_ART elaboração_N do_PREP+ART programa_N de_PREP governo_N ,_PU são_V "_PU revolução_N moral_ADJ das_PREP+ART práticas_N de_PREP governo_N ,_PU revolução_N administrativa_ADJ e_KC revolução_N na_PREP+ART produtividade_N dos_PREP+ART recursos_N públicos_ADJ "_PU ._END
 O_ART programa_N de_PREP governo_N deverá_V estar_V pronto_ADJ até_PREP 1º_N de_PREP maio_N ,_PU data_N da_PREP+ART convenção_N estadual_ADJ ._END
 Importação_N
@@ -768,7 +768,7 @@ Operação_N de_PREP entrada_N
 Foi_V montada_PCP uma_ART operação_N estratégica_ADJ para_PREP evitar_V que_KS o_ART governador_N fosse_V fotografado_PCP nas_PREP+ART dependências_N do_PREP+ART STJ_NPROP ._END
 Antes_PREP de_PREP Fleury_NPROP ,_PU apenas_PDEN um_NUM governador_N em_PREP exercício_N (_PU Marcelo_NPROP Miranda_NPROP ,_PU do_PREP+ART Mato_NPROP Grosso_NPROP )_PU havia_V deposto_PCP no_PREP+ART STJ_NPROP ._END
 Acompanhado_PCP de_PREP seu_PROADJ advogado_N ,_PU Manoel_NPROP Bifulco_NPROP ,_PU e_KC de_PREP assessores_N ,_PU Fleury_NPROP utilizou_V uma_ART rampa_N lateral_ADJ ,_PU que_PRO-KS é_V usada_PCP pelos_PREP+ART ministros_N do_PREP+ART STJ_NPROP e_KC do_PREP+ART STM_NPROP (_PU Superior_NPROP Tribunal_NPROP Militar_NPROP )_PU ,_PU para_PREP poder_V chegar_V à_PREP+ART garagem_N sem_PREP ser_V notado_PCP pelos_PREP+ART fotógrafos_N ._END
-"_PU Foi_V apenas_PDEN para_PREP preservar_V a_ART imagem_N do_PREP+ART governo_N de_PREP São_NPROP Paulo_NPROP ,_PU pois_KC quem_PRO-KS não_ADV deve_V não_ADV teme_V "_PU ,_PU disse_V posteriormente_ADV à_PREP+ART Folha_NPROP ._END
+"_PU Foi_V apenas_PDEN para_PREP preservar_V a_ART imagem_N do_PREP+ART governo_N de_PREP São Paulo_NPROP ,_PU pois_KC quem_PRO-KS não_ADV deve_V não_ADV teme_V "_PU ,_PU disse_V posteriormente_ADV à_PREP+ART Folha_NPROP ._END
 A_ART Folha_NPROP apurou_V que_KS o_ART STJ_NPROP não_ADV permitiu_V que_KS fossem_V feitas_PCP entrevistas_N na_PREP+ART Corte_N ,_PU porque_KS o_ART ex-governador_N Orestes_NPROP Quércia_NPROP manifestou_V interesse_N em_PREP conceder_V uma_ART entrevista_N no_PREP+ART Tribunal_NPROP ,_PU após_PREP seu_PROADJ depoimento_N ,_PU marcado_PCP para_PREP a_ART próxima_ADJ sexta-feira_N ._END
 Fleury_NPROP ,_PU segundo_PREP um_PROSUB dos_PREP+ART assessores_N ,_PU estava_V nervoso_ADJ ao_PREP chegar_V ao_PREP+ART STJ_NPROP ._END
 Posteriormente_ADV ,_PU o_ART próprio_PROADJ governador_N se_PROPESS disse_V tranquilo_ADJ ._END
@@ -776,7 +776,7 @@ Segundo_PREP sua_PROADJ assessoria_N ,_PU o_ART governador_N não_ADV acredita_V
 Agora_ADV vamos_V aguardar_V a_ART decisão_N do_PREP+ART STJ_NPROP ._END
 Governador_N ataca_V investigação_N
 Do_PREP+ART enviado_N especial_ADJ a_PREP Brasília_NPROP
-Leia_V a_ART entrevista_N que_KS o_ART governador_N Luiz_NPROP Antonio_NPROP Fleury_NPROP Filho_NPROP concedeu_V no_PREP+ART hangar_N da_PREP+ART Líder_NPROP Táxi_NPROP Aéreo_NPROP antes_PREP de_PREP voltar_V a_PREP São_NPROP Paulo_NPROP :_PU
+Leia_V a_ART entrevista_N que_KS o_ART governador_N Luiz_NPROP Antonio_NPROP Fleury_NPROP Filho_NPROP concedeu_V no_PREP+ART hangar_N da_PREP+ART Líder_NPROP Táxi_NPROP Aéreo_NPROP antes_PREP de_PREP voltar_V a_PREP São Paulo_NPROP :_PU
 A_PREP quem_PROSUB o_ART senhor_N atribui_V a_ART maior_ADJ responsabilidade_N pela_PREP+ART operação_N ,_PU aos_PREP+ART seus_PROADJ ex-assessores_N ou_KC a_PREP Quércia_NPROP ?_PU
 Eu_PROPESS não_ADV estou_V atribuindo_V a_ART responsabilidade_N a_PREP ninguém_PROSUB ._END
 Mesmo_PDEN porque_KS quem_PRO-KS deve_V dizer_V se_KS há_V responsabilidade_N a_PREP ser_V apurada_PCP é_V o_ART STJ_NPROP ._END
@@ -856,7 +856,7 @@ Boi_N de_PREP piranha_N
 Depois_PREP do_PREP+ART tiroteio_N contra_PREP Pimenta_NPROP da_NPROP Veiga_NPROP ,_PU em_PREP função_PREP de_PREP suas_PROADJ negociações_N com_PREP o_ART PMDB_NPROP ,_PU os_ART tucanos_N já_ADV se_PROPESS dão_V conta_N de_PREP que_KS ele_PROPESS não_ADV fazia_V mais_PROADJ cumprir_V uma_ART estratégia_N de_PREP FHC_NPROP ._END
 Só_PDEN que_KS assumindo_V todos_PROADJ os_ART ônus_N ._END
 Engajamento_N
-O_ART PNBE_NPROP iniciou_V ontem_ADV com_PREP os_ART tucanos_N uma_ART série_N de_PREP almoços_N entre_PREP empresários_N e_KC deputados_N federais_ADJ eleitos_PCP por_PREP São_NPROP Paulo_NPROP ._END
+O_ART PNBE_NPROP iniciou_V ontem_ADV com_PREP os_ART tucanos_N uma_ART série_N de_PREP almoços_N entre_PREP empresários_N e_KC deputados_N federais_ADJ eleitos_PCP por_PREP São Paulo_NPROP ._END
 A_ART entidade_N decidiu_V participar_V da_PREP+ART campanha_N para_PREP presidente_N da_PREP+ART Câmara_NPROP e_KC pode_V até_PDEN apoiar_V um_ART candidato_N ._END
 Hargreaves_NPROP ,_PU ministro_N chefe_N ,_PU diz_V que_KS desautoriza_V qualquer_PROADJ partido_N ou_KC pessoa_N a_PREP negociar_V cargo_N para_PREP ele_PROPESS no_PREP+ART próximo_ADJ governo_N ._END
 Íntimo_ADJ dos_PREP+ART caciques_N do_PREP+ART PFL_NPROP ,_PU o_ART ministro_N reage_V aos_PREP+ART boatos_N de_PREP continuaria_V no_PREP+ART Executivo_NPROP ._END
@@ -886,11 +886,11 @@ Empurrão_N
 No_PREP+ART almoço_N de_PREP ontem_ADV ,_PU FHC_NPROP falou_V da_PREP+ART importância_N da_PREP+ART eleição_N de_PREP governadores_N e_KC citou_V apenas_PDEN um_PROSUB de_PREP fora_PREP do_PREP+ART PSDB_NPROP :_PU o_ART gaúcho_N Britto_NPROP (_PU PMDB_NPROP )_PU ._END
 Visita_N à_PREP+ART Folha_NPROP
 O_ART embaixador_N da_PREP+ART Argentina_NPROP no_PREP+ART Brasil_NPROP ,_PU Alieto_NPROP Guadagni_NPROP ,_PU visitou_V ontem_ADV a_ART Folha_NPROP ,_PU onde_ADV-KS foi_V recebido_PCP em_PREP almoço_N ._END
-Estava_V acompanhado_PCP do_PREP+ART cônsul_N geral_N da_PREP+ART Argentina_NPROP em_PREP São_NPROP Paulo_NPROP ,_PU Carlos_NPROP Onis_NPROP Vigil_NPROP ._END
+Estava_V acompanhado_PCP do_PREP+ART cônsul_N geral_N da_PREP+ART Argentina_NPROP em_PREP São Paulo_NPROP ,_PU Carlos_NPROP Onis_NPROP Vigil_NPROP ._END
 De_PREP FHC_NPROP ,_PU em_PREP discurso_N ao_PREP+ART MDB_NPROP paulista_ADJ ,_PU em_PREP 78_N ,_PU sobre_PREP os_ART juros_N :_PU
 Pagam_V o_ART seu_PROADJ tributo_N aos_PREP+ART senhores_N do_PREP+ART milagre_N ._END
 Começo_N de_PREP namoro_N
-O_ART PSDB_NPROP ainda_ADV não_ADV havia_V escolhido_PCP um_ART nome_N para_PREP disputar_V o_ART governo_N de_PREP São_NPROP Paulo_NPROP na_PREP+ART eleição_N de_PREP 94_N e_KC os_ART dois_NUM caciques_N tucanos_ADJ que_PRO-KS pleiteavam_V a_ART indicação_N tratavam_V de_PREP fazer_V suas_PROADJ pré-campanhas_N pelo_PREP+ART interior_N ._END
+O_ART PSDB_NPROP ainda_ADV não_ADV havia_V escolhido_PCP um_ART nome_N para_PREP disputar_V o_ART governo_N de_PREP São Paulo_NPROP na_PREP+ART eleição_N de_PREP 94_N e_KC os_ART dois_NUM caciques_N tucanos_ADJ que_PRO-KS pleiteavam_V a_ART indicação_N tratavam_V de_PREP fazer_V suas_PROADJ pré-campanhas_N pelo_PREP+ART interior_N ._END
 Reuniam_V -se_PROPESS com_PREP lideranças_N regionais_ADJ para_PREP cooptar_V delegados_N que_PRO-KS votariam_V na_PREP+ART convenção_N partidária_ADJ ,_PU dali_PREP+ADV a_PREP alguns_PROADJ meses_N ._END
 Após_PREP conversar_V com_PREP correligionários_N ,_PU o_ART senador_N já_ADV se_PROPESS preparava_V para_PREP voltar_V à_PREP+ART capital_N quando_KS encontrou_V seu_PROADJ potencial_N oponente_ADJ ,_PU José_NPROP Serra_NPROP ._END
 Apesar_PREP da_PREP+ART disputa_N estar_V acirrada_PCP no_PREP+ART partido_N ,_PU conversaram_V amigavelmente_ADV e_KC Covas_NPROP acabou_V convidando_V o_ART deputado_N a_PREP pegar_V uma_ART carona_N em_PREP seu_PROADJ helicóptero_N ._END
@@ -915,7 +915,7 @@ A_ART assessoria_N do_PREP+ART petebista_N Valmir_NPROP Campello_NPROP ,_PU que_
 Presidente_N eleito_PCP diz_V a_PREP aliados_N que_KS teme_V fracasso_N da_PREP+ART revisão_N em_PREP 95_N
 Gustavo_NPROP Krieger_NPROP ;_PU Fernando_NPROP de_NPROP Barros_NPROP e_NPROP Silva_NPROP
 O_ART presidente_N eleito_PCP ,_PU Fernando_NPROP Henrique_NPROP Cardoso_NPROP ,_PU disse_V ontem_ADV em_PREP um_ART almoço_N com_PREP candidatos_N a_PREP governador_N do_PREP+ART PSDB_NPROP que_KS está_V preocupado_PCP com_PREP a_ART possibilidade_N de_PREP não_ADV conseguir_V aprovar_V as_ART mudanças_N na_PREP+ART Constituição_NPROP tidas_PCP como_PREP necessárias_ADJ para_PREP a_ART continuidade_N do_PREP+ART Plano_NPROP Real_NPROP ._END
-A_ART imprensa_N não_ADV teve_V acesso_PREP ao_PREP+ART local_N do_PREP+ART encontro_N ,_PU no_PREP+ART segundo_ADJ andar_N do_PREP+ART hotel_N Ca'D'Oro_NPROP ,_PU na_PREP+ART região_N central_ADJ de_PREP São_NPROP Paulo_NPROP ._END
+A_ART imprensa_N não_ADV teve_V acesso_PREP ao_PREP+ART local_N do_PREP+ART encontro_N ,_PU no_PREP+ART segundo_ADJ andar_N do_PREP+ART hotel_N Ca'D'Oro_NPROP ,_PU na_PREP+ART região_N central_ADJ de_PREP São Paulo_NPROP ._END
 A_ART preocupação_N de_PREP FHC_NPROP com_PREP a_ART mudança_N da_PREP+ART Constituição_N aumentou_V depois_KS que_KS o_ART ministro_N do_PREP+ART STF_NPROP (_PU Supremo_NPROP Tribunal_NPROP Federal_NPROP )_PU Sepúlveda_NPROP Pertence_NPROP disse_V que_KS o_ART tribunal_N não_ADV deve_V concordar_V com_PREP a_ART realização_N de_PREP uma_ART nova_ADJ revisão_N no_PREP+ART ano_N que_PRO-KS vem_V ._END
 Segundo_PREP Pertence_NPROP ,_PU qualquer_PROADJ mudança_N na_PREP+ART Constituição_N a_PREP partir_PREP do_PREP+ART ano_N que_PRO-KS vem_V terá_V de_PREP ser_V feita_PCP por_PREP emenda_N constitucional_ADJ ._END
 Três_NUM quintos_N dos_PREP+ART membros_N de_PREP cada_PROADJ Casa_NPROP precisam_V estar_V de_ADV acordo_ADV ._END
@@ -923,7 +923,7 @@ Na_PREP+ART revisão_N ,_PU as_ART propostas_N são_V aprovadas_PCP por_PREP mai
 Candidatos_N
 FHC_NPROP vai_V apoiar_V discretamente_ADV os_ART candidatos_N do_PREP+ART PSDB_NPROP no_PREP+ART segundo_ADJ turno_N das_PREP+ART eleições_N estaduais_ADJ ._END
 Ele_PROPESS não_ADV vai_V visitar_V os_ART Estados_N
-O_ART presidente_N eleito_PCP almoçou_V ontem_ADV com_PREP os_ART seis_NUM tucanos_N que_PRO-KS disputam_V o_ART segundo_ADJ turno_N estadual_ADJ :_PU Mário_NPROP Covas_NPROP (_PU São_NPROP Paulo_NPROP )_PU ,_PU Marcello_NPROP Alencar_NPROP (_PU Rio_NPROP )_PU ,_PU Eduardo_NPROP Azeredo_NPROP (_PU Minas_NPROP Gerais_NPROP )_PU ,_PU Almir_NPROP Gabriel_NPROP (_PU Pará_NPROP )_PU ,_PU Albano_NPROP Franco_NPROP (_PU Sergipe_NPROP )_PU e_KC Getúlio_NPROP Cruz_NPROP (_PU Roraima_NPROP )_PU ._END
+O_ART presidente_N eleito_PCP almoçou_V ontem_ADV com_PREP os_ART seis_NUM tucanos_N que_PRO-KS disputam_V o_ART segundo_ADJ turno_N estadual_ADJ :_PU Mário_NPROP Covas_NPROP (_PU São Paulo_NPROP )_PU ,_PU Marcello_NPROP Alencar_NPROP (_PU Rio_NPROP )_PU ,_PU Eduardo_NPROP Azeredo_NPROP (_PU Minas_NPROP Gerais_NPROP )_PU ,_PU Almir_NPROP Gabriel_NPROP (_PU Pará_NPROP )_PU ,_PU Albano_NPROP Franco_NPROP (_PU Sergipe_NPROP )_PU e_KC Getúlio_NPROP Cruz_NPROP (_PU Roraima_NPROP )_PU ._END
 Ao_PREP+ART final_N do_PREP+ART almoço_N ,_PU FHC_NPROP fez_V uma_ART declaração_N à_PREP+ART imprensa_N ,_PU acompanhado_PCP pelos_PREP+ART candidatos_N ._END
 O_ART tom_N foi_V protocolar_ADJ ._END
 Marcello_NPROP Alencar_NPROP foi_V o_ART único_ADJ candidato_N a_PREP receber_V uma_ART carta_N pessoal_ADJ de_PREP apoio_N a_PREP FHC_NPROP ._END
@@ -950,12 +950,12 @@ Agradeço_V a_PREP todos_PROSUB e_KC desejo_V muita_PROADJ sorte_N a_PREP todos_
 ._END
 Muylaert_NPROP é_V sugerido_PCP para_PREP ministério_N
 A_ART atriz_N e_KC empresária_N Ruth_NPROP Escobar_NPROP disse_V ontem_ADV que_KS o_ART presidente_N da_PREP+ART Fundação_NPROP Padre_NPROP Anchieta_NPROP ,_PU Roberto_NPROP Muylaert_NPROP ,_PU "_PU é_V um_PROSUB dos_PREP+ART melhores_ADJ candidatos_N "_PU para_PREP o_ART ministério_NPROP da_NPROP Cultura_NPROP no_PREP+ART governo_N de_PREP Fernando_NPROP Henrique_NPROP Cardoso_NPROP ._END
-A_ART declaração_N de_PREP Escobar_NPROP foi_V feita_PCP na_PREP+ART porta_N do_PREP+ART prédio_N de_PREP FHC_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU após_PREP uma_ART visita_N da_PREP+ART empresária_N ao_PREP+ART presidente_N eleito_PCP ._END
+A_ART declaração_N de_PREP Escobar_NPROP foi_V feita_PCP na_PREP+ART porta_N do_PREP+ART prédio_N de_PREP FHC_NPROP ,_PU em_PREP São Paulo_NPROP ,_PU após_PREP uma_ART visita_N da_PREP+ART empresária_N ao_PREP+ART presidente_N eleito_PCP ._END
 O_ART encontro_N durou_V uma_NUM hora_N e_KC meia_N ._END
 O_ART evento_N ,_PU organizado_PCP por_PREP Escobar_NPROP ,_PU deve_V ser_V encerrado_PCP no_PREP+ART dia_N 5_N por_PREP Jack_NPROP Lang_NPROP ,_PU que_PRO-KS foi_V Cultura_NPROP da_PREP+ART França_NPROP por_PREP dez_NUM anos_N ._END
 O_ART encontro_N ,_PU que_PRO-KS se_PROPESS pretende_V suprapartidário_ADJ ,_PU deve_V contar_V com_PREP a_ART participação_N do_PREP+ART ex-presidente_N José_NPROP Sarney_NPROP e_KC do_PREP+ART próprio_PROADJ Muylaert_NPROP ._END
 Tasso_NPROP acha_V PSDB_NPROP maior_ADJ que_KS PFL_NPROP
-O_ART governador_N eleito_PCP do_PREP+ART Ceará_NPROP e_KC ex-presidente_N do_PREP+ART PSDB_NPROP ,_PU Tasso_NPROP Jereissati_NPROP ,_PU aproveitou_V a_ART reunião_N do_PREP+ART presidente_N eleito_PCP com_PREP candidatos_N do_PREP+ART PSDB_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU para_PREP fazer_V uma_ART provocação_N ao_PREP+ART PFL_NPROP ._END
+O_ART governador_N eleito_PCP do_PREP+ART Ceará_NPROP e_KC ex-presidente_N do_PREP+ART PSDB_NPROP ,_PU Tasso_NPROP Jereissati_NPROP ,_PU aproveitou_V a_ART reunião_N do_PREP+ART presidente_N eleito_PCP com_PREP candidatos_N do_PREP+ART PSDB_NPROP ,_PU em_PREP São Paulo_NPROP ,_PU para_PREP fazer_V uma_ART provocação_N ao_PREP+ART PFL_NPROP ._END
 "_PU O_ART PSDB_NPROP é_V o_ART maior_ADJ partido_N da_PREP+ART coligação_N que_PRO-KS elegeu_V Fernando_NPROP Henrique_NPROP ._END
 O_ART PFL_NPROP pode_V ter_V a_ART maior_ADJ bancada_N ,_PU mas_KC o_ART PSDB_NPROP é_V o_ART partido_N do_PREP+ART presidente_N "_PU ,_PU afirmou_V Tasso_NPROP ._END
 Segundo_PREP ele_PROPESS ,_PU o_ART PSDB_NPROP continuará_V negociando_V a_ART entrada_N de_PREP outros_PROADJ partidos_N na_PREP+ART base_N parlamentar_ADJ do_PREP+ART governo_N FHC_NPROP ._END
@@ -985,9 +985,9 @@ Mas_KC a_ART alternativa_N à_PREP+ART proibição_N não_ADV anula_V a_ART ado�
 A_ART Fiesp_NPROP decidiu_V entrar_V com_PREP pedido_N de_PREP julgamento_N do_PREP+ART dissídio_N dos_PREP+ART químicos_N (_PU data_N base_N em_PREP 1º_N de_PREP novembro_N )_PU ._END
 Greve_N de_PREP metalúrgicos_N pára_V empresas_N da_PREP+ART zona_N sul_ADJ de_PREP SP_NPROP
 Ciro_NPROP Gomes_NPROP diz_V que_KS paralisação_N é_V "_PU expediente_N legítimo_ADJ "_PU e_KC que_KS espera_V acordo_N
-Os_ART metalúrgicos_N da_PREP+ART zona_N sul_ADJ de_PREP São_NPROP Paulo_NPROP tiveram_V um_ART fim_N de_PREP semana_N prolongado_PCP devido_PREP à_PREP+ART "_PU greve_N andorinha_ADJ "_PU convocada_PCP pela_PREP+ART Força_NPROP Sindical_NPROP ._END
+Os_ART metalúrgicos_N da_PREP+ART zona_N sul_ADJ de_PREP São Paulo_NPROP tiveram_V um_ART fim_N de_PREP semana_N prolongado_PCP devido_PREP à_PREP+ART "_PU greve_N andorinha_ADJ "_PU convocada_PCP pela_PREP+ART Força_NPROP Sindical_NPROP ._END
 "_PU No_PREP+ART ônibus_N da_PREP+ART empresa_N ,_PU só_PDEN estava_V presente_ADJ um_NUM terço_N do_PREP+ART pessoal_N "_PU ,_PU afirmou_V Edvandro_NPROP Valoto_NPROP ,_PU torneiro_N mecânico_ADJ da_PREP+ART Villares_NPROP ._END
-Segundo_PREP Paulo_NPROP Pereira_NPROP da_NPROP Silva_NPROP ,_PU o_ART Paulinho_NPROP ,_PU presidente_N do_PREP+ART Sindicato_NPROP dos_NPROP Metalúrgicos_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU 119_N mil_N dos_PREP+ART 130_NUM mil_NUM trabalhadores_N da_PREP+ART região_N pararam_V em_PREP 2.800_N das_PREP+ART 3.000_NUM fábricas_N ._END
+Segundo_PREP Paulo_NPROP Pereira_NPROP da_NPROP Silva_NPROP ,_PU o_ART Paulinho_NPROP ,_PU presidente_N do_PREP+ART Sindicato_NPROP dos_NPROP Metalúrgicos_NPROP de_PREP São Paulo_NPROP ,_PU 119_N mil_N dos_PREP+ART 130_NUM mil_NUM trabalhadores_N da_PREP+ART região_N pararam_V em_PREP 2.800_N das_PREP+ART 3.000_NUM fábricas_N ._END
 Ariovaldo_NPROP Lunardi_NPROP ,_PU do_PREP+ART grupo_N patronal_ADJ 19-3_N (_PU eletroeletrônicos_N e_KC máquinas_N )_PU ,_PU disse_V que_KS a_ART greve_N foi_V "_PU pequena_ADJ "_PU e_KC que_KS 7_NUM %_N das_PREP+ART empresas_N de_PREP seu_PROADJ grupo_N na_PREP+ART região_N sul_ADJ pararam_V ._END
 Wilson_NPROP Começanha_NPROP ,_PU do_PREP+ART Sindipeças_NPROP ,_PU afirmou_V que_KS a_ART greve_N foi_V "_PU sem_PREP sentido_N ,_PU com_PREP empresas_N paralisadas_PCP na_PREP+ART marra_N e_KC o_ART coitado_N do_PREP+ART trabalhador_N sendo_V oprimido_PCP por_PREP seus_PROADJ representantes_N "_PU ._END
 Segundo_PREP ele_PROPESS ,_PU das_PREP+ART 40_NUM empresas_N de_PREP autopeças_N da_PREP+ART região_N sul_ADJ ,_PU 17_N pararam_V (_PU 42,5_NUM %_N )_PU ._END
@@ -1003,7 +1003,7 @@ o_ART pessoal_N da_PREP+ART área_N administrativa_ADJ entrou_V ,_PU confirmou_V
 Medeiros_NPROP deixou_V a_PREP Villares_NPROP e_KC tentou_V ,_PU sem_PREP conseguir_V ,_PU encontrar_V de_PREP carro_N a_ART passeata_N com_PREP 500_NUM metalúrgicos_N que_PRO-KS saiu_V da_PREP+ART Monark_NPROP ._END
 Por_PREP volta_PREP das_PREP+ART 9h30_N ,_PU Medeiros_NPROP estava_V em_PREP frente_PREP da_PREP+ART Rolamentos_NPROP Fag_NPROP ,_PU onde_ADV-KS participou_V de_PREP manifestação_N com_PREP mais_PREP de_PREP 1.200_NUM metalúrgicos_N ._END
 A_ART Metal_NPROP Leve_NPROP chamou_V a_ART polícia_N para_PREP "_PU proteger_V o_ART patrimônio_N da_PREP+ART empresa_N diante_PREP das_PREP+ART ameaças_N de_PREP arrastão_N "_PU ,_PU confirmou_V o_ART presidente_N executivo_N Sérgio_NPROP Mindlin_NPROP ._END
-Hoje_ADV a_ART produção_N volta_V ao_PREP+ART normal_N na_PREP+ART zona_N sul_ADJ de_PREP São_NPROP Paulo_NPROP e_KC a_ART "_PU greve_N andorinha_ADJ "_PU migra_V para_PREP Piracicaba_NPROP ,_PU Santa_NPROP Bárbara_NPROP D'Oeste_NPROP e_KC Americana_NPROP ,_PU no_PREP+ART interior_N do_PREP+ART Estado_N ._END
+Hoje_ADV a_ART produção_N volta_V ao_PREP+ART normal_N na_PREP+ART zona_N sul_ADJ de_PREP São Paulo_NPROP e_KC a_ART "_PU greve_N andorinha_ADJ "_PU migra_V para_PREP Piracicaba_NPROP ,_PU Santa_NPROP Bárbara_NPROP D'Oeste_NPROP e_KC Americana_NPROP ,_PU no_PREP+ART interior_N do_PREP+ART Estado_N ._END
 "_PU Temos_V fôlego_N para_PREP manter_V essa_PROADJ greve_N até_PREP o_ART Natal_NPROP "_PU ,_PU disse_V Paulinho_NPROP ._END
 Os_ART metalúrgicos_N querem_V 69,69_NUM %_N e_KC a_ART Fiesp_NPROP oferece_V de_PREP 15,67_NUM %_N a_PREP 18_NUM %_N ,_PU antecipações_N ._END
 Segundo_PREP o_ART presidente_N da_PREP+ART Fiesp_NPROP ,_PU Carlos_NPROP Eduardo_NPROP Moreira_NPROP Ferreira_NPROP ,_PU a_ART greve_N não_ADV vai_V alterar_V a_ART decisão_N de_PREP seguir_V a_ART lei_N salarial_ADJ ._END
@@ -1108,14 +1108,14 @@ Para_PREP eles_PROPESS ,_PU Maluf_NPROP saiu_V desgastado_PCP da_PREP+ART últim
 Apoiou_V dois_NUM candidatos_N derrotados_PCP a_PREP governador_N -_PU Luiz_NPROP Antônio_NPROP de_NPROP Medeiros_NPROP (_PU )_PU e_KC Barros_NPROP Munhoz_NPROP (_PU PMDB_NPROP )_PU ._END
 Para_PREP os_ART covistas_N ,_PU Maluf_NPROP quis_V aumentar_V seu_PROADJ cacife_N ao_PREP apoiar_V o_ART tucano_N ._END
 "_PU A_ART questão_N da_PREP+ART saúde_N pode_V ser_V resolvida_PCP com_PREP investimento_N maciço_ADJ na_PREP+ART área_N social_ADJ ,_PU através_PREP do_PREP+ART orçamento_N estadual_ADJ ,_PU parceria_N com_PREP a_ART iniciativa_N privada_PCP e_KC descentralização_N das_PREP+ART ações_N ,_PU transferindo_V do_PREP+ART Estado_N para_PREP os_ART muunicípios_N poder_N de_PREP decisão_N e_KC recursos_N ._END
-"_PU Ivani_NPROP Soares_NPROP Araújo_NPROP ,_PU 51_NUM ,_PU assistente_N social_ADJ ,_PU Santana_NPROP ,_PU São_NPROP Paulo_NPROP
+"_PU Ivani_NPROP Soares_NPROP Araújo_NPROP ,_PU 51_NUM ,_PU assistente_N social_ADJ ,_PU Santana_NPROP ,_PU São Paulo_NPROP
 "_PU Construção_N de_PREP hospitais_N ,_PU aumento_N do_PREP+ART número_N de_PREP postos_N de_PREP saúde_N e_KC melhores_ADJ condições_N salariais_ADJ para_PREP os_ART profissionais_N são_V soluções_N para_PREP o_ART setor_N ._END
-"_PU Ana_NPROP Maria_NPROP Lorenzo_NPROP Acácio_NPROP ,_PU 24_NUM ,_PU estudante_N ,_PU Vila_NPROP Formosa_NPROP ,_PU São_NPROP Paulo_NPROP
+"_PU Ana_NPROP Maria_NPROP Lorenzo_NPROP Acácio_NPROP ,_PU 24_NUM ,_PU estudante_N ,_PU Vila_NPROP Formosa_NPROP ,_PU São Paulo_NPROP
 "_PU É_V preciso_ADJ dirigir_V os_ART impostos_N municipais_ADJ diretamente_ADV para_PREP a_ART manutenção_N e_KC desenvolvimento_N da_PREP+ART escola_N pública_ADJ ._END
 "_PU Chisleine_NPROP F._NPROP Abreu_NPROP Batista_NPROP Claro_NPROP ,_PU 35_NUM ,_PU psiquiatra_N ,_PU Sorocaba_NPROP (_PU SP_NPROP )_PU
 "_PU Montagem_N de_PREP um_ART órgão_N centralizador/fiscalizador_ADJ de_PREP licitações_N ,_PU formado_PCP por_PREP representantes_N da_PREP+ART sociedade_N civil_ADJ ,_PU de_PREP ilibada_PCP reputação_N ,_PU que_PRO-KS tenham_V experiência_N empresarial_ADJ e_KC conduta_N moral_ADJ inatacável_ADJ ._END
-"_PU Odair_NPROP dos_NPROP Santos_NPROP Perdigão_NPROP ,_PU 56_NUM ,_PU administrador_N de_PREP empresas_N ,_PU Vila_NPROP Madalena_NPROP ,_PU São_NPROP Paulo_NPROP
-"_PU Daniela_NPROP Maria_NPROP Michelleto_NPROP Marques_NPROP ,_PU 17_NUM ,_PU estudante_N ,_PU Vila_NPROP Formosa_NPROP ,_PU São_NPROP Paulo_NPROP
+"_PU Odair_NPROP dos_NPROP Santos_NPROP Perdigão_NPROP ,_PU 56_NUM ,_PU administrador_N de_PREP empresas_N ,_PU Vila_NPROP Madalena_NPROP ,_PU São Paulo_NPROP
+"_PU Daniela_NPROP Maria_NPROP Michelleto_NPROP Marques_NPROP ,_PU 17_NUM ,_PU estudante_N ,_PU Vila_NPROP Formosa_NPROP ,_PU São Paulo_NPROP
 Da_PREP+ART Agência_NPROP Folha_NPROP ,_PU em_PREP Fortaleza_NPROP e_KC em_PREP Florianópolis_NPROP
 O_ART segundo_ADJ turno_N das_PREP+ART eleições_N em_PREP Santa_NPROP Catarina_NPROP deverá_V testar_V o_ART sistema_N de_PREP voto_N eletrônico_ADJ ._END
 A_ART informação_N foi_V dada_PCP ontem_ADV ,_PU em_PREP Fortaleza_NPROP ,_PU pelo_PREP+ART presidente_N do_PREP+ART TSE_NPROP (_PU Tribunal_NPROP Superior_NPROP Eleitoral_NPROP )_PU ,_PU Sepúlveda_NPROP Pertence_NPROP ._END
@@ -1128,7 +1128,7 @@ No_PREP+ART primeiro_N ,_PU o_ART presidente_N da_PREP+ART mesa_N vai_V conferir
 No_PREP+ART segundo_N ,_PU o_ART eleitor_N vai_V digitar_V ,_PU em_PREP um_ART teclado_N ,_PU a_ART opção_N pelo_PREP+ART candidato_N de_PREP sua_PROADJ preferência_N ._END
 O_ART teclado_N terá_V ainda_ADV as_ART opções_N de_PREP voto_N em_PREP branco_N e_KC nulo_N ._END
 Servidores_N podem_V ter_V censo_N
-Se_KS for_V eleito_PCP governador_N de_PREP São_NPROP Paulo_NPROP ,_PU Mário_NPROP Covas_NPROP pretende_V fazer_V um_ART recenseamento_N no_PREP+ART funcionalismo_N público_ADJ ._END
+Se_KS for_V eleito_PCP governador_N de_PREP São Paulo_NPROP ,_PU Mário_NPROP Covas_NPROP pretende_V fazer_V um_ART recenseamento_N no_PREP+ART funcionalismo_N público_ADJ ._END
 Quer_V saber_V quem_PRO-KS é_V mesmo_PDEN funcionário_N ou_KC ganha_V sem_PREP trabalhar_V ._END
 O_ART candidato_N pretende_V fazer_V esse_PROADJ levantamento_N sem_PREP que_KS haja_V interrupção_N do_PREP+ART funcionamento_N da_PREP+ART máquina_N do_PREP+ART Estado_N ._END
 A_ART pesquisa_N será_V feita_PCP em_PREP todos_PROADJ os_ART órgãos_N da_PREP+ART administração_N direta_ADJ e_KC indireta_ADJ ._END
@@ -1137,9 +1137,9 @@ Suspeita_V que_KS isso_PROSUB ocorra_V principalmente_ADV no_PREP+ART Baneser_NP
 Covas_NPROP já_ADV decidiu_V que_KS ,_PU se_KS eleito_PCP ,_PU fechará_V o_ART Baneser_NPROP ._END
 Disse_V que_KS tais_PROADJ ativos_N incluem_V bens_N móveis_ADJ e_KC imóveis_ADJ ._END
 O_ART tucano_N também_PDEN prometeu_V reajustar_V o_ART salário_N dos_PREP+ART professores_N ._END
-De_PREP todos_PROADJ os_ART Estados_N brasileiros_ADJ ,_PU segundo_PREP ele_PROPESS ,_PU apenas_PDEN o_ART Piauí_NPROP paga_V salários_N a_PREP seus_PROADJ professores_N inferiores_ADJ aos_PREP+PROSUB de_PREP São_NPROP Paulo_NPROP ._END
+De_PREP todos_PROADJ os_ART Estados_N brasileiros_ADJ ,_PU segundo_PREP ele_PROPESS ,_PU apenas_PDEN o_ART Piauí_NPROP paga_V salários_N a_PREP seus_PROADJ professores_N inferiores_ADJ aos_PREP+PROSUB de_PREP São Paulo_NPROP ._END
 Para_PREP Rossi_NPROP ,_PU Maluf_NPROP terá_V nova_ADJ derrota_N com_PREP PSDB_NPROP
-O_ART candidato_N do_PREP+ART PDT_NPROP ao_PREP+ART governo_N paulista_ADJ ,_PU Francisco_NPROP Rossi_NPROP ,_PU criticou_V ontem_ADV o_ART apoio_N do_PREP+ART prefeito_N de_PREP São_NPROP Paulo_NPROP ,_PU Paulo_NPROP Maluf_NPROP (_PU PPR_NPROP )_PU ,_PU à_PREP+ART candidatura_N do_PREP+ART tucano_N Mário_NPROP Covas_NPROP ._END
+O_ART candidato_N do_PREP+ART PDT_NPROP ao_PREP+ART governo_N paulista_ADJ ,_PU Francisco_NPROP Rossi_NPROP ,_PU criticou_V ontem_ADV o_ART apoio_N do_PREP+ART prefeito_N de_PREP São Paulo_NPROP ,_PU Paulo_NPROP Maluf_NPROP (_PU PPR_NPROP )_PU ,_PU à_PREP+ART candidatura_N do_PREP+ART tucano_N Mário_NPROP Covas_NPROP ._END
 O_ART comando_N do_PREP+ART PDT_NPROP diz_V acreditar_V que_KS ,_PU mesmo_PDEN com_PREP o_ART anúncio_N oficial_ADJ da_PREP+ART adesão_N do_PREP+ART prefeito_N a_ART Covas_NPROP ,_PU os_ART tradicionais_ADJ eleitores_N malufistas_ADJ vão_V votar_V em_PREP Rossi_NPROP ._END
 Procurado_PCP através_PREP de_PREP sua_PROADJ assessoria_N de_PREP imprensa_N ,_PU Maluf_NPROP não_ADV foi_V localizado_PCP para_PREP comentar_V as_ART declarações_N de_PREP Rossi_NPROP ._END
 Ele_PROPESS está_V descansando_V fora_PREP do_PREP+ART Estado_N ._END
@@ -1180,7 +1180,7 @@ Trabalha_V há_V três_NUM meses_N no_PREP+ART MEC_NPROP ,_PU que_PRO-KS a_PROPE
 ,_PU trabalhou_V na_PREP+ART Escola_NPROP Superior_NPROP de_NPROP Administração_NPROP Fazendária_NPROP ._END
 Marketing_N
 As_ART duas_NUM saídas_N do_PREP+ART presidente_N Itamar_NPROP Franco_NPROP no_PREP+ART último_ADJ fim-de-semana_N -_PU sábado_N à_PREP+ART noite_N no_PREP+ART Parkshopping_NPROP ,_PU onde_ADV-KS tentou_V entrar_V num_PREP+ART cinema_N ,_PU e_KC domingo_N na_PREP+ART Feira_NPROP do_NPROP Livro_NPROP de_NPROP Brasília_NPROP foram_V programadas_PCP ._END
-Depois_PREP do_PREP+ART sucesso_N que_PRO-KS considera_V ter_V feito_PCP com_PREP modelos_N no_PREP+ART Salão_NPROP do_NPROP Automóvel_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU no_PREP+ART dia_N 19_N ,_PU Itamar_NPROP foi_V incentivado_PCP por_PREP seus_PROADJ assessores_N diretos_ADJ a_PREP sair_V com_PREP mulheres_N bonitas_ADJ e_KC aparecer_V em_ADV público_ADV ._END
+Depois_PREP do_PREP+ART sucesso_N que_PRO-KS considera_V ter_V feito_PCP com_PREP modelos_N no_PREP+ART Salão_NPROP do_NPROP Automóvel_NPROP ,_PU em_PREP São Paulo_NPROP ,_PU no_PREP+ART dia_N 19_N ,_PU Itamar_NPROP foi_V incentivado_PCP por_PREP seus_PROADJ assessores_N diretos_ADJ a_PREP sair_V com_PREP mulheres_N bonitas_ADJ e_KC aparecer_V em_ADV público_ADV ._END
 A_ART idéia_N é_V capitalizar_V a_ART popularidade_N de_PREP Itamar_NPROP -_PU segundo_PREP o_ART Datafolha_NPROP ,_PU ele_PROPESS tem_V 40_NUM %_N de_PREP aprovação_N -_PU e_KC apagar_V a_ART imagem_N deixada_PCP no_PREP+ART último_ADJ Carnaval_N ,_PU quando_ADV-KS se_PROPESS deixou_V fotografar_V ao_PREP lado_PREP de_PREP uma_ART modelo_N (_PU Lílian_NPROP Ramos_NPROP )_PU sem_PREP calcinha_N ._END
 (_PU Daniela_NPROP Pinheiro_NPROP ,_PU William_NPROP França_NPROP e_KC Denise_NPROP Madueño_NPROP )_PU
 Governo_N da_PREP+ART Bolívia_NPROP acusa_V autoridades_N peruanas_ADJ de_PREP distorcerem_V mapa_N do_PREP+ART eclipse_N para_PREP atrair_V observadores_N
@@ -1196,7 +1196,7 @@ Várias_PROADJ cidades_N brasileiras_ADJ ficarão_V sob_PREP a_ART sombra_N da_P
 Em_PREP Chapecó_NPROP ,_PU o_ART eclipse_N será_V visível_ADJ a_PREP partir_PREP das_PREP+ART 9h38_N ._END
 Em_PREP Foz_NPROP do_NPROP Iguaçu_NPROP ,_PU a_PREP partir_PREP das_PREP+ART 9h44_N ._END
 Em_PREP Criciúma_NPROP ,_PU a_PREP partir_PREP das_PREP+ART 9h44_N ._END
-O_ART Sol_NPROP não_ADV ficará_V inteiramente_ADV ocultado_PCP pela_PREP+ART Lua_NPROP em_PREP São_NPROP Paulo_NPROP (_PU 85_NUM %_N do_PREP+ART Sol_NPROP coberto_PCP )_PU ,_PU Rio_NPROP de_NPROP Janeiro_NPROP (_PU 79_NUM %_N )_PU e_KC Porto_NPROP Alegre_NPROP (_PU 96_NUM %_N )_PU ._END
+O_ART Sol_NPROP não_ADV ficará_V inteiramente_ADV ocultado_PCP pela_PREP+ART Lua_NPROP em_PREP São Paulo_NPROP (_PU 85_NUM %_N do_PREP+ART Sol_NPROP coberto_PCP )_PU ,_PU Rio_NPROP de_NPROP Janeiro_NPROP (_PU 79_NUM %_N )_PU e_KC Porto_NPROP Alegre_NPROP (_PU 96_NUM %_N )_PU ._END
 Nessas_PREP+PROADJ cidades_N ,_PU o_ART eclipse_N será_V visto_PCP respectivamente_ADV a_PREP partir_PREP das_PREP+ART 9h41_N ,_PU 9h44_N e_KC 9h44_N ._END
 Existem_V algumas_PROADJ medidas_N básicas_ADJ de_PREP proteção_N que_PRO-KS devem_V ser_V tomadas_PCP para_PREP observar_V o_ART eclipse_N ._END
 Não_ADV se_PROPESS deve_V olhar_V diretamente_ADV para_PREP o_ART Sol_NPROP nem_KC usar_V instrumentos_N ópticos_ADJ como_PREP óculos_N escuros_ADJ ,_PU binóculos_N ou_KC lunetas_N ._END
@@ -1249,8 +1249,8 @@ Perguntou_V Covas_NPROP justificava_V o_ART fato_N de_PREP estar_V sendo_V apoia
 O_ART tucano_N retrucou_V e_KC disse_V "_PU estar_V muito_ADV grato_ADJ "_PU por_PREP receber_V o_ART apoio_N de_PREP pessoas_N "_PU éticas_ADJ "_PU ._END
 Afirmou_V que_KS seu_PROADJ adversário_N "_PU preferiu_V o_ART Quércia_NPROP e_KC o_ART Collor_NPROP "_PU ._END
 Oficialmente_ADV ,_PU Quércia_NPROP não_ADV apóia_V Rossi_NPROP ,_PU mas_KC há_V um_ART movimento_N de_PREP pessoas_N ligadas_PCP ao_PREP+ART quercismo_N em_PREP direção_PREP ao_PREP+ART candidato_N do_PREP+ART PDT_NPROP ._END
-Rossi_NPROP foi_V um_PROSUB dos_PREP+ART coordenadores_N da_PREP+ART campanha_N de_PREP Collor_NPROP em_PREP São_NPROP Paulo_NPROP ._END
-Covas_NPROP procurou_V fazer_V perguntas_N sobre_PREP o_ART cotidiano_N da_PREP+ART administração_N pública_ADJ de_PREP São_NPROP Paulo_NPROP a_PREP seu_PROADJ oponente_N ._END
+Rossi_NPROP foi_V um_PROSUB dos_PREP+ART coordenadores_N da_PREP+ART campanha_N de_PREP Collor_NPROP em_PREP São Paulo_NPROP ._END
+Covas_NPROP procurou_V fazer_V perguntas_N sobre_PREP o_ART cotidiano_N da_PREP+ART administração_N pública_ADJ de_PREP São Paulo_NPROP a_PREP seu_PROADJ oponente_N ._END
 O_ART tucano_N Chegou_V a_PREP dizer_V que_KS a_ART ética_N cristã_ADJ exige_V um_ART programa_N ._END
 O_ART senador_N quis_V saber_V como_ADV-KS um_ART governador_N poderia_V atuar_V para_PREP agilizar_V o_ART Judiciário_NPROP ._END
 Rossi_NPROP defendeu_V a_ART criação_N e_KC instalação_N de_PREP juizado_N de_PREP pequenas_ADJ causas_N ._END
@@ -1302,7 +1302,7 @@ Só_PDEN reaparecerá_V quando_KS a_ART apuração_N oficial_ADJ permitir_V uma_
 Carona_N
 Ao_PREP rever_V o_ART texto_N de_PREP sua_PROADJ fala_N de_PREP encerramento_N no_PREP+ART horário_N eleitoral_ADJ ,_PU FHC_NPROP passou_V pela_PREP+ART parte_N dos_PREP+ART elogios_N a_PREP Itamar_NPROP e_KC decidiu_V ampliar_V -la_PROPESS :_PU "_PU O_ART Brasil_NPROP está_V grato_ADJ a_PREP Juiz_NPROP de_NPROP Fora_NPROP e_KC a_PREP Minas_NPROP pelo_PREP+ART líder_N que_PRO-KS nos_PROPESS deram_V "_PU ,_PU foi_V a_ART passagem_N incluída_PCP ._END
 Bifurcação_N
-Caso_KS FHC_NPROP e_KC Covas_NPROP confirmem_V seu_PROADJ favoritismo_N ,_PU os_ART tucanos_N terão_V que_KS dar_V um_ART jeito_N para_PREP que_KS ,_PU no_PREP+ART governo_N ,_PU ambos_PROSUB não_ADV tenham_V o_ART mesmo_PROADJ desencontro_N que_PRO-KS tiveram_V ontem_ADV no_PREP+ART centro_N de_PREP São_NPROP Paulo_NPROP ._END
+Caso_KS FHC_NPROP e_KC Covas_NPROP confirmem_V seu_PROADJ favoritismo_N ,_PU os_ART tucanos_N terão_V que_KS dar_V um_ART jeito_N para_PREP que_KS ,_PU no_PREP+ART governo_N ,_PU ambos_PROSUB não_ADV tenham_V o_ART mesmo_PROADJ desencontro_N que_PRO-KS tiveram_V ontem_ADV no_PREP+ART centro_N de_PREP São Paulo_NPROP ._END
 Nada_PROSUB mais_PROADJ a_PREP fazer_V
 Com_PREP o_ART último_ADJ programa_N eleitoral_ADJ gravado_PCP ,_PU a_ART equipe_N da_PREP+ART produtora_N de_PREP TV_N de_PREP FHC_NPROP relaxou_V ontem_ADV :_PU aproveitou_V para_PREP acompanhar_V o_ART jogo_N do_PREP+ART Brasil_NPROP no_PREP+ART mundial_N de_PREP vôlei_N ._END
 Agora_ADV ,_PU é_V esperar_V segunda-feira_N ._END
@@ -1528,7 +1528,7 @@ Investigador_N do_PREP+ART 42º_ADJ obtém_V redução_N de_PREP pena_N
 Ele_PROPESS havia_V sido_PCP condenado_PCP a_PREP 516_NUM anos_N de_PREP prisão_N sob_PREP a_ART acusação_N de_PREP assassinar_V 32_NUM presos_N asfixiados_PCP e_KC tentar_V matar_V outros_PROADJ 18_N em_PREP uma_ART cela_N do_PREP+ART 42º_ADJ ,_PU em_PREP 1989_N ._END
 Orçamento/95_N de_PREP SP_NPROP reduz_V verba_N de_PREP obras_N
 Dinheiro_N para_PREP a_ART habitação_N cresceu_V 182_NUM %_N em_PREP relação_PREP a_PREP este_PROADJ ano_N ;_PU prefeitura_N pretende_V obter_V empréstimos_N de_PREP R$_CUR 1,3_NUM bi_N
-O_ART projeto_N de_PREP orçamento_N municipal_ADJ de_PREP São_NPROP Paulo_NPROP para_PREP 95_N ,_PU entregue_PCP ontem_ADV na_PREP+ART Câmara_NPROP ,_PU prevê_V a_ART redução_N de_PREP dotação_N de_PREP verbas_N para_PREP as_ART secretarias_N de_PREP Obras_N (_PU 24_NUM %_N )_PU e_KC (_PU 37_NUM %_N )_PU ,_PU em_PREP relação_PREP a_PREP este_PROADJ ano_N ._END
+O_ART projeto_N de_PREP orçamento_N municipal_ADJ de_PREP São Paulo_NPROP para_PREP 95_N ,_PU entregue_PCP ontem_ADV na_PREP+ART Câmara_NPROP ,_PU prevê_V a_ART redução_N de_PREP dotação_N de_PREP verbas_N para_PREP as_ART secretarias_N de_PREP Obras_N (_PU 24_NUM %_N )_PU e_KC (_PU 37_NUM %_N )_PU ,_PU em_PREP relação_PREP a_PREP este_PROADJ ano_N ._END
 O_ART orçamento_N previsto_PCP é_V de_PREP R$_CUR 4,5_NUM bilhões_N ._END
 R$_CUR 1,3_NUM bilhão_N deve_V vir_V de_PREP empréstimo_N ._END
 Dos_PREP+ART R$_CUR 3,2_NUM bilhões_N de_PREP arrecadação_N ,_PU 51,6_NUM %_N serão_V destinados_PCP às_PREP+ART chamadas_PCP áreas_N sociais_ADJ ._END
@@ -1677,7 +1677,7 @@ Rivas_NPROP veio_V ao_PREP+ART país_N participar_V de_PREP um_ART seminário_N 
 "_PU Jaguaribe_NPROP é_V uma_ART vergonha_N para_PREP a_ART sociologia_N brasileira_ADJ ._END
 PM_NPROP despeja_V hoje_ADV sem_N terra_N de_PREP Getulina_NPROP
 Da_PREP+ART Agência_NPROP Folha_NPROP ,_PU em_PREP Bauru_NPROP
-A_ART Polícia_NPROP Militar_NPROP vai_V fazer_V hoje_ADV o_ART despejo_N dos_PREP+ART 500_NUM sem_N terra_N que_PRO-KS invadiram_V às_PREP+ART 6h30_N de_PREP ontem_ADV a_ART Fazenda_NPROP Jangada_NPROP ,_PU em_PREP Getulina_NPROP (_PU 473_NUM km_N a_PREP noroeste_N de_PREP São_NPROP Paulo_NPROP )_PU ._END
+A_ART Polícia_NPROP Militar_NPROP vai_V fazer_V hoje_ADV o_ART despejo_N dos_PREP+ART 500_NUM sem_N terra_N que_PRO-KS invadiram_V às_PREP+ART 6h30_N de_PREP ontem_ADV a_ART Fazenda_NPROP Jangada_NPROP ,_PU em_PREP Getulina_NPROP (_PU 473_NUM km_N a_PREP noroeste_N de_PREP São Paulo_NPROP )_PU ._END
 A_ART afirmação_N é_V do_PREP+ART major_N Antônio_NPROP Marsola_NPROP ,_PU 47_NUM ,_PU comandante_N interino_ADJ do_PREP+ART 4º_ADJ da_PREP+ART PM_NPROP de_PREP Bauru_NPROP ._END
 Os_ART sem_N terra_N que_PRO-KS entraram_V na_PREP+ART propriedade_N fazem_V parte_N do_PREP+ART grupo_N que_PRO-KS desde_PREP novembro_N de_PREP 93_N está_V acampado_PCP às_PREP+ART margens_N da_PREP+ART estrada_N Macucos-Queiroz_NPROP ._END
 mais_PREP de_PREP 50_NUM policiais_N cercavam_V ontem_ADV os_ART acessos_N à_PREP+ART fazenda_N ._END
@@ -1701,7 +1701,7 @@ O_ART clima_N mais_ADV pessimista_ADJ ,_PU marcado_PCP pela_PREP+ART disputa_N e
 Por_PREP questões_N metodológicas_ADJ ,_PU o_ART IPC_NPROP r_NPROP ainda_ADV reflete_V a_ART aceleração_N dos_PREP+ART preços_N na_PREP+ART virada_N para_PREP o_ART real_NPROP ._END
 Não_ADV mostra_V o_PRO-KS que_PRO-KS ocorre_V com_PREP os_ART preços_N hoje_ADV ou_KC mesmo_PDEN há_V 15_NUM dias_N ._END
 Mas_KC ,_PU por_PREP ser_V indexador_N oficial_ADJ ,_PU dá_V o_ART tom_N às_PREP+ART discussões_N sobre_PREP o_ART Real_NPROP ._END
-A_ART cesta_N básica_ADJ Procon/Dieese_NPROP ,_PU que_PRO-KS disparou_V entre_PREP junho_N e_KC julho_N em_PREP São_NPROP Paulo_NPROP ,_PU fecha_V agosto_N com_PREP 4,15_NUM %_N ._END
+A_ART cesta_N básica_ADJ Procon/Dieese_NPROP ,_PU que_PRO-KS disparou_V entre_PREP junho_N e_KC julho_N em_PREP São Paulo_NPROP ,_PU fecha_V agosto_N com_PREP 4,15_NUM %_N ._END
 Em_PREP dois_NUM meses_N ,_PU -_PU 8,18_NUM %_N ._END
 Ontem_ADV ,_PU -_PU 0,69_NUM %_N ._END
 Os_ART responsáveis_N pela_PREP+ART pesquisa_N fazem_V questão_N de_PREP observar_V ,_PU porém_KC ,_PU que_KS a_ART cesta_N ainda_ADV está_V 11,11_NUM %_N acima_PREP do_PREP+ART valor_N médio_ADJ observado_PCP no_PREP+ART quadrimestre_N usado_PCP para_PREP a_ART conversão_N dos_PREP+ART salários_N à_PREP+ART URV_NPROP ._END
@@ -1711,7 +1711,7 @@ Em_PREP teoria_N ,_PU poderia_V ser_V absorvido_PCP pelas_PREP+ART empresas_N ._
 O_ART problema_N é_V que_KS nem_ADV todas_PROSUB participaram_V da_PREP+ART onda_N de_PREP remarcações_N no_PREP+ART final_N de_PREP junho_N ,_PU entre_PREP elas_PROPESS as_ART estatais_N ._END
 Os_ART ganhos_N de_PREP produtividade_N nos_PREP+ART últimos_ADJ anos_N ,_PU que_PRO-KS dão_V folga_N para_PREP corrigir_V salários_N ,_PU foram_V mais_ADV significativos_ADJ no_PREP+ART setor_N privado_PCP ._END
 O_ART desemprego_N não_ADV chegou_V a_PREP aumentar_V com_PREP o_ART Plano_NPROP Real_NPROP ,_PU embora_KS a_ART indústria_N paulista_ADJ continue_V mais_ADV fechando_V do_KS que_KS abrindo_V vagas_N ._END
-O_ART Seade/Dieese_NPROP ó_PDEN concluiu_V a_ART pesquisa_N de_PREP julho_N na_PREP+ART Grande_ADJ São_NPROP Paulo_NPROP :_PU taxa_N de_PREP desemprego_N total_ADJ de_PREP 14,50_NUM %_N ,_PU contra_PREP 15,20_NUM %_N em_PREP junho_N ._END
+O_ART Seade/Dieese_NPROP ó_PDEN concluiu_V a_ART pesquisa_N de_PREP julho_N na_PREP+ART Grande_ADJ São Paulo_NPROP :_PU taxa_N de_PREP desemprego_N total_ADJ de_PREP 14,50_NUM %_N ,_PU contra_PREP 15,20_NUM %_N em_PREP junho_N ._END
 A_ART valorização_N do_PREP+ART real_NPROP o_ART dólar_NPROP preocupa_V ,_PU mas_KC os_ART efeitos_N negativos_ADJ sobre_PREP as_ART exportações_N ainda_ADV são_V localizados_PCP (_PU caso_N de_PREP calçados_N )_PU ._END
 As_ART vendas_N reagiram_V ._END
 Inflação_N baixa_ADJ evita_V que_KS o_ART dinheiro_N no_PREP+ART bolso_N da_PREP+ART população_N mais_ADV pobre_ADJ evapore_V dia-a-dia_N ,_PU como_KS ocorria_V até_PREP junho_N ._END
@@ -1720,7 +1720,7 @@ Os_ART maiores_ADJ problemas_N do_PREP+ART plano_N estão_V nas_PREP+ART áreas_
 São_V entraves_N sérios_ADJ ,_PU mas_KC por_ADV enquanto_ADV latentes_ADJ ._END
 Desafiam_V mais_ADV o_ART próximo_ADJ presidente_N do_KS que_KS o_ART atual_N ._END
 Aluguel_N lidera_V reclamações_N
-Habitação_N e_KC convênio_N médico_ADJ lideraram_V as_ART consultas_N de_PREP consumidores_N junto_PREP ao_PREP+ART Procon_NPROP ,_PU órgão_N de_PREP defesa_N consumidor_N do_PREP+ART governo_N do_PREP+ART Estado_N de_PREP São_NPROP Paulo_NPROP ,_PU em_PREP agosto_N ,_PU o_ART segundo_ADJ mês_N do_PREP+ART Plano_NPROP Real_NPROP ._END
+Habitação_N e_KC convênio_N médico_ADJ lideraram_V as_ART consultas_N de_PREP consumidores_N junto_PREP ao_PREP+ART Procon_NPROP ,_PU órgão_N de_PREP defesa_N consumidor_N do_PREP+ART governo_N do_PREP+ART Estado_N de_PREP São Paulo_NPROP ,_PU em_PREP agosto_N ,_PU o_ART segundo_ADJ mês_N do_PREP+ART Plano_NPROP Real_NPROP ._END
 No_PREP+ART item_N habitação_N ,_PU as_ART dúvidas_N mais_ADV frequentes_ADJ foram_V sobre_PREP o_ART cálculo_N da_PREP+ART conversão_N do_PREP+ART aluguel_N ._END
 O_ART reajuste_N das_PREP+ART mensalidades_N dos_PREP+ART convênios_N médicos_ADJ ainda_ADV gera_V muita_PROADJ preocupação_N entre_PREP os_ART consumidores_N ,_PU informa_V Regina_NPROP Bucco_NPROP ,_PU chefe_N do_PREP+ART atendimento_N do_PREP+ART Procon_NPROP ._END
 No_PREP+ART mês_N passado_PCP ,_PU alguns_PROADJ convênios_N médicos_ADJ chegaram_V a_PREP reajustar_V em_PREP até_PREP 40_NUM %_N a_PREP mensalidades_N de_PREP julho_N ,_PU diz_V ela_PROPESS ._END
@@ -1734,7 +1734,7 @@ De_PREP agora_ADV ,_PU esse_PROADJ mix_N do_PREP+ART atendimento_N deve_V mudar_
 Já_KC o_ART atendimento_N sobre_PREP o_ART cáculo_N dos_PREP+ART aluguéis_N deve_V diminuir_V em_PREP setembro_N ._END
 Motivo_N :_PU muitos_PROADJ proprietários_N estão_V pedindo_V a_ART desocupação_N do_PREP+ART imóvel_N ou_KC fazendo_V acordos_N ._END
 Pesquisas_N apontam_V fim_N da_PREP+ART queda_N ;_PU inflação_N pode_V chegar_V a_PREP 2_NUM %_N este_PROADJ mês_N
-Pesquisas_N feitas_PCP por_PREP instituições_N financeiras_ADJ e_KC consultorias_N indicam_V que_KS os_ART preços_N de_PREP varejo_N em_PREP São_NPROP Paulo_NPROP já_ADV não_ADV estão_V caindo_V ._END
+Pesquisas_N feitas_PCP por_PREP instituições_N financeiras_ADJ e_KC consultorias_N indicam_V que_KS os_ART preços_N de_PREP varejo_N em_PREP São Paulo_NPROP já_ADV não_ADV estão_V caindo_V ._END
 A_ART maioria_N se_PROPESS estabilizou_V ,_PU mas_KC alguns_PROSUB estão_V subindo_V ,_PU ainda_KS que_KS ligeiramente_ADV ._END
 Pesquisa_N de_PREP um_ART importante_ADJ banco_N de_PREP atacado_N leva_V a_PREP prever_V a_ART inflação_N de_PREP 1,5_NUM %_N a_PREP 2_NUM %_N em_PREP setembro_N ,_PU perto_PREP de_PREP 2_NUM %_N ._END
 Para_PREP outubro_N ,_PU a_ART previsão_N é_V um_ADV pouco_ADV maior_ADJ ,_PU em_PREP torno_PREP de_PREP 2,5_NUM %_N ._END
@@ -1742,7 +1742,7 @@ Esses_PROADJ resultados_N têm_V sido_PCP considerados_PCP compatíveis_ADJ com_
 No_PREP+ART segundo_ADJ ano_N ,_PU a_ART inflação_N foi_V de_PREP 17,5_NUM %_N ,_PU com_PREP média_N mensal_ADJ de_PREP 1,35_NUM %_N ._END
 A_ART tendência_N foi_V sempre_ADV declinante_ADJ ,_PU com_PREP esporádicos_ADJ saltos_N ._END
 Hoje_ADV ,_PU a_ART inflação_N é_V de_PREP 5_NUM %_N anuais_ADJ ._END
-As_ART pesquisas_N feitas_PCP em_PREP São_NPROP Paulo_NPROP utilizam_V o_ART critério_N ponta_N a_PREP ponta_N ._END
+As_ART pesquisas_N feitas_PCP em_PREP São Paulo_NPROP utilizam_V o_ART critério_N ponta_N a_PREP ponta_N ._END
 Isso_PROSUB detecta_V não_ADV a_ART inflação_N passada_PCP ,_PU mas_KC a_ART tendência_N atual_ADJ ._END
 Até_PREP a_ART semana_N passada_PCP ,_PU o_ART movimento_N era_V de_PREP queda_N ._END
 As_ART últimas_ADJ pesquisas_N mostram_V que_KS a_ART tendência_N dominante_ADJ agora_ADV é_V a_ART estabilidade_N ,_PU o_PRO-KS que_PRO-KS seria_V um_ART resultado_N lógico_ADJ para_PREP o_ART plano_N ._END
@@ -1793,8 +1793,8 @@ Fiesp_NPROP prevê_V repasse_N a_PREP preço_N
 A_ART advertência_N foi_V feita_PCP ,_PU ontem_ADV ,_PU por_PREP Feres_NPROP Abujamra_NPROP ,_PU diretor_N interino_ADJ de_PREP Economia_N da_PREP+ART Fiesp_NPROP ._END
 Ele_PROPESS prevê_V que_KS os_ART aumentos_N salariais_ADJ ,_PU mesmo_PDEN com_PREP base_N somente_PDEN no_PREP+ART IPC_NPROP r_NPROP ,_PU serão_V repassados_PCP para_PREP os_ART preços_N ,_PU apesar_PREP da_PREP+ART ameaça_N do_PREP+ART ministro_N da_PREP+ART Fazenda_NPROP ,_PU Rubens_NPROP Ricupero_NPROP ,_PU de_PREP abrir_V as_ART importações_N para_PREP manter_V a_ART estabilidade_N dos_PREP+ART preços_N ._END
 "_PU Sem_ADV dúvida_ADV haverá_V repasses_N ,_PU porque_KS temos_V indústrias_N com_PREP margens_N de_PREP lucros_N achatadas_PCP e_KC que_PRO-KS não_ADV têm_V condições_N de_PREP aumentar_V salários_N sem_PREP mexer_V nos_PREP+ART preços_N "_PU ,_PU disse_V ._END
-Sindicatos_N de_PREP metalúrgicos_N do_PREP+ART Estado_N de_PREP São_NPROP Paulo_NPROP ,_PU da_PREP+ART base_N da_PREP+ART Cut_NPROP e_KC Força_NPROP Sindical_NPROP ,_PU entregaram_V ontem_ADV à_PREP+ART Fiesp_NPROP a_ART reivindicação_N de_PREP reajuste_N mensal_ADJ integral_ADJ já_ADV ._END
-"_PU Queremos_V que_V KS_V cumprido_PCP cláusula_N do_PREP+ART nosso_PROADJ acordo_N coletivo_ADJ "_PU ,_PU afirmou_V Paulo_NPROP Pereira_NPROP da_NPROP Silva_NPROP ,_PU presidente_N do_PREP+ART Sindicato_NPROP dos_NPROP Metalúrgicos_NPROP de_PREP São_NPROP Paulo_NPROP ._END
+Sindicatos_N de_PREP metalúrgicos_N do_PREP+ART Estado_N de_PREP São Paulo_NPROP ,_PU da_PREP+ART base_N da_PREP+ART Cut_NPROP e_KC Força_NPROP Sindical_NPROP ,_PU entregaram_V ontem_ADV à_PREP+ART Fiesp_NPROP a_ART reivindicação_N de_PREP reajuste_N mensal_ADJ integral_ADJ já_ADV ._END
+"_PU Queremos_V que_V KS_V cumprido_PCP cláusula_N do_PREP+ART nosso_PROADJ acordo_N coletivo_ADJ "_PU ,_PU afirmou_V Paulo_NPROP Pereira_NPROP da_NPROP Silva_NPROP ,_PU presidente_N do_PREP+ART Sindicato_NPROP dos_NPROP Metalúrgicos_NPROP de_PREP São Paulo_NPROP ._END
 Mas_KC disse_V que_KS os_ART sindicatos_N patronais_ADJ têm_V autonomia_N ._END
 Os_ART metalúrgicos_N da_PREP+ART Força_NPROP Sindical_NPROP têm_V data_N base_N em_PREP novembro_N e_KC os_PROSUB da_PREP+ART Cut_NPROP ,_PU em_PREP abril_N ._END
 Eles_PROPESS prometem_V greves_N a_PREP partir_PREP do_PREP+ART dia_N 5_N ,_PU principalmente_ADV nas_PREP+ART montadoras_N ._END
@@ -1852,7 +1852,7 @@ Isso_PROSUB significa_V que_KS as_ART receitas_N consideradas_PCP "_PU boas_ADJ 
 Orçamento_N 94_NUM
 Apesar_PREP disso_PREP+PROSUB ,_PU até_PREP o_ART início_N da_PREP+ART noite_N não_ADV havia_V garantia_N de_PREP que_KS o_ART projeto_N seria_V mesmo_PDEN votado_PCP ._END
 Descontentes_ADJ com_PREP a_ART derrubada_N de_PREP suas_PROADJ emendas_N ,_PU vários_PROADJ parlamentares_N já_ADV articulavam_V obstruir_V a_ART sessão_N ._END
-TCU_NPROP pede_V dados_N de_PREP obra_N no_PREP+ART São_NPROP Francisco_NPROP
+TCU_NPROP pede_V dados_N de_PREP obra_N no_PREP+ART São Francisco_NPROP
 O_ART TCU_NPROP vai_V acompanhar_V de_PREP perto_N a_ART questão_N ._END
 Líder_N do_PREP+ART governo_N recebe_V alta_N no_PREP+ART RS_NPROP
 O_ART líder_N do_PREP+ART governo_N no_PREP+ART Senado_NPROP ,_PU Pedro_NPROP Simon_NPROP (_PU PMDB_NPROP RS_NPROP )_PU ,_PU 64_NUM ,_PU teve_V alta_N ontem_ADV do_PREP+ART hospital_N Moinhos_NPROP de_NPROP Vento_NPROP ,_PU em_PREP Porto_NPROP Alegre_NPROP ,_PU onde_ADV-KS se_PROPESS internou_V anteontem_ADV por_PREP causa_PREP de_PREP uma_ART inflamação_N no_PREP+ART divertículo_N ._END
@@ -1908,7 +1908,7 @@ Depois_PREP disso_PREP+PROSUB ,_PU é_V prejuízo_N na_PREP+ART certa_N ._END
 "_PU Tem_V férias_N ,_PU Copa_NPROP do_NPROP Mundo_NPROP e_KC plano_N ._END
 Quem_PRO-KS persistir_V no_PREP+ART dólar_N que_KS o_PROPESS faça_V ,_PU mas_KC pague_V o_ART preço_N por_PREP isso_PROSUB ._END
 As_ART ações_N são_V uma_ART recomendação_N unânime_ADJ dos_PREP+ART especialistas_N ._END
-"_PU As_ART pesquisas_N eleitorais_ADJ devem_V ficar_V em_PREP banho-maria_N "_PU ,_PU espera_V Álvaro_NPROP Augusto_NPROP Vidigal_NPROP ,_PU presidente_N da_PREP+ART Bolsa_N de_PREP Valores_N de_PREP São_NPROP Paulo_NPROP ._END
+"_PU As_ART pesquisas_N eleitorais_ADJ devem_V ficar_V em_PREP banho-maria_N "_PU ,_PU espera_V Álvaro_NPROP Augusto_NPROP Vidigal_NPROP ,_PU presidente_N da_PREP+ART Bolsa_N de_PREP Valores_N de_PREP São Paulo_NPROP ._END
 "_PU Além_PREP disso_PREP+PROSUB ,_PU toda_PROADJ véspera_N de_PREP plano_N representa_V alta_N das_PREP+ART Bolsas_N por_PREP representar_V reserva_N de_PREP valor_N "_PU ,_PU acrescenta_V ._END
 Eduardo_NPROP da_NPROP Rocha_NPROP Azevedo_NPROP ,_PU da_PREP+ART Corretora_N Convenção_NPROP ,_PU lembra_V que_KS também_PDEN a_ART redução_N dos_PREP+ART juros_N nominais_ADJ ,_PU em_PREP julho_N ,_PU promoverão_V deslocamento_N de_PREP recursos_N para_PREP Bolsas_N ._END
 Segundo_PREP Rudolph_NPROP Pfeiffer_NPROP ,_PU diretor_N do_PREP+ART Chase_NPROP Manhattan_NPROP ,_PU os_ART investidores_N já_ADV começaram_V a_PREP desviar_V parte_N do_PREP+ART patrimônio_N para_PREP as_ART Bolsas_N ._END
@@ -1969,7 +1969,7 @@ Em_PREP 91_N e_KC 92_N ,_PU durante_PREP o_ART governo_N Collor_NPROP ,_PU os_AR
 Segundo_PREP ele_PROPESS ,_PU essa_PROADJ recuperação_N nos_PREP+ART valores_N ainda_ADV não_ADV se_PROPESS compara_V ao_PREP+ART patamar_N praticado_PCP até_PREP a_ART época_N pré-Collor_ADJ ._END
 "_PU Isso_PROSUB mostra_V que_KS os_ART preços_N ainda_ADV estão_V baratos_ADJ e_KC que_KS valorização_N deve_V prosseguir_V "_PU ,_PU diz_V ._END
 Os_ART novos_ADJ lançamentos_N também_PDEN devem_V ser_V vendidos_PCP por_PREP valores_N mais_ADV altos_ADJ ._END
-Como_KS em_PREP São_NPROP Paulo_NPROP os_ART terrenos_N para_PREP incorporação_N estão_V cada_PROADJ vez_N mais_ADV escassos_ADJ e_KC caros_ADJ ,_PU essa_PROADJ aumento_N na_PREP+ART despesa_N das_PREP+ART empresas_N também_PDEN será_V cobrada_PCP do_PREP+ART consumidor_N ._END
+Como_KS em_PREP São Paulo_NPROP os_ART terrenos_N para_PREP incorporação_N estão_V cada_PROADJ vez_N mais_ADV escassos_ADJ e_KC caros_ADJ ,_PU essa_PROADJ aumento_N na_PREP+ART despesa_N das_PREP+ART empresas_N também_PDEN será_V cobrada_PCP do_PREP+ART consumidor_N ._END
 Salários_N crescem_V no_PREP+ART setor_N de_PREP vestuário_N
 Cr$_CUR 1,6_NUM tri_N saem_V dos_PREP+ART CDBs_NPROP para_PREP fundos_N e_KC poupança_N
 Da_PREP+ART Reportagem_NPROP Local_NPROP e_KC da_PREP+ART Sucursal_N de_PREP Brasília_NPROP
@@ -2069,7 +2069,7 @@ Hoje_ADV ,_PU dos_PREP+ART recursos_N destinados_PCP pela_PREP+ART União_NPROP 
 É_V tempo_N de_PREP prevalecer_V o_ART bom_ADJ senso_N ,_PU a_ART razão_N ,_PU sobre_PREP o_ART protecionismo_N ,_PU o_ART corporativismo_N ,_PU o_ART clientelismo_N e_KC outros_PROADJ comportamentos_N humanos_ADJ retrógrados_ADJ e_KC inadimissíveis_ADJ num_PREP+ART país_N que_PRO-KS buscar_V o_ART desenvolvimento_N e_KC um_ART novo_ADJ conceito_N de_PREP parceria_N entre_PREP as_ART forças_N produtivas_ADJ ,_PU o_ART governo_N e_KC os_ART mercados_N internacionais_ADJ ._END
 Número_N de_PREP títulos_N protestados_PCP chega_V a_PREP 45,3_N mil_N no_PREP+ART mês_N passado_PCP
 Número_N de_PREP títulos_N protestados_PCP chega_V a_PREP 45,3_N no_PREP+ART mês_N passado_PCP
-A_ART Serasa_NPROP (_PU Centralização_NPROP de_NPROP Serviços_NPROP dos_NPROP Bancos_NPROP S/A_NPROP )_PU registrou_V em_PREP maio_N 45,3_NUM mil_NUM títulos_N protestados_PCP na_PREP+ART cidade_N de_PREP São_NPROP Paulo_NPROP -_PU 43_NUM %_N mais_PROSUB que_KS o_ART número_N de_PREP igual_ADJ mês_N de_PREP 93_N ._END
+A_ART Serasa_NPROP (_PU Centralização_NPROP de_NPROP Serviços_NPROP dos_NPROP Bancos_NPROP S/A_NPROP )_PU registrou_V em_PREP maio_N 45,3_NUM mil_NUM títulos_N protestados_PCP na_PREP+ART cidade_N de_PREP São Paulo_NPROP -_PU 43_NUM %_N mais_PROSUB que_KS o_ART número_N de_PREP igual_ADJ mês_N de_PREP 93_N ._END
 Todos_PROADJ os_ART outros_PROADJ indicadores_N de_PREP insolvência_N de_PREP pessoas_N jurídicas_ADJ acompanhados_PCP pela_PREP+ART Serasa_NPROP apresentaram_V queda_N no_PREP+ART mês_N passado_PCP ._END
 Foram_V pedidas_PCP em_PREP maio_N 391_NUM falências_N ,_PU com_PREP recuo_N de_PREP 3_NUM %_N abril_N [_PU e_KC de_PREP 2_NUM %_N sobre_PREP o_ART mesmo_PROADJ mês_N do_PREP+ART ano_N passado_PCP [_PU ._END
 o_ART acumulado_N dos_PREP+ART primeiros_ADJ cinco_NUM meses_N do_PREP+ART ano_N foram_V pedidas_PCP 1.949_NUM falências_N ,_PU praticamente_ADV sem_PREP alteração_N em_PREP relação_PREP ao_PREP+ART resultado_N de_PREP igual_ADJ período_N de_PREP 93_N ._END
@@ -2078,9 +2078,9 @@ Em_PREP relação_PREP a_PREP abril_N a_ART retração_N foi_V de_PREP 33_NUM %_
 O_ART aumento_N percentual_ADJ foi_V menor_ADJ no_PREP+ART acumulado_N de_PREP cinco_NUM meses_N deste_PREP+PROADJ ano_N (_PU elevação_N de_PREP 15_NUM %_N nas_PREP+ART falências_N decretadas_PCP )_PU ._END
 Para_PREP a_ART Serasa_NPROP ,_PU a_ART divergência_N de_PREP indicadores_N de_PREP insolvência_N reflete_V o_ART ambiente_N de_PREP expectativa_N em_PREP torno_PREP do_PREP+ART plano_N econômico_ADJ ._END
 Massa_N real_ADJ de_PREP salário_N cresce_V 4,66_NUM %_N em_PREP SP_NPROP
-A_ART massa_N real_ADJ de_PREP salários_N pago_PCP pelo_PREP+ART comércio_N varejista_ADJ da_PREP+ART Região_N Metropolitana_ADJ de_PREP São_NPROP Paulo_NPROP teve_V aumento_N de_PREP 4,66_NUM %_N em_PREP abril_N ,_PU comparada_PCP com_PREP o_ART mês_N anterior_ADJ ._END
+A_ART massa_N real_ADJ de_PREP salários_N pago_PCP pelo_PREP+ART comércio_N varejista_ADJ da_PREP+ART Região_N Metropolitana_ADJ de_PREP São Paulo_NPROP teve_V aumento_N de_PREP 4,66_NUM %_N em_PREP abril_N ,_PU comparada_PCP com_PREP o_ART mês_N anterior_ADJ ._END
 Em_PREP relação_PREP ao_PREP+ART mesmo_PROADJ mês_N do_PREP+ART ano_N passado_PCP ,_PU a_ART expansão_N atinge_V 12,26_NUM %_N ._END
-A_ART pesquisa_N é_V feita_PCP pela_PREP+ART Federação_NPROP do_NPROP Comércio_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP e_KC mostra_V ,_PU ainda_PDEN ,_PU que_KS de_PREP janeiro_N a_PREP abril_N de_PREP 94_N a_ART massa_N salarial_ADJ cresceu_V 11,36_NUM %_N em_PREP relação_PREP a_PREP igual_ADJ período_N de_PREP 93_N ._END
+A_ART pesquisa_N é_V feita_PCP pela_PREP+ART Federação_NPROP do_NPROP Comércio_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP e_KC mostra_V ,_PU ainda_PDEN ,_PU que_KS de_PREP janeiro_N a_PREP abril_N de_PREP 94_N a_ART massa_N salarial_ADJ cresceu_V 11,36_NUM %_N em_PREP relação_PREP a_PREP igual_ADJ período_N de_PREP 93_N ._END
 Já_KC o_ART salário_N médio_ADJ real_ADJ pago_PCP pelo_PREP+ART comércio_N teve_V evolução_N de_PREP 2,53_NUM %_N no_PREP+ART mês_N ._END
 Em_PREP abril_N ,_PU os_ART salários_N subiram_V 7,85_NUM %_N sobre_PREP igual_ADJ período_N de_PREP 93_N ._END
 Neste_PREP+PROADJ ano_N ,_PU a_ART alta_N é_V de_PREP 8,3_NUM %_N ._END
@@ -2129,7 +2129,7 @@ Todos_PROADJ eles_PROPESS ,_PU particularmente_ADV os_ART "_PU cruzados_N "_PU r
 Gol_NPROP 1000_NPROP e_KC o_ART Uno_NPROP Mille_NPROP desaparecem_V das_PREP+ART revendas_N
 O_ART carro_N "_PU popular_ADJ "_PU desapareceu_V das_PREP+ART concessionárias_N ._END
 Quem_PRO-KS quiser_V comprar_V um_ART Gol_NPROP 1000_NPROP ou_KC o_ART Uno_NPROP Mille_NPROP a_PREP partir_PREP de_PREP agora_ADV vai_V ter_V que_KS entrar_V na_PREP+ART fila_N ._END
-A_ART Folha_NPROP consultou_V nos_PREP+ART últimos_ADJ dias_N ,_PU por_PREP telefone_N ,_PU seis_NUM concessionárias_N da_PREP+ART rede_N Volkswagen_NPROP e_KC outras_PROADJ seis_N da_PREP+ART Fiat_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+A_ART Folha_NPROP consultou_V nos_PREP+ART últimos_ADJ dias_N ,_PU por_PREP telefone_N ,_PU seis_NUM concessionárias_N da_PREP+ART rede_N Volkswagen_NPROP e_KC outras_PROADJ seis_N da_PREP+ART Fiat_NPROP ,_PU em_PREP São Paulo_NPROP ._END
 Nenhuma_PROADJ delas_PREP+PROPESS tinha_V o_ART "_PU popular_N "_PU para_PREP pronta_ADJ entrega_N ._END
 Os_ART vendedores_N afirmam_V que_KS não_ADV há_V carros_N em_PREP estoque_N e_KC estão_V sem_PREP previsão_N de_PREP entrega_N ._END
 A_ART única_ADJ saída_N ,_PU segundo_PREP eles_PROPESS ,_PU é_V o_ART cliente_N deixar_V nome_N e_KC telefone_N ._END
@@ -2175,7 +2175,7 @@ Empréstimos_N
 Empréstimos_N por_PREP um_NUM dia_N (_PU "_PU hot_N money_N "_PU )_PU contratados_PCP ontem_ADV :_PU de_PREP 54,39_NUM %_N a_PREP 55,00_NUM %_N ao_PREP+ART mês_N ._END
 Para_PREP 30_NUM dias_N (_PU capital_N de_PREP giro_N )_PU :_PU de_PREP 16_NUM %_N a_PREP 18_NUM %_N ao_PREP+ART ano_N mais_KC TR_NPROP ._END
 Bolsas_N
-São_NPROP Paulo_NPROP :_PU alta_N de_PREP 1,5_NUM %_N ,_PU fechando_V com_PREP 24.672_NUM pontos_N e_KC volume_N financeiro_ADJ de_PREP Cr$_CUR 408,304_NUM bilhões_N ,_PU contra_PREP Cr$_CUR 235,92_NUM bilhões_N no_PREP+ART dia_N anterior_ADJ ._END
+São Paulo_NPROP :_PU alta_N de_PREP 1,5_NUM %_N ,_PU fechando_V com_PREP 24.672_NUM pontos_N e_KC volume_N financeiro_ADJ de_PREP Cr$_CUR 408,304_NUM bilhões_N ,_PU contra_PREP Cr$_CUR 235,92_NUM bilhões_N no_PREP+ART dia_N anterior_ADJ ._END
 Rio_NPROP :_PU elevação_N de_PREP 2,1_NUM %_N (_PU )_PU ,_PU fechando_V com_PREP 94.995_NUM pontos_N e_KC volume_N financeiro_ADJ de_PREP Cr$_CUR 77,67_NUM bilhões_N ,_PU contra_PREP Cr$_CUR 39,96_NUM bilhões_N no_PREP+ART dia_N anterior_ADJ ._END
 Bolsas_N no_PREP+ART exterior_N
 O_ART índice_N Dow_NPROP Jones_NPROP da_PREP+ART Bolsa_N de_PREP Nova_NPROP York_NPROP fechou_V com_PREP 3.758,37_NUM pontos_N ,_PU no_PREP+ART dia_N anterior_ADJ foi_V feriado_N ._END
@@ -2208,13 +2208,13 @@ Trabalhadores_N conseguem_V reposição_N de_PREP até_PDEN 41,31_NUM %_N ._END
 Grandes_ADJ categorias_N profissionais_ADJ terão_V reajuste_N salarial_ADJ após_PREP a_ART vigência_N do_PREP+ART real_N ,_PU em_PREP 1º_N de_PREP julho_N ._END
 Segundo_PREP levantamento_N do_PREP+ART Dieese_NPROP ,_PU acordos_N firmados_PCP no_PREP+ART período_N da_PREP+ART URV_N ,_PU desde_PREP 1º_N de_PREP março_N ,_PU prevêem_V reajustes_N ou_KC antecipações_N escalonados_PCP ,_PU dividos_PCP em_PREP parcelas_N mensais_ADJ ,_PU que_PRO-KS ultrapassam_V 1º_N de_PREP julho_N ._END
 Também_PDEN a_ART Justiça_NPROP do_NPROP Trabalho_NPROP ,_PU no_PREP+ART julgamento_N de_PREP dissídios_N ,_PU concedeu_V reajustes_N parcelados_PCP ._END
-Por_PDEN exemplo_PDEN ,_PU os_ART metalúrgicos_N de_PREP São_NPROP Paulo_NPROP ,_PU Osasco_NPROP e_KC Guarulhos_NPROP do_PREP+ART setor_N siderúrgico_ADJ ,_PU que_PRO-KS têm_V data-base_N em_PREP novembro_N ._END
+Por_PDEN exemplo_PDEN ,_PU os_ART metalúrgicos_N de_PREP São Paulo_NPROP ,_PU Osasco_NPROP e_KC Guarulhos_NPROP do_PREP+ART setor_N siderúrgico_ADJ ,_PU que_PRO-KS têm_V data-base_N em_PREP novembro_N ._END
 Reclamando_V perdas_N na_PREP+ART conversão_N ,_PU eles_PROPESS conseguiram_V 15,76_NUM %_N de_PREP reajuste_N sobre_PREP os_ART salários_N já_ADV em_PREP URV_N :_PU 5_NUM %_N em_PREP março_N ,_PU antes_PREP do_PREP+ART real_N ,_PU mas_KC 5_NUM %_N em_PREP julho_N e_KC 5_NUM %_N em_PREP agosto_N ._END
-No_PREP+ART caso_N dos_PREP+ART trabalhadores_N da_PREP+ART distribuição_N de_PREP gás_N de_PREP São_NPROP Paulo_NPROP ,_PU Abc_NPROP ,_PU Guarulhos_NPROP e_KC Osasco_NPROP foi_V Justiça_NPROP do_NPROP Trabalho_NPROP que_PRO-KS determinou_V antecipações_N de_PREP 5_NUM %_N em_PREP junho_N e_KC 5_NUM %_N em_PREP julho_N ,_PU além_PREP de_PREP estabilidade_N no_PREP+ART emprego_N por_PREP 90_NUM dias_N ._END
+No_PREP+ART caso_N dos_PREP+ART trabalhadores_N da_PREP+ART distribuição_N de_PREP gás_N de_PREP São Paulo_NPROP ,_PU Abc_NPROP ,_PU Guarulhos_NPROP e_KC Osasco_NPROP foi_V Justiça_NPROP do_NPROP Trabalho_NPROP que_PRO-KS determinou_V antecipações_N de_PREP 5_NUM %_N em_PREP junho_N e_KC 5_NUM %_N em_PREP julho_N ,_PU além_PREP de_PREP estabilidade_N no_PREP+ART emprego_N por_PREP 90_NUM dias_N ._END
 Antonio_NPROP Prado_NPROP ,_PU coordenador_N de_PREP produção_N técnica_ADJ do_PREP+ART Dieese_NPROP ,_PU não_ADV acredita_V que_KS os_ART reajustes_N ou_KC antecipações_N após_PREP 1º_N de_PREP julho_N sejam_V capazes_ADJ de_PREP gerar_V inflação_N em_PREP real_N ._END
 "_PU A_ART inflação_N resultante_ADJ do_PREP+ART aumento_N salarial_ADJ e_KC do_PREP+ART consumo_N só_PDEN aconteceria_V se_KS não_ADV houvesse_V capacidade_N ociosa_ADJ da_PREP+ART indústria_N ._END
 "_PU Como_KS a_ART URV_N cristalizou_V perdas_N passadas_PCP e_KC ,_PU num_PREP+ART primeiro_ADJ momento_N ,_PU só_PDEN mexeu_V nos_PREP+ART contratos_N salariais_ADJ ,_PU as_ART negociações_N e_KC greves_N por_PREP reajustes_N começaram_V logo_ADV no_PREP+ART mês_N de_PREP implantação_N da_PREP+ART 2ª_ADJ fase_N do_PREP+ART plano_N ,_PU em_PREP março_N "_PU ,_PU afirmou_V ._END
-Há_V acordos_N que_PRO-KS dão_V 41,31_NUM %_N de_PREP reajuste_N ,_PU dividido_PCP em_PREP quatro_NUM parcelas_N ,_PU como_PREP o_ART assinado_N pela_PREP+ART Máquinas_NPROP Atlântida_NPROP ,_PU de_PREP São_NPROP Paulo_NPROP ._END
+Há_V acordos_N que_PRO-KS dão_V 41,31_NUM %_N de_PREP reajuste_N ,_PU dividido_PCP em_PREP quatro_NUM parcelas_N ,_PU como_PREP o_ART assinado_N pela_PREP+ART Máquinas_NPROP Atlântida_NPROP ,_PU de_PREP São Paulo_NPROP ._END
 INSS_NPROP começa_V a_PREP pagar_V hoje_ADV benefício_N de_PREP maio_N
 Da_PREP+ART Sucursal_N de_PREP Brasília_NPROP
 O_ART INSS_NPROP (_PU Instituto_NPROP Nacional_NPROP do_NPROP Seguro_NPROP Social_NPROP )_PU inicia_V hoje_ADV o_ART pagamento_N do_PREP+ART benefício_N de_PREP maio_N a_PREP 14,7_NUM milhões_N de_PREP segurados_N ._END
@@ -2269,7 +2269,7 @@ O_ART assunto_N será_V debatido_PCP na_PREP+ART próxima_ADJ reunião_N da_PREP
 Pequenos_N devem_V ganhar_V
 Os_ART pequenos_ADJ supermercados_N e_KC outros_PROADJ estabelecimentos_N do_PREP+ART comércio_N varejista_ADJ acreditam_V que_KS vão_V sair_V ganhando_V com_PREP a_ART chegada_N do_PREP+ART real_N ,_PU em_PREP julho_N ._END
 É_V que_KS eles_PROPESS não_ADV terão_V que_KS reajustar_V os_ART preços_N para_PREP compensar_V o_ART suposto_PCP fim_N dos_PREP+ART ganhos_N no_PREP+ART mercado_N financeiro_ADJ ,_PU diz_V o_ART economista_N Leonel_NPROP Tinoco_NPROP Neto_NPROP ,_PU do_PREP+ART Sincovaga_NPROP ._END
-Ele_PROPESS acredita_V que_KS a_ART participação_N do_PREP+ART comércio_N de_PREP pequeno_ADJ porte_N nas_PREP+ART vendas_N de_PREP alimentos_N de_PREP São_NPROP Paulo_NPROP aumente_V de_PREP 35_NUM %_N a_PREP 38_NUM %_N para_PREP 40_NUM %_N ._END
+Ele_PROPESS acredita_V que_KS a_ART participação_N do_PREP+ART comércio_N de_PREP pequeno_ADJ porte_N nas_PREP+ART vendas_N de_PREP alimentos_N de_PREP São Paulo_NPROP aumente_V de_PREP 35_NUM %_N a_PREP 38_NUM %_N para_PREP 40_NUM %_N ._END
 Tinoco_NPROP diz_V que_KS estabelecimentos_N pequenos_ADJ não_ADV praticavam_V a_ART política_N de_PREP preços_N baixos_ADJ -_PU às_ADV vezes_ADV abaixo_PREP do_PREP+ART custo_N -_PU para_PREP ganhar_V a_ART diferença_N no_PREP+ART mercado_N financeiro_ADJ ._END
 Expediente_N comum_ADJ nas_PREP+ART grandes_ADJ redes_N ,_PU essa_PROADJ prática_N dá_V sinais_N de_PREP que_KS vai_V desparecer_V e_KC já_ADV levou_V os_ART supermercados_N a_PREP sinalizarem_V aumentos_N ._END
 Entrega_N de_PREP Ir_NPROP tem_V pouco_PROADJ movimento_N no_PREP+ART último_ADJ dia_N
@@ -2290,7 +2290,7 @@ Abastecer_V seu_PROADJ veículo_N com_PREP álcool_N ,_PU gasolina_N ou_KC diese
 O_ART reajuste_N corresponde_ADJ à_PREP+ART variação_N da_PREP+ART URV_N (_PU Unidade_N Real_N de_N Valor_N )_PU entre_PREP os_ART dias_N 27_N e_KC 31_N de_PREP maio_N ._END
 Este_PROSUB é_V o_ART primeiro_ADJ aumento_N dos_PREP+ART combustíveis_N este_PROADJ mês_N e_KC o_ART 12º_N no_PREP+ART ano_N ._END
 Novo_ADJ reajuste_N deverá_V ocorrer_V no_PREP+ART próximo_ADJ dia_N 7_N ._END
-Na_PREP+ART Grande_ADJ São_NPROP Paulo_NPROP ,_PU a_ART gasolina_N comum_ADJ custa_V agora_ADV Cr$_CUR 1.050,00_NUM ;_PU o_ART álcool_N ,_PU Cr$_CUR 834,00_NUM e_KC o_ART diesel_N ,_PU Cr$_CUR 653,00_NUM ._END
+Na_PREP+ART Grande_ADJ São Paulo_NPROP ,_PU a_ART gasolina_N comum_ADJ custa_V agora_ADV Cr$_CUR 1.050,00_NUM ;_PU o_ART álcool_N ,_PU Cr$_CUR 834,00_NUM e_KC o_ART diesel_N ,_PU Cr$_CUR 653,00_NUM ._END
 Os_ART preços_N para_PREP os_ART produtos_N aditivados_PCP são_V Cr$_CUR 1.070,00_NUM ,_PU Cr$_CUR 850,00_NUM e_KC Cr$_CUR 668,00_NUM ._END
 Desde_PREP o_ART último_ADJ reajuste_N de_PREP 93_N ,_PU a_ART gasolina_N já_ADV subiu_V 461,5_NUM %_N ,_PU o_ART álcool_N ,_PU 467,35_NUM %_N e_KC o_ART diesel_N ,_PU 462,93_NUM %_N ._END
 No_PREP+ART mesmo_PROADJ período_N ,_PU a_ART URV_N foi_V corrigida_PCP em_PREP 498,46_NUM %_N e_KC a_ART Ufir_NPROP (_PU Unidade_NPROP Fiscal_NPROP de_NPROP Referência_NPROP )_PU em_PREP 493,63_NUM %_N ._END
@@ -2316,8 +2316,8 @@ Da_PREP+ART Sucursal_N do_PREP+ART Rio_NPROP
 O_ART número_N aponta_V uma_ART aceleração_N de_PREP 0,90_NUM ponto_N percentual_ADJ em_PREP relação_PREP aos_PREP+ART 43,80_NUM %_N apurados_PCP de_PREP 15_N de_PREP abril_N a_PREP 16_N de_PREP maio_N ._END
 Para_PREP famílias_N com_PREP renda_N de_PREP até_PDEN oito_NUM mínimos_N ,_PU a_ART pesquisa_N do_PREP+ART IBGE_NPROP aponto_V no_PREP+ART mesmo_PROADJ período_N de_PREP quatro_NUM semanas_N uma_ART alta_N de_PREP 44,69_NUM %_N dos_PREP+ART preços_N ,_PU com_PREP aceleração_N de_PREP 1,48_NUM ponto_N em_PREP relação_PREP ao_PREP+ART período_N anterior_ADJ ._END
 Na_PREP+ART faixa_N de_PREP renda_N mais_ADV baixa_ADJ ,_PU a_ART maior_ADJ pressão_N foi_V dos_PREP+ART transportes_N e_KC comunicações_N ,_PU com_PREP 47,74_NUM %_N ._END
-Por_PREP região_N ,_PU a_ART inflação_N para_PREP a_ART faixa_N de_PREP renda_N mais_ADV alta_ADJ foi_V de_PREP 45_NUM %_N em_PREP São_NPROP Paulo_NPROP e_KC de_PREP 43,87_NUM %_N no_PREP+ART Rio_NPROP ._END
-Para_PREP as_ART famílias_N com_PREP renda_N menor_ADJ ,_PU a_ART alta_N foi_V de_PREP 45,24_NUM %_N em_PREP São_NPROP Paulo_NPROP e_KC de_PREP 43,38_NUM %_N no_PREP+ART Rio_NPROP ._END
+Por_PREP região_N ,_PU a_ART inflação_N para_PREP a_ART faixa_N de_PREP renda_N mais_ADV alta_ADJ foi_V de_PREP 45_NUM %_N em_PREP São Paulo_NPROP e_KC de_PREP 43,87_NUM %_N no_PREP+ART Rio_NPROP ._END
+Para_PREP as_ART famílias_N com_PREP renda_N menor_ADJ ,_PU a_ART alta_N foi_V de_PREP 45,24_NUM %_N em_PREP São Paulo_NPROP e_KC de_PREP 43,38_NUM %_N no_PREP+ART Rio_NPROP ._END
 Importação_N de_PREP alimentos_N pode_V ser_V incentivada_PCP
 O_ART governo_N estuda_V a_ART possibilidade_N de_PREP criar_V uma_ART linha_N de_PREP crédito_N para_PREP incentivar_V o_ART setor_N privado_PCP a_PREP importar_V alimentos_N básicos_ADJ ._END
 Esta_PROSUB é_V uma_PROSUB das_PREP+ART medidas_N em_PREP análise_N para_PREP garantir_V o_ART abastecimento_N após_PREP a_ART implantação_N da_PREP+ART nova_ADJ moeda_N ._END
@@ -2431,10 +2431,10 @@ A_ART Fepasa_NPROP alega_V que_KS as_ART dotações_N orçamentárias_ADJ já_AD
 Veículo_N financiado_PCP
 O_ART Banco_NPROP Autolatina_NPROP realizou_V lucro_N de_PREP US$_CUR 9,1_NUM milhões_N em_PREP 93_N ._END
 Dívida_N a_PREP alongar_V
-A_ART Indústria_NPROP de_NPROP Papel_NPROP e_NPROP Papelão_NPROP São_NPROP Roberto_NPROP ,_PU dirigida_PCP por_PREP Roberto_NPROP Nicolau_NPROP Jeha_NPROP ,_PU da_PREP+ART Fiesp_NPROP ,_PU vem_V negociando_V o_ART alongamento_N da_PREP+ART dívida_N de_PREP curto_ADJ prazo_N e_KC procede_V a_ART reestruturação_N administrativa_ADJ ._END
+A_ART Indústria_NPROP de_NPROP Papel_NPROP e_NPROP Papelão_NPROP São Roberto_NPROP ,_PU dirigida_PCP por_PREP Roberto_NPROP Nicolau_NPROP Jeha_NPROP ,_PU da_PREP+ART Fiesp_NPROP ,_PU vem_V negociando_V o_ART alongamento_N da_PREP+ART dívida_N de_PREP curto_ADJ prazo_N e_KC procede_V a_ART reestruturação_N administrativa_ADJ ._END
 Peso_N dos_PREP+ART papéis_N
-A_ART São_NPROP Roberto_NPROP tem_V prejuízos_N acumulados_PCP de_PREP US$_CUR 27,1_NUM milhões_N e_KC excesso_N de_PREP passivo_N circulante_ADJ ,_PU em_PREP relação_PREP ao_PREP+ART ativo_N circulante_ADJ ,_PU de_PREP US$_CUR 11,9_NUM milhões_N ._END
-O_ART prejuízo_N de_PREP US$_CUR 8,8_NUM milhões_N em_PREP 93_N da_PREP+ART São_NPROP Roberto_NPROP é_V atribuído_PCP pela_PREP+ART empresa_N aos_PREP+ART "_PU índices_N inflacionários_ADJ e_KC juros_N elevados_PCP ,_PU aliados_PCP ao_PREP+ART quadro_N econômico_ADJ recessivo_ADJ "_PU ._END
+A_ART São Roberto_NPROP tem_V prejuízos_N acumulados_PCP de_PREP US$_CUR 27,1_NUM milhões_N e_KC excesso_N de_PREP passivo_N circulante_ADJ ,_PU em_PREP relação_PREP ao_PREP+ART ativo_N circulante_ADJ ,_PU de_PREP US$_CUR 11,9_NUM milhões_N ._END
+O_ART prejuízo_N de_PREP US$_CUR 8,8_NUM milhões_N em_PREP 93_N da_PREP+ART São Roberto_NPROP é_V atribuído_PCP pela_PREP+ART empresa_N aos_PREP+ART "_PU índices_N inflacionários_ADJ e_KC juros_N elevados_PCP ,_PU aliados_PCP ao_PREP+ART quadro_N econômico_ADJ recessivo_ADJ "_PU ._END
 Decolagem_N difícil_ADJ
 A_ART Embraer_NPROP encerrou_V 93_N com_PREP resultado_N negativo_ADJ de_PREP US$_CUR 115,8_NUM milhões_N e_KC prejuízos_N acumulados_PCP de_PREP US$_CUR 537,1_NUM milhões_N ._END
 A_ART empresa_N apresenta_V sensível_ADJ deterioração_N na_PREP+ART estrutura_N do_PREP+ART patrimonial_N e_KC financeira_N ,_PU além_PREP de_PREP elevado_PCP grau_N de_PREP endividamento_N ._END
@@ -2480,10 +2480,10 @@ E_KC ,_PU efetivamente_ADV ,_PU o_PROPESS é_V ._END
 As_ART economias_N dos_PREP+ART Estados_N periféricos_ADJ ,_PU conforme_KS adquirem_V dinamismo_N e_KC estabelecem_V parcerias_N também_PDEN no_PREP+ART mercado_N internacional_ADJ ,_PU tendem_V a_PREP depender_V cada_PROADJ vez_N menos_ADV de_PREP acesso_N privilegiado_PCP à_PREP+ART distribuição_N de_PREP recursos_N orçamentários_ADJ ._END
 Já_ADV se_PROPESS pode_V perceber_V essa_PROADJ mudança_N estrutural_ADJ na_PREP+ART transmutação_N de_PREP muitos_PROADJ segmentos_N das_PREP+ART oligarquias_N "_PU atrasadas_PCP "_PU ,_PU que_PRO-KS hoje_ADV não_ADV mais_ADV correspondem_V ao_PREP+ART figurino_N clássico_ADJ do_PREP+ART coronel_N latifundiário_ADJ ,_PU com_PREP seus_PROADJ jagunços_N ,_PU cabos_N eleitorais_ADJ de_PREP província_N e_KC extensa_ADJ parentela_N ,_PU embora_KS não_ADV se_PROPESS tenham_V livrado_PCP de_ADV todo_ADV da_PREP+ART rede_N clientelista_ADJ que_PRO-KS lhes_PROPESS prende_V à_PREP+ART velha_ADJ política_N e_KC ao_PREP+ART velho_ADJ Estado_N ._END
 A_ART legitimidade_N democrática_ADJ inquestionável_ADJ da_PREP+ART demanda_N por_PREP uma_ART representação_N mais_ADV equilibrada_PCP no_PREP+ART Congresso_N ganha_V assim_KC a_ART materialidade_N necessária_ADJ para_PREP que_KS se_PROPESS torne_V um_ART vetor_N importante_ADJ de_PREP mudança_N ._END
-São_NPROP Paulo_NPROP tem_V papel_N importante_ADJ nesse_PREP+PROADJ processo_N ._END
+São Paulo_NPROP tem_V papel_N importante_ADJ nesse_PREP+PROADJ processo_N ._END
 Deve_V exigir_V ,_PU portanto_KC ,_PU representação_N proporcional_ADJ à_PREP+ART sua_PROADJ população_N ._END
 Mas_KC não_ADV basta_V isso_PROSUB ._END
-É_V preciso_ADJ que_KS os_ART representantes_N paulistas_ADJ no_PREP+ART Congresso_N Nacional_ADJ substituam_V definitivamente_ADV a_ART auto-suficiência_N provinciana_ADJ do_PREP+ART passado_N por_PREP uma_ART visão_N nacional_ADJ em_PREP que_PRO-KS São_NPROP Paulo_NPROP surja_V como_PREP instrumento_N da_PREP+ART construção_N de_PREP um_ART Estado_N nacional_ADJ ajustado_PCP aos_PREP+ART novos_ADJ tempos_N ._END
+É_V preciso_ADJ que_KS os_ART representantes_N paulistas_ADJ no_PREP+ART Congresso_N Nacional_ADJ substituam_V definitivamente_ADV a_ART auto-suficiência_N provinciana_ADJ do_PREP+ART passado_N por_PREP uma_ART visão_N nacional_ADJ em_PREP que_PRO-KS São Paulo_NPROP surja_V como_PREP instrumento_N da_PREP+ART construção_N de_PREP um_ART Estado_N nacional_ADJ ajustado_PCP aos_PREP+ART novos_ADJ tempos_N ._END
 É_V autor_N de_PREP "_PU A_NPROP Dinâmica_NPROP da_NPROP Inflação_NPROP "_PU (_PU ed_N ._END
 Geração_NPROP ._END
 O_ART exemplo_N de_PREP Porto_NPROP Alegre_NPROP

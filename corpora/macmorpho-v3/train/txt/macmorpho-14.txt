@@ -11,7 +11,7 @@ Homossexualidade_NPROP na_NPROP Grécia_NPROP Antiga_NPROP ,_PU de_PREP K._NPROP
 Tradução_N de_PREP Luiz_NPROP Krausz_NPROP ._END
 Capa_N de_PREP Juan_NPROP Balzi_NPROP ._END
 Nova_NPROP Alexandria_NPROP (_PU r._NPROP Urano_NPROP
-,_PU 215_NUM ,_PU São_NPROP Paulo_NPROP ,_PU tel._N 270-8627_N ,_PU Cep_N 01529-010_N )_PU ._END
+,_PU 215_NUM ,_PU São Paulo_NPROP ,_PU tel._N 270-8627_N ,_PU Cep_N 01529-010_N )_PU ._END
 336_NUM págs_N ._END 29_NUM URVs_N
 INTERCOM_NPROP ,_PU Nº_N 2_N ,_PU revista_N da_PREP+ART Sociedade_NPROP Brasileira_NPROP de_NPROP Estudos_NPROP Interdisciplinares_NPROP da_NPROP Comunicação_NPROP ._END
 Editora_NPROP Unimep_NPROP (_PU r._NPROP Rangel_NPROP Pestana_NPROP
@@ -53,7 +53,7 @@ Romance_N baseado_PCP em_PREP quatro_NUM anos_N de_PREP pesquisas_N bibliográfi
 O_NPROP Fantasma_NPROP Da_NPROP Revolução_NPROP Brasileira_NPROP ,_PU de_PREP Marcelo_NPROP Ridenti_NPROP ._END
 Projeto_N visual_ADJ de_PREP Lourdes_NPROP Guacira_NPROP da_NPROP Silva_NPROP ._END
 Unesp_NPROP (_PU av._NPROP Rio_NPROP Branco_NPROP
-,_PU 1.210_NUM ,_PU São_NPROP Paulo_NPROP ,_PU Cep_N 012206-904_N ,_PU tel./fax_N 011_N 223-9560_N )_PU ._END
+,_PU 1.210_NUM ,_PU São Paulo_NPROP ,_PU Cep_N 012206-904_N ,_PU tel./fax_N 011_N 223-9560_N )_PU ._END
 O_ART autor_N analisa_V o_ART caráter_N da_PREP+ART Revolução_NPROP de_NPROP 1964_NPROP desde_PREP os_ART grupos_N guerrilheiros_ADJ até_PREP os_ART artistas_N de_PREP esquerda_N da_PREP+ART época_N ._END
 A_NPROP Aplicação_NPROP DOS_NPROP Princípios_NPROP E_NPROP Normas_NPROP Sobre_NPROP O_NPROP Ecumenismo_NPROP ,_PU do_PREP+ART Cons._NPROP Pontifício_NPROP p'a_NPROP Unidade_NPROP Cristã_NPROP
 ._END
@@ -93,7 +93,7 @@ Detalhe_N irrelevante_ADJ para_PREP a_ART semióloga_N ,_PU espécie_N de_PREP m
 Sua_PROADJ abordagem_N do_PREP+ART estrangeiro_N toma_V por_PREP base_N uma_ART espécie_N de_PREP arqueologia_N cultural_ADJ ._END
 Não_ADV por_PREP meio_PREP da_PREP+ART história_N dos_PREP+ART confrontos_N e_KC desfechos_N entre_PREP culturas_N e_KC impérios_N ,_PU do_PREP+ART subjugar_N colonial_ADJ que_PRO-KS institucionalizou_V a_ART mentira_N segundo_PREP a_PRO-KS qual_PRO-KS os_ART dominados_N são_V de_PREP qualidade_N étnica_ADJ inferior_ADJ à_PREP+PROSUB dos_PREP+ART dominantes_N ._END
 O_ART trajeto_N implicitamente_ADV seguido_PCP por_PREP Kristeva_NPROP tem_V como_PREP ponto_N de_PREP partida_N o_ART fato_N de_PREP o_ART estrangeiro_N ser_V ,_PU para_PREP nós_PROPESS ,_PU um_ART conteúdo_N que_PRO-KS oscila_V entre_PREP o_ART literal_N e_KC o_ART latente_N ,_PU num_PREP+ART conjunto_N bastante_ADV amplo_ADJ de_PREP modelos_N ,_PU textos_N e_KC narrativas_N ._END
-os_ART discursos_N sobre_PREP "_PU o_ART outro_PROSUB "_PU que_PRO-KS o_ART Ocidente_NPROP acumulou_V as_ART Danaides_NPROP da_PREP+ART tragédia_N grega_ADJ ,_PU passando_V pela_PREP+ART Bíblia_NPROP dos_PREP+ART judeus_N e_KC de_PREP São_NPROP Paulo_NPROP e_KC chegando_V a_PREP Rabelais_NPROP ,_PU Montaigne_NPROP ou_KC Kant_NPROP ._END
+os_ART discursos_N sobre_PREP "_PU o_ART outro_PROSUB "_PU que_PRO-KS o_ART Ocidente_NPROP acumulou_V as_ART Danaides_NPROP da_PREP+ART tragédia_N grega_ADJ ,_PU passando_V pela_PREP+ART Bíblia_NPROP dos_PREP+ART judeus_N e_KC de_PREP São Paulo_NPROP e_KC chegando_V a_PREP Rabelais_NPROP ,_PU Montaigne_NPROP ou_KC Kant_NPROP ._END
 Assim_ADV e_KC por_PREP que_PROSUB não_ADV ?_PU -_PU ,_PU uma_ART releitura_N desse_PREP+PROADJ imenso_ADJ corpus_N é_V virtualmente_ADV capaz_ADJ de_PREP perfilar_V a_ART problematização_N específica_ADJ da_PREP+ART alteridade_N mal_ADV resolvida_PCP ._END
 Ou_PDEN melhor_PDEN ,_PU de_PREP impossível_ADJ solução_N ,_PU já_KS que_KS "_PU o_ART outro_PROSUB "_PU está_V ,_PU em_PREP última_ADJ instância_N ,_PU embutido_PCP em_PREP nós_PROPESS mesmos_PROADJ (_PU Freud_NPROP )_PU ,_PU e_KC também_PDEN porque_KS ,_PU entre_PREP nós_PROPESS e_KC ele_PROPESS ,_PU inexistiria_V dialética_N ou_KC tampouco_ADV a_ART virtualidade_N de_PREP pausas_N relacionais_ADJ para_PREP a_ART formulação_N de_PREP modelos_N de_PREP síntese_N ._END
 A_ART noção_N de_PREP estrangeiro_N "_PU possui_V um_ART significado_N jurídico_ADJ :_PU aquele_PROSUB que_PRO-KS não_ADV tem_V a_ART cidadania_N do_PREP+ART país_N que_PRO-KS habita_V "_PU ,_PU constata_V a_ART autora_N ._END
@@ -181,7 +181,7 @@ Companhia_NPROP das_NPROP Letras_NPROP (_PU r._NPROP Tupi_NPROP
 Teoria_NPROP da_NPROP Democracia_NPROP ,_PU de_PREP Giovanni_NPROP Sartori_NPROP ._END
 Capa_N de_PREP Ary_NPROP Normanha_NPROP ._END
 Ática_NPROP (_PU r._NPROP Barão_NPROP de_NPROP Iguape_NPROP
-,_PU 110_NUM ,_PU São_NPROP Paulo_NPROP ,_PU tel._N fax_N 011_N 277-4146_N ,_PU Cep_N 01507-900_N )_PU ._END
+,_PU 110_NUM ,_PU São Paulo_NPROP ,_PU tel._N fax_N 011_N 277-4146_N ,_PU Cep_N 01507-900_N )_PU ._END
 336_NUM págs_N ._END Preço_N não_ADV definido_PCP
 A_ART beleza_N simples_ADJ supera_V a_PROSUB excessiva_ADJ
 Colunista_N da_PREP+ART Folha_NPROP
@@ -285,13 +285,13 @@ No_PREP+ART número_N de_PREP 8_N de_PREP abril_N ,_PU um_ART pesquisador_N da_P
 O_ART cientista_N estudou_V geleiras_N da_PREP+ART América_NPROP do_NPROP Norte_NPROP ,_PU da_PREP+ART Europa_NPROP ,_PU da_PREP+ART Ásia_NPROP e_KC da_PREP+ART África_NPROP ._END
 O_ART implante_N de_PREP ouro_N traz_V de_ADV volta_ADV a_ART audição_N ?_PU
 O_ART implante_N de_PREP ouro_N traz_V de_ADV volta_ADV toda_PROADJ a_ART audição_N ?_PU
-Iara_NPROP Tábox_NPROP ,_PU 33_NUM ,_PU artista_N plástica_ADJ ,_PU São_NPROP Paulo_NPROP (_PU SP_NPROP )_PU
+Iara_NPROP Tábox_NPROP ,_PU 33_NUM ,_PU artista_N plástica_ADJ ,_PU São Paulo_NPROP (_PU SP_NPROP )_PU
 Luís_NPROP Antônio_NPROP da_NPROP Costa_NPROP Monteiro_NPROP ,_PU otorrinolaringologista_N do_PREP+ART Hospital_NPROP das_NPROP Clínicas_NPROP ,_PU responde_V :_PU
 "_PU Para_PREP algumas_PROADJ doenças_N que_PRO-KS provocam_V surdez_N (_PU como_PREP a_ART otosclerose_N ou_KC otoespongiose_N )_PU ,_PU recomenda_V -se_PROPESS uma_ART cirurgia_N que_PRO-KS substitui_V um_ART ossinho_N do_PREP+ART ouvido_N médio_ADJ (_PU o_ART estribo_N )_PU por_PREP uma_ART prótese_N a_ART cise_N chama_V estapedectomia_N ._END
 Em_PREP 95_NUM %_N dos_PREP+ART casos_N ,_PU os_ART resultados_N do_PREP+ART implante_N são_V bons_ADJ ,_PU com_PREP melhora_V na_PREP+ART audição_N ._END
 "_PU O_ART fator_N limitante_ADJ do_PREP+ART resultado_N do_PREP+ART implante_N não_ADV é_V o_ART material_N de_PREP que_PRO-KS é_V feita_PCP a_ART prótese_N ,_PU mas_KC as_ART condições_N do_PREP+ART ouvido_N em_PREP que_PRO-KS ela_PROPESS é_V implantada_PCP e_KC a_ART técnica_N do_PREP+ART cirurgião_N ._END
 Correspondência_N para_PREP a_ART seção_N "_PU Sem_NPROP Mistério_NPROP "_PU deve_V ser_V encaminhada_PCP à_PREP+ART Editoria_NPROP de_NPROP Ciência_NPROP (_PU al._NPROP Barão_NPROP de_NPROP Limeira_NPROP
-,_PU 425_NUM ,_PU 4º_ADJ andar_N ,_PU Cep_N 01290-900_N ,_PU São_NPROP Paulo_NPROP -_PU SP_NPROP )_PU ,_PU com_PREP nome_N ,_PU idade_N ,_PU profissão_N e_KC endereço_N ._END
+,_PU 425_NUM ,_PU 4º_ADJ andar_N ,_PU Cep_N 01290-900_N ,_PU São Paulo_NPROP -_PU SP_NPROP )_PU ,_PU com_PREP nome_N ,_PU idade_N ,_PU profissão_N e_KC endereço_N ._END
 Não_ADV serão_V respondidas_PCP cartas_N com_PREP pedidos_N de_PREP aconselhamento_N médico_ADJ ou_KC psíquico_ADJ ._END
 Confira_V a_ART inteligência_N de_PREP seu_PROADJ cão_N
 Psicólogo_N canadense_ADJ propõe_V classificação_N de_PREP raças_N caninas_ADJ de_PREP acordo_PREP com_PREP a_ART capacidade_N de_PREP executar_V tarefas_N

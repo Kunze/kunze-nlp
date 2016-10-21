@@ -345,16 +345,16 @@ PÁG_N ._END
 O_ART técnico_N do_PREP+ART Palmeiras_NPROP não_ADV quer_V escalar_V Edmundo_NPROP ,_PU Edílson_NPROP ,_PU Evair_NPROP ,_PU Rincón_NPROP e_KC Zinho_NPROP juntos_ADJ
 WILSON_NPROP BALDINI_NPROP JR_NPROP ._END
 Da_PREP+ART Reportagem_NPROP Local_NPROP
-A_ART perda_N da_PREP+ART invencibilidade_N no_PREP+ART Campeonato_NPROP Paulista_NPROP para_PREP o_ART São_NPROP Paulo_NPROP anteontem_ADV deve_V provocar_V algumas_PROADJ alterações_N táticas_ADJ na_PREP+ART equipe_N do_PREP+ART Palmeiras_NPROP ._END
+A_ART perda_N da_PREP+ART invencibilidade_N no_PREP+ART Campeonato_NPROP Paulista_NPROP para_PREP o_ART São Paulo_NPROP anteontem_ADV deve_V provocar_V algumas_PROADJ alterações_N táticas_ADJ na_PREP+ART equipe_N do_PREP+ART Palmeiras_NPROP ._END
 Mas_KC o_ART técnico_N Wanderley_NPROP Luxemburgo_NPROP descarta_V uma_PROSUB de_ADV imediato_ADV :_PU a_ART escalação_N de_PREP Edílson_NPROP e_KC a_ART formação_N de_PREP um_ART ataque_N com_PREP cinco_NUM jogadores_N ._END
 "_PU O_ART grupo_N já_ADV sabe_V disso_PREP+PROSUB ._END
 Um_PROSUB terá_V que_KS ficar_V de_PREP fora_N "_PU ,_PU disse_V o_ART treinador_N ,_PU se_PROPESS referindo_V a_PREP Evair_NPROP ,_PU Edmundo_NPROP ,_PU Zinho_NPROP ,_PU Rincón_NPROP e_KC o_ART próprio_PROADJ Edílson_NPROP ,_PU atualmente_ADV na_PREP+ART reserva_N ._END
 O_ART técnico_N deve_V exigir_V que_KS estes_PROADJ jogadores_N ,_PU principalmente_ADV Rincón_NPROP e_KC Edmundo_NPROP ,_PU ajudem_V mais_ADV na_PREP+ART marcação_N nas_PREP+ART próximas_ADJ partidas_N ._END
 não_ADV cumprir_V as_ART determinações_N pode_V ser_V sacado_PCP do_PREP+ART time_N ._END
-Contra_PREP o_ART São_NPROP Paulo_NPROP a_ART equipe_N entrou_V relaxada_PCP ._END
+Contra_PREP o_ART São Paulo_NPROP a_ART equipe_N entrou_V relaxada_PCP ._END
 Quando_KS foi_V preciso_ADJ marcar_V ,_PU o_ART time_N não_ADV se_PROPESS empenhou_V "_PU ,_PU disse_V ._END
 Luxemburgo_NPROP disse_V ter_V total_ADJ confiança_N nos_PREP+ART especialistas_N Cláudio_NPROP e_KC Gil_NPROP Baiano_NPROP ._END
-"_PU o_ART Cafu_NPROP no_PREP+ART São_NPROP Paulo_NPROP ,_PU o_ART Mazinho_NPROP deve_V ficar_V no_PREP+ART meio-campo_N porque_KS possui_V muito_ADV talento_N e_KC tem_V mais_PROADJ condições_N de_PREP ajudar_V o_ART time_N "_PU ,_PU explicou_V ._END
+"_PU o_ART Cafu_NPROP no_PREP+ART São Paulo_NPROP ,_PU o_ART Mazinho_NPROP deve_V ficar_V no_PREP+ART meio-campo_N porque_KS possui_V muito_ADV talento_N e_KC tem_V mais_PROADJ condições_N de_PREP ajudar_V o_ART time_N "_PU ,_PU explicou_V ._END
 No_PREP+ART jogo_N de_PREP amanhã_ADV contra_PREP o_ART Cruzeiro_N ,_PU no_PREP+ART Parque_NPROP Antarctica_NPROP ,_PU estréia_N do_PREP+ART time_N na_PREP+ART Taça_NPROP Libertadores_NPROP da_NPROP América_NPROP ,_PU a_ART equipe_N já_ADV deve_V mostrar_V um_ART esquema_N mais_ADV forte_ADJ na_PREP+ART marcação_N ._END
 Edmundo_NPROP e_KC Rincón_NPROP devem_V voltar_V mais_ADV ao_PREP+ART campo_N de_PREP defesa_N para_PREP ajudar_V na_PREP+ART marcação_N ._END
 O_ART Palmeiras_NPROP tenta_V um_ART título_N inédito_ADJ ._END
@@ -365,7 +365,7 @@ Para_PREP a_ART lateral_N ,_PU o_ART escolhido_N deve_V ser_V Biro_NPROP ._END
 vai_V exigir_V melhor_ADJ marcação_N
 Técnico_N vai_V exigir_V melhor_ADJ marcação_N
 O_ART técnico_N Wanderley_NPROP Luxemburgo_NPROP tem_V uma_ART reunião_N marcada_PCP com_PREP todo_PROADJ o_ART grupo_N de_PREP jogadores_N ,_PU hoje_ADV ,_PU na_PREP+ART Academia_NPROP de_NPROP Futebol_NPROP ._END
-O_ART objetivo_N da_PREP+ART conversa_N é_V tentar_V encontrar_V um_ART melhor_ADJ posicionamento_N da_PREP+ART equipe_N na_PREP+ART marcação_N ,_PU fundamento_N mais_ADV deficiente_ADJ no_PREP+ART clássico_N de_PREP domingo_N ,_PU frente_PREP ao_PREP+ART São_NPROP Paulo_NPROP ._END
+O_ART objetivo_N da_PREP+ART conversa_N é_V tentar_V encontrar_V um_ART melhor_ADJ posicionamento_N da_PREP+ART equipe_N na_PREP+ART marcação_N ,_PU fundamento_N mais_ADV deficiente_ADJ no_PREP+ART clássico_N de_PREP domingo_N ,_PU frente_PREP ao_PREP+ART São Paulo_NPROP ._END
 "_PU Contra_PREP adversários_N mais_ADV fortes_ADJ ,_PU a_ART marcação_N ajuda_V muito_ADV na_PREP+ART conquista_N da_PREP+ART vitória_N "_PU ,_PU afirmou_V o_ART treinador_N ._END
 (_PU )_PU
 O_ART são-paulino_N Cafu_NPROP só_PDEN soube_V que_KS iria_V jogar_V como_PREP volante_N na_PREP+ART preleção_N do_PREP+ART técnico_N Telê_NPROP Santana_NPROP ,_PU momentos_N antes_PREP da_PREP+ART partida_N ._END
@@ -374,37 +374,37 @@ A_ART escalação_N de_PREP Cafu_NPROP por_PREP aquele_PROADJ setor_N foi_V a_AR
 Tenho_V mais_PROADJ liberdade_N para_PREP atacar_V e_KC tentar_V chutes_N a_PREP gol_N "_PU ,_PU disse_V ontem_ADV o_ART jogador_N ._END
 "_PU O_ART Cafu_NPROP rendeu_V bem_ADV mais_ADV do_KS que_KS estava_V rendendo_V na_PREP+ART lateral_N ._END
 Dando_V a_ART camisa_N 8_N ao_PREP+ART jogador_N de_PREP maior_ADJ potencial_N físico_ADJ do_PREP+ART país_N ,_PU Telê_NPROP Santana_NPROP praticamente_ADV teve_V um_ART jogador_N a_PROADJ mais_PROADJ durante_PREP a_ART partida_N ._END
-Quando_KS tinha_V a_ART bola_N ,_PU o_ART São_NPROP Paulo_NPROP tinha_V três_NUM meias_N (_PU Cafu_NPROP ,_PU Palhinha_NPROP e_KC Leonardo_NPROP ,_PU da_PREP+ART esquerda_N para_PREP a_ART direita_N )_PU e_KC dois_NUM pontas-de-lança_N (_PU e_KC Muller_NPROP )_PU ._END
+Quando_KS tinha_V a_ART bola_N ,_PU o_ART São Paulo_NPROP tinha_V três_NUM meias_N (_PU Cafu_NPROP ,_PU Palhinha_NPROP e_KC Leonardo_NPROP ,_PU da_PREP+ART esquerda_N para_PREP a_ART direita_N )_PU e_KC dois_NUM pontas-de-lança_N (_PU e_KC Muller_NPROP )_PU ._END
 Quando_KS era_V atacante_N ,_PU Cafu_NPROP atuava_V como_PREP um_ART volante_N ,_PU ao_PREP lado_PREP de_PREP Doriva_NPROP ._END
 Quase_ADV no_PREP+ART final_N da_PREP+ART partida_N ,_PU deu_V um_ART pique_N no_PREP+ART ataque_N para_PREP tentar_V tomar_V a_ART bola_N do_PREP+ART lateral-esquerdo_N Roberto_NPROP Carlos_NPROP ._END
 Não_ADV conseguiu_V e_KC voltou_V correndo_V para_PREP a_ART defesa_N ._END
 "_PU No_PREP+ART fim_N do_PREP+ART jogo_N ,_PU eu_PROPESS estava_V normal_ADJ ,_PU me_PROPESS sentindo_V bem_ADV ._END
-Curiosamente_ADV ,_PU era_V nessa_PREP+PROADJ posição_N que_PRO-KS Cafu_NPROP jogava_V quando_KS Telê_NPROP Santana_NPROP chegou_V ao_PREP+ART São_NPROP Paulo_NPROP ,_PU em_PREP 1990_N ._END
+Curiosamente_ADV ,_PU era_V nessa_PREP+PROADJ posição_N que_PRO-KS Cafu_NPROP jogava_V quando_KS Telê_NPROP Santana_NPROP chegou_V ao_PREP+ART São Paulo_NPROP ,_PU em_PREP 1990_N ._END
 Ao_ADV mesmo_ADV tempo_ADV em_PREP que_KS foi_V convocado_PCP para_PREP jogar_V nessa_PREP+PROADJ posição_N por_PREP Falcão_NPROP ,_PU o_ART técnico_N da_PREP+ART seleção_N na_PREP+ART época_N ,_PU foi_V deslocado_PCP para_PREP a_ART lateral_N por_PREP Telê_NPROP ._END
 "_PU O_ART Cafu_NPROP ,_PU para_PREP mim_PROPESS ,_PU é_V lateral_N ,_PU não_ADV está_V preparado_PCP ainda_ADV para_PREP jogar_V no_PREP+ART meio_N "_PU ,_PU disse_V o_ART técnico_N na_PREP+ART época_N ._END
 Em_PREP 1992_N ,_PU Telê_NPROP pôs_V Cafu_NPROP como_PREP meia_N ,_PU para_PREP jogar_V ao_PREP lado_PREP de_PREP Muller_NPROP ,_PU Palhinha_NPROP e_KC Raí_NPROP ._END
 Na_PREP+ART lateral_N ,_PU entrava_V Vítor_NPROP ._END
 O_ART esquema_N durou_V até_PREP o_ART meio_N do_PREP+ART ano_N passado_PCP ._END
 Cafu_NPROP teria_V continuado_PCP assim_ADV neste_PREP+PROADJ ano_N ,_PU se_KS Axel_NPROP tivesse_V se_PROPESS adaptado_PCP ao_PREP+ART esquema_N de_PREP Telê_NPROP ._END
-E_KC pelas_PREP+ART declarações_N do_PREP+ART técnico_N depois_PREP do_PREP+ART jogo_N ,_PU o_ART novo_ADJ São_NPROP Paulo_NPROP tem_V Cafu_NPROP com_PREP a_ART camisa_N 8_N ._END
+E_KC pelas_PREP+ART declarações_N do_PREP+ART técnico_N depois_PREP do_PREP+ART jogo_N ,_PU o_ART novo_ADJ São Paulo_NPROP tem_V Cafu_NPROP com_PREP a_ART camisa_N 8_N ._END
 (_PU Md_NPROP )_PU
 Telê_NPROP Santana_NPROP tornou_V -se_PROPESS Grande_NPROP Mestre_NPROP
-O_ART jogo_N de_PREP domingo_N demonstrou_V a_ART mudança_N contemporaneíssima_ADJ do_PREP+ART futebol_N em_PREP São_NPROP Paulo_NPROP ._END
+O_ART jogo_N de_PREP domingo_N demonstrou_V a_ART mudança_N contemporaneíssima_ADJ do_PREP+ART futebol_N em_PREP São Paulo_NPROP ._END
 Mudança_N em_PREP sua_PROADJ aparência_N ,_PU talvez_ADV ,_PU mas_KC mudança_N ._END
 E_KC Telê_NPROP é_V sem_ADV dúvida_ADV nosso_PROADJ primeiro_ADJ Grande_ADJ Mestre_N ._END
-São_NPROP Paulo_NPROP ,_PU 2_N ,_PU Palmeiras_NPROP ,_PU 1_N ._END
+São Paulo_NPROP ,_PU 2_N ,_PU Palmeiras_NPROP ,_PU 1_N ._END
 Quatro_N a_PREP um_N teria_V sido_PCP placar_N mais_ADV adequado_PCP ._END
 Quem_PRO-KS diz_V isso_PROSUB é_V um_ART palmeirense_N fanático_ADJ ,_PU filho_N e_KC pai_N de_PREP palmeirenses_N ._END
 Mas_KC aqui_ADV cabe_V uma_ART precisão_N :_PU o_ART futebol_N permite_V uma_ART forma_N particular_ADJ de_PREP "_PU fanatismo_N "_PU ,_PU que_PRO-KS admite_V certa_PROADJ racionalidade_N ._END
 Vai_V daí_PREP+ADV que_KS um_ART palmeirense_N possa_V reconhecer_V a_ART superioridade_N de_PREP outra_PROADJ equipe_N ,_PU em_PREP um_ART certo_PROADJ jogo_N ._END
 Superioridade_N tática_ADJ ._END
-Como_ADV diz_V o_ART chavão_N :_PU o_ART São_NPROP Paulo_NPROP venceu_V uma_ART batalha_N ,_PU não_ADV a_ART guerra_N ._END
+Como_ADV diz_V o_ART chavão_N :_PU o_ART São Paulo_NPROP venceu_V uma_ART batalha_N ,_PU não_ADV a_ART guerra_N ._END
 A_ART questão_N é_V saber_V se_KS o_ART time_N do_PREP+ART Morumbi_NPROP é_V superior_ADJ a_PREP seus_PROADJ dois_NUM adversários_N do_PREP+ART Trio_NPROP de_NPROP Ferro_NPROP ,_PU Corinthians_NPROP e_KC Palmeiras_NPROP ,_PU nos_PREP+ART quesitos_N "_PU estratégia_N "_PU e_KC "_PU logística_N "_PU ._END
 Se_KS é_V capaz_ADJ de_PREP vencer_V o_ART Campeonato_NPROP Paulista_NPROP ,_PU e_KC se_KS pode_V se_PROPESS manter_V à_PREP+ART frente_N dos_PREP+ART rivais_N nos_PREP+ART próximos_ADJ anos_N ._END
 Eu_PROPESS acho_V que_KS não_ADV ._END
 O_ART brasileiro_N quase_ADV não_ADV teve_V guerras_N em_PREP sua_PROADJ história_N ._END
 Tem_V campeonatos_N ._END
-Taticamente_ADV ,_PU o_ART São_NPROP Paulo_NPROP venceu_V ._END
+Taticamente_ADV ,_PU o_ART São Paulo_NPROP venceu_V ._END
 O_ART resultado_N veio_V ,_PU com_PREP a_ART naturalidade_N das_PREP+ART batalhas_N vencidas_PCP ,_PU porque_KS o_ART general_N de_PREP um_ART lado_N era_V melhor_ADJ do_KS que_KS o_ART general_N do_PREP+ART outro_PROSUB e_KC organizou_V seus_PROADJ esquadrões_N ,_PU batalhões_N ,_PU regimentos_N ,_PU ofensivas_N e_KC recuos_N de_PREP uma_ART maneira_N superior_ADJ ._END
 A_ART desvantagem_N deste_PREP+PROADJ tipo_N de_PREP vitórias_N está_V em_PREP que_KS o_ART adversário_N também_PDEN aprende_V ._END
 Algumas_PROADJ vezes_N aprende_V rápido_ADV ._END
@@ -427,7 +427,7 @@ Aprende_V -se_PROPESS ,_PU na_PREP+ART verdade_N ,_PU nas_PREP+ART derrotas_N ._
 Vitórias_N ensinam_V pouco_ADV ou_KC nada_ADV ._END
 Fica_V no_PREP+ART ar_N a_ART questão_N logística_ADJ ._END
 A_ART longo_ADJ prazo_N o_ART Palmeiras_NPROP será_V capaz_ADJ de_PREP criar_V uma_ART estrutura_N permanente_ADJ de_PREP conquista_N de_PREP títulos_N ?_PU
-A_ART fórmula_N do_PREP+ART São_NPROP Paulo_NPROP está_V se_PROPESS esgotando_V -_PU depende_V demais_ADV de_PREP seu_PROADJ general_N ._END
+A_ART fórmula_N do_PREP+ART São Paulo_NPROP está_V se_PROPESS esgotando_V -_PU depende_V demais_ADV de_PREP seu_PROADJ general_N ._END
 O_ART velho_ADJ ditado_N
 Dominique_NPROP Wilkins_NPROP ,_PU patrimônio_N dos_PREP+ART Hawks_NPROP ,_PU foi_V descartado_PCP pela_PREP+ART sua_PROADJ equipe_N e_KC mandado_PCP para_PREP La_NPROP em_PREP troca_PREP do_PREP+ART ala/pivô_N Danny_NPROP Manning_NPROP ._END
 Torcedores_N dos_PREP+ART Hawks_NPROP até_PREP agora_ADV se_PROPESS recusam_V a_PREP acreditar_V no_PREP+ART negócio_N ._END
@@ -483,7 +483,7 @@ A_ART juventude_N está_V perdida_PCP quanto_PREP a_PREP alguns_PROADJ princípi
 Os_ART dois_NUM adolescentes_N que_PRO-KS irão_V à_PREP+ART Copa_NPROP serão_V escolhidos_PCP a_PREP partir_PREP de_PREP uma_ART redação_N com_PREP o_ART tema_N "_PU Jogue_N Limpo_N no_N Esporte_N e_N na_N Vida_N "_PU ,_PU com_PREP 20_NUM linhas_N ,_PU que_PRO-KS deve_V ser_V enviada_PCP à_PREP+ART Folha_NPROP até_PREP o_ART dia_N 22_N ._END
 A_ART ficha_N de_PREP inscrição_N e_KC o_ART regulamento_N completo_ADJ serão_V publicados_PCP na_PREP+ART Folha_NPROP a_PREP partir_PREP de_PREP amanhã_ADV ._END
 A_ART ficha_N de_PREP inscrição_N também_PDEN pode_V ser_V retirada_PCP na_PREP+ART recepção_N do_PREP+ART jornal_N (_PU al_N ._END
-Barão_NPROP de_NPROP Limeira_NPROP ,_PU 425_NUM ,_PU Campos_NPROP Elíseos_NPROP ,_PU São_NPROP Paulo_NPROP )_PU ._END
+Barão_NPROP de_NPROP Limeira_NPROP ,_PU 425_NUM ,_PU Campos_NPROP Elíseos_NPROP ,_PU São Paulo_NPROP )_PU ._END
 Uma_ART comissão_N de_PREP seleção_N escolherá_V as_ART dez_NUM melhores_ADJ redações_N ,_PU cujos_PRO-KS autores_N passarão_V por_PREP uma_ART entrevista_N para_PREP a_ART decisão_N final_ADJ ._END
 Os_ART escolhidos_N ganham_V passagens_N aéreas_ADJ para_PREP a_ART Califórnia_NPROP com_PREP direito_N a_PREP acompanhante_N ,_PU US$_CUR 500_NUM para_PREP despesas_N ,_PU três_NUM noites_N em_PREP hotel_N cinco_NUM estrelas_N ,_PU carro_N e_KC guia_N ._END
 Técnico_N tira_V o_ART Rio_NPROP Branco_NPROP da_PREP+ART crise_N
@@ -495,7 +495,7 @@ Ele_PROPESS lembrou_V ainda_PDEN a_ART partida_N que_PRO-KS o_PROPESS tornou_V c
 Qual_PROSUB o_ART segredo_N do_PREP+ART sucesso_N do_PREP+ART Rio_NPROP Branco_NPROP ?_PU
 Acho_V que_KS é_V a_ART base_N do_PREP+ART conjunto_N ._END
 O_ART principal_ADJ fator_N da_PREP+ART minha_PROADJ vinda_N para_PREP cá_ADV foi_V a_ART motivação_N que_PRO-KS trouxe_V aos_PREP+ART jogadores_N ._END
-Senti_V isso_PROSUB logo_ADV no_PREP+ART primeiro_ADJ jogo_N ,_PU contra_PREP o_ART São_NPROP Paulo_NPROP ._END
+Senti_V isso_PROSUB logo_ADV no_PREP+ART primeiro_ADJ jogo_N ,_PU contra_PREP o_ART São Paulo_NPROP ._END
 Comigo_PREP+PROPESS foi_V diferente_ADJ ,_PU pois_KC eu_PROPESS cheguei_V e_KC logo_ADV assumi_V o_ART time_N ._END
 Isto_PROSUB motivou_V os_ART jogadores_N ._END
 Quando_KS você_PROPESS foi_V convidado_PCP ,_PU já_ADV sabia_V que_KS o_ART time_N era_V lanterna_N ?_PU
@@ -512,7 +512,7 @@ Os_ART diretores_N do_PREP+ART Cruzeiro_NPROP me_PROPESS ligaram_V dizendo_V que
 E_KC ,_PU apesar_PREP de_PREP ser_V uma_ART boa_ADJ proposta_N financeira_ADJ ,_PU eu_PROPESS não_ADV aceitei_V ._END
 Por_PREP que_PROSUB ?_PU
 Por_PREP dois_NUM motivos_N ._END
-Primeiro_N ,_PU porque_KS achei_V que_KS ainda_ADV não_ADV era_V o_ART momento_N ,_PU pois_KC consegui_V realizar_V um_ART objetivo_N profissional_ADJ ,_PU que_PRO-KS era_V trabalhar_V em_PREP São_NPROP Paulo_NPROP ._END
+Primeiro_N ,_PU porque_KS achei_V que_KS ainda_ADV não_ADV era_V o_ART momento_N ,_PU pois_KC consegui_V realizar_V um_ART objetivo_N profissional_ADJ ,_PU que_PRO-KS era_V trabalhar_V em_PREP São Paulo_NPROP ._END
 No_PREP+ART Brasil_NPROP você_PROPESS ficou_V conhecido_PCP como_PREP o_ART jogador_N que_PRO-KS perseguiu_V Rivelino_NPROP ._END
 Ramirez_NPROP -_PU Este_PROSUB é_V um_ART episódio_N antigo_ADJ e_KC que_PRO-KS já_ADV foi_V superado_PCP ._END
 Entre_PREP eu_PROPESS e_KC o_ART Rivelinho_NPROP não_ADV há_V nada_PROSUB ,_PU tanto_KS que_KS após_PREP a_ART briga_N conversamos_V e_KC até_PDEN nos_PROPESS tornamos_V amigos_N ._END
@@ -527,7 +527,7 @@ O_ART ataque_N com_PREP cinco_N tornaria_V isso_PROSUB possível_ADJ ._END
 "_PU No_PREP+ART futebol_N ,_PU ganhasse_V o_ART jogo_N no_PREP+ART meio-campo_N ,_PU impedindo_V que_KS o_ART adversário_N faça_V as_ART jogadas_N que_PRO-KS quer_V ._END
 Com_PREP cinco_NUM atacantes_N ,_PU não_ADV há_V como_ADV-KS fazer_V isso_PROSUB ._END
 Sul-americano_NPROP é_V treino_N para_PREP brasileiras_N do_PREP+ART pólo_N aquático_ADJ
-Começa_V amanhã_ADV às_PREP+ART 19h_N nas_PREP+ART piscinas_N do_PREP+ART clube_NPROP Pinheiros_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU o_ART Campeonato_N Sul-americano_NPROP de_PREP pólo_N aquático_ADJ masculino_N e_KC feminino_N ._END
+Começa_V amanhã_ADV às_PREP+ART 19h_N nas_PREP+ART piscinas_N do_PREP+ART clube_NPROP Pinheiros_NPROP ,_PU em_PREP São Paulo_NPROP ,_PU o_ART Campeonato_N Sul-americano_NPROP de_PREP pólo_N aquático_ADJ masculino_N e_KC feminino_N ._END
 Para_PREP a_ART Confederação_NPROP Brasileira_NPROP de_NPROP Desportes_NPROP Aquáticos_NPROP (_PU CBDA_NPROP )_PU ,_PU o_ART torneio_N é_V uma_ART oportunidade_N para_PREP mostrar_V que_KS a_ART América_NPROP do_NPROP Sul_NPROP tem_V seleções_N femininas_ADJ de_PREP pólo_N com_PREP nível_N técnico_ADJ suficiente_ADJ para_PREP incluir_V a_ART modalidade_N nos_PREP+ART Jogos_NPROP Pan-americanos_NPROP de_NPROP Mar_NPROP Del_NPROP Plata_NPROP (_PU Argentina-1995_NPROP )_PU ._END
 Além_PREP do_PREP+ART Brasil_NPROP ,_PU confirmaram_V presença_N Argentina_NPROP ,_PU Chile_NPROP e_KC Colômbia_NPROP ._END
 "_PU A_ART participação_N da_PREP+ART Argentina_NPROP é_V importante_ADJ ,_PU pois_KC é_V o_ART país-sede_N dos_PREP+ART Pan-americanos_NPROP "_PU ,_PU afirma_V Olga_NPROP Pinciroli_NPROP ,_PU diretora_N de_PREP pólo_N aquático_ADJ feminino_ADJ da_PREP+ART CBDA_NPROP ._END
@@ -541,14 +541,14 @@ Poderemos_V avaliar_V o_ART desempenho_N de_PREP algumas_PROADJ atletas_N numa_P
 A_ART intenção_N da_PREP+ART comissão_N técnica_ADJ é_V formar_V um_ART grupo_N forte_ADJ para_PREP o_ART Mundial_NPROP de_PREP pólo_N aquático_ADJ em_PREP Roma_NPROP ,_PU na_PREP+ART Itália_NPROP ,_PU de_PREP 1º_N a_PREP 11_N de_PREP setembro_N ._END
 "_PU Nossa_PROADJ prioridade_N é_V o_ART Mundial_NPROP ._END
 Precisamos_V descobrir_V novos_ADJ talentos_N e_KC dar_V responsabilidade_N às_PREP+ART jogadoras_N "_PU ,_PU afirma_V Olga_NPROP Pinciroli_NPROP ._END
-Como_PREP preparação_N para_PREP o_ART Mundial_NPROP ,_PU o_ART Brasil_NPROP participará_V ,_PU além_PREP do_PREP+ART Sul-americano_NPROP ,_PU de_PREP um_ART torneio_N internacional_ADJ na_PREP+ART Páscoa_NPROP em_PREP São_NPROP Paulo_NPROP ,_PU que_PRO-KS deve_V incluir_V as_ART equipes_N da_PREP+ART Hungria_NPROP e_KC do_PREP+ART Cazaquistão_NPROP ._END
+Como_PREP preparação_N para_PREP o_ART Mundial_NPROP ,_PU o_ART Brasil_NPROP participará_V ,_PU além_PREP do_PREP+ART Sul-americano_NPROP ,_PU de_PREP um_ART torneio_N internacional_ADJ na_PREP+ART Páscoa_NPROP em_PREP São Paulo_NPROP ,_PU que_PRO-KS deve_V incluir_V as_ART equipes_N da_PREP+ART Hungria_NPROP e_KC do_PREP+ART Cazaquistão_NPROP ._END
 Haverá_V uma_ART temporada_N de_PREP treinamentos_N de_PREP 24_N de_PREP julho_N a_PREP 4_N de_PREP agosto_N ,_PU seguida_PCP de_PREP um_ART torneio_N entre_PREP Brasil_NPROP ,_PU EUA_NPROP ,_PU Itália_NPROP e_KC Austrália_NPROP ._END
 "_PU A_ART Holanda_NPROP é_V a_PROSUB favorita_ADJ para_PREP o_ART Mundial_NPROP ._END
 Nós_PROPESS vamos_V lá_ADV para_PREP aprender_V "_PU ,_PU reconhece_V Olga_NPROP Pinciroli_NPROP ._END
 O_ART Brasil_NPROP é_V o_ART único_N sul-americano_ADJ entre_PREP as_ART 12_NUM equipes_N que_PRO-KS estarão_V no_PREP+ART Mundial_NPROP ._END
-Para_PREP a_ART diretora_N do_PREP+ART CBDA_NPROP ,_PU isso_PROSUB o_PROPESS coloca_V como_PREP favorito_N no_PREP+ART torneio_N que_PRO-KS começa_V amanhã_ADV e_KC vai_V até_PREP o_ART dia_N 6_N em_PREP São_NPROP Paulo_NPROP ._END
+Para_PREP a_ART diretora_N do_PREP+ART CBDA_NPROP ,_PU isso_PROSUB o_PROPESS coloca_V como_PREP favorito_N no_PREP+ART torneio_N que_PRO-KS começa_V amanhã_ADV e_KC vai_V até_PREP o_ART dia_N 6_N em_PREP São Paulo_NPROP ._END
 Jogadora_N do_PREP+ART Paulistano_NPROP comandará_V a_ART seleção_N
-A_ART jogadora_N Camila_NPROP Pedrosa_NPROP ,_PU 18_NUM ,_PU tem_V a_ART responsabilidade_N de_PREP comandar_V a_ART seleção_N brasileira_ADJ no_PREP+ART Campeonato_NPROP Sul-americano_NPROP que_PRO-KS tem_V início_N amanhã_ADV em_PREP São_NPROP Paulo_NPROP ._END
+A_ART jogadora_N Camila_NPROP Pedrosa_NPROP ,_PU 18_NUM ,_PU tem_V a_ART responsabilidade_N de_PREP comandar_V a_ART seleção_N brasileira_ADJ no_PREP+ART Campeonato_NPROP Sul-americano_NPROP que_PRO-KS tem_V início_N amanhã_ADV em_PREP São Paulo_NPROP ._END
 Há_V três_NUM anos_N na_PREP+ART equipe_N do_PREP+ART Brasil_NPROP ,_PU ela_PROPESS forma_V com_PREP Regina_NPROP Abla_NPROP ,_PU Júlia_NPROP de_NPROP Albuquerque_NPROP e_KC Adriana_NPROP Maximiliano_NPROP o_ART quarteto_N das_PREP+ART jogadoras_N mais_ADV experientes_ADJ entre_PREP as_ART 13_N pelo_PREP+ART técnico_N Paulo_NPROP Comini_NPROP ._END
 Com_PREP o_ART desfalque_N de_PREP cinco_NUM titulares_N da_PREP+ART seleção_N (_PU Cristiana_NPROP Pinciroli_NPROP ,_PU Alexandra_NPROP de_NPROP Santis_NPROP ,_PU Antonella_NPROP Bertolucci_NPROP ,_PU Kátia_NPROP e_KC Kláudia_NPROP Alencar_NPROP )_PU ,_PU Camila_NPROP torna_V -se_PROPESS peça_N chave_ADJ no_PREP+ART esquema_N tático_ADJ do_PREP+ART time_N do_PREP+ART Brasil_NPROP ,_PU articulando_V as_ART jogadas_N de_PREP ataque_N da_PREP+ART seleção_N ._END
 (_PU MT_NPROP )_PU
@@ -578,15 +578,15 @@ Eles_PROPESS são_V mais_ADV briguentos_ADJ ._END
 De_PREP qualquer_PROADJ forma_N ,_PU os_ART atletas_N do_PREP+ART pólo_N não_ADV são_V tão_ADV certinhos_ADJ como_PREP os_PROSUB da_PREP+ART natação_N ._END
 Equipe_N quer_V recuperar_V título_N
 A_ART seleção_N brasileira_ADJ masculina_ADJ de_PREP pólo_N aquático_ADJ tenta_V ,_PU a_PREP partir_PREP de_PREP amanhã_ADV ,_PU reconquistar_V o_ART título_N sul-americano_ADJ na_PREP+ART categoria_N ,_PU perdido_PCP para_PREP a_ART equipe_N da_PREP+ART Colômbia_NPROP há_V dois_NUM anos_N em_PREP Medellín_NPROP ._END
-Para_PREP isso_PROSUB ,_PU contará_V com_PREP 13_NUM jogadores_N do_PREP+ART eixo_N Rio-São_NPROP Paulo_NPROP ,_PU que_PRO-KS vão_V enfrentar_V as_ART equipes_N da_PREP+ART Argentina_NPROP ,_PU Colômbia_NPROP ,_PU Venezuela_NPROP e_KC Chile_NPROP para_PREP chegar_V ao_PREP+ART título_N ._END
-depois_PREP de_PREP passar_V por_PREP uma_ART fase_N de_PREP treinamentos_N no_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP ,_PU a_ART seleção_N masculina_ADJ começou_V a_PREP treinar_V em_PREP São_NPROP Paulo_NPROP na_PREP+ART semana_N passada_PCP ._END
+Para_PREP isso_PROSUB ,_PU contará_V com_PREP 13_NUM jogadores_N do_PREP+ART eixo_N Rio-São Paulo_NPROP ,_PU que_PRO-KS vão_V enfrentar_V as_ART equipes_N da_PREP+ART Argentina_NPROP ,_PU Colômbia_NPROP ,_PU Venezuela_NPROP e_KC Chile_NPROP para_PREP chegar_V ao_PREP+ART título_N ._END
+depois_PREP de_PREP passar_V por_PREP uma_ART fase_N de_PREP treinamentos_N no_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP ,_PU a_ART seleção_N masculina_ADJ começou_V a_PREP treinar_V em_PREP São Paulo_NPROP na_PREP+ART semana_N passada_PCP ._END
 A_ART maioria_N dos_PREP+ART jogadores_N é_V carioca_N :_PU oito_N vêm_V dos_PREP+ART clubes_N Guanabara_NPROP e_KC Flamengo_NPROP ._END
 Haverá_V um_ART torneio_N classificatório_ADJ em_PREP maio_N ._END
 O_ART Campeonato_N Sul-americano_NPROP que_PRO-KS começa_V amanhã_ADV no_PREP+ART Pinheiros_NPROP é_V uma_PROSUB das_PREP+ART etapas_N da_PREP+ART preparação_N dos_PREP+ART convocados_N pelos_PREP+ART treinadores_N Carlos_NPROP Carvalho_NPROP e_KC Gilberto_NPROP Guimarães_NPROP para_PREP chegar_V ao_PREP+ART Mundial_NPROP ._END
 Fittipaldi_NPROP critica_V briga_N entre_PREP entidades_N
 Paulo_NPROP D'_NPROP AMARO_NPROP
 O_ART piloto_N brasileiro_ADJ Emerson_NPROP Fittipaldi_NPROP declarou_V ontem_ADV que_KS não_ADV são_V boas_ADJ as_ART relações_N entre_PREP a_ART Cart_NPROP ,_PU associação_N americana_ADJ que_PRO-KS organiza_V o_ART campeonato_N da_PREP+ART Fórmula_NPROP Indy_NPROP ,_PU e_KC a_ART Federação_NPROP Internacional_NPROP de_NPROP Automobilismo_NPROP (_PU Fia_NPROP )_PU ._END
-A_ART declaração_N foi_V feita_PCP em_PREP São_NPROP Paulo_NPROP ,_PU durante_PREP um_ART evento_N realizado_PCP pela_PREP+ART fabricante_N de_PREP cigarros_N Phillip_NPROP Morris_NPROP ,_PU que_PRO-KS está_V patrocinando_V cinco_NUM pilotos_N brasileiros_ADJ no_PREP+ART automobilismo_N mundial_ADJ ._END
+A_ART declaração_N foi_V feita_PCP em_PREP São Paulo_NPROP ,_PU durante_PREP um_ART evento_N realizado_PCP pela_PREP+ART fabricante_N de_PREP cigarros_N Phillip_NPROP Morris_NPROP ,_PU que_PRO-KS está_V patrocinando_V cinco_NUM pilotos_N brasileiros_ADJ no_PREP+ART automobilismo_N mundial_ADJ ._END
 "_PU As_ART relações_N estão_V ruins_ADJ como_PREP sempre_ADV "_PU ,_PU disse_V o_ART piloto_N ,_PU que_PRO-KS foi_V bicampeão_N de_PREP Fórmula-1_NPROP e_KC campeão_N da_PREP+ART Indy_NPROP em_PREP 1989_N ._END
 Emerson_NPROP vem_V tentando_V trazer_V a_ART Fórmula_NPROP Indy_NPROP para_PREP o_ART Brasil_NPROP desde_PREP 1990_N ,_PU e_KC um_PROSUB dos_PREP+ART motivos_N que_PRO-KS atrapalharam_V essa_PROADJ idéia_N foram_V as_ART pressões_N da_PREP+ART Fia_NPROP contra_PREP quem_PRO-KS quer_PRO-KS que_PRO-KS participe_V das_PREP+ART competições_N da_PREP+ART Cart_NPROP ._END
 De_PREP acordo_PREP com_PREP Fittipaldi_NPROP ,_PU a_ART intolerância_N entre_PREP as_ART entidades_N é_V unilateral_ADJ e_KC tem_V se_PROPESS perpetuado_PCP apesar_PREP da_PREP+ART saída_N Jean_NPROP Marie_NPROP Ballestre_NPROP da_PREP+ART Fia_NPROP ._END
@@ -619,7 +619,7 @@ Brinquedo_N inglês_ADJ incorpora_V negros_N
 Um_NUM quinto_N dos_PREP+ART jogadores_N da_PREP+ART Associação_NPROP Inglesa_NPROP de_NPROP futebol_NPROP é_V negro_ADJ ._END
 '_PU Edmundo_NPROP é_V o_ART culpado_N '_PU ,_PU diz_V árbitro_N
 Cláudio_NPROP Cerdeira_NPROP aponta_V atacante_N palmeirense_ADJ como_PREP responsável_ADJ pela_PREP+ART violência_N do_PREP+ART clássico_N
-O_ART árbitro_N do_PREP+ART jogo_N de_PREP domingo_N entre_PREP Palmeiras_NPROP e_KC São_NPROP Paulo_NPROP ,_PU Cláudio_NPROP Cerdeira_NPROP ,_PU 39_NUM ,_PU afirmou_V que_KS o_ART jogador_N palmeirense_ADJ Edmundo_NPROP "_PU foi_V o_ART culpado_N por_PREP toda_PROADJ a_ART violência_N "_PU na_PREP+ART partida_N ._END
+O_ART árbitro_N do_PREP+ART jogo_N de_PREP domingo_N entre_PREP Palmeiras_NPROP e_KC São Paulo_NPROP ,_PU Cláudio_NPROP Cerdeira_NPROP ,_PU 39_NUM ,_PU afirmou_V que_KS o_ART jogador_N palmeirense_ADJ Edmundo_NPROP "_PU foi_V o_ART culpado_N por_PREP toda_PROADJ a_ART violência_N "_PU na_PREP+ART partida_N ._END
 Na_PREP+ART súmula_N entregue_PCP ontem_ADV à_PREP+ART Confederação_NPROP Brasileira_NPROP de_NPROP Futebol_NPROP ,_PU Cerdeira_NPROP relatou_V o_ART tapa_N de_PREP Edmundo_NPROP no_PREP+ART meia_N Juninho_NPROP e_KC o_ART soco_N no_PREP+ART lateral_N André_NPROP ._END
 Edmundo_NPROP será_V julgado_PCP quinta-feira_N pela_PREP+ART comissão_N disciplinar_ADJ da_PREP+ART CBF_NPROP ._END
 Pode_V ser_V suspenso_PCP por_PREP até_PREP 90_NUM dias_N (_PU leia_V reportagem_N nesta_PREP+PROADJ página_N )_PU ._END
@@ -635,7 +635,7 @@ Mas_KC só_PDEN escrevi_V o_PRO-KS que_PRO-KS vi_V no_PREP+ART estádio_N ._END
 Cerdeira_NPROP disse_V que_KS expulsou_V o_ART técnico_N do_PREP+ART Palmeiras_NPROP ,_PU Wanderley_NPROP Luxemburgo_NPROP ,_PU aos_PREP+ART 9_NUM min_N do_PREP+ART primeiro_ADJ tempo_N porque_KS o_ART treinador_N reclamou_V da_PREP+ART marcação_N de_PREP um_ART lateral_N a_PREP favor_PREP do_PREP+ART adversário_N ._END
 Vou_V ficar_V de_PREP olho_N em_PREP você_PROPESS ._END
 "_PU Já_KS que_KS ele_PROPESS queria_V ficar_V de_PREP olho_N em_PREP mim_PROPESS ,_PU que_KS ficasse_V com_PREP um_ART binóculo_N olhando_V da_PREP+ART arquibancada_N "_PU ,_PU ironizou_V ontem_ADV Cerdeira_NPROP ._END
-O_ART árbitro_N elogiou_V o_ART comportamento_N do_PREP+ART técnico_N do_PREP+ART São_NPROP Paulo_NPROP ,_PU Telê_NPROP Santana_NPROP ._END
+O_ART árbitro_N elogiou_V o_ART comportamento_N do_PREP+ART técnico_N do_PREP+ART São Paulo_NPROP ,_PU Telê_NPROP Santana_NPROP ._END
 "_PU Nunca_ADV o_PROPESS vi_V tão_ADV tranquilo_ADJ ._END
 Acho_V que_KS estava_V com_PREP medo_N de_PREP também_PDEN ser_V expulso_PCP em_PREP caso_N de_PREP reclamação_N ._END
 Engenheiro_N ,_PU trabalha_V na_PREP+ART Light_NPROP ._END
@@ -653,25 +653,25 @@ O_ART julgamento_N no_PREP+ART Tribunal_N ocorreria_V daqui_PREP+ADV a_PREP trê
 (_PU )_PU
 '_PU Ele_PROPESS se_PROPESS desculpou_V '_PU ,_PU afirma_V André_NPROP
 Da_PREP+ART Reportagem_N local_ADJ
-O_ART lateral-esquerdo_N André_NPROP ,_PU do_PREP+ART São_NPROP Paulo_NPROP ,_PU disse_V que_KS Edmundo_NPROP lhe_PROPESS telefonou_V ontem_ADV para_PREP se_PROPESS desculpar_V pelo_PREP+ART soco_N que_PRO-KS lhe_PROPESS deu_V no_PREP+ART domingo_N ._END
+O_ART lateral-esquerdo_N André_NPROP ,_PU do_PREP+ART São Paulo_NPROP ,_PU disse_V que_KS Edmundo_NPROP lhe_PROPESS telefonou_V ontem_ADV para_PREP se_PROPESS desculpar_V pelo_PREP+ART soco_N que_PRO-KS lhe_PROPESS deu_V no_PREP+ART domingo_N ._END
 Segundo_PREP André_NPROP ,_PU não_ADV houve_V uma_ART conversa_N entre_PREP ambos_PROSUB ._END
 O_ART lateral_N disse_V que_KS não_ADV guarda_V rancor_N de_PREP Edmundo_NPROP ._END
-"_PU Só_PDEN fui_V à_PREP+ART delegacia_N por_PREP insistência_N da_PREP+ART diretoria_N do_PREP+ART São_NPROP Paulo_NPROP ._END
+"_PU Só_PDEN fui_V à_PREP+ART delegacia_N por_PREP insistência_N da_PREP+ART diretoria_N do_PREP+ART São Paulo_NPROP ._END
 Kalef_NPROP diz_V que_KS não_ADV provocou_V o_ART jogador_N
-O_ART diretor_N de_PREP futebol_N do_PREP+ART São_NPROP Paulo_NPROP ,_PU Kalef_NPROP João_NPROP Francisco_NPROP ,_PU negou_V ter_V incitado_PCP a_ART violência_N ,_PU ao_PREP discutir_V com_PREP o_ART atacante_N Edmundo_NPROP ._END
+O_ART diretor_N de_PREP futebol_N do_PREP+ART São Paulo_NPROP ,_PU Kalef_NPROP João_NPROP Francisco_NPROP ,_PU negou_V ter_V incitado_PCP a_ART violência_N ,_PU ao_PREP discutir_V com_PREP o_ART atacante_N Edmundo_NPROP ._END
 "_PU Só_PDEN me_PROPESS dirigi_V a_PREP ele_PROPESS no_PREP+ART campo_N para_PREP tentar_V acalmar_V -lo_PROPESS ,_PU porque_KS estava_V jogando_V com_PREP violência_N ._END
 Como_KS fui_V insultado_PCP ,_PU reagi_V no_PREP+ART mesmo_PROADJ tom_N "_PU ,_PU disse_V Kalef_NPROP ._END
 Quando_KS estourou_V a_ART confusão_N ,_PU o_ART dirigente_N garante_V não_ADV ter_V agredido_PCP ninguém_PROSUB e_KC ,_PU se_KS puxou_V o_ART cabelo_N de_PREP Tonhão_NPROP ,_PU foi_V "_PU para_PREP tentar_V segurar_V -lo_PROPESS "_PU ._END
 Atacante_N incita_V Cerdeira_NPROP a_PREP ver_V imagens_N da_PREP+ART televisão_N
-Jogador_N se_PROPESS isenta_V e_KC aponta_V culpa_N de_PREP dirigente_N do_PREP+ART São_NPROP Paulo_NPROP
+Jogador_N se_PROPESS isenta_V e_KC aponta_V culpa_N de_PREP dirigente_N do_PREP+ART São Paulo_NPROP
 "_PU O_ART Cerdeira_NPROP deveria_V ver_V as_ART imagens_N que_PRO-KS as_ART emissoras_N de_PREP televisão_N têm_V gravadas_PCP para_PREP descobrir_V que_KS não_ADV fui_V eu_PROPESS quem_PRO-KS iniciou_V a_ART confusão_N ._END
-Essa_PROSUB foi_V a_ART reação_N do_PREP+ART atacante_N Edmundo_NPROP ,_PU do_PREP+ART Palmeiras_NPROP ,_PU quando_KS foi_V informado_PCP pela_PREP+ART Folha_NPROP que_KS o_ART árbitro_N Cláudio_NPROP Cerdeira_NPROP o_PROPESS considera_V o_ART principal_ADJ responsável_N pela_PREP+ART confusão_N do_PREP+ART clássico_N contra_PREP o_ART São_NPROP Paulo_NPROP ,_PU domingo_N passado_PCP ._END
-É_V visível_ADJ que_KS o_ART principal_ADJ culpado_N é_V o_ART Kalef_NPROP (_PU João_NPROP Francisco_NPROP ,_PU diretor_N do_PREP+ART São_NPROP Paulo_NPROP ,_PU que_PRO-KS xingou_V o_ART jogador_N durante_PREP a_ART partida_N ,_PU mas_KC não_ADV consta_V no_PREP+ART relatório_N do_PREP+ART árbitro_N )_PU "_PU ,_PU disse_V Edmundo_NPROP ._END
+Essa_PROSUB foi_V a_ART reação_N do_PREP+ART atacante_N Edmundo_NPROP ,_PU do_PREP+ART Palmeiras_NPROP ,_PU quando_KS foi_V informado_PCP pela_PREP+ART Folha_NPROP que_KS o_ART árbitro_N Cláudio_NPROP Cerdeira_NPROP o_PROPESS considera_V o_ART principal_ADJ responsável_N pela_PREP+ART confusão_N do_PREP+ART clássico_N contra_PREP o_ART São Paulo_NPROP ,_PU domingo_N passado_PCP ._END
+É_V visível_ADJ que_KS o_ART principal_ADJ culpado_N é_V o_ART Kalef_NPROP (_PU João_NPROP Francisco_NPROP ,_PU diretor_N do_PREP+ART São Paulo_NPROP ,_PU que_PRO-KS xingou_V o_ART jogador_N durante_PREP a_ART partida_N ,_PU mas_KC não_ADV consta_V no_PREP+ART relatório_N do_PREP+ART árbitro_N )_PU "_PU ,_PU disse_V Edmundo_NPROP ._END
 "_PU Todos_PROSUB viram_V que_KS eu_PROPESS reagi_V a_PREP uma_ART agressão_N ._END
-Instruído_PCP por_PREP dirigentes_N palmeirenses_ADJ ,_PU o_ART atacante_N fez_V um_ART boletim_N de_PREP ocorrência_N ontem_ADV ,_PU no_PREP+ART 42º_ADJ Distrito_NPROP Policial_NPROP ,_PU na_PREP+ART Vila_NPROP Sônia_NPROP (_PU zona_N sul_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ._END
+Instruído_PCP por_PREP dirigentes_N palmeirenses_ADJ ,_PU o_ART atacante_N fez_V um_ART boletim_N de_PREP ocorrência_N ontem_ADV ,_PU no_PREP+ART 42º_ADJ Distrito_NPROP Policial_NPROP ,_PU na_PREP+ART Vila_NPROP Sônia_NPROP (_PU zona_N sul_ADJ de_PREP São Paulo_NPROP )_PU ._END
 O_ART jogador_N queixou_V -se_PROPESS de_PREP ter_V sido_PCP agredido_PCP fisicamente_ADV pelos_PREP+ART são-paulinos_N André_NPROP ,_PU Muller_NPROP e_KC Gilmar_NPROP ,_PU e_KC moralmente_ADV pelo_PREP+ART dirigente_N Kalef_NPROP ._END
 "_PU Estou_V com_PREP marcas_N nas_PREP+ART costas_N das_PREP+ART pancadas_N que_PRO-KS levei_V "_PU ,_PU disse_V Edmundo_NPROP ,_PU acompanhado_PCP pelo_PREP+ART zagueiro_N Tonhão_NPROP ,_PU que_PRO-KS prestou_V queixa_N de_PREP agressão_N física_ADJ contra_PREP os_ART jogadores_N André_NPROP e_KC Vítor_NPROP ,_PU além_PREP de_PREP Kalef_NPROP ._END
-"_PU Vamos_V agora_ADV instalar_V um_ART inquérito_N e_KC ouvir_V os_ART envolvidos_N "_PU ,_PU disse_V o_ART delegado_N Bento_NPROP da_NPROP Cunha_NPROP ,_PU do_PREP+ART 34º_N ,_PU que_PRO-KS também_PDEN é_V vice-presidente_N do_PREP+ART Tribunal_NPROP de_NPROP Justiça_NPROP Desportiva_NPROP de_PREP São_NPROP Paulo_NPROP ._END
+"_PU Vamos_V agora_ADV instalar_V um_ART inquérito_N e_KC ouvir_V os_ART envolvidos_N "_PU ,_PU disse_V o_ART delegado_N Bento_NPROP da_NPROP Cunha_NPROP ,_PU do_PREP+ART 34º_N ,_PU que_PRO-KS também_PDEN é_V vice-presidente_N do_PREP+ART Tribunal_NPROP de_NPROP Justiça_NPROP Desportiva_NPROP de_PREP São Paulo_NPROP ._END
 Em_PREP sua_PROADJ opinião_N ,_PU se_KS o_ART árbitro_N Cerdeira_NPROP carregar_V em_PREP seu_PROADJ relatório_N ,_PU Edmundo_NPROP certamente_ADV será_V punido_PCP com_PREP uma_ART pena_N extensa_ADJ ._END
 No_PREP+ART domingo_N ,_PU o_ART zagueiro_N André_NPROP foi_V ao_PREP+ART mesmo_PROADJ distrito_N ,_PU acusar_V Edmundo_NPROP pelo_PREP+ART soco_N no_PREP+ART supercílio_N esquerdo_ADJ ._END
 Edmundo_NPROP e_KC Tonhão_NPROP deixaram_V o_ART distrito_N às_PREP+ART 15h10_N e_KC rumaram_V para_PREP o_ART 91º_ADJ DP_NPROP ,_PU onde_ADV-KS se_PROPESS submeteram_V a_PREP um_ART exame_N de_PREP corpo_N de_PREP delito_N ._END
@@ -682,7 +682,7 @@ Vôlei_N
 O_ART técnico_N Bernardinho_NPROP disse_V que_KS as_ART jogadoras_N da_PREP+ART seleção_N brasileira_ADJ feminina_ADJ precisam_V agora_ADV aprimorar_V sua_PROADJ força_N física_ADJ ._END
 PÁG_N ._END
 4_N
-O_ART São_NPROP Paulo_NPROP precisa_V vencer_V hoje_ADV o_ART Sport_NPROP ,_PU em_PREP Recife_NPROP ,_PU para_PREP se_PROPESS classificar_V às_PREP+ART quartas-de-final_N do_PREP+ART Campeonato_NPROP Brasileiro_NPROP ._END
+O_ART São Paulo_NPROP precisa_V vencer_V hoje_ADV o_ART Sport_NPROP ,_PU em_PREP Recife_NPROP ,_PU para_PREP se_PROPESS classificar_V às_PREP+ART quartas-de-final_N do_PREP+ART Campeonato_NPROP Brasileiro_NPROP ._END
 3_N
 O_ART ex-jogador_N assumiu_V o_ART cargo_N ontem_ADV em_PREP substituição_N a_PREP Carlinhos_NPROP ,_PU demitido_PCP após_PREP a_ART derrota_N para_PREP o_ART Bahia_NPROP (_PU 0_N a_PREP 1_N )_PU ,_PU anteontem_ADV ._END
 "_PU As_ART torcidas_N partem_V para_ADV cima_ADV da_PREP+ART PM_NPROP a_KS fim_KS de_KS que_KS nos_PROPESS concentremos_V num_PREP+ART só_PDEN local_N ._END
@@ -720,11 +720,11 @@ Na_PREP+ART sexta-feira_N ,_PU o_ART time_N corintiano_ADJ joga_V sua_PROADJ pri
 O_ART adversário_N será_V o_ART Vitória_NPROP baiano_ADJ ,_PU no_PREP+ART estádio_N do_PREP+ART Pacaembu_NPROP ._END
 Zé_NPROP Elias_NPROP pode_V ser_V o_ART único_ADJ titular_N a_PREP participar_V da_PREP+ART partida_N ._END
 O_ART segundo_ADJ jogo_N entre_PREP as_ART equipes_N acontece_V dia_N 11_N ,_PU no_PREP+ART estádio_N da_PREP+ART Fonte_NPROP Nova_NPROP ,_PU em_PREP Salvador_NPROP ._END
-Os_ART outros_PROADJ representantes_N brasileiros_ADJ na_PREP+ART Conmebol_NPROP são_V :_PU Grêmio_NPROP ,_PU São_NPROP Paulo_NPROP ,_PU Botafogo_NPROP ._END
+Os_ART outros_PROADJ representantes_N brasileiros_ADJ na_PREP+ART Conmebol_NPROP são_V :_PU Grêmio_NPROP ,_PU São Paulo_NPROP ,_PU Botafogo_NPROP ._END
 Hoje_ADV ,_PU excepcionalmente_ADV ,_PU não_ADV publicamos_V a_ART coluna_N de_PREP Matinas_NPROP Suzuki_NPROP Jr._NPROP
-São_NPROP Paulo_NPROP pega_V Sport_NPROP em_PREP Recife_NPROP
+São Paulo_NPROP pega_V Sport_NPROP em_PREP Recife_NPROP
 Da_PREP+ART Redação_N
-O_ART São_NPROP Paulo_NPROP decide_V hoje_ADV ,_PU contra_PREP o_ART Sport_NPROP ,_PU em_PREP Recife_NPROP ,_PU o_ART vencedor_N do_PREP+ART grupo_N F_N do_PREP+ART primeiro_ADJ turno_N da_PREP+ART segunda_ADJ fase_N do_PREP+ART Campeonato_NPROP Brasileiro_NPROP ._END
+O_ART São Paulo_NPROP decide_V hoje_ADV ,_PU contra_PREP o_ART Sport_NPROP ,_PU em_PREP Recife_NPROP ,_PU o_ART vencedor_N do_PREP+ART grupo_N F_N do_PREP+ART primeiro_ADJ turno_N da_PREP+ART segunda_ADJ fase_N do_PREP+ART Campeonato_NPROP Brasileiro_NPROP ._END
 A_ART TV_N Bandeirantes_NPROP anuncia_V a_ART transmissão_N do_PREP+ART jogo_N ao_ADV vivo_ADV ,_PU às_PREP+ART 21h_N ._END
 Sobre_PREP o_ART jogo_N na_PREP+ART pág._N 3_N
 Abrem_V -se_PROPESS as_ART cortinas_N
@@ -766,14 +766,14 @@ Anteontem_ADV à_PREP+ART noite_N ,_PU em_PREP depoimento_N à_PREP+ART Polícia
 havia_V dito_PCP que_KS não_ADV sentia_V pena_N ou_KC remorso_N pelo_PREP+PRO-KS que_PRO-KS havia_V feito_PCP ._END
 Segundo_PREP a_ART delegada_N Eloni_NPROP Soares_NPROP de_NPROP Oliveira_NPROP ,_PU C.S.C._NPROP
 disse_V considerar_V "_PU uma_ART provocação_N "_PU uma_ART pessoa_N ir_V à_PREP+ART sede_N de_PREP uma_ART torcida_N usando_V camisa_N de_PREP outro_PROADJ time_N ._END
-Silva_NPROP ,_PU um_PROSUB dos_PREP+ART agredidos_N ,_PU vestia_V uma_ART camisa_N do_PREP+ART São_NPROP Paulo_NPROP por_PREP baixo_PREP de_PREP outra_PROADJ camiseta_N ._END
-Ele_PROPESS e_KC Barros_NPROP foram_V à_PREP+ART sede_N da_PREP+ART Mancha_NPROP para_PREP comprar_V ingressos_N para_PREP o_ART jogo_N entre_PREP São_NPROP Paulo_NPROP e_KC Palmeiras_NPROP ,_PU anteontem_ADV ._END
+Silva_NPROP ,_PU um_PROSUB dos_PREP+ART agredidos_N ,_PU vestia_V uma_ART camisa_N do_PREP+ART São Paulo_NPROP por_PREP baixo_PREP de_PREP outra_PROADJ camiseta_N ._END
+Ele_PROPESS e_KC Barros_NPROP foram_V à_PREP+ART sede_N da_PREP+ART Mancha_NPROP para_PREP comprar_V ingressos_N para_PREP o_ART jogo_N entre_PREP São Paulo_NPROP e_KC Palmeiras_NPROP ,_PU anteontem_ADV ._END
 C.S.C._NPROP
 deixou_V o_ART Fórum_NPROP de_NPROP Santo_NPROP André_NPROP acompanhada_PCP dos_PREP+ART pais_N ,_PU que_PRO-KS cobriram_V sua_PROADJ cabeça_N com_PREP um_ART lenço_N para_PREP evitar_V que_KS ela_PROPESS fosse_V fotografada_PCP ou_KC filmada_PCP ._END
 confessou_V sua_PROADJ participação_N ,_PU mas_KC disse_V que_KS ela_PROPESS deve_V ser_V processada_PCP por_PREP "_PU ato_N infracional_ADJ "_PU ,_PU nome_N dado_PCP a_PREP todo_PROADJ crime_N ou_KC contravenção_N praticado_PCP por_PREP menores_N ._END
 Mancha_NPROP Verde_NPROP fecha_V subsede_N de_PREP Santo_NPROP André_NPROP
 O_ART presidente_N da_PREP+ART torcida_N organizada_PCP palmeirense_ADJ Mancha_NPROP Verde_NPROP ,_PU Paulo_NPROP Serdan_NPROP ,_PU revelou_V ontem_ADV que_KS a_ART subsede_N da_PREP+ART Mancha_NPROP em_PREP Santo_NPROP André_NPROP foi_V desfiliada_PCP e_KC que_KS o_ART imóvel_N será_V devolvido_PCP ._END
-A_ART decisão_N aconteceu_V devido_PREP aos_PREP+ART problemas_N ocorridos_PCP no_PREP+ART último_ADJ sábado_N ,_PU quando_ADV-KS cerca_PREP de_PREP 15_NUM integrantes_N da_PREP+ART Mancha_NPROP no_PREP+ART ABCD_NPROP torturaram_V dois_NUM torcedores_N que_PRO-KS foram_V comprar_V ingressos_N para_PREP o_ART jogo_N São_NPROP Paulo_NPROP x_PREP Palmeiras_NPROP ._END
+A_ART decisão_N aconteceu_V devido_PREP aos_PREP+ART problemas_N ocorridos_PCP no_PREP+ART último_ADJ sábado_N ,_PU quando_ADV-KS cerca_PREP de_PREP 15_NUM integrantes_N da_PREP+ART Mancha_NPROP no_PREP+ART ABCD_NPROP torturaram_V dois_NUM torcedores_N que_PRO-KS foram_V comprar_V ingressos_N para_PREP o_ART jogo_N São Paulo_NPROP x_PREP Palmeiras_NPROP ._END
 Segundo_PREP Serdan_NPROP ,_PU além_PREP de_PREP fechar_V a_ART subsede_N ,_PU a_ART Mancha_NPROP entregou_V o_ART fichário_N com_PREP a_ART foto_N de_PREP todos_PROADJ os_ART sócios_N na_PREP+ART região_N do_PREP+ART ABCD_NPROP para_PREP a_ART polícia_N e_KC também_PDEN estuda_V a_ART expulsão_N dos_PREP+ART acusados_N na_PREP+ART agressão_N ._END
 Outras_PROADJ medidas_N tomadas_N pelo_PREP+ART presidente_N da_PREP+ART Mancha_NPROP Verde_NPROP foram_V a_ART rescisão_N do_PREP+ART contrato_N de_PREP aluguel_N do_PREP+ART prédio_N ,_PU localizado_PCP na_PREP+ART rua_N General_NPROP Glicério_NPROP ,_PU e_KC o_ART fim_N da_PREP+ART cessão_N de_PREP um_ART ônibus_N gratuito_ADJ para_PREP levar_V os_ART torcedores_N aos_PREP+ART jogos_N ._END
 Serdan_NPROP declarou_V que_KS a_ART idéia_N é_V fazer_V uma_ART "_PU limpeza_N "_PU na_PREP+ART torcida_N para_PREP expulsar_V dos_PREP+ART quadros_N os_ART torcedores_N violentos_ADJ ._END
@@ -782,10 +782,10 @@ Desse_PREP+PROADJ total_N ,_PU aproximadamente_ADV 2.300_N são_V moradores_N do
 As_ART subsedes_N de_PREP Santo_NPROP André_NPROP das_PREP+ART torcidas_N Mancha_NPROP Verde_NPROP e_KC Gaviões_NPROP da_NPROP Fiel_NPROP (_PU corintiana_ADJ )_PU são_V investigadas_PCP pela_PREP+ART polícia_N há_V três_NUM meses_N ._END
 A_ART investigação_N começou_V logo_PREP após_PREP a_ART explosão_N de_PREP uma_ART bomba_N de_PREP fabricação_N caseira_ADJ na_PREP+ART antiga_ADJ sede_N da_PREP+ART Mancha_NPROP Verde_NPROP ,_PU na_PREP+ART véspera_N de_PREP um_ART jogo_N entre_PREP Corinthians_NPROP e_KC Palmeiras_NPROP ._END
 Telê_NPROP deve_V barrar_V meia_N Palhinha_NPROP contra_PREP Sport_NPROP
-O_ART meia_N Palhinha_NPROP deverá_V ser_V barrado_PCP do_PREP+ART time_N do_PREP+ART São_NPROP Paulo_NPROP que_PRO-KS enfrenta_V hoje_ADV às_PREP+ART 21h_N (_PU 20h_N em_PREP Recife_NPROP )_PU o_ART Sport_NPROP ._END
-O_ART São_NPROP Paulo_NPROP precisa_V vencer_V para_PREP conquistar_V o_ART primeiro_ADJ turno_N da_PREP+ART segunda_ADJ fase_N do_PREP+ART Campeonato_NPROP Brasileiro_NPROP no_PREP+ART grupo_N E_N
+O_ART meia_N Palhinha_NPROP deverá_V ser_V barrado_PCP do_PREP+ART time_N do_PREP+ART São Paulo_NPROP que_PRO-KS enfrenta_V hoje_ADV às_PREP+ART 21h_N (_PU 20h_N em_PREP Recife_NPROP )_PU o_ART Sport_NPROP ._END
+O_ART São Paulo_NPROP precisa_V vencer_V para_PREP conquistar_V o_ART primeiro_ADJ turno_N da_PREP+ART segunda_ADJ fase_N do_PREP+ART Campeonato_NPROP Brasileiro_NPROP no_PREP+ART grupo_N E_N
 ._END Com_PREP a_ART vitória_N ,_PU o_ART time_N empata_V com_PREP o_ART Palmeiras_NPROP em_PREP pontos_N ganhos_PCP (_PU 11_N )_PU e_KC em_PREP número_N de_PREP vitórias_N (_PU 4_N )_PU ,_PU mas_KC o_PROPESS supera_V no_PREP+ART saldo_N de_PREP gols_N ._END
-O_ART São_NPROP Paulo_NPROP tem_V cinco_NUM gols_N de_PREP saldo_N e_KC o_ART Palmeiras_NPROP ,_PU três_N ._END
+O_ART São Paulo_NPROP tem_V cinco_NUM gols_N de_PREP saldo_N e_KC o_ART Palmeiras_NPROP ,_PU três_N ._END
 Palhinha_NPROP não_ADV vem_V agradando_V ao_PREP+ART técnico_N Telê_NPROP Santana_NPROP e_KC foi_V substituído_PCP por_PREP Juninho_NPROP no_PREP+ART intervalo_N do_PREP+ART jogo_N de_PREP domingo_N com_PREP o_ART Palmeiras_NPROP ._END
 Desde_KS que_KS voltou_V da_PREP+ART seleção_N ,_PU em_PREP outubro_N do_PREP+ART ano_N passado_PCP ,_PU ele_PROPESS não_ADV foi_V mais_ADV o_ART mesmo_PROSUB "_PU ,_PU afirmou_V Telê_NPROP ._END
 Palhinha_NPROP foi_V lacônico_ADJ ao_PREP comentar_V sua_PROADJ atuação_N domingo_N ._END
@@ -796,31 +796,31 @@ Como_KS Juninho_NPROP está_V suspenso_PCP ,_PU devido_PREP à_PREP+ART sua_PROA
 Se_KS o_ART meia_N chileno_ADJ Sierra_NPROP já_ADV tivesse_V recuperado_PCP sua_PROADJ forma_N física_ADJ ,_PU após_ADV sofrer_V uma_ART contusão_N muscular_ADJ na_PREP+ART coxa_N esquerda_ADJ ,_PU sua_PROADJ entrada_N no_PREP+ART time_N seria_V certa_ADJ ._END
 O_ART jogador_N ,_PU porém_KC ,_PU ainda_ADV não_ADV tem_V condições_N plenas_ADJ de_PREP jogo_N ,_PU segundo_PREP o_ART preparador_N Altair_NPROP Ramos_NPROP ._END
 Em_PREP lugar_PREP de_PREP Muller_NPROP ,_PU o_ART terceiro_ADJ são-paulino_N expulso_PCP no_PREP+ART clássico_N ,_PU o_ART mais_ADV provável_ADJ é_V que_KS jogue_V Caio_NPROP ,_PU embora_KS Toninho_NPROP -_PU que_PRO-KS atuou_V bem_ADV contra_PREP o_ART Flamengo_NPROP ,_PU sexta-feira_N também_PDEN tenha_V chance_N ._END
-Para_PREP o_ART volante_N Alemão_NPROP ,_PU o_ART fato_N de_PREP o_ART Sport_NPROP estar_V bem_ADV no_PREP+ART campeonato_N -_PU derrotou_V o_ART Botafogo_NPROP por_PREP 5_N a_PREP 2_N ,_PU sábado_N ,_PU em_PREP Niterói_NPROP -_PU dá_V mais_PROADJ motivação_N ao_PREP+ART São_NPROP Paulo_NPROP para_PREP a_ART partida_N de_PREP hoje_ADV ._END
+Para_PREP o_ART volante_N Alemão_NPROP ,_PU o_ART fato_N de_PREP o_ART Sport_NPROP estar_V bem_ADV no_PREP+ART campeonato_N -_PU derrotou_V o_ART Botafogo_NPROP por_PREP 5_N a_PREP 2_N ,_PU sábado_N ,_PU em_PREP Niterói_NPROP -_PU dá_V mais_PROADJ motivação_N ao_PREP+ART São Paulo_NPROP para_PREP a_ART partida_N de_PREP hoje_ADV ._END
 Alemão_NPROP disse_V que_KS assistiu_V à_PREP+ART vitória_N do_PREP+ART Sport_NPROP sobre_PREP o_ART Botafogo_NPROP e_KC que_KS ficou_V impressionado_PCP com_PREP o_ART ponta-esquerda_N Zinho_NPROP ,_PU do_PREP+ART time_N pernambucano_ADJ ._END
 "_PU Eles_PROPESS têm_V um_ART contra-ataque_N muito_ADV forte_ADJ por_PREP aquele_PROADJ lado_N ._END
 Bandeirantes_NPROP anuncia_V transmissão_N às_PREP+ART 21h_N ,_PU horário_N de_PREP Brasília_NPROP
 '_PU Falta_V orientação_N '_PU ,_PU diz_V Baiano_NPROP
-A_ART briga_N entre_PREP os_ART jogadores_N são-paulinos_ADJ e_KC palmeirenses_ADJ ocorrida_PCP no_PREP+ART final_N do_PREP+ART jogo_N de_PREP domingo_N foi_V o_ART assunto_N predominante_ADJ ontem_ADV no_PREP+ART São_NPROP Paulo_NPROP ._END
+A_ART briga_N entre_PREP os_ART jogadores_N são-paulinos_ADJ e_KC palmeirenses_ADJ ocorrida_PCP no_PREP+ART final_N do_PREP+ART jogo_N de_PREP domingo_N foi_V o_ART assunto_N predominante_ADJ ontem_ADV no_PREP+ART São Paulo_NPROP ._END
 Para_PREP o_ART zagueiro_N Júnior_NPROP Baiano_NPROP -_PU que_PRO-KS ,_PU quando_KS atuava_V pelo_PREP+ART Flamengo_NPROP ,_PU tinha_V fama_N de_PREP violento_N -_PU ,_PU o_ART atacante_N palmeirense_ADJ Edmundo_NPROP ,_PU pivô_N da_PREP+ART confusão_N ,_PU está_V precisando_V ser_V "_PU orientado_PCP "_PU ._END
-Júnior_NPROP Baiano_NPROP disse_V que_KS mudou_V sua_PROADJ forma_N de_PREP agir_V no_PREP+ART São_NPROP Paulo_NPROP porque_KS teve_V a_ART orientação_N do_PREP+ART técnico_N Telê_NPROP Santana_NPROP ._END
+Júnior_NPROP Baiano_NPROP disse_V que_KS mudou_V sua_PROADJ forma_N de_PREP agir_V no_PREP+ART São Paulo_NPROP porque_KS teve_V a_ART orientação_N do_PREP+ART técnico_N Telê_NPROP Santana_NPROP ._END
 Juninho_NPROP ,_PU expulso_PCP por_PREP ofender_V Edmundo_NPROP ,_PU respondeu_V à_PREP+ART afirmação_N do_PREP+ART atacante_N palmeirense_ADJ ,_PU que_PRO-KS o_PROPESS chamou_V de_PREP "_PU meio-homem_N "_PU -_PU devido_PCP à_PREP+ART sua_PROADJ baixa_ADJ estatura_N ._END
 "_PU Ele_PROPESS também_PDEN não_ADV é_V nenhum_PROADJ Myke_NPROP Tyson_NPROP "_PU ,_PU disse_V ,_PU referindo_V -se_PROPESS ao_PREP+ART ex-campeão_N mundial_ADJ de_PREP pesos-pesados_N ._END
 O_ART diretor_N de_PREP futebol_N Márcio_NPROP Aranha_NPROP disse_V que_KS Kalef_NPROP João_NPROP Francisco_NPROP ,_PU também_PDEN diretor_N ,_PU que_PRO-KS estava_V no_PREP+ART banco_N de_PREP reservas_N domingo_N ,_PU errou_V ao_PREP discutir_V com_PREP Edmundo_NPROP ._END
 "_PU O_ART dirigente_N não_ADV deve_V se_PROPESS manifestar_V quando_KS está_V em_PREP campo_N "_PU ,_PU afirmou_V Aranha_NPROP ._END
 Zagueiro_N Sandro_NPROP desfalca_V o_ART Sport_NPROP
-O_ART Sport_NPROP enfrenta_V hoje_ADV o_ART São_NPROP Paulo_NPROP em_PREP Recife_NPROP desfalcado_PCP do_PREP+ART zagueiro_N Sandro_NPROP ._END
+O_ART Sport_NPROP enfrenta_V hoje_ADV o_ART São Paulo_NPROP em_PREP Recife_NPROP desfalcado_PCP do_PREP+ART zagueiro_N Sandro_NPROP ._END
 Ele_PROPESS recebeu_V o_ART terceiro_ADJ cartão_N amarelo_ADJ na_PREP+ART partida_N contra_PREP o_ART Botafogo_NPROP e_KC cumpre_V suspensão_N ._END
 Seu_PROADJ substituto_N é_V Gílton_NPROP ._END
 O_ART ponta-esquerda_N Zinho_NPROP tem_V se_PROPESS destacado_PCP nas_PREP+ART últimas_ADJ partidas_N ._END
 O_ART jogador_N ,_PU que_PRO-KS na_PREP+ART primeira_ADJ fase_N do_PREP+ART campeonato_N fez_V apenas_PDEN um_NUM gol_N ,_PU marcou_V três_N contra_PREP o_ART Botafogo_NPROP ._END
-O_ART técnico_N do_PREP+ART Sport_NPROP ,_PU Givanildo_NPROP Oliveira_NPROP ,_PU acha_V que_KS o_ART jogo_N contra_PREP o_ART São_NPROP Paulo_NPROP vai_V ser_V "_PU muito_ADV difícil_ADJ "_PU ._END
+O_ART técnico_N do_PREP+ART Sport_NPROP ,_PU Givanildo_NPROP Oliveira_NPROP ,_PU acha_V que_KS o_ART jogo_N contra_PREP o_ART São Paulo_NPROP vai_V ser_V "_PU muito_ADV difícil_ADJ "_PU ._END
 Ele_PROPESS disse_V que_KS o_ART time_N "_PU vai_V para_ADV cima_ADV "_PU para_PREP vencer_V e_KC alcançar_V dez_NUM pontos_N no_PREP+ART primeiro_ADJ turno_N da_PREP+ART segunda_ADJ fase_N do_PREP+ART Brasileiro_NPROP ._END
-Se_KS conseguir_V derrotar_V o_ART São_NPROP Paulo_NPROP ,_PU o_ART Sport_NPROP fica_V com_PREP a_ART segunda_ADJ colocação_N do_PREP+ART grupo_N F_N e_KC poderá_V tentar_V passar_V às_PREP+ART quartas_N de_N final_N numa_PREP+PROSUB das_PREP+ART duas_NUM vagas_N decididas_PCP pelo_PREP+ART índice_N técnico_ADJ ._END
+Se_KS conseguir_V derrotar_V o_ART São Paulo_NPROP ,_PU o_ART Sport_NPROP fica_V com_PREP a_ART segunda_ADJ colocação_N do_PREP+ART grupo_N F_N e_KC poderá_V tentar_V passar_V às_PREP+ART quartas_N de_N final_N numa_PREP+PROSUB das_PREP+ART duas_NUM vagas_N decididas_PCP pelo_PREP+ART índice_N técnico_ADJ ._END
 Brasil_NPROP vai_V investir_V no_PREP+ART físico_N para_PREP Atlanta_NPROP 96_NPROP
 Brasil_NPROP vai_V investir_V no_PREP+ART físico_N para_PREP Atlanta_NPROP 96_NPROP 96_N
 O_ART técnico_N Bernardo_NPROP Rezende_NPROP ,_PU o_ART Bernardinho_NPROP ,_PU disse_V ontem_ADV que_KS ,_PU entre_PREP os_ART planos_N futuros_ADJ para_PREP a_ART seleção_N brasileira_ADJ feminina_ADJ de_PREP vôlei_N ,_PU está_V o_ART investimento_N no_PREP+ART aumento_N da_PREP+ART força_N física_ADJ da_PREP+ART jogadoras_N ._END
-Este_PROSUB foi_V o_ART primeiro_ADJ resultado_N da_PREP+ART avaliação_N que_PRO-KS ele_PROPESS e_KC as_ART atletas_N fizeram_V da_PREP+ART campanha_N da_PREP+ART equipe_N ,_PU vice-campeã_N no_PREP+ART Campeonato_NPROP Mundial_NPROP de_NPROP Vôlei_NPROP Feminino_NPROP ,_PU encerrado_PCP anteontem_ADV em_PREP São_NPROP Paulo_NPROP ._END
+Este_PROSUB foi_V o_ART primeiro_ADJ resultado_N da_PREP+ART avaliação_N que_PRO-KS ele_PROPESS e_KC as_ART atletas_N fizeram_V da_PREP+ART campanha_N da_PREP+ART equipe_N ,_PU vice-campeã_N no_PREP+ART Campeonato_NPROP Mundial_NPROP de_NPROP Vôlei_NPROP Feminino_NPROP ,_PU encerrado_PCP anteontem_ADV em_PREP São Paulo_NPROP ._END
 No_PREP+ART jogo_N contra_PREP Cuba_NPROP não_ADV conseguimos_V contrapor_V a_ART força_N do_PREP+ART adversário_N ,_PU que_PRO-KS supera_V nossa_PROADJ equipe_N ,_PU por_ADV enquanto_ADV ,_PU na_PREP+ART impulsão_N de_PREP altura_N de_PREP bloqueio_N e_KC ataque_N "_PU ,_PU afirmou_V o_ART treinador_N ._END
 Para_PREP Bernardinho_NPROP ,_PU as_ART futuras_ADJ competições_N que_PRO-KS a_ART equipe_N vai_V participar_V não_ADV serão_V fáceis_ADJ ._END
 "_PU Disputar_V uma_ART medalha_N ,_PU qualquer_PROSUB que_PRO-KS seja_V ,_PU na_PREP+ART Olimpíada_NPROP de_NPROP Atlanta_NPROP ,_PU vai_V ser_V muito_ADV difícil_ADJ para_PREP nós_PROPESS "_PU ,_PU disse_V o_ART treinador_N ._END
@@ -829,7 +829,7 @@ Cuba_NPROP deve_V se_PROPESS manter_V no_PREP+ART topo_N ,_PU e_KC os_ART EUA_NP
 "_PU Se_KS quisermos_V uma_ART medalha_N vamos_V ter_V que_KS brigar_V com_PREP esses_PROADJ três_NUM times_N "_PU ,_PU garante_V o_ART técnico_N ._END
 Ele_PROPESS disse_V que_KS descarta_V a_ART hipótese_N de_PREP ,_PU pela_PREP+ART campanha_N exibida_PCP pela_PREP+ART seleção_N feminina_ADJ este_PROADJ ano_N ,_PU vir_V a_PREP ser_V técnico_N do_PREP+ART time_N masculino_ADJ ._END
 Primeiro_N porque_KS o_ART melhor_ADJ técnico_N do_PREP+ART Brasil_NPROP está_V na_PREP+ART seleção_N masculina_ADJ hoje_ADV ._END
-O_ART técnico_N disse_V que_KS ,_PU após_PREP a_ART disputa_N do_PREP+ART Super_NPROP Four_NPROP ,_PU vai_V assistir_V alguns_PROADJ jogos_N do_PREP+ART Mundial_NPROP de_NPROP Clubes_NPROP Feminino_NPROP ,_PU que_PRO-KS acontece_V em_PREP São_NPROP Paulo_NPROP no_PREP+ART final_N deste_PREP+PROADJ mês_N ._END
+O_ART técnico_N disse_V que_KS ,_PU após_PREP a_ART disputa_N do_PREP+ART Super_NPROP Four_NPROP ,_PU vai_V assistir_V alguns_PROADJ jogos_N do_PREP+ART Mundial_NPROP de_NPROP Clubes_NPROP Feminino_NPROP ,_PU que_PRO-KS acontece_V em_PREP São Paulo_NPROP no_PREP+ART final_N deste_PREP+PROADJ mês_N ._END
 O_ART Super_NPROP Four_NPROP ,_PU que_PRO-KS começa_V no_PREP+ART próximo_ADJ dia_N 11_N ,_PU encerra_V a_ART temporada_N do_PREP+ART calendário_N internacional_ADJ do_PREP+ART vôlei_N ._END
 O_ART torneio_N será_V realizado_PCP em_PREP Tóquio_NPROP ,_PU reunindo_V as_ART três_NUM primeiras_ADJ colocadas_N no_PREP+ART Mundial_NPROP Feminino_NPROP -_PU Cuba_NPROP ,_PU Brasil_NPROP e_KC Rússia_NPROP -_PU ,_PU mais_KC o_ART Japão_NPROP ._END
 Cumprida_PCP essa_PROADJ programação_N ,_PU Bernardinho_NPROP garante_V que_KS tira_V férias_N em_PREP dezembro_N ._END
@@ -940,7 +940,7 @@ João_NPROP Luís_NPROP volta_V à_PREP+ART equipe_N depois_PREP de_PREP ter_V f
 A_ART fama_N nasceu_V com_PREP os_ART problemas_N no_PREP+ART joelho_N e_KC cresceu_V com_PREP dois_NUM episódios_N ._END
 O_ART zagueiro_N teve_V o_ART exame_N de_PREP ressonância_N magnética_ADJ levado_PCP por_PREP assaltantes_N quando_KS viajava_V num_PREP+ART ônibus_N ._END
 O_ART exame_N mostrava_V o_ART joelho_N problemático_ADJ ._END
-Este_PROADJ ano_N ,_PU João_NPROP Luís_NPROP recebeu_V do_PREP+ART tio_N Válber_NPROP ,_PU zagueiro_N do_PREP+ART São_NPROP Paulo_NPROP ,_PU um_ART carro_N emprestado_PCP ._END
+Este_PROADJ ano_N ,_PU João_NPROP Luís_NPROP recebeu_V do_PREP+ART tio_N Válber_NPROP ,_PU zagueiro_N do_PREP+ART São Paulo_NPROP ,_PU um_ART carro_N emprestado_PCP ._END
 A_ART novidade_N tática_ADJ do_PREP+ART Fluminense_NPROP hoje_ADV é_V a_ART escalação_N do_PREP+ART lateral-esquerdo_N Lira_NPROP no_PREP+ART meio-campo_N ._END
 O_ART atacante_N Ézio_NPROP ,_PU artilheiro_N do_PREP+ART time_N com_PREP sete_NUM gols_N ,_PU espera_V repetir_V as_ART boas_ADJ atuações_N que_PRO-KS sempre_ADV tem_V contra_PREP os_ART times_N paulistas_ADJ ._END
 Alvinegro_NPROP leva_V seleção_N carioca_ADJ ao_PREP+ART Maraca_NPROP
@@ -957,7 +957,7 @@ Gaúchos_N contra_PREP gaúchos_N ,_PU valentia_N "_PU black_ADJ and_ADJ blue_AD
 O_ART Grêmio_NPROP (_PU como_PREP o_ART outro_PROADJ time_N que_PRO-KS começa_V com_PREP G_N ,_PU o_ART Guarani_NPROP )_PU é_V todo_ADV costurado_PCP na_PREP+ART esperança_N ,_PU a_PREP começar_V pela_PREP+ART juventude_N exuberante_ADJ do_PREP+ART goleiro_N chamado_PCP Danrlei_NPROP ._END
 Não_ADV se_PROPESS sabe_V se_KS Porto_NPROP Alegre_NPROP verá_V no_PREP+ART domingo_N o_ART duelo_N entre_PREP os_ART dois_NUM goleiros_N revelação_ADJ desta_PREP+PROADJ temporada_N ,_PU o_ART Paulo_NPROP César_NPROP (_PU que_PRO-KS não_ADV estava_V confirmado_PCP )_PU ,_PU da_PREP+ART Portuguesa_NPROP ,_PU e_KC o_ART Danrlei_NPROP ,_PU do_PREP+ART Grêmio_NPROP ._END
 O_PROSUB que_PROSUB pode_V -se_PROPESS especular_V (_PU e_KC especular_V no_PREP+ART futebol_N é_V sempre_ADV um_ART risco_N )_PU é_V o_ART seguinte_N :_PU se_KS a_ART disputa_N de_PREP dois_NUM torneios_N simultâneos_ADJ não_ADV fatigar_V demais_ADV a_ART equipe_N ,_PU o_ART Grêmio_NPROP poderá_V ser_V uma_PROSUB das_PREP+ART alegrias_N do_PREP+ART ano_N ._END
-O_ART Grêmio_NPROP precisa_V tomar_V um_ART cuidado_N que_PRO-KS o_ART São_NPROP Paulo_NPROP não_ADV conseguiu_V tomar_V ._END
+O_ART Grêmio_NPROP precisa_V tomar_V um_ART cuidado_N que_PRO-KS o_ART São Paulo_NPROP não_ADV conseguiu_V tomar_V ._END
 Isto_PROSUB significa_V que_KS eles_PROPESS estão_V praticamente_ADV sem_PREP férias_N há_V três_NUM anos_N ._END
 Estão_V sem_PREP o_ART indispensável_ADJ período_N de_PREP recuperação_N física_ADJ ._END
 Significa_V que_KS há_V três_NUM anos_N não_ADV fazem_V pré-temporada_N ._END
@@ -979,10 +979,10 @@ Teresa_NPROP Orlowski_NPROP (_PU produtora_N de_PREP filmes_N pornográficos_ADJ
 "_PU Ele_PROPESS tem_V que_KS mudar_V de_PREP visual_N :_PU deixar_V crescer_V a_ART barba_N ,_PU usar_V fixador_N de_PREP cabelo_N ._END
 Ribeirão_NPROP Preto_NPROP Começa_V hoje_ADV o_ART 3º_ADJ Ribeirão_NPROP Open_NPROP ,_PU competição_N da_PREP+ART modalidade_N valendo_V pontos_N pela_PREP+ART ATP_NPROP (_PU Associação_NPROP de_NPROP Tenistas_NPROP Profissionais_NPROP )_PU ._END
 O_ART evento_N contará_V com_PREP presenças_N de_PREP tenistas_N como_PREP Fernando_NPROP Meligeni_NPROP ,_PU Roberto_NPROP Jábali_NPROP e_KC Jaime_NPROP Oncins_NPROP ._END
-São_NPROP Paulo_NPROP A_ART equipe_N de_PREP basquete_N em_PREP cadeira_N de_N rodas_N do_PREP+ART Cubatão/Banespa_NPROP enfrenta_V hoje_ADV ,_PU às_PREP+ART 9h_N ,_PU o_ART time_N do_PREP+ART HC/Nestlé_NPROP ._END
+São Paulo_NPROP A_ART equipe_N de_PREP basquete_N em_PREP cadeira_N de_N rodas_N do_PREP+ART Cubatão/Banespa_NPROP enfrenta_V hoje_ADV ,_PU às_PREP+ART 9h_N ,_PU o_ART time_N do_PREP+ART HC/Nestlé_NPROP ._END
 O_ART encontro_N acontece_V antes_PREP da_PREP+ART viagem_N do_PREP+ART time_N brasileiro_ADJ para_PREP a_ART disputa_N do_PREP+ART Campeonato_NPROP Sul-Americano_NPROP de_PREP clubes_N campeões_ADJ ,_PU de_PREP 8_N a_PREP 15_N de_PREP outubro_N ,_PU em_PREP Montevidéu_NPROP ,_PU Uruguai_NPROP ._END
-São_NPROP Paulo_NPROP Ezequiel_NPROP Paixão_NPROP ,_PU campeão_N brasileiro_ADJ dos_PREP+ART meio-pesados_N ,_PU enfrenta_V o_ART norte-americano_N Diosmel_NPROP Anaya_NPROP ,_PU amanhã_ADV ,_PU às_PREP+ART 16h30_N ._END
-Mais_PROADJ duas_NUM lutas_N estão_V no_PREP+ART programa_N e_KC acontecem_V no_PREP+ART ginásio_N da_PREP+ART faculdade_N São_NPROP Judas_NPROP Tadeu_NPROP (_PU rua_N Taquari_NPROP ,_PU 546_NUM )_PU
+São Paulo_NPROP Ezequiel_NPROP Paixão_NPROP ,_PU campeão_N brasileiro_ADJ dos_PREP+ART meio-pesados_N ,_PU enfrenta_V o_ART norte-americano_N Diosmel_NPROP Anaya_NPROP ,_PU amanhã_ADV ,_PU às_PREP+ART 16h30_N ._END
+Mais_PROADJ duas_NUM lutas_N estão_V no_PREP+ART programa_N e_KC acontecem_V no_PREP+ART ginásio_N da_PREP+ART faculdade_N São Judas_NPROP Tadeu_NPROP (_PU rua_N Taquari_NPROP ,_PU 546_NUM )_PU
 A_ART prova_N terá_V 750_NUM m_N de_PREP natação_N ,_PU 20_NUM km_N de_PREP ciclismo_N e_KC 5_NUM km_N de_PREP corrida_N ._END
 Participam_V desta_PREP+PROADJ etapa_N cerca_PREP de_PREP mil_NUM atletas_N ._END
 É_V a_ART penúltima_ADJ fase_N do_PREP+ART Troféu_N ,_PU que_PRO-KS distribui_V mais_PREP de_PREP US$_CUR 40_NUM mil_NUM em_PREP prêmios_N ._END
@@ -990,7 +990,7 @@ Varginha_NPROP A_ART 5ª_ADJ etapa_N do_PREP+ART White_NPROP Horse_NPROP de_NPRO
 Participam_V cerca_PREP de_PREP 250_NUM conjuntos_N ._END
 Pinheiros_NPROP Nos_PREP+ART dias_N 7_N e_KC 8_N de_PREP outubro_N ,_PU às_PREP+ART 10h_N ,_PU tem_V início_N o_ART Campeonato_NPROP de_NPROP Escalada_NPROP Esportiva_NPROP (_PU disputado_PCP em_PREP um_ART muro_N de_PREP 15_NUM mtros_N de_PREP altura_N e_KC oito_N de_PREP comprimento_N ._END
 O_ART evento_N acontece_V na_PREP+ART praça_N do_PREP+ART Pôr_NPROP do_NPROP Sol_NPROP ,_PU alto_N de_PREP Pinheiros_NPROP ._END
-São_NPROP Paulo_NPROP Começa_V hoje_ADV o_ART Circuito_NPROP Sharp_NPROP Internacional_NPROP de_NPROP Squash_NPROP ._END
+São Paulo_NPROP Começa_V hoje_ADV o_ART Circuito_NPROP Sharp_NPROP Internacional_NPROP de_NPROP Squash_NPROP ._END
 Os_ART jogos_N serão_V disputados_PCP no_PREP+ART Marono_NPROP Squash_NPROP ._END
 No_PREP+ART segundo_ADJ tempo_N ,_PU o_ART Grêmio_NPROP virou_V a_ART partida_N e_KC se_PROPESS classificou_V fora_PREP de_PREP casa_N ._END
 Artilheiros_N
@@ -1053,7 +1053,7 @@ Com_PREP o_ART esquema_N ,_PU o_ART lateral_N Gustavo_NPROP terá_V menos_PROADJ
 "_PU Claro_ADJ que_KS o_ART Gustavo_NPROP também_PDEN deverá_V passar_V da_PREP+ART linha_N de_PREP meio-campo_N ,_PU mas_KC quero_V aprimorar_V seu_PROADJ entrosamento_N com_PREP o_ART Flávio_NPROP ._END
 Na_PREP+ART outra_PROADJ faixa_N de_PREP campo_N ,_PU Roberto_NPROP Carlos_NPROP ,_PU que_PRO-KS volta_V ao_PREP+ART time_N depois_PREP de_PREP cumprir_V suspensão_N de_PREP três_NUM partidas_N ,_PU terá_V mais_PROADJ liberdade_N ._END
 Nessa_PREP+PROADJ proposta_N tática_ADJ ,_PU o_ART time_N continuará_V com_PREP apenas_PDEN um_NUM volante_N mais_ADV fixo_PCP (_PU César_NPROP Sampaio_NPROP )_PU ._END
-"_PU Nosso_PROADJ plano_N é_V aproveitar_V os_ART jogos_N em_PREP São_NPROP Paulo_NPROP para_PREP acertar_V o_ART esquema_N "_PU ,_PU disse_V Luxemburgo_NPROP ._END
+"_PU Nosso_PROADJ plano_N é_V aproveitar_V os_ART jogos_N em_PREP São Paulo_NPROP para_PREP acertar_V o_ART esquema_N "_PU ,_PU disse_V Luxemburgo_NPROP ._END
 VT_N na_PREP+ART TVA_NPROP ,_PU às_PREP+ART 17h_N ;_PU Bandeirantes_NPROP ,_PU compacto_N às_PREP+ART 17h5_N
 Zinho_NPROP aproveita_V sua_PROADJ nova_ADJ posição_N
 Com_PREP a_ART chegada_N de_PREP Rivaldo_NPROP ,_PU jogador_N essencialmente_ADV canhoto_ADJ ,_PU Zinho_NPROP foi_V obrigado_PCP a_PREP ocupar_V o_ART lado_N direito_ADJ do_PREP+ART ataque_N ,_PU improvisando_V uma_ART posição_N em_PREP que_PRO-KS não_ADV estava_V acostumado_PCP ._END
@@ -1086,8 +1086,8 @@ Segundo_PREP Macedo_NPROP ,_PU um_PROSUB dos_PREP+ART artilheiros_N do_PREP+ART 
 Nesse_PREP+PROADJ sentido_N ,_PU Serginho_NPROP orientou_V Ranielli_NPROP a_PREP jogar_V encostado_PCP nos_PREP+ART atacantes_N Macedo_NPROP e_KC Guga_NPROP ._END
 Paulinho_NPROP Kobayashi_NPROP jogará_V mais_ADV recuado_PCP ,_PU auxiliando_V o_ART meio-campo_N ._END
 Durante_PREP o_ART treino_N coletivo_ADJ realizado_PCP ontem_ADV à_PREP+ART tarde_N ,_PU a_ART formação_N foi_V testada_PCP pelo_PREP+ART técnico_N Serginho_NPROP ._END
-São_NPROP Paulo_NPROP tenta_V abafar_V acusação_N de_PREP suborno_N
-O_ART presidente_N do_PREP+ART Conselho_NPROP Consultivo_NPROP do_PREP+ART São_NPROP Paulo_NPROP ,_PU Cláudio_NPROP Aidar_NPROP ,_PU confirmou_V ontem_ADV a_ART existência_N de_PREP uma_ART fita_N cassete_ADJ ,_PU gravada_PCP com_PREP uma_ART conversa_N do_PREP+ART ex-presidente_N do_PREP+ART clube_N ,_PU José_NPROP Eduardo_NPROP Mesquita_NPROP Pimenta_NPROP ,_PU e_KC o_ART empresário_N Francisco_NPROP Monteiro_NPROP ,_PU o_ART Todé_NPROP ._END
+São Paulo_NPROP tenta_V abafar_V acusação_N de_PREP suborno_N
+O_ART presidente_N do_PREP+ART Conselho_NPROP Consultivo_NPROP do_PREP+ART São Paulo_NPROP ,_PU Cláudio_NPROP Aidar_NPROP ,_PU confirmou_V ontem_ADV a_ART existência_N de_PREP uma_ART fita_N cassete_ADJ ,_PU gravada_PCP com_PREP uma_ART conversa_N do_PREP+ART ex-presidente_N do_PREP+ART clube_N ,_PU José_NPROP Eduardo_NPROP Mesquita_NPROP Pimenta_NPROP ,_PU e_KC o_ART empresário_N Francisco_NPROP Monteiro_NPROP ,_PU o_ART Todé_NPROP ._END
 Aidar_NPROP negou_V ,_PU porém_KC ,_PU que_KS a_ART fita_N revelasse_V um_ART golpe_N financeiro_ADJ de_PREP Pimenta_NPROP ,_PU na_PREP+ART venda_N do_PREP+ART ponta_N Mário_NPROP Tilico_NPROP ao_PREP+ART Atletico_NPROP de_NPROP Madrid_NPROP ,_PU em_PREP 92_N ,_PU intermediada_PCP por_PREP Todé_NPROP ._END
 "_PU Há_V vários_PROADJ cortes_N ._END
 Até_PDEN as_ART vozes_N são_V difíceis_ADJ de_PREP se_PROPESS reconhecer_V ._END
@@ -1096,7 +1096,7 @@ O_ART ex-presidente_N foi_V acusado_PCP pelo_PREP+ART empresário_N de_PREP ter_
 A_ART diferença_N seria_V rateada_PCP entre_PREP Pimenta_NPROP ,_PU Todé_NPROP e_KC Fernado_NPROP Torqual_NPROP ,_PU conselheiro_N do_PREP+ART clube_N espanhol_ADJ ._END
 A_ART Folha_NPROP apurou_V ,_PU porém_KC ,_PU que_KS Todé_NPROP gravou_V uma_ART conversa_N com_PREP Pimenta_NPROP ,_PU quando_KS o_ART empresário_N estava_V na_PREP+ART Espanha_NPROP ._END
 O_ART assunto_N tratado_PCP foi_V a_ART negociação_N de_PREP Mário_NPROP Tilico_NPROP e_KC ,_PU em_PREP vários_PROADJ momentos_N ,_PU a_ART conversa_N é_V travada_PCP de_PREP forma_N cifrada_PCP ._END
-Cópias_N dessa_PREP+PROADJ fita_N foram_V enviadas_PCP ,_PU anonimamente_ADV ,_PU a_PREP conselheiros_N do_PREP+ART São_NPROP Paulo_NPROP ._END
+Cópias_N dessa_PREP+PROADJ fita_N foram_V enviadas_PCP ,_PU anonimamente_ADV ,_PU a_PREP conselheiros_N do_PREP+ART São Paulo_NPROP ._END
 A_ART gravação_N foi_V apresentada_PCP na_PREP+ART reunião_N do_PREP+ART Conselho_NPROP Consultivo_NPROP ,_PU anteontem_ADV ._END
 O_ART teor_N da_PREP+ART fita_N ,_PU porém_KC ,_PU não_ADV foi_V revelado_PCP ._END
 "_PU Vamos_V chamar_V o_ART Pimenta_NPROP para_PREP esclarecer_V alguns_PROADJ pontos_N ._END
@@ -1260,7 +1260,7 @@ George_NPROP Sluizer_NPROP ,_PU todo_PROADJ holandês_N ,_PU é_V meio_ADV chega
 Não_ADV surpreende_V que_KS tenha_V praticamente_ADV iniciado_PCP sua_PROADJ carreira_N dirigindo_V um_ART documentário_N para_PREP a_ART televisão_N intitulado_PCP "_PU A_NPROP Balsa_NPROP "_PU ,_PU rodado_PCP no_PREP+ART Nordeste_NPROP brasileiro_ADJ ._END
 Nem_ADV que_KS tenha_V escolhido_PCP o_ART Amazonas_NPROP como_PREP cenário_N de_PREP seu_PROADJ primeiro_ADJ longa_N ,_PU "_PU A_NPROP Faca_NPROP e_NPROP o_NPROP Rio_NPROP "_PU ,_PU filmado_PCP no_PREP+ART início_N dos_PREP+ART anos_N 70_N ._END
 Conheci_V -o_PROPESS de_PREP passagem_N pelo_PREP+ART Rio_NPROP ,_PU apresentado_PCP por_PREP seu_PROADJ promoter_N nestas_PREP+PROADJ terras_N ,_PU o_ART jornalista_N ,_PU poeta_N e_KC acadêmico_N Odylo_NPROP Costa_NPROP ,_PU filho_N ._END
-Já_ADV fizera_V ,_PU então_ADV ,_PU mais_PROADJ três_NUM documentários_N no_PREP+ART Brasil_NPROP ,_PU um_PROSUB dos_PREP+PRO-KS quais_PRO-KS sobre_PREP o_ART Carnaval_NPROP de_PREP São_NPROP Luiz_NPROP do_NPROP Maranhão_NPROP ,_PU onde_ADV-KS Odylo_NPROP foi_V rei_N antes_PREP de_PREP José_NPROP Sarney_NPROP ._END
+Já_ADV fizera_V ,_PU então_ADV ,_PU mais_PROADJ três_NUM documentários_N no_PREP+ART Brasil_NPROP ,_PU um_PROSUB dos_PREP+PRO-KS quais_PRO-KS sobre_PREP o_ART Carnaval_NPROP de_PREP São Luiz_NPROP do_NPROP Maranhão_NPROP ,_PU onde_ADV-KS Odylo_NPROP foi_V rei_N antes_PREP de_PREP José_NPROP Sarney_NPROP ._END
 Cordato_ADJ ,_PU meio_ADV tímido_ADJ ,_PU Sluizer_NPROP não_ADV parecia_V aos_PREP+ART 40_NUM anos_N uma_ART grande_ADJ promessa_N ._END
 Baseado_PCP num_PREP+ART conto_N de_PREP Odylo_NPROP e_KC com_PREP música_N de_PREP Villa-Lobos_NPROP ,_PU "_PU A_NPROP Faca_NPROP e_NPROP o_NPROP Rio_NPROP "_PU era_V um_ART drama_N fluvial_ADJ caboclo_ADJ ,_PU tipo_N exportação_N ,_PU movido_PCP a_PREP sensualidade_N morena_ADJ e_KC dor-de-corno_N ._END
 A_ART hoje_ADJ escritora_N Ana_NPROP Miranda_NPROP entrava_V com_PREP a_ART sensualidade_N e_KC Joffre_NPROP Soares_NPROP ,_PU com_PREP os_ART chifres_N ._END
@@ -1386,7 +1386,7 @@ Ele_PROPESS foi_V o_ART primeiro_ADJ compositor_N de_PREP bossa_N nova_N a_PREP 
 Ele_PROPESS fundou_V os_ART CPC_NPROP e_KC denunciou_V a_ART influência_N do_PREP+ART imperialismo_N no_PREP+ART ritmo_N que_PRO-KS ajudou_V a_PREP criar_V ._END
 "_PU Opinião_N "_PU representou_V a_ART massificação_N do_PREP+ART protesto_N ._END
 O_ART espetáculo_N estreou_V em_PREP dezembro_N de_PREP 1964_N e_KC foi_V um_ART sucesso_N de_PREP público_N ._END
-Até_PREP meados_N do_PREP+ART ano_N seguinte_ADJ iria_V a_PREP São_NPROP Paulo_NPROP e_KC Porto_NPROP Alegre_NPROP ._END
+Até_PREP meados_N do_PREP+ART ano_N seguinte_ADJ iria_V a_PREP São Paulo_NPROP e_KC Porto_NPROP Alegre_NPROP ._END
 O_ART público_N num_PREP+ART ano_N foi_V de_PREP cem_NUM mil_NUM espectadores_N ._END
 A_ART burguesinha_N Nara_NPROP e_KC amigos_N populares_ADJ misturaram_V os_ART ingredientes_N formadores_ADJ do_PREP+ART sarapatel_N sonoro_ADJ que_PRO-KS partiu_V a_ART bossa_N nova_N e_KC gerou_V a_ART canção_N de_PREP protesto_N e_KC ,_PU portanto_KC ,_PU o_ART gênero_N conhecido_PCP como_PREP MPB_NPROP ._END
 É_V como_KS se_KS a_ART atual_ADJ musa_N da_PREP+ART classe_N média_ADJ ,_PU Marisa_NPROP Monte_NPROP ,_PU fizesse_V um_ART show_N com_PREP o_ART arretado_N Genival_NPROP Lacerda_NPROP ._END
@@ -1474,7 +1474,7 @@ Ingressos_N :_PU de_PREP R$_CUR 35,00_NUM a_PREP R$_CUR 80,00_NUM
 "_PU A_ART gente_N nunca_ADV fez_V um_ART show_N só_PDEN os_ART dois_N ._END
 Só_PDEN os_ART dois_N e_KC só_PDEN com_PREP violão_N ,_PU isso_PROSUB nem_ADV para_PREP nós_PROPESS nunca_ADV tínhamos_V feito_PCP "_PU ,_PU disse_V Caetano_NPROP anteontem_ADV ,_PU na_PREP+ART entrevista_N coletiva_ADJ de_PREP que_PRO-KS os_ART dois_NUM compositores_N participaram_V ._END
 O_ART show_N "_PU Tropicália_NPROP Duo_NPROP "_PU foi_V criado_PCP pela_PREP+ART impossibilidade_N econômica_ADJ de_PREP excursionar_V pela_PREP+ART Europa_NPROP e_KC os_ART Estados_NPROP Unidos_NPROP com_PREP toda_PROADJ a_ART banda_N que_PRO-KS participou_V do_PREP+ART disco_N "_PU Tropicália_NPROP 2_NPROP "_PU ._END
-Depois_ADV de_PREP São_NPROP Paulo_NPROP ,_PU o_ART show_N segue_V para_PREP Salvador_NPROP ,_PU onde_ADV-KS encerra_V sua_PROADJ carreira_N ._END
+Depois_ADV de_PREP São Paulo_NPROP ,_PU o_ART show_N segue_V para_PREP Salvador_NPROP ,_PU onde_ADV-KS encerra_V sua_PROADJ carreira_N ._END
 Segundo_PREP Caetano_NPROP e_KC Gil_NPROP ,_PU é_V improvável_ADJ que_KS este_PROADJ show_N acústico_ADJ venha_V a_PREP se_PROPESS tornar_V um_ART disco_N ._END
 Mas_KC não_ADV é_V impossível_ADJ ._END
 Uma_ART apresentação_N no_PREP+ART Rio_NPROP foi_V gravada_PCP "_PU por_PREP insistência_N de_PREP Liminha_NPROP "_PU ,_PU disse_V Gil_NPROP ._END
@@ -1553,14 +1553,14 @@ Aterrissou_V anteontem_ADV na_PREP+ART mesa_N do_PREP+ART prefeito_N Paulo_NPROP
 Para_PREP reabrir_V o_ART château_N da_PREP+ART rua_N Venezuela_NPROP -_PU que_PRO-KS já_ADV foi_V comitê_N de_PREP Paulo_NPROP Maluf_NPROP -_PU ,_PU Bia_NPROP Yunes_NPROP comandou_V ontem_ADV um_ART jantar_N ._END
 Luiz_NPROP Marques_NPROP é_V escolhido_PCP novo_ADJ conservador_N do_PREP+ART museu_N
 Erramos_V
-O_ART professor_N da_PREP+ART Unicamp_NPROP e_KC historiador_N Luiz_NPROP Marques_NPROP ,_PU 42_NUM ,_PU é_V o_ART novo_ADJ conservador-chefe_N do_PREP+ART Masp_NPROP (_PU Museu_NPROP de_NPROP Arte_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU ._END
+O_ART professor_N da_PREP+ART Unicamp_NPROP e_KC historiador_N Luiz_NPROP Marques_NPROP ,_PU 42_NUM ,_PU é_V o_ART novo_ADJ conservador-chefe_N do_PREP+ART Masp_NPROP (_PU Museu_NPROP de_NPROP Arte_NPROP de_NPROP São Paulo_NPROP )_PU ._END
 A_ART escolha_N foi_V homologada_PCP anteontem_ADV em_PREP assembléia_N dos_PREP+ART sócios_N do_PREP+ART museu_N ._END
 Doutor_N em_PREP história_N da_PREP+ART arte_N pela_PREP+ART École_NPROP des_NPROP Hautes_NPROP Études_NPROP em_PREP Sciences_NPROP Sociales_NPROP em_PREP Paris_NPROP ,_PU Marques_NPROP já_ADV trabalhou_V no_PREP+ART Masp_NPROP em_PREP 1986_N e_KC 1987_N como_PREP curador-assistente_N ._END
 É_V autor_N do_PREP+ART livro_N "_PU A_NPROP Vida_NPROP de_NPROP Michelangelo_NPROP "_PU ,_PU que_PRO-KS a_ART editora_N da_PREP+ART Unicamp_NPROP lança_V em_PREP 1995_N ._END
 A_ART nomeação_N de_PREP Marques_NPROP vem_V em_PREP seguida_N a_PREP uma_ART crise_N que_PRO-KS atingiu_V o_ART museu_N desde_PREP a_ART eleição_N de_PREP uma_ART nova_ADJ diretoria_N ,_PU presidida_PCP pelo_PREP+ART advogado_N Hélio_NPROP Dias_NPROP de_NPROP Moura_NPROP ,_PU no_PREP+ART final_N do_PREP+ART ano_N passado_PCP ._END
 A_ART gestão_N terminou_V pouco_ADV depois_PREP do_PREP+ART então_ADJ conservador-chefe_N ,_PU Fábio_NPROP Magalhães_NPROP ,_PU ter_V pedido_PCP demissão_N ,_PU em_PREP março_N deste_PREP+PROADJ ano_N ,_PU por_PREP atritos_N com_PREP Moura_NPROP ._END
 Com_PREP a_ART saída_N de_PREP Moura_NPROP ,_PU foi_V feita_PCP em_PREP abril_N nova_ADJ eleição_N de_PREP diretoria_N ,_PU vencida_PCP pelo_PREP+ART empresário_N e_KC bibliófilo_N José_NPROP Mindlin_NPROP ,_PU que_PRO-KS recolocou_V Magalhães_NPROP no_PREP+ART cargo_N ._END
-Mas_KC a_ART eleição_N de_PREP Mindlin_NPROP ,_PU contestada_PCP judicialmente_ADV pelo_PREP+ART advogado_N Mário_NPROP Pimenta_NPROP Camargo_NPROP ,_PU foi_V considerada_PCP irregular_ADJ pelo_PREP+ART juiz_N da_PREP+ART 37ª_ADJ Vara_NPROP Cível_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU José_NPROP Zoega_NPROP Coelho_NPROP ,_PU em_PREP setembro_N ._END
+Mas_KC a_ART eleição_N de_PREP Mindlin_NPROP ,_PU contestada_PCP judicialmente_ADV pelo_PREP+ART advogado_N Mário_NPROP Pimenta_NPROP Camargo_NPROP ,_PU foi_V considerada_PCP irregular_ADJ pelo_PREP+ART juiz_N da_PREP+ART 37ª_ADJ Vara_NPROP Cível_NPROP de_PREP São Paulo_NPROP ,_PU José_NPROP Zoega_NPROP Coelho_NPROP ,_PU em_PREP setembro_N ._END
 Por_PREP esse_PROADJ motivo_N foi_V realizada_PCP nova_ADJ eleição_N de_PREP diretoria_N ,_PU em_PREP 25_N de_PREP outubro_N ,_PU e_KC Mindlin_NPROP perdeu_V ._END
 Foi_V eleito_PCP o_ART advogado_N Júlio_NPROP Neves_NPROP ._END
 Além_PREP de_PREP Marques_NPROP ,_PU Maria_NPROP Alice_NPROP Milliet_NPROP ,_PU ex-diretora_N do_PREP+ART Museu_NPROP de_NPROP Arte_NPROP Moderna_NPROP ,_PU também_PDEN vinha_V sendo_V cotada_PCP para_PREP o_ART cargo_N ._END
@@ -1714,7 +1714,7 @@ Com_PREP a_ART entrada_N deste_PREP+PROADJ último_N na_PREP+ART competição_N 
 Psiquiatra_N português_ADJ debate_V as_ART linguagens_N e_KC conflitos_N da_PREP+ART juventude_N
 Da_PREP+ART Redação_N
 A_ART Folha_NPROP promove_V amanhã_ADV ,_PU em_PREP seu_PROADJ auditório_N ,_PU o_ART debate_N "_PU O_NPROP Jovem_NPROP e_NPROP suas_NPROP Linguagens_NPROP "_PU ,_PU com_PREP o_ART psiquiatra_N e_KC escritor_N português_ADJ Daniel_NPROP Sampaio_NPROP ,_PU especialista_N em_PREP temas_N ligados_PCP à_PREP+ART juventude_N e_KC aos_PREP+ART conflitos_N entre_PREP gerações_N ._END
-O_ART evento_N é_V promovido_PCP em_PREP parceria_N com_PREP a_PREP Feira_NPROP do_NPROP Livro_NPROP Português_NPROP ,_PU que_PRO-KS acontece_V no_PREP+ART Centro_NPROP Cultural_NPROP São_NPROP Paulo_NPROP até_PREP o_ART dia_N 11_N de_PREP dezembro_N ._END
+O_ART evento_N é_V promovido_PCP em_PREP parceria_N com_PREP a_PREP Feira_NPROP do_NPROP Livro_NPROP Português_NPROP ,_PU que_PRO-KS acontece_V no_PREP+ART Centro_NPROP Cultural_NPROP São Paulo_NPROP até_PREP o_ART dia_N 11_N de_PREP dezembro_N ._END
 O_ART debate_N será_V mediado_PCP pelo_PREP+ART jornalista_N José_NPROP Geraldo_NPROP Couto_NPROP ._END
 Helena_NPROP Abramo_NPROP é_V autora_N do_PREP+ART livro_N "_PU Cenas_NPROP Juvenis_NPROP "_PU ,_PU premiado_PCP pela_PREP+ART Anpocs_NPROP (_PU Associação_NPROP Nacional_NPROP de_NPROP Pós-Graduação_NPROP e_NPROP Pesquisas_NPROP em_NPROP CiÊncias_NPROP Sociais_NPROP )_PU como_PREP melhor_ADJ tese_N do_PREP+ART ano_N de_PREP 1993_N ._END
 Sayão_NPROP é_V colaboradora_ADJ do_PREP+ART Folhateen_NPROP ._END
@@ -1885,14 +1885,14 @@ Onde_ADV :_PU Nara_NPROP Roesler_NPROP (_PU av_N ._END
 Europa_NPROP ,_PU 655_NUM ,_PU tel_N ._END 011/852-3897_N )_PU
 Quando_ADV :_PU de_PREP hoje_ADV a_PREP 30_N de_PREP dezembro_N ,_PU de_PREP segunda_N a_PREP sexta_N das_PREP+ART 10h_N às_PREP+ART 19h30_N e_KC aos_PREP+ART sábados_N das_PREP+ART 10h_N às_PREP+ART 14h_N )_PU
 Eventos_N discutem_V visão_N européia_ADJ sobre_PREP o_ART negro_N e_KC o_ART índio_N no_PREP+ART Brasil_NPROP
-Por_PREP coincidência_N ,_PU São_NPROP Paulo_NPROP se_PROPESS vê_V tomada_PCP em_PREP dezembro_N por_PREP eventos_N culturais_ADJ que_PRO-KS discutem_V o_ART passado_N colonial_ADJ brasileiro_ADJ segundo_PREP a_ART visão_N européia_ADJ ._END
+Por_PREP coincidência_N ,_PU São Paulo_NPROP se_PROPESS vê_V tomada_PCP em_PREP dezembro_N por_PREP eventos_N culturais_ADJ que_PRO-KS discutem_V o_ART passado_N colonial_ADJ brasileiro_ADJ segundo_PREP a_ART visão_N européia_ADJ ._END
 Dois_N deles_PREP+PROPESS acontecem_V hoje_ADV à_ADV noite_ADV ._END
 Outro_PROSUB é_V o_ART lançamento_N do_PREP+ART número_N 22_N ,_PU especial_N ,_PU da_PREP+ART revista_N "_PU Estudos_NPROP Avançados_NPROP "_PU ,_PU um_ART dossiê_N sobre_PREP a_ART fundação_N da_PREP+ART USP_NPROP em_PREP 1934_N e_KC a_ART participação_N de_PREP mestres_N estrangeiros_ADJ nela_PREP+PROPESS ._END
 O_ART lançamento_N está_V marcado_PCP para_PREP as_ART 18h_N no_PREP+ART Centro_NPROP Universitário_NPROP Maria_NPROP Antônia_NPROP ._END
 Isso_PROSUB por_PREP hoje_ADV ._END
 No_PREP+ART sábado_N ,_PU a_ART Pinacoteca_NPROP do_NPROP Estado_NPROP inaugura_V a_ART exposição_N "_PU Os_NPROP Herdeiros_NPROP da_NPROP Noite_NPROP Fragmentos_NPROP do_NPROP Imaginário_NPROP Negro_NPROP -_PU "_PU ,_PU sobre_PREP os_ART 300_NUM anos_N da_PREP+ART queda_N do_PREP+ART Quilombo_NPROP de_NPROP Palmares_NPROP ._END
 A_ART inauguração_N tem_V também_PDEN o_ART lançamento_N de_PREP CD_N sob_PREP o_ART mesmo_PROADJ título_N da_PREP+ART exposição_N ,_PU com_PREP gravações_N de_PREP músicas_N africanas_ADJ e_KC afro-brasileiras_ADJ ._END
-Além_PREP disso_PREP+PROSUB ,_PU na_PREP+ART exposição_N atualmente_ADV em_PREP cartaz_N na_PREP+ART Casa_NPROP das_NPROP Rosas_NPROP ,_PU "_PU Virando_NPROP Vinte_NPROP "_PU ,_PU que_PRO-KS mostra_V a_ART urbanização_N de_PREP São_NPROP Paulo_NPROP de_PREP 1870_N a_PREP 1910_N ,_PU há_V boa_ADJ parte_N dedicada_PCP aos_PREP+ART escravos_N ,_PU sua_PROADJ abolição_N e_KC a_ART assimilação_N deles_PREP+PROPESS pela_PREP+ART cidade_N ._END
+Além_PREP disso_PREP+PROSUB ,_PU na_PREP+ART exposição_N atualmente_ADV em_PREP cartaz_N na_PREP+ART Casa_NPROP das_NPROP Rosas_NPROP ,_PU "_PU Virando_NPROP Vinte_NPROP "_PU ,_PU que_PRO-KS mostra_V a_ART urbanização_N de_PREP São Paulo_NPROP de_PREP 1870_N a_PREP 1910_N ,_PU há_V boa_ADJ parte_N dedicada_PCP aos_PREP+ART escravos_N ,_PU sua_PROADJ abolição_N e_KC a_ART assimilação_N deles_PREP+PROPESS pela_PREP+ART cidade_N ._END
 Mas_KC não_ADV pense_V que_KS todos_PROADJ esses_PROADJ eventos_N são_V manifestação_N de_PREP alguma_PROADJ moda_N multiculturalista_ADJ por_PREP aqui_ADV ._END
 Embora_KS tratem_V ,_PU diretamente_ADV ou_KC não_ADV ,_PU das_PREP+ART diferenças_N culturais_ADJ e_KC sofrimentos_N sociais_ADJ de_PREP negros_N e_KC índios_N na_PREP+ART história_N brasileira_ADJ ,_PU não_ADV são_V afirmações_N absolutas_ADJ dessas_PREP+PROADJ particularidades_N ,_PU como_KS ocorre_V nos_PREP+ART EUA_NPROP atualmente_ADV ._END
 E_KC ,_PU ainda_KS que_KS com_PREP ressaibos_N marxistas_ADJ (_PU o_ART olhar_N deles_PREP+PROPESS poderia_V não_ADV ter_V sido_PCP eurocêntrico_ADJ ?_PU )_PU ,_PU prova_N sua_PROADJ tese_N ._END
@@ -1923,12 +1923,12 @@ Frei_NPROP Caneca_NPROP ,_PU 304_NUM ,_PU tel_N ._END 255-2942_N ,_PU Bela_NPROP
 Quando_ADV :_PU de_PREP terça_N a_PREP quinta_N ,_PU às_PREP+ART 22h_N ,_PU sexta_N e_KC sábado_N ,_PU às_PREP+ART 23h30_N ._END
 Quanto_PROSUB :_PU R$_CUR 7,00_NUM (_PU couvert_N artístico_ADJ )_PU ._END
 O_ART samba_N e_KC o_ART jazz_N se_PROPESS encontram_V com_PREP muita_PROADJ intimidade_N no_PREP+ART primeiro_ADJ disco_N do_PREP+ART baterista_N Magno_NPROP Bissoli_NPROP com_PREP o_ART Ensemble_NPROP Brasileiro_NPROP ._END
-É_V o_PROSUB que_PRO-KS o_ART público_N de_PREP São_NPROP Paulo_NPROP pode_V comprovar_V ao_ADV vivo_ADV ,_PU até_PREP dia_N 8_N ,_PU durante_PREP a_ART temporada_N do_PREP+ART grupo_N no_PREP+ART Sanja_NPROP Jazz_NPROP Bar_NPROP ._END
+É_V o_PROSUB que_PRO-KS o_ART público_N de_PREP São Paulo_NPROP pode_V comprovar_V ao_ADV vivo_ADV ,_PU até_PREP dia_N 8_N ,_PU durante_PREP a_ART temporada_N do_PREP+ART grupo_N no_PREP+ART Sanja_NPROP Jazz_NPROP Bar_NPROP ._END
 "_PU Várias_PROSUB das_PREP+ART músicas_N desse_PREP+PROADJ disco_N foram_V inspiradas_PCP pela_PREP+ART saudade_N do_PREP+ART Brasil_NPROP "_PU ,_PU diz_V o_ART baterista_N e_KC compositor_N paulista_ADJ ,_PU que_PRO-KS viveu_V na_PREP+ART Dinamarca_NPROP entre_PREP 1981_N e_KC 1984_N ._END
 De_PREP lá_ADV para_PREP cá_ADV ,_PU Magno_NPROP tem_V voltado_PCP com_PREP frequência_N à_PREP+ART Europa_NPROP para_PREP exibir_V seu_PROADJ trabalho_N ,_PU incluindo_V a_ART parceria_N com_PREP o_ART trombonista_N Niels_NPROP Neergaard_NPROP ._END
-Depois_PREP de_PREP produzir_V e_KC gravar_V os_ART dois_NUM álbuns_N da_PREP+ART Banda_NPROP Savana_NPROP ,_PU que_PRO-KS formou_V em_PREP 1988_N com_PREP músicos_N de_PREP São_NPROP Paulo_NPROP ,_PU Magno_NPROP sentiu_V vontade_N de_PREP registrar_V suas_PROADJ composições_N mais_ADV antigas_ADJ ,_PU que_PRO-KS ainda_ADV não_ADV tinham_V chegado_PCP ao_PREP+ART disco_N ._END
+Depois_PREP de_PREP produzir_V e_KC gravar_V os_ART dois_NUM álbuns_N da_PREP+ART Banda_NPROP Savana_NPROP ,_PU que_PRO-KS formou_V em_PREP 1988_N com_PREP músicos_N de_PREP São Paulo_NPROP ,_PU Magno_NPROP sentiu_V vontade_N de_PREP registrar_V suas_PROADJ composições_N mais_ADV antigas_ADJ ,_PU que_PRO-KS ainda_ADV não_ADV tinham_V chegado_PCP ao_PREP+ART disco_N ._END
 Junto_PREP com_PREP dois_NUM antigos_ADJ parceiros_N ,_PU o_ART baixista_N Lito_NPROP Robledo_NPROP e_KC o_ART guitarrista_N Alexandre_NPROP Mihanovich_NPROP ,_PU ambos_PROSUB de_PREP ascendências_N argentina_ADJ ,_PU formou_V no_PREP+ART ano_N passado_PCP o_ART Ensemble_NPROP Brasileiro_NPROP ._END
-Gravado_PCP em_PREP agosto_N de_PREP 93_N ,_PU durante_PREP show_N no_PREP+ART Museu_NPROP da_NPROP Imagem_NPROP e_NPROP do_NPROP Som_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU o_ART CD_N "_PU Bissamblazz_NPROP "_PU destaca_V seis_NUM composições_N de_PREP Magno_NPROP ,_PU além_PREP de_PREP três_N de_PREP Mihanovich_NPROP ._END
+Gravado_PCP em_PREP agosto_N de_PREP 93_N ,_PU durante_PREP show_N no_PREP+ART Museu_NPROP da_NPROP Imagem_NPROP e_NPROP do_NPROP Som_NPROP de_PREP São Paulo_NPROP ,_PU o_ART CD_N "_PU Bissamblazz_NPROP "_PU destaca_V seis_NUM composições_N de_PREP Magno_NPROP ,_PU além_PREP de_PREP três_N de_PREP Mihanovich_NPROP ._END
 Produção_N independente_ADJ do_PREP+ART próprio_PROADJ baterista_N ,_PU o_ART álbum_N também_PDEN está_V saindo_V sai_V na_PREP+ART Dinamarca_NPROP pela_PREP+ART Libra_NPROP Music_NPROP e_KC nos_PREP+ART EUA_NPROP pela_PREP+ART New_NPROP World_NPROP ._END
 "_PU É_V música_N nascida_ADJ da_PREP+ART cultura_N afro-americana_ADJ ,_PU que_PRO-KS influenciou_V diversas_PROADJ regiões_N do_PREP+ART continente_N americano_ADJ "_PU ,_PU explica_V ._END
 Fã_N da_PREP+ART bateria_N do_PREP+ART bossa-novista_N Edson_NPROP Machado_NPROP ,_PU Magno_NPROP está_V longe_PREP de_PREP ser_V um_ART purista_N ._END
@@ -1945,7 +1945,7 @@ Magno_NPROP aproveita_V os_ART shows_N no_PREP+ART Sanja_NPROP para_PREP lançar
 (_PU Carlos_NPROP Calado_NPROP )_PU
 Venezuelano_N reinterpreta_V estilos_N de_PREP dança_N
 Javier_NPROP de_NPROP Frutos_NPROP ,_PU que_PRO-KS participa_V de_PREP evento_N no_PREP+ART Sesc_NPROP ,_PU desenvolve_V universos_N próprios_PROADJ a_PREP partir_PREP de_PREP fusões_N e_KC desconstruções_N
-Além_PREP das_PREP+ART estrelas_N consagradas_PCP da_PREP+ART dança_N que_PRO-KS se_PROPESS apresentam_V em_PREP São_NPROP Paulo_NPROP neste_PREP+PROADJ fim_N de_PREP ano_N ,_PU há_V também_PDEN talentos_N novos_ADJ que_PRO-KS valem_V ser_V apreciados_PCP ._END
+Além_PREP das_PREP+ART estrelas_N consagradas_PCP da_PREP+ART dança_N que_PRO-KS se_PROPESS apresentam_V em_PREP São Paulo_NPROP neste_PREP+PROADJ fim_N de_PREP ano_N ,_PU há_V também_PDEN talentos_N novos_ADJ que_PRO-KS valem_V ser_V apreciados_PCP ._END
 Um_PROSUB deles_PREP+PROPESS é_V o_ART venezuelano_N Javier_NPROP de_NPROP Frutos_NPROP ,_PU que_PRO-KS participa_V da_PREP+ART programação_N internacional_ADJ do_PREP+ART evento_N "_PU Movimentos_NPROP da_NPROP Dança_NPROP "_PU ,_PU promovido_PCP pelo_PREP+ART Sesc_NPROP ._END
 Na_PREP+ART Grã-Bretanha_NPROP ,_PU uma_PROSUB de_PREP suas_PROADJ principais_ADJ mentoras_N foi_V a_ART coreógrafa_N norte-americana_ADJ Viola_NPROP Farber_NPROP ,_PU que_PRO-KS integrou_V a_ART primeira_ADJ geração_N de_PREP bailarinos_N do_PREP+ART grupo_N de_PREP Merce_NPROP Cunningham_NPROP ._END
 De_PREP 1987_N a_PREP 1992_N ,_PU Frutos_NPROP trabalhou_V em_PREP Nova_NPROP York_NPROP ,_PU chegando_V a_PREP dançar_V no_PREP+ART Laura_NPROP Dean_NPROP Dancers_NPROP &_NPROP Musicians_NPROP ._END
@@ -1968,12 +1968,12 @@ Especial_N 1_N
 Ciclo_N revê_V obra_N do_PREP+ART '_PU marginal_N '_PU Candeias_NPROP
 Centro_NPROP Cultural_NPROP exibe_V uma_ART retrospectiva_N dos_PREP+ART filmes_N de_PREP um_PROSUB dos_PREP+ART mais_ADV importantes_ADJ cineastas_N da_PREP+ART Boca_NPROP do_NPROP Lixo_NPROP
 Da_PREP+ART Redação_N
-Onde_ADV :_PU Centro_NPROP Cultural_NPROP São_NPROP Paulo_NPROP -_PU Sala_N Lima_NPROP Barreto_NPROP (_PU r_N ._END
+Onde_ADV :_PU Centro_NPROP Cultural_NPROP São Paulo_NPROP -_PU Sala_N Lima_NPROP Barreto_NPROP (_PU r_N ._END
 Vergueiro_NPROP ,_PU 1.000_NUM ,_PU tel_N ._END 277-3611_N ,_PU Paraíso_NPROP ,_PU zona_N sul_ADJ )_PU
 Quando_ADV :_PU a_PREP partir_PREP de_PREP hoje_ADV até_PREP o_ART dia_N 06_N
 Entrada_N :_PU franca_ADJ
 Em_PREP mais_PREP de_PREP 30_NUM anos_N de_PREP carreira_N ,_PU sua_PROADJ obra_N distingue_V -se_PROPESS pelo_PREP+ART retrato_N poético_ADJ da_PREP+ART miséria_N ,_PU composta_PCP através_PREP de_PREP experimentações_N heterodoxas_ADJ de_PREP um_ART quase_ADV autodidata_N ._END
-Nascido_PCP no_PREP+ART Mato_NPROP Grosso_NPROP ,_PU registrado_PCP em_PREP São_NPROP Paulo_NPROP ,_PU e_KC criado_PCP quase_ADV sempre_ADV andando_V ,_PU Candeias_NPROP vivia_V "_PU de_PREP rolo_N "_PU ,_PU foi_V peão_N e_KC caminhoneiro_N ,_PU e_KC iniciou_V -se_PROPESS na_PREP+ART vocação_N como_PREP cinegrafista_N de_PREP telejornais_N ._END
+Nascido_PCP no_PREP+ART Mato_NPROP Grosso_NPROP ,_PU registrado_PCP em_PREP São Paulo_NPROP ,_PU e_KC criado_PCP quase_ADV sempre_ADV andando_V ,_PU Candeias_NPROP vivia_V "_PU de_PREP rolo_N "_PU ,_PU foi_V peão_N e_KC caminhoneiro_N ,_PU e_KC iniciou_V -se_PROPESS na_PREP+ART vocação_N como_PREP cinegrafista_N de_PREP telejornais_N ._END
 Conta_V que_KS sua_PROADJ formação_N deu_V um_ART salto_N ao_PREP participar_V de_PREP um_ART seminário_N de_PREP cinema_N promovido_PCP pelo_PREP+ART Masp_NPROP entre_PREP 1957_N e_KC 1960_N ._END
 Em_PREP 67_N foi_V finalmente_ADV alçado_PCP do_PREP+ART anonimato_N com_PREP "_PU A_NPROP Margem_NPROP "_PU ._END
 O_ART filme_N é_V considerado_PCP o_ART marco_N do_PREP+ART cinema_N marginal_ADJ da_PREP+ART virada_N dos_PREP+ART anos_N 60/70_N ,_PU não_ADV apenas_PDEN pela_PREP+ART temática_N -_PU a_ART vida_N dos_PREP+ART moradores_N de_PREP uma_ART favela_N às_PREP+ART margens_N do_PREP+ART rio_N Tietê_NPROP -_PU mas_KC também_PDEN pelo_PREP+ART fato_N de_PREP mostrar_V a_ART possibilidade_N de_PREP se_PROPESS fazer_V cinema_N com_PREP recursos_N ínfimos_ADJ ._END
@@ -2066,7 +2066,7 @@ Suíta_NPROP
 São_V as_ART argolas_N de_PREP prata_N criadas_PCP por_PREP Betty_NPROP Loeb_NPROP ._END
 Quando_KS colocadas_PCP devidamente_ADV no_PREP+ART lóbulo_N da_PREP+ART orelha_N ,_PU massageiam_V extamente_ADV o_ART ponto_N de_PREP acupuntura_N que_PRO-KS ajuda_V a_PREP emagrecer_V ._END
 Cana_N caiana_ADJ ;_PU Hora_N extra_N
-Depois_PREP da_PREP+ART temporada_N de_PREP sal_N e_KC sol_N em_PREP Pernambuco_NPROP ,_PU Romero_NPROP de_NPROP Andrade_NPROP Lima_NPROP desembarca_V em_PREP São_NPROP Paulo_NPROP direto_N no_PREP+ART Teatro_NPROP Municipal_NPROP para_PREP três_NUM apresentações_N do_PREP+ART "_PU Auto_NPROP da_NPROP Paixão_NPROP "_PU -_PU dias_N 4_N ,_PU 5_N ,_PU 6_N -_PU ,_PU além_PREP de_PREP uma_ART temporada_N no_PREP+ART Tuca_NPROP ._END
+Depois_PREP da_PREP+ART temporada_N de_PREP sal_N e_KC sol_N em_PREP Pernambuco_NPROP ,_PU Romero_NPROP de_NPROP Andrade_NPROP Lima_NPROP desembarca_V em_PREP São Paulo_NPROP direto_N no_PREP+ART Teatro_NPROP Municipal_NPROP para_PREP três_NUM apresentações_N do_PREP+ART "_PU Auto_NPROP da_NPROP Paixão_NPROP "_PU -_PU dias_N 4_N ,_PU 5_N ,_PU 6_N -_PU ,_PU além_PREP de_PREP uma_ART temporada_N no_PREP+ART Tuca_NPROP ._END
 Romero_NPROP trouxe_V pronto_ADJ o_ART esboço_N de_PREP "_PU Mallo_NPROP "_PU -_PU terceira_ADJ peça_N da_PREP+ART trilogia_N ,_PU que_PRO-KS vem_V depois_PREP de_PREP de_PREP "_PU Bandeira_NPROP da_NPROP Divina_NPROP Graça_NPROP "_PU ._END
 Hora_N extra_N
 Além_ADV da_PREP+ART aparição_N de_PREP todos_PROADJ os_ART anos_N no_PREP+ART Sambódromo_NPROP ,_PU Luiza_NPROP Brunet_NPROP pode_V este_PROADJ ano_N desfilar_V também_PDEN em_PREP Manaus_NPROP ._END
@@ -2122,7 +2122,7 @@ Em_PREP ficção_N ,_PU uma_ART obra-prima_N a_PREP sair_V (_PU março_N )_PU é
 Outros_PROADJ nomes_N contemporâneos_ADJ comparecem_V ._END
 Clássicos_N da_PREP+ART ficção_N ,_PU como_PREP "_PU Berlin_NPROP Alexanderplatz_NPROP "_PU ,_PU de_PREP Alfred_NPROP Doeblin_NPROP (_PU junho_N )_PU ,_PU e_KC da_PREP+ART não-ficção_N ,_PU como_PREP a_ART "_PU História_NPROP do_NPROP Povo_NPROP Arabe"_NPROP de_PREP Albert_NPROP Hourani_NPROP (_PU abril_N )_PU ,_PU e_KC livros_N que_PRO-KS marcaram_V seu_PROADJ tempo_N ,_PU como_PREP "_PU Crazy_NPROP Cock_NPROP "_PU ,_PU o_ART primeiro_N de_PREP Henry_NPROP Miller_NPROP (_PU fevereiro_N )_PU ,_PU "_PU Big_NPROP Money_NPROP "_PU ,_PU de_PREP John_NPROP dos_NPROP Passos_NPROP ,_PU e_KC "_PU Radical_NPROP Chic_NPROP "_PU ,_PU de_PREP Tom_NPROP Wolfe_NPROP (_PU novembro_N )_PU ,_PU estão_V previstos_PCP ._END
 O_ART escritor_N inglês_ADJ Anthony_NPROP Burgess_NPROP ,_PU uma_PROSUB das_PREP+ART grandes_ADJ perdas_N de_PREP 1993_N ,_PU é_V lembrado_PCP com_PREP o_ART lançamento_N do_PREP+ART primeiro_ADJ volume_N de_PREP sua_PROADJ autobiografia_N ,_PU "_PU O_NPROP Pequeno_NPROP Wilson_NPROP e_NPROP o_NPROP Grande_NPROP Deus_NPROP "_PU (_PU fevereiro_N )_PU ,_PU e_KC com_PREP "_PU Qualquer_NPROP Ferro_NPROP Velho_NPROP "_PU (_PU maio_N )_PU ._END
-Não_ADV será_V ,_PU em_ADV suma_ADV ,_PU um_ART grande_ADJ ano_N ,_PU ainda_KS que_KS muitos_PROADJ livros_N estejam_V sendo_V reservados_PCP para_PREP a_ART Bienal_NPROP do_NPROP Livro_NPROP de_PREP São_NPROP Paulo_NPROP ,_PU em_PREP agosto_N ._END
+Não_ADV será_V ,_PU em_ADV suma_ADV ,_PU um_ART grande_ADJ ano_N ,_PU ainda_KS que_KS muitos_PROADJ livros_N estejam_V sendo_V reservados_PCP para_PREP a_ART Bienal_NPROP do_NPROP Livro_NPROP de_PREP São Paulo_NPROP ,_PU em_PREP agosto_N ._END
 Mas_KC dá_V para_PREP se_PROPESS divertir_V ._END
 Novo_ADJ filme_N de_PREP André_NPROP Klotzel_NPROP tem_V pré-estréia_N
 A_ART Folha_NPROP promove_V hoje_ADV ,_PU às_PREP+ART 21h_N ,_PU na_PREP+ART Sala_NPROP Cinemateca_NPROP (_PU r_N ._END
@@ -2255,7 +2255,7 @@ Os_ART mais_ADV chiques_ADJ :_PU Olacyr_NPROP de_NPROP Moraes_NPROP e_KC sua_PRO
 Mais_ADV bregas_ADJ ?_PU
 Não_ADV precisa_V ._END
 Ou_KC rola_V o_ART tape_N da_PREP+ART semana_N passada_PCP !_PU
-Aí_ADV ele_PROPESS foi_V visitar_V um_ART presídio_N em_PREP São_NPROP José_NPROP dos_NPROP Campos_NPROP ._END
+Aí_ADV ele_PROPESS foi_V visitar_V um_ART presídio_N em_PREP São José dos Campos_NPROP ._END
 E_KC meia_NUM hora_N entrevistando_V o_ART porteiro_N :_PU "_PU O_ART senhor_N está_V aqui_ADV porque_KS mesmo_PDEN ?_PU "_PU
 E_KC o_ART cara_N :_PU "_PU 121_N "_PU ._END
 E_KC o_PROSUB que_PROSUB é_V 121_N ?_PU "_PU
@@ -2362,7 +2362,7 @@ Tendência_N inconsciente_ADJ ,_PU porém_KC intensa_ADJ ._END
 (_PU ver_V "_PU noivas_N de_PREP Fujimori_NPROP "_PU )_PU ._END
 Encontradiços_N entre_PREP a_ART turminha_N do_PREP+ART FMI_NPROP e_KC louvadores_N da_PREP+ART "_PU abertura_N com_PREP fechamento_N "_PU ._END
 Idolos_N :_PU Bolívia_NPROP e_KC Cingapura_NPROP ._END
-Tele-Quércia_NPROP "_PU ou_KC "_PU Papa-tudo_N Populista_ADJ -_PU Teatro_N de_PREP marionetes_N comandados_PCP de_PREP São_NPROP Paulo_NPROP ,_PU aproveitando_V o_ART vácuo_N das_PREP+ART "_PU viúvas_N de_PREP Ulisses_NPROP "_PU e_KC o_ART desatino_N do_PREP+ART movimento_N "_PU Volta_V ,_PU Genebaldo_NPROP "_PU ._END
+Tele-Quércia_NPROP "_PU ou_KC "_PU Papa-tudo_N Populista_ADJ -_PU Teatro_N de_PREP marionetes_N comandados_PCP de_PREP São Paulo_NPROP ,_PU aproveitando_V o_ART vácuo_N das_PREP+ART "_PU viúvas_N de_PREP Ulisses_NPROP "_PU e_KC o_ART desatino_N do_PREP+ART movimento_N "_PU Volta_V ,_PU Genebaldo_NPROP "_PU ._END
 "_PU Morra_V FHC_NPROP e_KC viva_N o_ART garçom_N de_PREP costeletas_N "_PU ,_PU é_V seu_PROADJ lema_N ._END
 "_PU Blending_N de_PREP Ademar_NPROP de_NPROP Barros_NPROP ,_PU JK_NPROP e_KC "_PU vítimas_N da_PREP+ART ditadura_N "_PU (_PU MDB_NPROP )_PU ._END
 Outros_PROADJ tipos_N vagueiam_V no_PREP+ART Congresso_N ;_PU voyeurs_N ,_PU sádicos_N ,_PU jecas-tatu_N ,_PU figuras_N do_PREP+ART nosso_PROADJ folclore_N urbano_ADJ e_KC rural_ADJ ,_PU picaretas_N do_PREP+ART Lula_NPROP (_PU quantos_PROSUB do_PREP+ART PT_NPROP ?_PU )_PU e_KC ,_PU obviamente_ADV ,_PU os_ART tipos_N mais_ADV comuns_ADJ ,_PU do_PREP+ART Partido_N mais_ADV geral_ADJ conhecido_PCP pelo_PREP+ART povão_N :_PU os_ART FDP's_N ._END
@@ -2430,7 +2430,7 @@ O_ART filme_N baseia_V -se_PROPESS no_PREP+ART livro_N de_PREP Laura_NPROP Esqui
 Pode_V -se_PROPESS argumentar_V que_KS os_ART consumidores_N de_PREP livros_N sejam_V os_ART milhões_N de_PREP imigrantes_N hispânicos_ADJ radicados_PCP nos_PREP+ART EUA_NPROP ._END
 A_ART edição_N americana_ADJ ,_PU em_PREP inglês_N ,_PU ficou_V 30_NUM semanas_N na_PREP+ART lista_N dos_PREP+ART mais_ADV vendidos_N do_PREP+ART "_PU New_NPROP York_NPROP Times_NPROP "_PU ._END
 E_KC o_ART fenômeno_N ultrapassa_V as_ART fronteiras_N norte-americanas_ADJ ._END
-"_PU Como_NPROP Agua_NPROP para_NPROP Chocolate_NPROP "_PU está_V há_V mais_PREP de_PREP quatro_NUM meses_N em_PREP cartaz_N em_PREP São_NPROP Paulo_NPROP e_KC são_V raros_ADJ os_PROSUB que_PRO-KS saem_V do_PREP+ART cinema_N sem_PREP dizer_V :_PU "_PU É_V lindo_ADJ !_PU "_PU
+"_PU Como_NPROP Agua_NPROP para_NPROP Chocolate_NPROP "_PU está_V há_V mais_PREP de_PREP quatro_NUM meses_N em_PREP cartaz_N em_PREP São Paulo_NPROP e_KC são_V raros_ADJ os_PROSUB que_PRO-KS saem_V do_PREP+ART cinema_N sem_PREP dizer_V :_PU "_PU É_V lindo_ADJ !_PU "_PU
 Modelo_N vem_V dos_PREP+ART movimentos_N dos_PREP+ART anos_N 60_N
 A_ART chegada_N de_PREP escritores_N e_KC cineastas_N asiáticos_ADJ e_KC hispânicos_ADJ ao_PREP+ART topo_N da_PREP+ART indústria_N cultural_ADJ é_V um_PROSUB dos_PREP+ART sintomas_N do_PREP+ART aumento_N da_PREP+ART população_N de_PREP imigrantes_N recentes_ADJ nos_PREP+ART EUA_NPROP ._END
 Cada_PROADJ vez_N mais_ADV ,_PU essa_PROADJ população_N produz_V e_KC encontra_V canais_N para_PREP difusão_N de_PREP seus_PROADJ trabalhos_N e_KC público_N disposto_PCP a_PREP consumir_V -los_PROPESS ._END
@@ -2461,7 +2461,7 @@ Seu_PROADJ romance_N "_PU Os_NPROP Vestígios_NPROP do_NPROP Dia_NPROP "_PU foi_
 Bapsi_NPROP Sidhwa_NPROP -_PU Com_PREP "_PU An_NPROP American_NPROP Brat_NPROP "_PU ,_PU publicado_PCP em_PREP 93_N e_KC inédito_N no_PREP+ART Brasil_NPROP ,_PU a_ART autora_N de_PREP origem_N paquistanesa_ADJ conta_N a_ART história_N de_PREP uma_ART garota_N de_PREP 16_NUM anos_N que_PRO-KS vai_V passar_V alguns_PROADJ meses_N nos_PREP+ART EUA_NPROP ._END
 David_NPROP Wang_NPROP Louie_NPROP -_PU De_PREP origem_N chinesa_ADJ ,_PU Wang_NPROP Louie_NPROP publicou_V este_PROADJ ano_N o_ART volume_N de_PREP contos_N "_PU Pangs_NPROP of_NPROP Love_NPROP "_PU ._END
 John_NPROP Woo_NPROP -_PU O_ART mestre_N da_PREP+ART ultra-violência_N também_PDEN estreou_V em_PREP Hollywood_NPROP este_PROADJ ano_N com_PREP outra_PROADJ estrela_N estrangeira_ADJ ,_PU o_ART belga_N Jean-Claude_NPROP Van_NPROP Damme_NPROP ,_PU em_PREP "_PU O_NPROP Alvo_NPROP "_PU ._END
-Vikram_NPROP Seth_NPROP -_PU Escritor_N indiano_ADJ radicado_PCP em_PREP São_NPROP Francisco_NPROP ,_PU Califórnia_NPROP ,_PU já_ADV publicou_V três_NUM coleções_N de_PREP poemas_N ,_PU um_ART livro_N de_PREP viagem_N e_KC um_ART romance_N em_PREP versos_N ._END
+Vikram_NPROP Seth_NPROP -_PU Escritor_N indiano_ADJ radicado_PCP em_PREP São Francisco_NPROP ,_PU Califórnia_NPROP ,_PU já_ADV publicou_V três_NUM coleções_N de_PREP poemas_N ,_PU um_ART livro_N de_PREP viagem_N e_KC um_ART romance_N em_PREP versos_N ._END
 David_NPROP Mura_NPROP -_PU Escritor_N japonês_ADJ criado_PCP em_PREP Minnessotta_NPROP (_PU EUA_NPROP )_PU ,_PU publicou_V "_PU Bone_NPROP "_PU em_PREP 1991_N ,_PU uma_ART coletânea_N de_PREP poemas_N e_KC memórias_N ._END
 "_PU Como_NPROP Água_NPROP Foi_V Mais_ADV Vendido_PCP
 Entre_PREP livros_N em_PREP espanhol_N ,_PU nos_PREP+ART EUA_NPROP ,_PU em_PREP 93_N
@@ -2519,7 +2519,7 @@ As_ART vezes_N você_PROPESS tem_V que_KS apelar_V para_PREP uma_ART girafa_N qu
 Título_N :_PU Zappa_NPROP -_PU
 Autor_N :_PU Miles_NPROP
 Editora_N :_PU Omnibus_NPROP Press_NPROP (_PU Inglaterra_NPROP )_PU
-da_PREP+ART Consolação_NPROP ,_PU 1.924_NUM ,_PU tel_N ._END 011/256-0577_N ,_PU região_N central_ADJ de_PREP São_NPROP Paulo_NPROP )_PU e_KC Livraria_NPROP do_NPROP Rock_NPROP (_PU r_N ._END
+da_PREP+ART Consolação_NPROP ,_PU 1.924_NUM ,_PU tel_N ._END 011/256-0577_N ,_PU região_N central_ADJ de_PREP São Paulo_NPROP )_PU e_KC Livraria_NPROP do_NPROP Rock_NPROP (_PU r_N ._END
 Augusta_NPROP ,_PU 1.206_NUM ,_PU tel_N ._END 011/214-2415_N ,_PU região_N central_ADJ )_PU
 Varèse_NPROP foi_V o_ART primeiro_ADJ mestre_N
 O_PROSUB que_PRO-KS mais_ADV se_KS poderia_V esperar_V de_PREP um_ART garoto_N que_KS ,_PU aos_PREP+ART 14_NUM anos_N ,_PU se_PROPESS identificou_V com_PREP a_ART música_N do_PREP+ART contemporâneo_ADJ Edgard_NPROP Varèse_NPROP (_PU 1883-1965_N )_PU ?_PU
@@ -2644,7 +2644,7 @@ Especial_N 1_N
 A_ART banda_N Scarlet_NPROP Sky_NPROP ,_PU que_PRO-KS tem_V influências_N do_PREP+ART hardcore_N e_KC do_PREP+ART heavy_N metal_N ,_PU apresenta_V hoje_ADV no_PREP+ART Victoria_NPROP Pub_NPROP as_ART músicas_N de_PREP seu_PROADJ primeiro_ADJ disco_N ._END
 O_ART artista_N plástico_ADJ Henri_NPROP de_NPROP Souza_NPROP encerra_V sua_PROADJ exposição_N de_PREP sete_NUM telas_N no_PREP+ART Café_NPROP Arouche_NPROP (_PU ._END
 do_PREP+ART Arouche_NPROP ,_PU 6_NUM ,_PU tel_N ._END 221-1057_N )_PU ,_PU das_PREP+ART 10h_N às_PREP+ART 20h_N ._END
-A_ART peça_N "_PU Beijo_NPROP de_NPROP Humor_NPROP "_PU ,_PU texto_N e_KC interpretação_N de_PREP Raul_NPROP Orofino_NPROP ,_PU pode_V ser_V contratada_PCP para_PREP apresentação_N a_PREP domicílio_N pelo_PREP+ART tel_N ._END 256-9377_N ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+A_ART peça_N "_PU Beijo_NPROP de_NPROP Humor_NPROP "_PU ,_PU texto_N e_KC interpretação_N de_PREP Raul_NPROP Orofino_NPROP ,_PU pode_V ser_V contratada_PCP para_PREP apresentação_N a_PREP domicílio_N pelo_PREP+ART tel_N ._END 256-9377_N ,_PU em_PREP São Paulo_NPROP ._END
 Hollywood_NPROP perde_V mais_PROADJ um_NUM amante_N latino_ADJ
 Da_PREP+ART Sucursal_NPROP do_NPROP Rio_NPROP
 Cesar_NPROP Romero_NPROP -_PU que_PRO-KS morreu_V no_PREP+ART último_ADJ sábado_N em_PREP Santa_NPROP Monica_NPROP ,_PU Califórnia_NPROP ,_PU aos_PREP+ART 86_NUM anos_N -_PU pertencia_V àquele_PREP+PROADJ time_N de_PREP "_PU latin_N lovers_N "_PU cujo_PRO-KS expoente_N ,_PU em_PREP sua_PROADJ geração_N e_KC no_PREP+ART tipo_N de_PREP filmes_N que_PRO-KS fez_V ,_PU foi_V Don_NPROP Ameche_NPROP ._END
@@ -2729,7 +2729,7 @@ A_ART dupla_N de_PREP pesquisadoras_N tem_V certeza_N de_PREP que_PRO-KS o_ART m
 "_PU Nietzsche_NPROP é_V um_ART elemento_N fundamental_ADJ para_PREP se_PROPESS entender_V a_ART obra_N de_PREP Caetano_NPROP ._END
 Ele_PROPESS o_PROPESS estudou_V na_PREP+ART faculdade_N ._END
 Para_PREP Ivo_NPROP ,_PU Caetano_NPROP tem_V um_NUM talento_N de_PREP manipulação_N da_PREP+ART mídia_N que_PRO-KS o_PROPESS aproxima_V à_PREP+ART figura_N do_PREP+ART dr._N Mabuse_NPROP ._END
-"_PU Seu_PROADJ olhar_N de_PREP deslumbramento_N pela_PREP+ART mídia_N vem_V do_PREP+ART fato_N de_PREP ser_V um_ART baiano_N vivendo_V no_PREP+ART Rio_NPROP e_KC em_PREP São_NPROP Paulo_NPROP ._END
+"_PU Seu_PROADJ olhar_N de_PREP deslumbramento_N pela_PREP+ART mídia_N vem_V do_PREP+ART fato_N de_PREP ser_V um_ART baiano_N vivendo_V no_PREP+ART Rio_NPROP e_KC em_PREP São Paulo_NPROP ._END
 Isso_PROSUB lhe_PROPESS deu_V também_PDEN uma_ART sabedoria_N em_PREP relação_PREP ao_PREP+ART assunto_N ._END
 Assim_KC ,_PU aconteceu_V desde_PREP o_ART início_N um_ART casamento_N de_PREP interesses_N entre_PREP mídia_N e_KC ele_PROPESS que_PRO-KS até_PREP hoje_ADV não_ADV conheceu_V divórcio_N "_PU ._END
 O_ART livro_N passou_V por_PREP seis_NUM editoras_N até_PREP conseguir_V sair_V ._END
@@ -2849,34 +2849,34 @@ Mas_KC um_ART assunto_N cuja_PRO-KS cobertura_N tem_V piorado_PCP é_V política
 O_ART conflito_N na_PREP+ART Somália_NPROP e_KC a_ART paz_N no_PREP+ART Oriente_NPROP Médio_NPROP ,_PU o_ART golpe_N de_PREP Ieltsin_NPROP e_KC a_ART guerra_N na_PREP+ART Bósnia_NPROP :_PU tudo_PROADJ isso_PROSUB mereceu_V minguados_PCP minutos_N e_KC quase_ADV nenhuma_PROADJ explicação_N ._END
 Ainda_KC assim_KC ,_PU cabe_V observar_V que_KS a_ART função_N de_PREP uma_ART retrospectiva_N dessas_PREP+PROSUB não_ADV é_V informar_V ,_PU mas_KC lembrar_V às_PREP+ART pessoas_N devidamente_ADV informadas_PCP esmagadora_ADJ é_V a_ART quantidade_N de_PREP notícias_N que_PRO-KS elas_PROPESS consumiram_V no_PREP+ART ano_N ._END
 Montagem_N leva_V Beckett_NPROP ao_PREP+ART palco_N
-"_PU Todos_NPROP os_NPROP que_NPROP Caem_NPROP "_PU ,_PU peça_N de_PREP Samuel_NPROP Beckett_NPROP com_PREP direção_N de_PREP André_NPROP Pink_NPROP ,_PU entra_V em_PREP cartaz_N em_PREP São_NPROP Paulo_NPROP
+"_PU Todos_NPROP os_NPROP que_NPROP Caem_NPROP "_PU ,_PU peça_N de_PREP Samuel_NPROP Beckett_NPROP com_PREP direção_N de_PREP André_NPROP Pink_NPROP ,_PU entra_V em_PREP cartaz_N em_PREP São Paulo_NPROP
 "_PU Equinox_NPROP "_PU conta_V história_N de_PREP gêmeos_N
 Dois_NUM gêmeos_N de_PREP personalidades_N opostas_ADJ se_PROPESS reencontram_V 30_NUM anos_N depois_ADV em_PREP "_PU Equinox_NPROP "_PU ,_PU de_PREP Alan_NPROP Rudolph_NPROP
 Pág_N ._END
 Borelli_NPROP mistura_V dança_N e_KC teatro_N
-O_ART coreógrafo_N Sandro_NPROP Borelli_NPROP volta_V a_PREP apresentar_V em_PREP São_NPROP Paulo_NPROP o_ART seu_PROADJ "_PU Teatro_NPROP Coreográfico_NPROP "_PU ._END
+O_ART coreógrafo_N Sandro_NPROP Borelli_NPROP volta_V a_PREP apresentar_V em_PREP São Paulo_NPROP o_ART seu_PROADJ "_PU Teatro_NPROP Coreográfico_NPROP "_PU ._END
 Especial_N 9_N
 Mostra_N reúne_V 25_NUM artistas_N no_PREP+ART Rio_NPROP
 Luiz_NPROP Zerbini_NPROP ,_PU Mônica_NPROP Barki_NPROP e_KC Hilton_NPROP Berredo_NPROP ,_PU entre_PREP outros_PROSUB ,_PU estão_V na_PREP+ART mostra_N "_PU Imagens_NPROP Indomáveis_NPROP "_PU ,_PU no_PREP+ART Rio_NPROP
 5-9_N
 5-5_N
 5-7_N
-A_ART 25ª_ADJ edição_N do_PREP+ART Festival_NPROP de_NPROP Inverno_NPROP de_PREP Campos_NPROP do_NPROP Jordão_NPROP começa_V amanhã_ADV às_PREP+ART 20h30_N em_PREP Campos_NPROP do_NPROP Jordão_NPROP (_PU 175_NUM km_N a_PREP nordeste_N de_PREP São_NPROP Paulo_NPROP )_PU com_PREP a_ART aparência_N de_PREP sempre_ADV ._END
-O_ART governador_N Luiz_NPROP Antonio_NPROP Fleury_NPROP Filho_NPROP abre_V o_ART concerto_N com_PREP a_ART Orquestra_NPROP Sinfônica_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP regida_PCP por_PREP Eleazar_NPROP de_NPROP Carvalho_NPROP ._END
+A_ART 25ª_ADJ edição_N do_PREP+ART Festival_NPROP de_NPROP Inverno_NPROP de_PREP Campos_NPROP do_NPROP Jordão_NPROP começa_V amanhã_ADV às_PREP+ART 20h30_N em_PREP Campos_NPROP do_NPROP Jordão_NPROP (_PU 175_NUM km_N a_PREP nordeste_N de_PREP São Paulo_NPROP )_PU com_PREP a_ART aparência_N de_PREP sempre_ADV ._END
+O_ART governador_N Luiz_NPROP Antonio_NPROP Fleury_NPROP Filho_NPROP abre_V o_ART concerto_N com_PREP a_ART Orquestra_NPROP Sinfônica_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP regida_PCP por_PREP Eleazar_NPROP de_NPROP Carvalho_NPROP ._END
 Como_PREP todo_PROADJ ano_N ,_PU o_ART solista_N é_V o_ART violoncelista_N pernambucano_ADJ Antonio_NPROP Meneses_NPROP ._END
 Mas_KC é_V só_PDEN aparência_N ._END
 O_ART programa_N pela_PREP+ART primeira_ADJ vez_N traz_V obras_N do_PREP+ART século_N 20_N e_KC pouco_ADV conhecidas_PCP do_PREP+ART público_N :_PU uma_ART fanfarra_N do_PREP+ART compositor_N contemporâneo_ADJ norte-americano_ADJ James_NPROP Sellers_NPROP ,_PU o_ART "_PU Concerto_NPROP para_NPROP violoncelo_NPROP e_NPROP Orquestra_NPROP "_PU ,_PU do_PREP+ART russo_N Dimitri_NPROP Shostakóvitch_NPROP (_PU 1906-1975_N )_PU ,_PU e_KC a_ART "_PU Sinfonia_NPROP nº_NPROP 7_NPROP "_PU ,_PU do_PREP+ART norte-americano_N Ezra_NPROP Laderman_NPROP ,_PU que_PRO-KS estará_V assistindo_V à_PREP+ART obra_N ._END
-A_ART abertura_N já_ADV dá_V a_ART nova_ADJ linha_N do_PREP+ART festival_N ,_PU organizado_PCP pela_PREP+ART Secretaria_NPROP de_NPROP Estado_NPROP da_NPROP Cultura_NPROP de_PREP São_NPROP Paulo_NPROP ._END
+A_ART abertura_N já_ADV dá_V a_ART nova_ADJ linha_N do_PREP+ART festival_N ,_PU organizado_PCP pela_PREP+ART Secretaria_NPROP de_NPROP Estado_NPROP da_NPROP Cultura_NPROP de_PREP São Paulo_NPROP ._END
 Promete_V ser_V a_PREP um_ART tempo_N neomodernista_ADJ e_KC monumental_ADJ ._END
 Terá_V 75_NUM espetáculos_N em_PREP 21_NUM cidades_N do_PREP+ART Estado_N ._END
-As_ART melhores_ADJ atrações_N se_PROPESS exibem_V em_PREP Campos_NPROP do_NPROP Jordão_NPROP e_KC São_NPROP Paulo_NPROP ._END
+As_ART melhores_ADJ atrações_N se_PROPESS exibem_V em_PREP Campos_NPROP do_NPROP Jordão_NPROP e_KC São Paulo_NPROP ._END
 Em_PREP vez_PREP de_PREP privilegiar_V a_ART "_PU mainstream_N "_PU da_PREP+ART música_N erudita_ADJ ,_PU a_ART organização_N do_PREP+ART evento_N valoriza_V este_PROADJ ano_N os_ART músicos_N que_PRO-KS fazem_V sucesso_N no_PREP+ART mercado_N de_PREP discos_N ._END
 Em_PREP outras_PROADJ palavras_N ,_PU a_ART Secretaria_NPROP de_NPROP Cultura_NPROP decidiu_V exaltar_V a_ART música_N sob_PREP pretexto_N de_PREP "_PU discutir_V a_ART música_N do_PREP+ART século_N 20_N "_PU ._END
 A_ART maior_ADJ parte_N das_PREP+ART atrações_N internacionais_ADJ pela_PREP+ART primeira_ADJ vez_N tem_V ligação_N apenas_PDEN indireta_ADJ com_PREP a_ART área_N erudita_ADJ tradicional_ADJ ._END
-O_ART paquistanês_N Nusrat_NPROP ,_PU que_PRO-KS canta_V no_PREP+ART domingo_N em_PREP Campos_NPROP e_KC na_PREP+ART segunda_N em_PREP São_NPROP Paulo_NPROP ,_PU já_ADV gravou_V com_PREP o_ART astro_N Peter_NPROP Gabriel_NPROP ._END
+O_ART paquistanês_N Nusrat_NPROP ,_PU que_PRO-KS canta_V no_PREP+ART domingo_N em_PREP Campos_NPROP e_KC na_PREP+ART segunda_N em_PREP São Paulo_NPROP ,_PU já_ADV gravou_V com_PREP o_ART astro_N Peter_NPROP Gabriel_NPROP ._END
 também_PDEN é_V o_ART Turtle_NPROP Island_NPROP String_NPROP Quartet_NPROP ._END
 O_ART grupo_N participou_V de_PREP turnês_N até_PDEN da_PREP+ART banda_N gay_NPROP The_NPROP Village_NPROP People_NPROP ._END
-Toca_V quarta_N em_PREP Campos_NPROP e_KC dia_N 12_N em_PREP São_NPROP Paulo_NPROP ._END
+Toca_V quarta_N em_PREP Campos_NPROP e_KC dia_N 12_N em_PREP São Paulo_NPROP ._END
 O_ART festival_N assinala_V a_ART chegada_N da_PREP+ART música_N contemporânea_ADJ ao_PREP+ART público_N ,_PU ao_PREP+ART consumo_N ._END
 Leia_V MAIS_ADV sobre_PREP o_ART 25º_ADJ Festival_NPROP de_NPROP Inverno_NPROP de_PREP Campos_NPROP do_NPROP Jordão_NPROP a_ART pág._N 5-3_N
 Fonte_N :_PU Secretaria_N de_PREP Estado_NPROP da_NPROP Cultura_NPROP de_PREP SP_NPROP
@@ -2890,7 +2890,7 @@ A_ART bancada_N do_PREP+ART PDT_NPROP gaúcho_ADJ promete_V represália_N à_PRE
 Brizola_NPROP está_V com_PREP 72_NUM anos_N ._END
 Rojão_N
 Será_V regado_PCP a_PREP futebol_N a_ART exposição_N que_PRO-KS Jose_NPROP Zaragoza_NPROP estréia_V terça-feira_N na_PREP+ART galeria_N Nara_NPROP Roesler_NPROP ._END
-Tendo_V o_ART esporte_N favorito_ADJ de_PREP Romário_NPROP como_PREP tema_N principal_ADJ de_PREP 40_NUM obras_N -_PU entre_PREP gravuras_N em_PREP metal_N ,_PU litogravuras_N e_KC desenhos_N -_PU ,_PU a_ART mostra_N terá_V parte_N da_PREP+ART renda_N revertida_PCP em_PREP prol_PREP da_PREP+ART AACD_NPROP e_KC do_PREP+ART Lar_NPROP Escola_NPROP São_NPROP Francisco_NPROP ._END
+Tendo_V o_ART esporte_N favorito_ADJ de_PREP Romário_NPROP como_PREP tema_N principal_ADJ de_PREP 40_NUM obras_N -_PU entre_PREP gravuras_N em_PREP metal_N ,_PU litogravuras_N e_KC desenhos_N -_PU ,_PU a_ART mostra_N terá_V parte_N da_PREP+ART renda_N revertida_PCP em_PREP prol_PREP da_PREP+ART AACD_NPROP e_KC do_PREP+ART Lar_NPROP Escola_NPROP São Francisco_NPROP ._END
 Tricô_N ._END
 Os_ART fiéis_ADJ escudeiros_N de_PREP Luiza_NPROP Erundina_NPROP -_PU e_KC a_ART própria_PROSUB -_PU andam_V meio_ADV assim_ADV ._END
 Acreditam_V que_KS as_ART manobras_N de_PREP Cândido_NPROP Vacarezza_NPROP para_PREP escolher_V o_ART suplente_N da_PREP+ART moça_N em_PREP sua_PROADJ corrida_N por_PREP uma_ART vaga_N no_PREP+ART Senado_N foram_V pilotadas_PCP à_PREP+ART distância_N por_PREP Rui_NPROP Falcão_NPROP ._END
@@ -2904,7 +2904,7 @@ Peroba_N
 Mesmo_PDEN levando_V em_ADV conta_ADV seu_PROADJ papel_N ,_PU a_ART mãe_N da_PREP+ART miss_N Lilya_NPROP Virna_NPROP extrapolou_V ._END
 Querendo_V virar_V ela_PROPESS mesma_PROPESS modelo_N -_PU com_PREP book_N e_KC tudo_PROSUB ._END
 (_PU Andréa_NPROP Dantas_NPROP ,_PU redatora_N interina_ADJ )_PU
-O_ART ministro_N Marcos_NPROP Vilaça_NPROP troca_V Brasília_NPROP por_PREP rasante_N rápido_ADJ em_PREP Americana_NPROP ,_PU São_NPROP Paulo_NPROP ,_PU para_PREP o_ART aniversário_N de_PREP seu_PROADJ pimpolho_N Rodrigo_NPROP Vilaça_NPROP ._END
+O_ART ministro_N Marcos_NPROP Vilaça_NPROP troca_V Brasília_NPROP por_PREP rasante_N rápido_ADJ em_PREP Americana_NPROP ,_PU São Paulo_NPROP ,_PU para_PREP o_ART aniversário_N de_PREP seu_PROADJ pimpolho_N Rodrigo_NPROP Vilaça_NPROP ._END
 Teve_V direito_N a_ART festança_N anteontem_ADV na_PREP+ART Casa_N da_PREP+ART Gávea_NPROP comandada_PCP por_PREP papai_N Mauricio_NPROP Mattar_NPROP e_KC mamãe_N Elba_NPROP Ramalho_NPROP a_ART comemoração_N dos_PREP+ART setes_NUM anos_N do_PREP+ART pequeno_ADJ Luan_NPROP ._END
 Será_V recheada_PCP de_PREP pastel_N ,_PU pipoca_N e_KC muita_PROADJ dança_N a_ART festa_N que_PRO-KS André_NPROP Trindade_NPROP e_KC Betty_NPROP Gervitz_NPROP regem_V hoje_ADV na_PREP+ART Colméia_NPROP ._END
 Belarmino_NPROP Iglesias_NPROP acaba_V de_PREP rechear_V o_ART cardápio_N de_PREP seu_PROADJ Rubayat_NPROP com_PREP um_ART lote_N de_PREP angulas_N made_N in_N ._END
@@ -2920,7 +2920,7 @@ As_ART atrizes_N do_PREP+ART programa_N "_PU Saturday_NPROP Night_NPROP Live_NPR
 Além_PREP de_PREP serem_V apenas_PDEN quatro_N entre_PREP 12_NUM homens_N ,_PU muitos_PROSUB dos_PREP+ART papéis_N femininos_ADJ são_V feitos_PCP também_PDEN por_PREP homens_N ._END
 "_PU Não_ADV fico_V com_PREP raiva_N porque_KS não_ADV acredito_V que_KS façam_V isso_PROSUB de_ADV propósito_ADV "_PU ,_PU disse_V Cleghorne_NPROP ._END
 A_ART América_NPROP toda_PROADJ é_V extremamente_ADV misógina_ADJ "_PU ,_PU completou_V ._END
-Um_ART crânio_N com_PREP a_ART inscrição_N Mozart_NPROP em_PREP latim_N foi_V encontrado_PCP por_PREP três_NUM garotos_N em_PREP São_NPROP Petersburgo_NPROP ,_PU na_PREP+ART Rússia_NPROP ._END
+Um_ART crânio_N com_PREP a_ART inscrição_N Mozart_NPROP em_PREP latim_N foi_V encontrado_PCP por_PREP três_NUM garotos_N em_PREP São Petersburgo_NPROP ,_PU na_PREP+ART Rússia_NPROP ._END
 O_ART crânio_N estava_V envolvido_PCP em_PREP folhas_N do_PREP+ART jornal_N "_PU Peterburgsky_NPROP Listók_NPROP "_PU ,_PU datado_PCP de_PREP 1896_N ._END
 O_ART crânio_N de_PREP Mozart_NPROP foi_V roubado_PCP do_PREP+ART museu_N de_PREP Viena_NPROP há_V cem_NUM anos_N ._END
 A_ART descoberta_N se_PROPESS deu_V quando_KS eles_PROPESS procuravam_V "_PU tesouros_N "_PU em_PREP um_ART velho_ADJ edifício_N ._END
@@ -2928,7 +2928,7 @@ Com_PREP um_ART martelo_N de_PREP madeira_N ,_PU batiam_V nas_PREP+ART paredes_N
 O_ART achado_N foi_V levado_PCP a_PREP Moscou_NPROP para_PREP análises_N ._END
 Com_PREP agências_N internacionais_ADJ
 Secretário_N pretende_V desafiar_V o_ART público_N
-O_ART secretário_N de_PREP Cultura_N de_PREP São_NPROP Paulo_NPROP Ricardo_NPROP Ohtake_NPROP está_V gastando_V US$_CUR 1,7_NUM milhão_N para_PREP deixar_V o_ART público_N de_PREP Campos_NPROP do_NPROP Jordão_NPROP na_PREP+ART situação_N desconfortável_ADJ de_PREP ser_V desafiado_PCP em_PREP suas_PROADJ convicções_N ._END
+O_ART secretário_N de_PREP Cultura_N de_PREP São Paulo_NPROP Ricardo_NPROP Ohtake_NPROP está_V gastando_V US$_CUR 1,7_NUM milhão_N para_PREP deixar_V o_ART público_N de_PREP Campos_NPROP do_NPROP Jordão_NPROP na_PREP+ART situação_N desconfortável_ADJ de_PREP ser_V desafiado_PCP em_PREP suas_PROADJ convicções_N ._END
 Pelo_PDEN menos_PDEN é_V uma_ART provocação_N gratuita_ADJ ._END
 O_ART público_N não_ADV pagará_V nada_PROSUB para_PREP assistir_V aos_PREP+ART espetáculos_N ,_PU como_PREP todo_PROADJ ano_N ._END
 Segundo_PREP Ohtake_NPROP ,_PU ele_PROPESS merece_V :_PU "_PU O_ART importante_N é_V formar_V -lo_PROPESS ._END
@@ -2955,7 +2955,7 @@ Ocupado_PCP ._END
 Para_PREP ele_PROPESS ,_PU o_ART polonês_N será_V a_ART principal_ADJ atração_N ._END
 O_ART CD_N com_PREP a_ART "_PU Sinfonia_NPROP nº_NPROP 3_NPROP "_PU ,_PU de_PREP Górecki_NPROP ,_PU pela_PREP+ART London_NPROP Sinfonietta_NPROP e_KC a_ART soprano_N norte-americana_ADJ Dawn_NPROP Upshaw_NPROP ,_PU vendeu_V 5_NUM milhões_N de_PREP cópias_N em_PREP 1993_N e_KC atingiu_V o_ART primeiro_ADJ lugar_N na_PREP+ART parada_N pop_ADJ inglesa_ADJ ._END
 O_ART apelo_N pop_ADJ do_PREP+ART evento_N já_ADV está_V causando_V reações_N ._END
-Ohtake_NPROP diz_V que_KS até_PDEN o_ART compositor_N e_KC cantor_N baiano_ADJ Caetano_NPROP Veloso_NPROP manifestou_V desejo_N de_PREP assistir_V ao_PREP+ART show_N de_PREP Nusrat_NPROP ,_PU nesta_PREP+PROADJ segunda-feira_N ,_PU em_PREP São_NPROP Paulo_NPROP ._END
+Ohtake_NPROP diz_V que_KS até_PDEN o_ART compositor_N e_KC cantor_N baiano_ADJ Caetano_NPROP Veloso_NPROP manifestou_V desejo_N de_PREP assistir_V ao_PREP+ART show_N de_PREP Nusrat_NPROP ,_PU nesta_PREP+PROADJ segunda-feira_N ,_PU em_PREP São Paulo_NPROP ._END
 O_ART secretário_N espera_V a_ART resposta_N do_PREP+ART público_N ._END
 "_PU Toda_PROADJ platéia_N de_PREP música_N erudita_ADJ é_V tradicionalista_ADJ "_PU ,_PU explica_V ._END
 "_PU Em_PREP Campos_NPROP do_NPROP Jordão_NPROP também_PDEN ._END
@@ -3021,7 +3021,7 @@ Sinfonieta_NPROP de_NPROP Bolsistas_NPROP
 Orquestra_NPROP Sinfônica_NPROP de_NPROP Campinas_NPROP
 Dia_N 24_N ,_PU domingo_N
 Orquestra_NPROP Sinfônica_NPROP dos_NPROP Bolsistas_NPROP
-São_NPROP Paulo_NPROP
+São Paulo_NPROP
 Arnaldo_NPROP Cohen_NPROP (_PU piano_N )_PU
 21h_N ,_PU Memorial_NPROP da_NPROP América_NPROP Latina_NPROP
 Le_NPROP Mystère_NPROP des_NPROP Voix_NPROP Bulgares_NPROP
@@ -3148,7 +3148,7 @@ O_ART "_PU amor_N livre_ADJ "_PU conquistado_PCP pelos_PREP+ART jovens_N dos_PRE
 E_KC ,_PU ao_PREP contrário_PREP dos_PREP+ART yuppies_N que_PRO-KS se_PROPESS seguraram_V no_PREP+ART moralismo_N ,_PU essa_PROADJ geração_N parece_V não_ADV acreditar_V no_PREP+ART casamento_N e_KC nem_ADV no_PREP+ART moralismo_N ._END
 A_ART propagação_N do_PREP+ART vírus_N da_PREP+ART Aids_N ,_PU junto_PREP com_PREP outros_PROADJ fatores_N ,_PU fez_V com_PREP que_KS o_ART sexo_N passasse_V a_PREP ser_V tratado_PCP com_PREP mais_PROADJ naturalidade_N ._END
 Filme_N narra_V "_PU conflitos_N "_PU ._END
-O_ART filme_N "_PU Amor_NPROP e_NPROP Restos_NPROP Humanos_NPROP "_PU ,_PU do_PREP+ART diretor_N Dennis_NPROP Arcand_NPROP ,_PU em_PREP cartaz_N em_PREP São_NPROP Paulo_NPROP ,_PU é_V programa_N certo_ADJ para_PREP quem_PRO-KS quer_V ver_V um_ART bom_ADJ retrato_N da_PREP+ART chamada_PCP "_PU Geração_N X_N ._END "_PU
+O_ART filme_N "_PU Amor_NPROP e_NPROP Restos_NPROP Humanos_NPROP "_PU ,_PU do_PREP+ART diretor_N Dennis_NPROP Arcand_NPROP ,_PU em_PREP cartaz_N em_PREP São Paulo_NPROP ,_PU é_V programa_N certo_ADJ para_PREP quem_PRO-KS quer_V ver_V um_ART bom_ADJ retrato_N da_PREP+ART chamada_PCP "_PU Geração_N X_N ._END "_PU
 do_PREP+PROSUB que_PROSUB se_PROPESS trata_V ?_PU
 Eles_PROPESS não_ADV têm_V ideais_N em_PREP que_PRO-KS acreditar_V (_PU como_KS a_ART geração_N dos_PREP+ART anos_N 70_N teve_V )_PU ._END
 E_KC também_PDEN não_ADV têm_V o_ART espírito_N "_PU quero_V me_PROPESS dar_V bem_ADV "_PU dos_PREP+ART yuppies_N dos_PREP+ART anos_N 80_N ._END
@@ -3187,11 +3187,11 @@ Onde_ADV :_PU teatro_N Ruth_NPROP Escobar_NPROP /_PU sala_N Gil_NPROP Vicente_NP
 Preço_N :_PU Cr$_CUR 12_NUM mil_NUM
 Teatro_NPROP Municipal_NPROP adia_V sua_PROADJ temporada_N lírica_ADJ
 Da_PREP+ART Redação_N
-O_ART Teatro_NPROP Municipal_NPROP de_PREP São_NPROP Paulo_NPROP adiou_V toda_PROADJ a_ART sua_PROADJ temporada_N lírica_ADJ ._END
+O_ART Teatro_NPROP Municipal_NPROP de_PREP São Paulo_NPROP adiou_V toda_PROADJ a_ART sua_PROADJ temporada_N lírica_ADJ ._END
 A_ART primeira_ADJ ópera_N ,_PU que_PRO-KS deveria_V estrear_V no_PREP+ART dia_N 27_N de_PREP junho_N ,_PU "_PU Carmen_NPROP "_PU ,_PU de_PREP Bizet_NPROP ,_PU só_PDEN deve_V ser_V encenada_PCP em_PREP setembro_N ._END
 A_ART Secretaria_NPROP Municipal_NPROP da_NPROP Cultura_NPROP informou_V que_KS o_ART motivo_N foi_V a_ART falta_N de_PREP patrocinadores_N ._END
 "_PU Eles_PROPESS estão_V esperando_V a_ART implantação_N do_PREP+ART "_PU ,_PU diz_V Fabiana_NPROP Holanda_NPROP ,_PU assessora_N de_PREP imprensa_N da_PREP+ART secretaria_N ._END
-Segundo_PREP ela_PROPESS ,_PU a_ART Prefeitura_N de_PREP São_NPROP Paulo_NPROP não_ADV teria_V condições_N de_PREP arcar_V com_PREP os_ART R$_CUR 600_NUM mil_NUM previstos_PCP para_PREP "_PU Carmen_NPROP "_PU ._END
+Segundo_PREP ela_PROPESS ,_PU a_ART Prefeitura_N de_PREP São Paulo_NPROP não_ADV teria_V condições_N de_PREP arcar_V com_PREP os_ART R$_CUR 600_NUM mil_NUM previstos_PCP para_PREP "_PU Carmen_NPROP "_PU ._END
 A_ART participação_N da_PREP+ART prefeitura_N ficaria_V entre_PREP R$_CUR 150_NUM mil_NUM e_KC R$_CUR 200_NUM mil_NUM ._END
 O_ART diretor_N da_PREP+ART ópera_N ,_PU Iakov_NPROP Hillel_NPROP ,_PU diz_V que_KS os_ART custos_N de_PREP produção_N poderiam_V ser_V menores_ADJ ._END
 Hillel_NPROP reclama_V dos_PREP+ART custos_N do_PREP+ART convite_N a_PREP solistas_N vindos_PCP do_PREP+ART exterior_N ._END

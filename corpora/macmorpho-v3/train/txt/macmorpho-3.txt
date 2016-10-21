@@ -872,7 +872,7 @@ Os_ART ex-combatentes_N da_PREP+ART FEB_NPROP (_PU Força_NPROP Expedicionária_
 Outros_PROSUB fizeram_V amigos_N na_PREP+ART região_N em_PREP que_PRO-KS combateram_V e_KC ,_PU por_PREP serem_V mais_ADV abastados_PCP ,_PU puderam_V visitar_V -los_PROPESS outras_PROADJ vezes_N desde_PREP a_ART guerra_N ._END
 Algumas_PROADJ coisas_N não_ADV mudaram_V para_PREP eles_PROPESS ._END
 Apesar_PREP de_PREP cansados_PCP da_PREP+ART viagem_N ,_PU dois_NUM veteranos_N ,_PU Vicente_NPROP Gratagliano_NPROP e_KC Ferdinando_NPROP Palermo_NPROP ,_PU visitaram_V logo_ADV o_ART Vaticano_NPROP ,_PU onde_ADV-KS estiveram_V quando_KS de_PREP licença_N da_PREP+ART frente_N de_PREP combate_N ._END
-A_PREP não_ADV ser_V pelos_PREP+ART turistas_N ,_PU que_PRO-KS substituíram_V nas_PREP+ART ruas_N de_PREP Roma_NPROP os_ART onipresentes_ADJ soldados_N de_PREP 1944_N ,_PU a_ART Basílica_NPROP de_NPROP São_NPROP Pedro_NPROP pouco_PROSUB tinha_V de_PREP diferente_ADJ para_PREP eles_PROPESS ._END
+A_PREP não_ADV ser_V pelos_PREP+ART turistas_N ,_PU que_PRO-KS substituíram_V nas_PREP+ART ruas_N de_PREP Roma_NPROP os_ART onipresentes_ADJ soldados_N de_PREP 1944_N ,_PU a_ART Basílica_NPROP de_NPROP São Pedro_NPROP pouco_PROSUB tinha_V de_PREP diferente_ADJ para_PREP eles_PROPESS ._END
 Durante_PREP a_ART guerra_N ,_PU os_ART dois_N foram_V recebidos_PCP pelo_PREP+ART papa_N Pio_NPROP 12_NPROP ._END
 Fonseca_NPROP ,_PU major_N da_PREP+ART reserva_N ,_PU voltou_V e_KC desta_PREP+PROADJ vez_N a_ART fonte_N estava_V bem_ADV mais_ADV limpa_ADJ ._END
 Segundo_PREP o_ART coronel_N Sergio_NPROP Gomes_NPROP Pereira_NPROP ,_PU presidente_N da_PREP+ART Associação_NPROP Nacional_NPROP dos_NPROP Veteranos_NPROP da_PREP+ART FEB_NPROP ,_PU os_ART ex-combatentes_N vão_V se_PROPESS reunir_V em_PREP Montese_NPROP com_PREP colegas_N da_PREP+ART 10ª_ADJ Divisão_NPROP de_NPROP Montanha_NPROP americana_ADJ ,_PU a_ART unidade_N que_PRO-KS acompanhou_V o_ART avanço_N dos_PREP+ART brasileiros_N em_PREP 1945_N ._END
@@ -881,7 +881,7 @@ Reuniram_V -se_PROPESS agora_KC alguns_PROADJ veteranos_N que_PRO-KS não_ADV se
 Todos_PROSUB lembram_V as_ART histórias_N com_PREP humor_N ,_PU brincando_V todo_PROADJ o_ART tempo_N ._END
 Para_PREP cada_PROADJ um_PROSUB deles_PREP+PROPESS ,_PU seu_PROADJ regimento_N foi_V o_ART melhor_N ._END
 Entre_PREP os_ART veteranos_N não_ADV há_V a_ART formalidade_N que_PRO-KS costuma_V haver_V nos_PREP+ART Exércitos_N ,_PU a_ART distinção_N rígida_ADJ entre_PREP oficiais_N e_KC praças_N ._END
-O_ART soldado_N Vicente_NPROP Gratagliano_NPROP ,_PU depois_ADV da_PREP+ART guerra_N feirante_ADJ em_PREP São_NPROP Paulo_NPROP ,_PU ajudou_V a_PREP salvar_V seu_PROADJ pelotão_N ao_PREP disparar_V sua_PROADJ metralhadora_N contra_PREP uma_ART patrulha_N alemã_ADJ quando_KS estava_V de_PREP sentinela_N ._END
+O_ART soldado_N Vicente_NPROP Gratagliano_NPROP ,_PU depois_ADV da_PREP+ART guerra_N feirante_ADJ em_PREP São Paulo_NPROP ,_PU ajudou_V a_PREP salvar_V seu_PROADJ pelotão_N ao_PREP disparar_V sua_PROADJ metralhadora_N contra_PREP uma_ART patrulha_N alemã_ADJ quando_KS estava_V de_PREP sentinela_N ._END
 Na_PREP+ART mesma_PROADJ ocasião_N ,_PU Eurípides_NPROP Simões_NPROP de_NPROP Paula_NPROP ,_PU depois_ADV professor_N titular_V de_PREP história_N na_PREP+ART USP_NPROP ,_PU salvou_V o_ART mesmo_PROADJ pelotão_N bombardeando_V os_ART alemães_N com_PREP seus_PROADJ morteiros_N ._END
 O_ART comandante_N do_PREP+ART pelotão_N ,_PU o_ART então_PDEN tenente_N José_NPROP Gonçalves_NPROP ,_PU resume_V :_PU "_PU Tenho_V muito_PROADJ orgulho_N do_PREP+ART pessoal_N que_PRO-KS combateu_V comigo_PREP+PROPESS ._END
 Quando_KS eles_PROPESS chegaram_V a_PREP Nápoles_NPROP ,_PU em_PREP 1944_N ,_PU havia_V carcaças_N de_PREP navios_N afundados_PCP por_PREP todo_PROADJ o_ART porto_N e_KC os_ART prédios_N estavam_V bombardedos_N ,_PU rivalizando_V em_PREP destruição_N com_PREP as_ART ruínas_N arqueológicas_ADJ da_PREP+ART vizinha_ADJ Pompéia_NPROP ._END
@@ -1102,7 +1102,7 @@ Tudo_PROSUB em_PREP casa_N
 A_ART chapa_N de_PREP candidatos_N a_PREP deputado_N estadual_ADJ do_PREP+ART PMDB_NPROP SP_NPROP ficou_V em_PREP família_N ._END
 Ricardo_NPROP Ulson_NPROP ,_PU cunhado_N de_PREP Quércia_NPROP ,_PU é_V candidato_N a_ART federal_N ._END
 Conforme_PREP a_ART música_N
-Terá_V que_KS subir_V no_PREP+ART palanque_N de_PREP FHC_NPROP para_PREP não_ADV sofrer_V uma_ART intervenção_N no_PREP+ART partido_N em_PREP São_NPROP Paulo_NPROP ._END
+Terá_V que_KS subir_V no_PREP+ART palanque_N de_PREP FHC_NPROP para_PREP não_ADV sofrer_V uma_ART intervenção_N no_PREP+ART partido_N em_PREP São Paulo_NPROP ._END
 Sem_PREP opção_N ,_PU o_ART PPR_NPROP deve_V apoiar_V Medeiros_NPROP (_PU )_PU para_PREP governador_N ._END
 No_PREP+ART forno_N
 Como_KS ocorreu_V com_PREP a_ART URV_NPROP ,_PU serão_V feitos_PCP filmetes_N explicativos_ADJ ._END
@@ -1110,12 +1110,12 @@ Resta_V saber_V se_KS mais_PROADJ uma_NUM vez_N não_ADV haverá_V concorrência
 Marca_N registrada_PCP
 Quadros_N de_PREP Manabu_NPROP Mabe_NPROP ganharam_V lugar_N de_PREP destaque_N ._END
 Auxílio_N luxuoso_ADJ
-Rui_NPROP Barbosa_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU com_PREP uma_ART festa_N para_PREP Quércia_NPROP e_KC Barros_NPROP Munhoz_NPROP ._END
+Rui_NPROP Barbosa_NPROP ,_PU em_PREP São Paulo_NPROP ,_PU com_PREP uma_ART festa_N para_PREP Quércia_NPROP e_KC Barros_NPROP Munhoz_NPROP ._END
 O_ART aluguel_N do_PREP+ART prédio_N está_V avaliado_PCP em_PREP US$_CUR 3_NUM mil_NUM ._END
 Do_PREP+ART tucano_N rebelado_PCP Sérgio_NPROP Gaudenzi_NPROP (_PU PSDB-_N BA_NPROP )_PU ,_PU sobre_PREP a_ART razão_N de_PREP seu_PROADJ partido_N escolher_V a_ART cidade_N de_PREP Contagem_NPROP (_PU MG_NPROP )_PU para_PREP sediar_V sua_PROADJ convenção_N :_PU
 -_PU Só_PDEN pode_V ser_V para_PREP se_PROPESS esconder_V ,_PU pela_PREP+ART vergonha_N da_PREP+ART aliança_N com_PREP o_ART PFL_NPROP ._END
 Mercador_N de_PREP ilusões_N
-Jarbas_NPROP Passarinho_NPROP (_PU PPR-_NPROP PA_NPROP )_PU conta_V que_KS em_PREP maio_N de_PREP 91_N ,_PU com_PREP Zélia_NPROP desgastada_PCP no_PREP+ART governo_N ,_PU Collor_NPROP mandou_V -o_PROPESS a_PREP São_NPROP Paulo_NPROP sondar_V José_NPROP Serra_NPROP para_PREP substituir_V a_ART ministra_N ._END
+Jarbas_NPROP Passarinho_NPROP (_PU PPR-_NPROP PA_NPROP )_PU conta_V que_KS em_PREP maio_N de_PREP 91_N ,_PU com_PREP Zélia_NPROP desgastada_PCP no_PREP+ART governo_N ,_PU Collor_NPROP mandou_V -o_PROPESS a_PREP São Paulo_NPROP sondar_V José_NPROP Serra_NPROP para_PREP substituir_V a_ART ministra_N ._END
 Para_PREP evitar_V constrangimentos_N ,_PU Collor_NPROP pediu_V ao_PREP+ART Justiça_NPROP que_KS dissesse_V a_ART Serra_NPROP que_KS ele_PROPESS estava_V numa_PREP+ART lista_N tríplice_ADJ ,_PU e_KC que_KS ele_PROPESS ,_PU Passarinho_NPROP ,_PU trabalharia_V pelo_PREP+ART seu_PROADJ nome_N se_KS aceitasse_V a_ART indicação_N ._END
 Ao_PREP+ART fim_N ,_PU segundo_PREP Passarinho_NPROP ,_PU disse_V que_KS precisava_V ouvir_V "_PU as_ART bases_N "_PU ._END
 O_ART ministro_N disse_V que_KS não_ADV poderia_V esperar_V ,_PU agradeceu_V ,_PU e_KC foi_V dormir_V ,_PU às_PREP+ART 3h_N ,_PU numa_PREP+ART guarnição_N do_PREP+ART Exército_NPROP na_PREP+ART capital_N paulista_ADJ ._END
@@ -1138,7 +1138,7 @@ Neste_PREP+PROADJ episódio_N intrincado_PCP ,_PU entretanto_KC ,_PU há_V que_K
 O_ART caderno_N especial_ADJ sobre_PREP os_ART 10_NUM anos_N da_PREP+ART derrota_N da_PREP+ART emenda_N que_PRO-KS restabelecia_V eleições_N diretas_ADJ ,_PU publicado_PCP no_PREP+ART domingo_N passado_PCP ,_PU conseguiu_V opiniões_N unânimes_ADJ dos_PREP+ART leitores_N ._END
 Foi_V muito_ADV elogiado_PCP ,_PU mas_KC criticado_PCP também_PDEN porque_KS deixou_V de_PREP trazer_V a_ART lista_N dos_PREP+ART parlamentares_N que_PRO-KS votaram_V a_ART emenda_N na_PREP+ART sessão_N de_PREP 25_N de_PREP abril_N de_PREP 1984_N ._END
 "_PU Boa_ADJ parte_N deles_PREP+PROPESS continuam_V por_PREP aí_ADV ,_PU fazendo_V política_N ._END
-O_ART leitor_N poderia_V saber_V quem_PRO-KS são_V "_PU ,_PU disse_V uma_ART leitora_N de_PREP São_NPROP Paulo_NPROP ._END
+O_ART leitor_N poderia_V saber_V quem_PRO-KS são_V "_PU ,_PU disse_V uma_ART leitora_N de_PREP São Paulo_NPROP ._END
 Os_ART números_N do_PREP+ART atendimento_N de_PREP abril_N estão_V aí_ADV ao_PREP+ART lado_N ._END
 Eles_PROPESS telefonaram_V menos_ADV ,_PU mas_KC escreveram_V mais_ADV ._END
 Confira_V no_PREP+ART quadro_N ._END
@@ -1149,7 +1149,7 @@ A_PREP ombudsman_N tem_V mandato_N de_PREP um_NUM ano_N ,_PU renovável_ADJ por_
 Ela_PROPESS não_ADV pode_V ser_V demitida_PCP durante_PREP o_ART exercício_N do_PREP+ART cargo_N e_KC tem_V estabilidade_N por_PREP um_NUM ano_N após_PREP o_ART exercício_N da_PREP+ART função_N ._END
 Suas_PROADJ atribuições_N são_V criticar_V o_ART jornal_N sob_PREP a_ART perspectiva_N do_PREP+ART leitor_N -_PU recebendo_V e_KC checando_V as_ART reclamações_N que_PRO-KS ele_PROPESS encaminha_V à_PREP+ART Redação_NPROP e_KC comentar_V ,_PU aos_PREP+ART domingos_N ,_PU o_ART noticiário_N dos_PREP+ART meios_N de_PREP comunicação_N ._END
 Cartas_N devem_V ser_V enviadas_PCP para_PREP a_PREP al_N ._END
-Barão_NPROP de_NPROP Limeira_NPROP ,_PU 425_NUM ,_PU 8º_ADJ andar_N ,_PU São_NPROP Paulo_NPROP (_PU SP_NPROP )_PU ,_PU Cep_N 01202-001_NUM ,_PU a.c._PREP ._END Junia_NPROP Nogueira_NPROP de_NPROP Sá_NPROP -_PU Ombudsman_N ._END
+Barão_NPROP de_NPROP Limeira_NPROP ,_PU 425_NUM ,_PU 8º_ADJ andar_N ,_PU São Paulo_NPROP (_PU SP_NPROP )_PU ,_PU Cep_N 01202-001_NUM ,_PU a.c._PREP ._END Junia_NPROP Nogueira_NPROP de_NPROP Sá_NPROP -_PU Ombudsman_N ._END
 Para_PREP contatos_N telefônicos_ADJ ,_PU ligue_V (_PU 011_N 224-3896_N )_PU entre_PREP 14h_N e_KC 18h_N ,_PU de_PREP segunda_N a_PREP sexta-feira_N ._END
 Até_PREP anteontem_ADV ,_PU sexta-feira_N ,_PU 20_NUM leitores_N já_ADV haviam_V protestado_PCP uma_ART reportagem_N que_PRO-KS a_ART Folha_NPROP publicou_V na_PREP+ART quinta-feira_N da_PREP+ART semana_N passada_PCP ,_PU 21_N de_PREP abril_N ,_PU debaixo_PREP do_PREP+ART título_N "_PU Lula_NPROP declarou_V admirar_V Hitler_NPROP e_KC Khomeini_NPROP "_PU ._END
 É_V verdade_N que_KS a_ART maior_ADJ parte_N desses_PREP+PROADJ leitores_N vão_V votar_V em_PREP Lula_NPROP para_PREP presidente_N ,_PU e_KC que_KS seus_PROADJ protestos_N levam_V em_PREP conta_N o_PRO-KS que_PRO-KS eles_PROPESS imaginam_V ser_V uma_ART indisposição_N da_PREP+ART Folha_NPROP contra_PREP o_ART candidato_N do_PREP+ART PT_NPROP ._END
@@ -1236,7 +1236,7 @@ Se_KS o_ART esgotamento_N do_PREP+ART modelo_N é_V quase_ADV uma_ART unanimidad
 ex-prefeito_N denuncia_V uso_N de_PREP verba_N oficial_ADJ na_PREP+ART campanha_N de_PREP Fleury_NPROP em_PREP 90_N
 Editor_N da_PREP+ART Folha_NPROP Norte_NPROP
 A_ART empresa_N "_PU fantasma_ADJ "_PU (_PU sem_PREP existência_N de_PREP fato_N )_PU foi_V aberta_PCP com_PREP o_ART nome_N de_PREP Transportadora_NPROP Conejo_NPROP ._END
-Os_ART recursos_N eram_V repassados_PCP ,_PU segundo_PREP Garcia_NPROP ,_PU da_PREP+ART empresa_N para_PREP o_ART pagamento_N de_PREP material_N de_PREP campanha_N e_KC comícios_N do_PREP+ART PMDB_NPROP na_PREP+ART região_N de_PREP São_NPROP José_NPROP do_NPROP Rio_NPROP Preto_NPROP ._END
+Os_ART recursos_N eram_V repassados_PCP ,_PU segundo_PREP Garcia_NPROP ,_PU da_PREP+ART empresa_N para_PREP o_ART pagamento_N de_PREP material_N de_PREP campanha_N e_KC comícios_N do_PREP+ART PMDB_NPROP na_PREP+ART região_N de_PREP São José_NPROP do_NPROP Rio_NPROP Preto_NPROP ._END
 Isso_PROSUB acontecia_V ,_PU segundo_PREP ele_PROPESS ,_PU a_PREP pedido_N o_ART comando_N da_PREP+ART campanha_N de_PREP Fleury_NPROP ._END
 O_ART banco_N autorizou_V empréstimo_N ,_PU conforme_PREP o_ART ex-prefeito_N ,_PU no_PREP+ART valor_N total_ADJ de_PREP Cr$_CUR 26_NUM milhões_N para_PREP a_ART microempresa_N "_PU fantasma_ADJ "_PU de_PREP Mirassol_NPROP ._END
 Essa_PROADJ forma_N de_PREP financiar_V a_ART campanha_N de_PREP Fleury_NPROP ,_PU de_PREP acordo_PREP com_PREP o_ART ex-prefeito_N ,_PU foi_V utilizada_PCP em_PREP vários_PROADJ outros_PROADJ municípios_N do_PREP+ART interior_N do_PREP+ART Estado_N ._END

@@ -32,34 +32,36 @@ class CorpusReader implements ICorpusReader {
                     taggedToken = new TaggedToken(word, tag);
                 }
 
+                taggedTokens.push(taggedToken);
+
                 /*
                 Combino todos tokens N e NPROP seguidos em um só, exemplo:
                 Murilo_NPROP Kunze_NPROP virá um token só Murilo Kunze_N
                 */
-                if(taggedToken.getTag() !== "N" && taggedToken.getTag() !== "NPROP"){
-                    if(lastTaggedToken) {
-                        taggedTokens.push(lastTaggedToken);
-                        lastTaggedToken = null;                      
-                    }
-                    taggedTokens.push(taggedToken);
-                    continue;
-                }
+                // if(taggedToken.getTag() !== "N" && taggedToken.getTag() !== "NPROP"){
+                //     if(lastTaggedToken) {
+                //         taggedTokens.push(lastTaggedToken);
+                //         lastTaggedToken = null;                      
+                //     }
+                //     taggedTokens.push(taggedToken);
+                //     continue;
+                // }
 
-                if(!lastTaggedToken) {
-                    lastTaggedToken = taggedToken;
-                    continue;
-                }
+                // if(!lastTaggedToken) {
+                //     lastTaggedToken = taggedToken;
+                //     continue;
+                // }
 
-                if(lastTaggedToken.getTag() === taggedToken.getTag()) {
-                    let word = `${lastTaggedToken.getWord()} ${taggedToken.getWord()}`;
+                // if(lastTaggedToken.getTag() === taggedToken.getTag()) {
+                //     let word = `${lastTaggedToken.getWord()} ${taggedToken.getWord()}`;
 
-                    lastTaggedToken = new TaggedToken(word, taggedToken.getTag(), []);
-                }
-                else {
-                    //entra aqui somente se o token anterior for NPROP e o próximo N, ou vice-versa
-                    taggedTokens.push(lastTaggedToken);
-                    lastTaggedToken = taggedToken;
-                }
+                //     lastTaggedToken = new TaggedToken(word, taggedToken.getTag(), []);
+                // }
+                // else {
+                //     //entra aqui somente se o token anterior for NPROP e o próximo N, ou vice-versa
+                //     taggedTokens.push(lastTaggedToken);
+                //     lastTaggedToken = taggedToken;
+                // }
             }
         }
 

@@ -2,13 +2,13 @@
 publica_V com_PREP exclusividade_N a_ART correspondência_N inédita_ADJ de_PREP Freud_NPROP com_PREP os_ART pioneiros_N do_PREP+ART movimento_N psicanalítico_ADJ no_PREP+ART Brasil_NPROP
 A_ART correspondência_N é_V inédita_ADJ ,_PU não_ADV consta_V das_PREP+ART biografias_N de_PREP Freud_NPROP e_KC foi_V obtida_PCP com_PREP exclusividade_N pelo_PREP+ART Mais!_NPROP
 (_PU leia_V as_ART cartas_N na_PREP+ART página_N ao_PREP+ART lado_N )_PU ._END
-A_ART correspondência_N será_V divulgada_PCP apenas_PDEN no_PREP+ART próximo_ADJ dia_N 13_N ,_PU quando_ADV-KS a_ART Sociedade_NPROP Brasileira_NPROP de_NPROP Psicanálise_NPROP de_NPROP São_NPROP Paulo_NPROP (_PU SBPSP_NPROP )_PU lança_V o_ART livro_N "_PU Álbum_NPROP de_NPROP Família_NPROP -_NPROP Imagens,_NPROP Fontes_NPROP e_NPROP Idéias_NPROP da_NPROP Psicanálise_NPROP em_NPROP São_NPROP Paulo_NPROP "_PU ._END
+A_ART correspondência_N será_V divulgada_PCP apenas_PDEN no_PREP+ART próximo_ADJ dia_N 13_N ,_PU quando_ADV-KS a_ART Sociedade_NPROP Brasileira_NPROP de_NPROP Psicanálise_NPROP de_NPROP São Paulo_NPROP (_PU SBPSP_NPROP )_PU lança_V o_ART livro_N "_PU Álbum_NPROP de_NPROP Família_NPROP -_NPROP Imagens,_NPROP Fontes_NPROP e_NPROP Idéias_NPROP da_NPROP Psicanálise_NPROP em_NPROP São Paulo_NPROP "_PU ._END
 A_ART edição_N foi_V coordenada_PCP pelo_PREP+ART psicanalista_N Leopold_NPROP Nosek_NPROP ,_PU 47_NUM ,_PU atual_ADJ presidente_N da_PREP+ART SBPSP_NPROP ,_PU e_KC publicada_PCP pela_PREP+ART Casa_NPROP do_NPROP Psicólogo_NPROP ._END
-O_ART lançamento_N acontece_V às_PREP+ART 20h_N no_PREP+ART Centro_NPROP Cultural_NPROP São_NPROP Paulo_NPROP (_PU r._NPROP Vergueiro_NPROP
-,_PU 1.000_NUM ,_PU zona_N sul_ADJ de_PREP São_NPROP Paulo_NPROP )_PU ._END
-São_V um_ART recibo_N histórico_ADJ de_PREP que_PRO-KS queria_V acompanhar_V os_ART trabalhos_N do_PREP+ART núcleo_N de_PREP estudos_N psicanalíticos_ADJ em_PREP São_NPROP Paulo_NPROP ,_PU que_PRO-KS em_PREP 1944_N se_PROPESS consolidaria_V como_PREP a_ART SBPSP_NPROP ._END
-Durval_NPROP Marcondes_NPROP ,_PU médico_N psiquiatra_N de_PREP formação_N ,_PU considerado_PCP o_ART pioneiro_N da_PREP+ART psicanálise_N em_PREP São_NPROP Paulo_NPROP ,_PU é_V o_ART desencadeador_N do_PREP+ART interesse_N de_PREP Freud_NPROP ._END
-Em_PREP 1926_N ,_PU então_ADV com_PREP 27_NUM anos_N ,_PU Marcondes_NPROP prestou_V concurso_N para_PREP a_ART cadeira_N de_PREP literatura_N no_PREP+ART Ginásio_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP e_KC enviou_V ao_PREP+ART autor_N de_PREP "_PU Totem_NPROP e_NPROP Tabu_NPROP "_PU sua_PROADJ tese_N defendida_PCP no_PREP+ART exame_N ._END
+O_ART lançamento_N acontece_V às_PREP+ART 20h_N no_PREP+ART Centro_NPROP Cultural_NPROP São Paulo_NPROP (_PU r._NPROP Vergueiro_NPROP
+,_PU 1.000_NUM ,_PU zona_N sul_ADJ de_PREP São Paulo_NPROP )_PU ._END
+São_V um_ART recibo_N histórico_ADJ de_PREP que_PRO-KS queria_V acompanhar_V os_ART trabalhos_N do_PREP+ART núcleo_N de_PREP estudos_N psicanalíticos_ADJ em_PREP São Paulo_NPROP ,_PU que_PRO-KS em_PREP 1944_N se_PROPESS consolidaria_V como_PREP a_ART SBPSP_NPROP ._END
+Durval_NPROP Marcondes_NPROP ,_PU médico_N psiquiatra_N de_PREP formação_N ,_PU considerado_PCP o_ART pioneiro_N da_PREP+ART psicanálise_N em_PREP São Paulo_NPROP ,_PU é_V o_ART desencadeador_N do_PREP+ART interesse_N de_PREP Freud_NPROP ._END
+Em_PREP 1926_N ,_PU então_ADV com_PREP 27_NUM anos_N ,_PU Marcondes_NPROP prestou_V concurso_N para_PREP a_ART cadeira_N de_PREP literatura_N no_PREP+ART Ginásio_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP e_KC enviou_V ao_PREP+ART autor_N de_PREP "_PU Totem_NPROP e_NPROP Tabu_NPROP "_PU sua_PROADJ tese_N defendida_PCP no_PREP+ART exame_N ._END
 A_ART tese_N chamava_V -se_PROPESS "_PU O_NPROP Simbolismo_NPROP Estético_NPROP na_NPROP Literatura_NPROP -_NPROP Ensaio_NPROP de_NPROP uma_NPROP Orientação_NPROP para_NPROP a_NPROP Crítica_NPROP Literária_NPROP Baseada_NPROP nos_NPROP Conhecimentos_NPROP Fornecidos_NPROP pela_NPROP Psycho-analyse_NPROP "_PU ._END
 Freud_NPROP envia_V sua_PROADJ primeira_ADJ resposta_N em_PREP 18_N de_PREP novembro_N de_PREP 1926_N ._END
 O_ART cabeçalho_N da_PREP+ART carta_N ,_PU batida_PCP à_PREP+ART máquina_N ,_PU traz_V impressos_PCP a_ART apresentação_N "_PU Prof._NPROP Dr._NPROP Freud_NPROP "_PU e_KC o_ART célebre_ADJ endereço_N da_PREP+ART rua_N Bergasse_NPROP ,_PU 19_NUM ,_PU em_PREP Viena_NPROP residência_N e_KC consultório_N de_PREP Freud_NPROP e_KC hoje_ADV o_ART local_N de_PREP um_ART museu_N em_PREP sua_PROADJ homenagem_N ._END
@@ -23,16 +23,16 @@ Durante_PREP estas_PROADJ férias_N eu_PROPESS quero_V chegar_V ao_PREP+ART pont
 Sigmund_NPROP Freud_NPROP volta_V a_PREP se_PROPESS corresponder_V com_PREP Durval_NPROP em_PREP outra_PROADJ missiva_N ,_PU também_PDEN a_PREP bico_N de_PREP pena_N ,_PU de_PREP 25_NUM linhas_N ._END
 Datada_PCP de_PREP 11_N de_PREP agosto_N de_PREP 1928_N ,_PU diz_V a_ART carta_N :_PU "_PU Agradeço_V pelo_PREP+ART seu_PROADJ minucioso_ADJ relatório_N sobre_PREP os_ART acontecimentos_N esperançosos_ADJ em_PREP seu_PROADJ país_N "_PU ._END
 Durval_NPROP lhe_PROPESS reportara_V os_ART avanços_N do_PREP+ART movimento_N psicanalítico_ADJ no_PREP+ART Brasil_NPROP ._END
-Um_ART prestidigitador_N e_KC telepata_N se_PROPESS apresenta_V em_PREP São_NPROP Paulo_NPROP ,_PU dizendo_V -se_PROPESS amigo_N de_PREP Freud_NPROP e_KC conhecedor_N da_PREP+ART psicanálise_N ,_PU que_PRO-KS ele_PROPESS utilizaria_V em_PREP seus_PROADJ truques_N teatrais_ADJ ._END
+Um_ART prestidigitador_N e_KC telepata_N se_PROPESS apresenta_V em_PREP São Paulo_NPROP ,_PU dizendo_V -se_PROPESS amigo_N de_PREP Freud_NPROP e_KC conhecedor_N da_PREP+ART psicanálise_N ,_PU que_PRO-KS ele_PROPESS utilizaria_V em_PREP seus_PROADJ truques_N teatrais_ADJ ._END
 O_ART ilusionista_N irrita_V os_ART psicanalistas_N ,_PU sobretudo_ADV Durval_NPROP Marcondes_NPROP ,_PU que_PRO-KS escreve_V a_ART Freud_NPROP a_PREP respeito_N (_PU leia_V sobre_PREP o_ART episódio_N na_PREP+ART página_N ao_PREP+ART lado_N )_PU ._END
 Este_PROSUB não_ADV seria_V o_ART último_ADJ contato_N com_PREP Freud_NPROP ._END
 Em_PREP 18_N de_PREP janeiro_N de_PREP 1931_N ,_PU chega_V a_ART derradeira_ADJ carta_N de_PREP Freud_NPROP a_PREP Durval_NPROP ,_PU na_PREP+ART verdade_N um_ART cartão-postal_N de_PREP Viena_NPROP ._END
-Além_PREP da_PREP+ART correspondência_N de_PREP Freud_NPROP ,_PU o_ART álbum_N editado_PCP por_PREP Leopoldo_NPROP Nosek_NPROP ,_PU faz_V um_ART amplo_ADJ retrospecto_N dos_PREP+ART anos_N pioneiros_ADJ da_PREP+ART psicanálise_N em_PREP São_NPROP Paulo_NPROP ,_PU relacionando_V ,_PU através_PREP de_PREP rico_ADJ material_N iconográfico_ADJ ,_PU a_ART história_N da_PREP+ART Sociedade_N com_PREP a_ART história_N socioeconômica_ADJ e_KC cultural_ADJ do_PREP+ART país_N e_KC do_PREP+ART mundo_N ._END
+Além_PREP da_PREP+ART correspondência_N de_PREP Freud_NPROP ,_PU o_ART álbum_N editado_PCP por_PREP Leopoldo_NPROP Nosek_NPROP ,_PU faz_V um_ART amplo_ADJ retrospecto_N dos_PREP+ART anos_N pioneiros_ADJ da_PREP+ART psicanálise_N em_PREP São Paulo_NPROP ,_PU relacionando_V ,_PU através_PREP de_PREP rico_ADJ material_N iconográfico_ADJ ,_PU a_ART história_N da_PREP+ART Sociedade_N com_PREP a_ART história_N socioeconômica_ADJ e_KC cultural_ADJ do_PREP+ART país_N e_KC do_PREP+ART mundo_N ._END
 O_ART livro_N relata_V ainda_ADV contatos_N mantidos_PCP por_PREP membros_N da_PREP+ART Sociedade_N com_PREP Wilfred_NPROP Bion_NPROP e_KC Melanie_NPROP Klein_NPROP ._END
 "_PU Para_PREP fazer_V o_ART livro_N levamos_V cinco_NUM anos_N gravando_V depoimentos_N dos_PREP+ART mais_ADV antigos_ADJ membros_N da_PREP+ART sociedade_N "_PU ,_PU conta_V Nosek_NPROP ._END
 "_PU O_ART livro_N é_V cheio_ADJ de_PREP imagens_N ,_PU que_PRO-KS seriam_V como_PREP uma_ART matéria-prima_N para_PREP sonhos_N ._END
 Psicanálise_N ,_PU índios_N e_KC serpentes_N no_PREP+ART país_N distante_ADJ
-O_ART ponto_N de_PREP partida_N da_PREP+ART psicanálise_N em_PREP São_NPROP Paulo_NPROP ocorreu_V quando_KS o_ART psiquiatra_N Francisco_NPROP Franco_NPROP da_NPROP Rocha_NPROP (_PU 1864-1933_N )_PU ,_PU idealizador_N e_KC fundador_N do_PREP+ART Hospital_NPROP Psiquiátrico_NPROP do_NPROP Juqueri_NPROP ,_PU fez_V sua_PROADJ aula_N inaugural_ADJ de_PREP 1919_N na_PREP+ART Faculdade_NPROP de_NPROP Medicina_NPROP ,_PU dissertando_V sobre_PREP Freud_NPROP ._END
+O_ART ponto_N de_PREP partida_N da_PREP+ART psicanálise_N em_PREP São Paulo_NPROP ocorreu_V quando_KS o_ART psiquiatra_N Francisco_NPROP Franco_NPROP da_NPROP Rocha_NPROP (_PU 1864-1933_N )_PU ,_PU idealizador_N e_KC fundador_N do_PREP+ART Hospital_NPROP Psiquiátrico_NPROP do_NPROP Juqueri_NPROP ,_PU fez_V sua_PROADJ aula_N inaugural_ADJ de_PREP 1919_N na_PREP+ART Faculdade_NPROP de_NPROP Medicina_NPROP ,_PU dissertando_V sobre_PREP Freud_NPROP ._END
 Durval_NPROP Marcondes_NPROP (_PU 1899-1981_N )_PU começou_V a_PREP ser_V despertado_PCP para_PREP o_ART assunto_N quando_KS soube_V do_PREP+ART tema_N das_PREP+ART aulas_N de_PREP Franco_NPROP da_NPROP Rocha_NPROP ._END
 A_ART primeira_ADJ consolidação_N da_PREP+ART teoria_N psicanalítica_ADJ ocorre_V ,_PU contudo_KC ,_PU em_PREP 1920_N ,_PU quando_ADV-KS Franco_NPROP da_NPROP Rocha_NPROP lança_V "_PU A_NPROP Doutrina_NPROP Pansexualista_NPROP de_NPROP Freud_NPROP "_PU ._END
 A_ART obra_N chega_V ao_PREP+ART conhecimento_N de_PREP Freud_NPROP ,_PU que_PRO-KS não_ADV gostou_V do_PREP+ART título_N devido_PREP à_PREP+ART amplitude_N do_PREP+ART termo_N "_PU pansexual_N "_PU ._END
@@ -44,40 +44,40 @@ O_ART psicanalista_N René_NPROP Spitz_NPROP manda_V correspondência_N mostrand
 A_ART Revolução_NPROP Constitucionalista_NPROP de_PREP 1932_N interrompe_V a_ART correspondência_N e_KC os_ART próximos_ADJ anos_N trarão_V um_ART recuo_N do_PREP+ART movimento_N ._END
 Em_PREP 17_N de_PREP novembro_N de_PREP 1936_N ,_PU numa_PREP+ART entrevista_N publicada_PCP na_PREP+ART "_PU Folha_NPROP da_NPROP Noite_NPROP "_PU ,_PU um_PROSUB dos_PREP+ART jornais_N que_PRO-KS viriam_V a_PREP formar_V a_ART Folha_NPROP ,_PU Marcondes_NPROP avalia_V que_KS a_ART psicanálise_N "_PU poderá_V ,_PU em_PREP qualquer_PROADJ momento_N ,_PU reorganizar_V -se_PROPESS ,_PU uma_KS vez_KS que_KS os_ART estudiosos_N do_PREP+ART assunto_N o_PROPESS queiram_V "_PU ._END
 A_ART SBPSP_NPROP considera_V José_NPROP Nabantino_NPROP Ramos_NPROP ,_PU então_ADJ presidente_N da_PREP+ART Empresa_NPROP Folha_NPROP da_NPROP Manhã_NPROP S/A_NPROP ,_PU que_PRO-KS edita_V a_ART Folha_NPROP ,_PU como_PREP um_PROSUB dos_PREP+ART maiores_ADJ divulgadores_N da_PREP+ART psicanálise_N no_PREP+ART Brasil_NPROP ._END
-"_PU Nabantino_NPROP não_ADV mediu_V sacrifícios_N para_PREP usufruir_V o_ART núcleo_N incipiente_ADJ que_PRO-KS nascia_V em_PREP São_NPROP Paulo_NPROP "_PU ,_PU escreveu_V a_ART psicanalista_N Virgínia_NPROP Bicudo_NPROP ._END
+"_PU Nabantino_NPROP não_ADV mediu_V sacrifícios_N para_PREP usufruir_V o_ART núcleo_N incipiente_ADJ que_PRO-KS nascia_V em_PREP São Paulo_NPROP "_PU ,_PU escreveu_V a_ART psicanalista_N Virgínia_NPROP Bicudo_NPROP ._END
 No_PREP+ART ano_N de_PREP 1936_N ocorre_V o_ART Congresso_NPROP Psicanalítico_NPROP Internacional_NPROP de_NPROP Marienbad_NPROP (_PU Suíça_NPROP )_PU ,_PU onde_ADV-KS começam_V a_PREP se_PROPESS tornar_V manifestos_ADJ os_ART sonhos_N de_PREP Durval_NPROP ._END
 Ernst_NPROP Jones_NPROP ,_PU que_PRO-KS depois_ADV se_PROPESS tornaria_V o_ART maior_ADJ biógrafo_N de_PREP Freud_NPROP ,_PU autoriza_V a_ART vinda_N ao_PREP+ART Brasil_NPROP da_PREP+ART psicanalista_N Adelheid_NPROP Koch_NPROP ,_PU que_PRO-KS aceita_V Durval_NPROP Marcondes_NPROP como_PREP primeiro_ADJ candidato_N a_PREP analista_N ._END
 Pode_V -se_PROPESS dizer_V que_KS a_ART psicanálise_N brasileira_ADJ começa_V a_PREP nascer_V para_PREP o_ART mundo_N em_PREP 9_N de_PREP outubro_N de_PREP 1943_N ,_PU a_PREP partir_PREP das_PREP+ART cartas_N trocadas_PCP entre_PREP Koch_NPROP e_KC Ernst_NPROP Jones_NPROP ,_PU presidente_N da_PREP+ART International_NPROP Psychoanalytical_NPROP Association_NPROP (_PU IPA_NPROP )_PU ._END
 Na_PREP+ART correspondência_N ,_PU Koch_NPROP indaga_V sobre_PREP a_ART possibilidade_N de_PREP os_ART psicanalistas_N formados_PCP aqui_ADV serem_V reconhecidos_PCP pela_PREP+ART IPA_NPROP ._END
-Em_PREP 5_N de_PREP julho_N de_PREP 1944_N ,_PU estava_V consolidado_PCP o_ART Grupo_NPROP Psicanalítico_NPROP de_NPROP São_NPROP Paulo_NPROP ,_PU embrião_N da_PREP+ART atual_ADJ SBPSP_NPROP ._END
+Em_PREP 5_N de_PREP julho_N de_PREP 1944_N ,_PU estava_V consolidado_PCP o_ART Grupo_NPROP Psicanalítico_NPROP de_NPROP São Paulo_NPROP ,_PU embrião_N da_PREP+ART atual_ADJ SBPSP_NPROP ._END
 (_PU )_PU
 Um_ART certo_PROADJ "_PU amigo_N íntimo_ADJ de_PREP Freud_NPROP "_PU ._END
 Telepata_N coloca_V em_PREP xeque_N a_ART psicanálise_N no_PREP+ART Brasil_NPROP em_PREP 1931_N
-Em_PREP 1931_N ,_PU um_ART prestidigitador_N chamado_PCP Adolpho_NPROP Maximilam_NPROP Langsner_NPROP desembarca_V em_PREP São_NPROP Paulo_NPROP e_KC inicia_V uma_ART série_N de_PREP espetáculos_N teatrais_ADJ de_PREP telepatia_N ._END
+Em_PREP 1931_N ,_PU um_ART prestidigitador_N chamado_PCP Adolpho_NPROP Maximilam_NPROP Langsner_NPROP desembarca_V em_PREP São Paulo_NPROP e_KC inicia_V uma_ART série_N de_PREP espetáculos_N teatrais_ADJ de_PREP telepatia_N ._END
 Aos_PREP+ART jornais_N ,_PU Langsmer_NPROP se_PROPESS diz_V proveniente_ADJ de_PREP Viena_NPROP ,_PU "_PU amigo_N íntimo_ADJ de_PREP Freud_NPROP "_PU e_KC psicanalista_N capaz_ADJ de_PREP realizar_V "_PU uma_ART corrida_N de_PREP automóvel_N com_PREP os_ART olhos_N vendados_PCP "_PU ._END
-Imediatamente_ADV ,_PU Langsner_NPROP vira_V motivo_N de_PREP polêmica_N entre_PREP os_ART membros_N do_PREP+ART movimento_N psicanalítico_ADJ em_PREP São_NPROP Paulo_NPROP ,_PU que_PRO-KS acabam_V por_PREP envolver_V o_ART próprio_PROADJ Freud_NPROP ,_PU com_PREP 75_NUM anos_N ,_PU na_PREP+ART controvérsia_N ._END
+Imediatamente_ADV ,_PU Langsner_NPROP vira_V motivo_N de_PREP polêmica_N entre_PREP os_ART membros_N do_PREP+ART movimento_N psicanalítico_ADJ em_PREP São Paulo_NPROP ,_PU que_PRO-KS acabam_V por_PREP envolver_V o_ART próprio_PROADJ Freud_NPROP ,_PU com_PREP 75_NUM anos_N ,_PU na_PREP+ART controvérsia_N ._END
 O_ART autor_N de_PREP "_PU A_NPROP Interpretação_NPROP dos_NPROP Sonhos_NPROP "_PU é_V solicitado_PCP ,_PU pelos_PREP+ART psicanalistas_N brasileiros_ADJ ,_PU a_PREP se_PROPESS pronunciar_V sobre_PREP a_ART veracidade_N ou_KC não_ADV de_PREP suas_PROADJ relações_N com_PREP o_ART telepata_N ._END
-Tanta_PROADJ repercussão_N com_PREP os_ART feitos_N do_PREP+ART dr._N Langsner_NPROP irrita_V os_ART membros_N da_PREP+ART incipiente_ADJ comunidade_N psicanalítica_ADJ de_PREP São_NPROP Paulo_NPROP ,_PU empenhados_PCP em_PREP firmar_V a_ART teoria_N freudiana_ADJ como_PREP ciência_N no_PREP+ART Brasil_NPROP e_KC desfazer_V os_ART preconceitos_N e_KC as_ART zombarias_N a_PREP seu_PROADJ respeito_N ._END
+Tanta_PROADJ repercussão_N com_PREP os_ART feitos_N do_PREP+ART dr._N Langsner_NPROP irrita_V os_ART membros_N da_PREP+ART incipiente_ADJ comunidade_N psicanalítica_ADJ de_PREP São Paulo_NPROP ,_PU empenhados_PCP em_PREP firmar_V a_ART teoria_N freudiana_ADJ como_PREP ciência_N no_PREP+ART Brasil_NPROP e_KC desfazer_V os_ART preconceitos_N e_KC as_ART zombarias_N a_PREP seu_PROADJ respeito_N ._END
 O_ART assunto_N vai_V parar_V na_PREP+ART escrivaninha_N de_PREP Freud_NPROP através_PREP de_PREP uma_ART carta_N de_PREP Durval_NPROP Marcondes_NPROP ,_PU à_PREP+PRO-KS qual_PRO-KS qual_PRO-KS ele_PROPESS anexa_V um_ART recorte_N de_PREP jornal_N (_PU veja_V cópia_N nesta_PREP+PROADJ página_N )_PU ,_PU traduzido_PCP em_PREP francês_N ,_PU com_PREP a_ART notícia_N sobre_PREP Langsner_NPROP ._END
 A_ART carta_N de_PREP Durval_NPROP é_V um_ART documento_N emocionado_PCP das_PREP+ART aflições_N dos_PREP+ART pioneiros_N da_PREP+ART psicanálise_N no_PREP+ART Brasil_NPROP ._END
-Datada_PCP de_PREP 20_N de_PREP outubro_N de_PREP 1931_N ,_PU Durval_NPROP relata_V a_PREP Freud_NPROP todo_PROADJ o_ART acontecimento_N em_PREP torno_N de_PREP Langsner_NPROP ,_PU inclusive_PDEN sua_PROADJ proclamada_PCP intenção_N de_PREP instalar_V em_PREP São_NPROP Paulo_NPROP "_PU um_ART sanatório_N para_PREP o_ART tratamento_N das_PREP+ART doenças_N nervosas_ADJ "_PU ._END
+Datada_PCP de_PREP 20_N de_PREP outubro_N de_PREP 1931_N ,_PU Durval_NPROP relata_V a_PREP Freud_NPROP todo_PROADJ o_ART acontecimento_N em_PREP torno_N de_PREP Langsner_NPROP ,_PU inclusive_PDEN sua_PROADJ proclamada_PCP intenção_N de_PREP instalar_V em_PREP São Paulo_NPROP "_PU um_ART sanatório_N para_PREP o_ART tratamento_N das_PREP+ART doenças_N nervosas_ADJ "_PU ._END
 Durval_NPROP se_PROPESS desculpa_V com_PREP Freud_NPROP por_PREP incomodar_V -lo_PROPESS a_PREP respeito_N ._END
 Coisa_N que_PRO-KS ,_PU segundo_PREP ele_PROPESS ,_PU não_ADV faria_V se_KS Langsner_NPROP não_ADV tivesse_V se_PROPESS apresentado_PCP como_PREP seu_PROADJ "_PU amigo_N íntimo_ADJ "_PU e_KC não_ADV tivesse_V "_PU feito_PCP uso_N de_PREP seu_PROADJ nome_N e_KC do_PREP+PROSUB da_PREP+ART psicanálise_N nos_PREP+ART anúncios_N que_PRO-KS ele_PROPESS faz_V ,_PU a_PREP todo_PROADJ momento_N ,_PU de_PREP suas_PROADJ virtudes_N médicas_ADJ e_KC teatrais_ADJ "_PU ._END
-Durval_NPROP escreve_V :_PU "_PU Há_V muito_PROADJ tempo_N eu_PROPESS tento_V ,_PU com_PREP muito_PROADJ esforço_N e_KC sacrifício_N pessoal_ADJ ,_PU criar_V no_PREP+ART meio_N da_PREP+ART classe_N médica_ADJ de_PREP São_NPROP Paulo_NPROP uma_ART idéia_N justa_ADJ e_KC elevada_PCP da_PREP+ART psicanálise_N ,_PU o_PRO-KS que_PRO-KS ,_PU felizmente_ADV ,_PU começa_V -se_PROPESS a_PREP obter_V ,_PU já_KS que_KS ela_PROPESS não_ADV é_V mais_ADV ,_PU entre_PREP nós_PROPESS ,_PU a_ART opinião_N delirante_ADJ de_PREP uma_ART meia_NUM dúzia_N de_PREP loucos_N ,_PU sendo_V agora_ADV bastante_ADV bem_ADV compreendida_PCP pelos_PREP+ART mais_ADV distintos_ADJ companheiros_N ,_PU que_PRO-KS não_ADV apenas_PDEN a_PROPESS aceitam_V teoricamente_ADV mas_KC a_PROPESS recomendam_V como_PREP método_N terapêutico_ADJ "_PU ._END
-Para_PREP Durval_NPROP ,_PU a_ART atitude_N de_PREP Langsner_NPROP ,_PU ao_PREP jogar_V com_PREP o_ART prestígio_N alcançado_PCP pelo_PREP+ART nome_N de_PREP Freud_NPROP ,_PU comprometeria_V "_PU uma_ART boa_ADJ parte_N do_PREP+ART trabalho_N frutuoso_ADJ "_PU exercido_PCP pelos_PREP+ART psicanalistas_N de_PREP São_NPROP Paulo_NPROP ._END
-Durval_NPROP encerra_V sua_PROADJ carta_N ,_PU solicitando_V a_PREP Freud_NPROP a_ART gentileza_N de_PREP enviar_V sua_PROADJ opinião_N sobre_PREP Langsner_NPROP como_PREP psicanalista_N ,_PU "_PU para_KS que_KS possa_V ,_PU assim_ADV ,_PU documentar_V com_PREP eficácia_N algum_PROADJ esclarecimento_N que_PRO-KS eu_PROPESS venha_V a_PREP fazer_V diante_PREP da_PREP+ART opinião_N pública_ADJ de_PREP São_NPROP Paulo_NPROP ,_PU já_KS que_KS me_PROPESS parece_V necessário_ADJ desfazer_V confusões_N e_KC mal_N entendidos_ADJ sobre_PREP a_ART psicanálise_N ,_PU e_KC combater_V possíveis_ADJ acusações_N de_PREP seus_PROADJ adversários_N "_PU ._END
+Durval_NPROP escreve_V :_PU "_PU Há_V muito_PROADJ tempo_N eu_PROPESS tento_V ,_PU com_PREP muito_PROADJ esforço_N e_KC sacrifício_N pessoal_ADJ ,_PU criar_V no_PREP+ART meio_N da_PREP+ART classe_N médica_ADJ de_PREP São Paulo_NPROP uma_ART idéia_N justa_ADJ e_KC elevada_PCP da_PREP+ART psicanálise_N ,_PU o_PRO-KS que_PRO-KS ,_PU felizmente_ADV ,_PU começa_V -se_PROPESS a_PREP obter_V ,_PU já_KS que_KS ela_PROPESS não_ADV é_V mais_ADV ,_PU entre_PREP nós_PROPESS ,_PU a_ART opinião_N delirante_ADJ de_PREP uma_ART meia_NUM dúzia_N de_PREP loucos_N ,_PU sendo_V agora_ADV bastante_ADV bem_ADV compreendida_PCP pelos_PREP+ART mais_ADV distintos_ADJ companheiros_N ,_PU que_PRO-KS não_ADV apenas_PDEN a_PROPESS aceitam_V teoricamente_ADV mas_KC a_PROPESS recomendam_V como_PREP método_N terapêutico_ADJ "_PU ._END
+Para_PREP Durval_NPROP ,_PU a_ART atitude_N de_PREP Langsner_NPROP ,_PU ao_PREP jogar_V com_PREP o_ART prestígio_N alcançado_PCP pelo_PREP+ART nome_N de_PREP Freud_NPROP ,_PU comprometeria_V "_PU uma_ART boa_ADJ parte_N do_PREP+ART trabalho_N frutuoso_ADJ "_PU exercido_PCP pelos_PREP+ART psicanalistas_N de_PREP São Paulo_NPROP ._END
+Durval_NPROP encerra_V sua_PROADJ carta_N ,_PU solicitando_V a_PREP Freud_NPROP a_ART gentileza_N de_PREP enviar_V sua_PROADJ opinião_N sobre_PREP Langsner_NPROP como_PREP psicanalista_N ,_PU "_PU para_KS que_KS possa_V ,_PU assim_ADV ,_PU documentar_V com_PREP eficácia_N algum_PROADJ esclarecimento_N que_PRO-KS eu_PROPESS venha_V a_PREP fazer_V diante_PREP da_PREP+ART opinião_N pública_ADJ de_PREP São Paulo_NPROP ,_PU já_KS que_KS me_PROPESS parece_V necessário_ADJ desfazer_V confusões_N e_KC mal_N entendidos_ADJ sobre_PREP a_ART psicanálise_N ,_PU e_KC combater_V possíveis_ADJ acusações_N de_PREP seus_PROADJ adversários_N "_PU ._END
 Minhas_PROADJ cordiais_ADJ saudações_N ,_PU Freud_NPROP "_PU ._END
 A_ART psicanálise_N no_PREP+ART Brasil_NPROP estava_V salva_PCP ._END
 Adelheid_NPROP Lucy_NPROP Koch_NPROP (_PU 1896-1980_N )_PU -_PU Em_PREP 1929_N ,_PU ingressou_V como_PREP candidata_N no_PREP+ART Instituto_NPROP de_NPROP Psicanálise_NPROP de_NPROP Berlim_NPROP ,_PU onde_ADV-KS submeteu_V -se_PROPESS à_PREP+ART análise_N didática_ADJ com_PREP Otto_NPROP Fenichel_NPROP ._END
 Chegou_V ao_PREP+ART Brasil_NPROP em_PREP 1936_N ._END
-Em_PREP 1944_N ,_PU começa_V a_PREP comandar_V o_ART Grupo_NPROP Psicanalítico_NPROP de_NPROP São_NPROP Paulo_NPROP ,_PU por_PREP autorização_N direta_ADJ de_PREP Ernst_NPROP Jones_NPROP ,_PU presidente_N da_PREP+ART International_NPROP Psychoanalisis_NPROP Association_NPROP ,_PU e_KC que_PRO-KS se_PROPESS tornaria_V o_ART maior_ADJ biógrafo_N de_PREP Freud_NPROP ._END
+Em_PREP 1944_N ,_PU começa_V a_PREP comandar_V o_ART Grupo_NPROP Psicanalítico_NPROP de_NPROP São Paulo_NPROP ,_PU por_PREP autorização_N direta_ADJ de_PREP Ernst_NPROP Jones_NPROP ,_PU presidente_N da_PREP+ART International_NPROP Psychoanalisis_NPROP Association_NPROP ,_PU e_KC que_PRO-KS se_PROPESS tornaria_V o_ART maior_ADJ biógrafo_N de_PREP Freud_NPROP ._END
 Virgínia_NPROP Bicudo_NPROP (_PU 1910_N )_PU -_PU Submeteu_V -se_PROPESS a_ART análise_N com_PREP Adelheid_NPROP Koch_NPROP ,_PU por_PREP cinco_NUM anos_N ._END
 Em_PREP 1955_N ,_PU foi_V para_PREP Londres_NPROP ,_PU onde_ADV-KS teve_V aulas_N com_PREP Melanie_NPROP Klein_NPROP ._END
 Em_PREP 1950_N ,_PU cria_V um_ART programa_N de_PREP rádio_N chamado_PCP "_PU Nosso_NPROP Mundo_NPROP Mental_NPROP "_PU ,_PU transmitido_PCP pela_PREP+ART Rádio_NPROP Excelsior_NPROP ._END
 Dá_V conferências_N no_PREP+ART auditório_N da_PREP+ART "_PU Folha_NPROP da_NPROP Manhã_NPROP "_PU ,_PU um_PROSUB dos_PREP+ART jornais_N que_PRO-KS viriam_V a_PREP formar_V a_ART Folha_NPROP ._END
 Leia_V entrevista_N à_PREP+ART pág._N 6-6_N ._END
 Foi_V presidente_N da_PREP+ART Empresa_NPROP Folha_NPROP da_NPROP Manhã_NPROP S/A_NPROP ,_PU que_PRO-KS hoje_ADV edita_V a_ART Folha_NPROP ._END
-Em_PREP 16_N de_PREP dezembro_N de_PREP 1967_N recebeu_V o_ART título_N de_PREP sócio_N benemérito_ADJ da_PREP+ART Sociedade_NPROP Brasileira_NPROP de_NPROP Psicanálise_NPROP de_NPROP São_NPROP Paulo_NPROP ._END
+Em_PREP 16_N de_PREP dezembro_N de_PREP 1967_N recebeu_V o_ART título_N de_PREP sócio_N benemérito_ADJ da_PREP+ART Sociedade_NPROP Brasileira_NPROP de_NPROP Psicanálise_NPROP de_NPROP São Paulo_NPROP ._END
 Em_PREP 1962_N esteve_V em_PREP Londres_NPROP para_PREP ser_V analisado_PCP ._END
 A_ART SBPSP_NPROP considera_V Nabantino_NPROP Ramos_NPROP como_PREP "_PU um_ART personagem_N inesquecível_ADJ "_PU da_PREP+ART história_N da_PREP+ART psicanálise_N brasileira_ADJ ._END
 Theon_NPROP Spanudis_NPROP (_PU 1915-1986_N )_PU -_PU Chegou_V ao_PREP+ART Brasil_NPROP em_PREP 1950_N ._END
@@ -94,13 +94,13 @@ Segundo_PREP ela_PROPESS ,_PU o_ART baiano_N Juliano_NPROP também_PDEN teve_V a
 Perestrello_NPROP que_PRO-KS é_V autora_N de_PREP "_PU Primeiros_NPROP Encontros_NPROP com_NPROP a_NPROP Psicanálise:_NPROP os_NPROP Precursores_NPROP no_NPROP Brasil_NPROP "_PU e_KC "_PU História_NPROP da_NPROP Sociedade_NPROP Brasileira_NPROP de_NPROP Psicanálise_NPROP do_NPROP Rio_NPROP de_NPROP Janeiro_NPROP "_PU (_PU Imago_NPROP )_PU -_PU divide_V em_PREP "_PU precursores_N e_KC pioneiros_N "_PU os_ART primeiros_ADJ interessados_N pelo_PREP+ART assunto_N no_PREP+ART Brasil_NPROP ._END
 "_PU Ele_PROPESS era_V cearense_ADJ e_KC trabalhava_V no_PREP+ART Rio_NPROP de_NPROP Janeiro_NPROP ._END
 Defendeu_V tese_N sobre_PREP psicanálise_N na_PREP+ART Faculdade_NPROP Nacional_NPROP de_NPROP Medicina_NPROP "_PU ._END
-Perestrello_NPROP considera_V Franco_NPROP da_NPROP Rocha_NPROP ,_PU mestre_N de_PREP Durval_NPROP Marcondes_NPROP ,_PU um_ART "_PU precursor_N "_PU ,_PU a_PREP partir_PREP do_PREP+ART curso_N sobre_PREP Freud_NPROP que_PRO-KS ministrou_V em_PREP março_N de_PREP 1919_N ,_PU na_PREP+ART Faculdade_NPROP de_NPROP Medicina_NPROP de_PREP São_NPROP Paulo_NPROP ._END
+Perestrello_NPROP considera_V Franco_NPROP da_NPROP Rocha_NPROP ,_PU mestre_N de_PREP Durval_NPROP Marcondes_NPROP ,_PU um_ART "_PU precursor_N "_PU ,_PU a_PREP partir_PREP do_PREP+ART curso_N sobre_PREP Freud_NPROP que_PRO-KS ministrou_V em_PREP março_N de_PREP 1919_N ,_PU na_PREP+ART Faculdade_NPROP de_NPROP Medicina_NPROP de_PREP São Paulo_NPROP ._END
 "_PU Ele_PROPESS foi_V precursor_N e_KC pioneiro_N do_PREP+ART movimento_N ,_PU porque_KS os_ART outros_PROADJ psicanalistas_N ,_PU anteriores_ADJ a_PREP ele_PROPESS ,_PU não_ADV haviam_V se_PROPESS analisado_PCP "_PU ._END
 Durval_NPROP foi_V o_ART primeiro_ADJ analisando_N de_PREP Adelheid_NPROP Koch_NPROP no_PREP+ART Brasil_NPROP ._END
 Quando_KS Koch_NPROP chega_V ao_PREP+ART país_N ,_PU em_PREP outubro_N de_PREP 1936_N ,_PU acontece_V ,_PU na_PREP+ART visão_N de_PREP Perestrello_NPROP ,_PU "_PU um_ART marco_N definitivo_ADJ para_PREP a_ART história_N dos_PREP+ART precursores_N da_PREP+ART psicanálise_N no_PREP+ART Brasil_NPROP "_PU ._END
 A_ART psicanalista_N alemã_ADJ será_V responsável_ADJ pela_PREP+ART formação_N dos_PREP+ART primeiros_ADJ analistas_N brasileiros_ADJ reconhecidos_PCP internacionalmente_ADV ._END
 A_ART vinda_N de_PREP Koch_NPROP ao_PREP+ART Brasil_NPROP significou_V ao_ADV mesmo_ADV tempo_ADV sua_PROADJ fuga_N do_PREP+ART nazismo_N ._END
-Caso_KS não_ADV conseguisse_V ,_PU estava_V em_PREP seus_PROADJ planos_N abrir_V em_PREP São_NPROP Paulo_NPROP uma_ART fábrica_N de_PREP chapéus_N ._END
+Caso_KS não_ADV conseguisse_V ,_PU estava_V em_PREP seus_PROADJ planos_N abrir_V em_PREP São Paulo_NPROP uma_ART fábrica_N de_PREP chapéus_N ._END
 (_PU CJT_NPROP )_PU
 18_N de_PREP novembro_N de_PREP 1926_N
 Meu_PROADJ prezado_PCP Senhor_N !_PU
@@ -127,10 +127,10 @@ A_ART primeira_N no_PREP+ART idioma_N português_ADJ ._END
 Muito_ADV obrigado_PCP ._END
 Psicanálise_N chega_V ao_PREP+ART país_N com_PREP modernismo_N
 Quando_KS dadaístas_N e_KC surrealistas_N à_PREP+ART luz_N da_PREP+ART "_PU descoberta_N "_PU do_PREP+ART inconsciente_N ,_PU começam_V a_PREP decretar_V o_ART primado_N das_PREP+ART formas_N livres_ADJ ,_PU da_PREP+ART inconsciência_N se_PROPESS sobrepondo_V aos_PREP+ART apelos_N da_PREP+ART razão_N e_KC do_PREP+ART cotidiano_N ,_PU Durval_NPROP Marcondes_NPROP inicia_V sua_PROADJ descoberta_N de_PREP Freud_NPROP ._END
-Marcondes_NPROP se_PROPESS aproxima_V dos_PREP+ART modernistas_N brasileiros_ADJ e_KC publica_V um_ART poema_N na_PREP+ART revista_N "_PU Klaxon_NPROP "_PU ,_PU em_PREP agosto_N de_PREP 1922_N quase_ADV seis_NUM meses_N depois_PREP da_PREP+ART Semana_NPROP de_NPROP Arte_NPROP Moderna_NPROP ,_PU o_ART evento_N revolucionário_ADJ ocorrido_PCP no_PREP+ART Teatro_NPROP Municipal_NPROP de_PREP São_NPROP Paulo_NPROP ._END
+Marcondes_NPROP se_PROPESS aproxima_V dos_PREP+ART modernistas_N brasileiros_ADJ e_KC publica_V um_ART poema_N na_PREP+ART revista_N "_PU Klaxon_NPROP "_PU ,_PU em_PREP agosto_N de_PREP 1922_N quase_ADV seis_NUM meses_N depois_PREP da_PREP+ART Semana_NPROP de_NPROP Arte_NPROP Moderna_NPROP ,_PU o_ART evento_N revolucionário_ADJ ocorrido_PCP no_PREP+ART Teatro_NPROP Municipal_NPROP de_PREP São Paulo_NPROP ._END
 Seu_PROADJ poema_N se_PROPESS chama_V "_PU Sinfonia_NPROP em_NPROP Branco_NPROP e_NPROP Preto_NPROP "_PU (_PU leia_V à_PREP+ART dir._N
 )_PU ._END
-Vem_V impresso_PCP no_PREP+ART mesmo_PROADJ número_N em_PREP que_PRO-KS se_PROPESS edita_V "_PU São_NPROP Pedro_NPROP "_PU ,_PU de_PREP Mário_NPROP de_NPROP Andrade_NPROP ,_PU "_PU Paulicéia_NPROP Desvairada_NPROP "_PU ,_PU de_PREP Luiz_NPROP Aranha_NPROP ,_PU e_KC de_PREP "_PU Antinous_NPROP "_PU ,_PU de_PREP Sérgio_NPROP Buarque_NPROP de_NPROP Hollanda_NPROP ._END
+Vem_V impresso_PCP no_PREP+ART mesmo_PROADJ número_N em_PREP que_PRO-KS se_PROPESS edita_V "_PU São Pedro_NPROP "_PU ,_PU de_PREP Mário_NPROP de_NPROP Andrade_NPROP ,_PU "_PU Paulicéia_NPROP Desvairada_NPROP "_PU ,_PU de_PREP Luiz_NPROP Aranha_NPROP ,_PU e_KC de_PREP "_PU Antinous_NPROP "_PU ,_PU de_PREP Sérgio_NPROP Buarque_NPROP de_NPROP Hollanda_NPROP ._END
 Quando_KS Durval_NPROP Marcondes_NPROP e_KC Franco_NPROP da_NPROP Rocha_NPROP fundam_V a_ART Sociedade_NPROP Brasileira_NPROP de_NPROP Psicanálise_NPROP ,_PU em_PREP 1927_N ,_PU homens_N das_PREP+ART letras_N ,_PU como_PREP Menotti_NPROP del_NPROP Picchia_NPROP ,_PU estavam_V inscritos_PCP entre_PREP os_ART 24_NUM primeiros_ADJ membros_N ._END
 E_KC o_ART movimento_N se_PROPESS alastra_V ._END
 Estabelece_V ligações_N entre_PREP a_ART arte_N e_KC o_ART psiquismo_N ._END
@@ -143,7 +143,7 @@ Ali_NPROP colocava_V cenários_N de_PREP Volpi_NPROP e_KC instalava_V em_PREP ce
 E_KC Spanudis_NPROP ainda_ADV lançou_V três_NUM volumes_N de_PREP poesia_N ,_PU nas_PREP+ART décadas_N de_PREP 70_N e_KC 80_N ._END
 Acompanhando_V a_ART psicanálise_N e_KC a_ART vida_N de_PREP Franco_NPROP da_NPROP Rocha_NPROP ,_PU Lasar_NPROP Segall_NPROP (_PU 1891-1957_N )_PU vai_V ao_PREP+ART Juqueri_NPROP ,_PU em_PREP 1942_N ,_PU e_KC faz_V desenhos_N de_PREP internos_N ._END
 A_ART psicanálise_N se_PROPESS cola_V ao_PREP+ART modernismo_N para_PREP inventar_V o_ART Brasil_NPROP do_PREP+ART século_N 20_N ._END
-Virgínia_NPROP Bicudo_NPROP está_V com_PREP quase_ADV 80_NUM anos_N de_PREP idade_N e_KC é_V uma_PROSUB das_PREP+ART pioneiras_N da_PREP+ART psicanálise_N em_PREP São_NPROP Paulo_NPROP ._END
+Virgínia_NPROP Bicudo_NPROP está_V com_PREP quase_ADV 80_NUM anos_N de_PREP idade_N e_KC é_V uma_PROSUB das_PREP+ART pioneiras_N da_PREP+ART psicanálise_N em_PREP São Paulo_NPROP ._END
 Teve_V aulas_N com_PREP Melanie_NPROP Klein_NPROP ,_PU de_PREP quem_PRO-KS foi_V amiga_ADJ ,_PU e_KC chegou_V a_PREP ser_V chamada_PCP de_PREP "_PU charlatã_N "_PU quando_KS a_ART psicanálise_N era_V praticamente_ADV desconhecida_PCP no_PREP+ART Brasil_NPROP ._END
 Apontada_PCP como_PREP uma_PROSUB das_PREP+ART mais_ADV brilhantes_ADJ psicanalistas_N brasileiras_ADJ ,_PU concedeu_V a_ART seguinte_ADJ entrevista_N à_PREP+ART Folha_NPROP ._END
 Como_ADV a_ART Sra._N começou_V a_PREP se_PROPESS interessar_V por_PREP psicanálise_N ?_PU
@@ -157,7 +157,7 @@ No_PREP+ART segundo_ADJ ano_N do_PREP+ART curso_N ,_PU com_PREP a_ART professora
 Começei_NPROP a_PREP ler_V e_KC ali_ADV encontrei_V a_ART psicologia_N do_PREP+ART inconsciente_N de_PREP Sigmund_NPROP Freud_NPROP ._END
 Aí_KC disse_V :_PU "_PU É_V isso_PROSUB que_PRO-KS estou_V procurando_V "_PU ._END
 E_KC a_PREP partir_PREP daí_PREP+ADV ?_PU
-Saí_V por_PREP São_NPROP Paulo_NPROP correndo_V ,_PU perguntando_V sobre_PREP onde_ADV-KS poderia_V encontrar_V cursos_N de_PREP psicanálise_N ._END
+Saí_V por_PREP São Paulo_NPROP correndo_V ,_PU perguntando_V sobre_PREP onde_ADV-KS poderia_V encontrar_V cursos_N de_PREP psicanálise_N ._END
 Aí_KC me_PROPESS disseram_V que_KS a_ART resposta_N estava_V em_PREP Durval_NPROP Marcondes_NPROP ,_PU psiquiatra_N ._END
 Eu_PROPESS o_PROPESS procurei_V e_KC perguntei_V sobre_PREP o_ART curso_N ._END
 Precisava_V da_PREP+ART permissão_N ,_PU e_KC o_ART Durval_NPROP falava_V que_KS precisava_V disso_PREP+PROSUB porque_KS era_V um_ART curso_N que_PRO-KS iria_V lidar_V com_PREP sexualidade_N ,_PU e_KC havia_V muito_ADV preconceito_N ._END
@@ -169,7 +169,7 @@ Durval_NPROP começou_V a_PREP lutar_V muito_ADV pela_PREP+ART psicanálise_N ,_
 Ele_PROPESS queria_V um_ART psicanalista_N da_PREP+ART Europa_NPROP para_PREP formar_V a_ART gente_N aqui_ADV ._END
 Mas_KC as_ART pessoas_N só_PDEN iam_V para_PREP a_ART Argentina_NPROP ._END
 Durval_NPROP estava_V desesperado_PCP ,_PU até_KS que_KS veio_V para_PREP cá_ADV a_ART Adelheid_NPROP Koch_NPROP ,_PU que_PRO-KS chegou_V aqui_ADV em_PREP 1936_N e_KC começou_V a_PREP trabalhar_V em_PREP 1939_N ,_PU depois_KS que_KS aprendeu_V o_ART idioma_N ._END
-Cinco_NUM anos_N depois_ADV eu_PROPESS já_ADV atendia_V pessoas_N ,_PU numa_PREP+ART sala_N na_PREP+ART rua_N Araújo_NPROP ,_PU no_PREP+ART centro_N de_PREP São_NPROP Paulo_NPROP ._END
+Cinco_NUM anos_N depois_ADV eu_PROPESS já_ADV atendia_V pessoas_N ,_PU numa_PREP+ART sala_N na_PREP+ART rua_N Araújo_NPROP ,_PU no_PREP+ART centro_N de_PREP São Paulo_NPROP ._END
 Era_V difícil_ADJ ser_V psicanalista_N ?_PU
 Depois_ADV cheguei_V a_PREP fazer_V várias_PROADJ palestras_N na_PREP+ART Folha_NPROP graças_PREP ao_PREP+ART então_ADJ presidente_N ,_PU José_NPROP Nabantino_NPROP Ramos_NPROP ,_PU um_ART homem_N interessadíssimo_ADJ em_PREP psicanálise_N ._END
 Por_ADV que_ADV decidiu_V se_PROPESS mudar_V para_PREP Londres_NPROP ?_PU
@@ -248,7 +248,7 @@ Eu_PROPESS me_PROPESS retava_V :_PU "_PU Mete_V teu_PROADJ orgulho_N no_PREP+ART
 Entre_PREP os_ART muitos_PROADJ incidentes_N engraçados_PCP ,_PU vale_V a_ART pena_N contar_V dois_N ou_KC três_N ,_PU característicos_N das_PREP+ART campanhas_N eleitorais_ADJ da_PREP+ART Academia_NPROP ._END
 A_ART história_N começou_V em_PREP Lisboa_NPROP ,_PU nos_PREP+ART inícios_N da_PREP+ART disputa_N pela_PREP+ART vaga_N de_PREP Castelinho_NPROP ._END
 No_PREP+ART correr_N da_PREP+ART conversa_N confidenciou_V -me_PROPESS que_KS ia_V votar_V em_PREP João_NPROP Ubaldo_NPROP ._END
-Alegrei_V -me_PROPESS ,_PU comuniquei_V a_ART notícia_N auspiciosa_ADJ a_PREP João_NPROP ,_PU recomendei_V que_KS ele_PROPESS telefonasse_V a_PREP Scatimburgo_NPROP assim_KS que_KS o_ART acadêmico_N retornasse_V a_PREP São_NPROP Paulo_NPROP ._END
+Alegrei_V -me_PROPESS ,_PU comuniquei_V a_ART notícia_N auspiciosa_ADJ a_PREP João_NPROP ,_PU recomendei_V que_KS ele_PROPESS telefonasse_V a_PREP Scatimburgo_NPROP assim_KS que_KS o_ART acadêmico_N retornasse_V a_PREP São Paulo_NPROP ._END
 Você_PROPESS telefonou_V ?_PU
 Muito_ADV menos_ADV João_NPROP ._END
 Para_KS que_KS telefonar_V se_KS já_ADV sabia_V contar_V com_PREP o_ART voto_N ilustre_ADJ do_PREP+ART paulista_N ?_PU
@@ -375,11 +375,11 @@ A_ART Universidade_NPROP de_NPROP Nottingham_NPROP (_PU Inglaterra_NPROP )_PU ac
 Cabral_NPROP ;_PU Autógrafos_N
 A_ART editora_N Nova_NPROP Aguilar_NPROP lança_V nesta_PREP+PROADJ sexta_N ,_PU dia_N 10_N ,_PU às_PREP+ART 19h_N ,_PU a_ART "_PU Obra_NPROP Completa_NPROP "_PU do_PREP+ART poeta_N João_NPROP Cabral_NPROP de_NPROP Melo_NPROP Neto_NPROP (_PU foto_N )_PU ._END
 ,_PU 231_NUM ,_PU Rio_NPROP de_NPROP Janeiro_NPROP )_PU e_KC terá_V mesa_N redonda_ADJ com_PREP presença_N de_PREP Josué_NPROP Montello_NPROP ,_PU Antônio_NPROP Carlos_NPROP Secchin_NPROP e_KC Marly_NPROP de_NPROP Oliveira_NPROP ._END
-O_ART livro_N também_PDEN terá_V eventos_N de_PREP lançamento_N em_PREP São_NPROP Paulo_NPROP (_PU dia_N 13_N )_PU e_KC Recife_NPROP (_PU dia_N 15_N )_PU ._END
+O_ART livro_N também_PDEN terá_V eventos_N de_PREP lançamento_N em_PREP São Paulo_NPROP (_PU dia_N 13_N )_PU e_KC Recife_NPROP (_PU dia_N 15_N )_PU ._END
 Na_PREP+ART quinta-feira_N ,_PU dia_N 9_N ,_PU a_ART Iluminuras_NPROP lança_V "_PU A_NPROP Criança_NPROP no_NPROP Discurso_NPROP do_NPROP Outro_NPROP -_NPROP um_NPROP Exercício_NPROP de_NPROP Psicanálise_NPROP "_PU (_PU organização_N de_PREP Jussara_NPROP Brauer_NPROP )_PU ,_PU no_PREP+ART Centro_NPROP Universitário_NPROP Maria_NPROP Antonia/USP_NPROP (_PU r._NPROP Maria_NPROP Antonia_NPROP
-,_PU 294_NUM ,_PU 2º_ADJ andar_N ,_PU São_NPROP Paulo_NPROP )_PU ,_PU às_PREP+ART 19h30_N ._END
-Na_PREP+ART terça_N ,_PU dia_N 7_N ,_PU às_PREP+ART 20h_N ,_PU na_PREP+ART Casa_NPROP de_NPROP Minas_NPROP (_PU r._NPROP São_NPROP Carlos_NPROP do_NPROP Pinhal_NPROP
-,_PU 87_NUM ,_PU São_NPROP Paulo_NPROP )_PU ,_PU Malluh_NPROP Praxedes_NPROP autografa_V "_PU A_NPROP Menstruação_NPROP da_NPROP Ascensorista_NPROP "_PU ._END
+,_PU 294_NUM ,_PU 2º_ADJ andar_N ,_PU São Paulo_NPROP )_PU ,_PU às_PREP+ART 19h30_N ._END
+Na_PREP+ART terça_N ,_PU dia_N 7_N ,_PU às_PREP+ART 20h_N ,_PU na_PREP+ART Casa_NPROP de_NPROP Minas_NPROP (_PU r._NPROP São Carlos do Pinhal_NPROP
+,_PU 87_NUM ,_PU São Paulo_NPROP )_PU ,_PU Malluh_NPROP Praxedes_NPROP autografa_V "_PU A_NPROP Menstruação_NPROP da_NPROP Ascensorista_NPROP "_PU ._END
 "_PU A_NPROP Fabricação_NPROP do_NPROP Rei_NPROP "_PU ,_PU de_PREP Burke_NPROP ,_PU é_V lançado_PCP no_PREP+ART Brasil_NPROP
 Especial_ADV para_PREP Folha_NPROP
 Foi_V o_ART primeiro_ADJ chefe_N de_PREP Estado_NPROP moderno_ADJ a_PREP tornar_V sistemático_ADJ um_ART trabalho_N de_PREP propaganda_N em_PREP torno_N de_PREP sua_PROADJ figura_N ,_PU sabendo_V que_KS uma_ART sociedade_N menos_ADV cristã_ADJ que_KS a_ART medieval_N teria_V de_PREP usar_V meios_N de_PREP controle_N das_PREP+ART consciências_N diferentes_ADJ dos_PREP+PROSUB que_PRO-KS a_ART religião_N antes_ADV geria_V ._END
@@ -531,7 +531,7 @@ Extraído_PCP de_PREP "_PU Primeiras_NPROP Viagens_NPROP "_PU ,_PU de_PREP Ernes
 Com_PREP o_ART tema_N "_PU Racional_NPROP ou_NPROP Sobrenatural_NPROP -_NPROP Um_NPROP Caso_NPROP de_NPROP Bruxaria_NPROP "_PU ,_PU traz_V ensaístas_N como_PREP Laura_NPROP de_NPROP Melo_NPROP e_NPROP Souza_NPROP e_KC Zeila_NPROP N._NPROP Swain_NPROP ._END
 Revista_NPROP De_NPROP Economia_NPROP Política_NPROP ,_PU Nº_N 54_N ,_PU revista_N trimestral_ADJ do_PREP+ART Centro_NPROP de_NPROP Economia_NPROP Política_NPROP ._END
 Editora_NPROP Nobel_NPROP (_PU r._NPROP Maria_NPROP Antonia_NPROP
-,_PU 108_NUM ,_PU São_NPROP Paulo_NPROP ,_PU Cep_N 01222-010_N ,_PU tel._N 011_N 257-2144_N )_PU ._END
+,_PU 108_NUM ,_PU São Paulo_NPROP ,_PU Cep_N 01222-010_N ,_PU tel._N 011_N 257-2144_N )_PU ._END
 Artigos_N sobre_PREP a_ART "_PU nova_ADJ macroeconomia_N keynesiana_ADJ "_PU e_KC outros_PROADJ temas_N de_PREP economia_N política_ADJ ,_PU além_PREP de_PREP comunicações_N e_KC resenhas_N ._END
 Clínica_NPROP Da_NPROP Psicose_NPROP ,_PU de_PREP Jairo_NPROP Goldberg_NPROP ._END
 Capa_N de_PREP Elisa_NPROP Bracher_NPROP
@@ -543,7 +543,7 @@ Magia,_NPROP Mito_NPROP E_NPROP Psicodrama_NPROP ,_PU de_PREP Carlos_NPROP Meneg
 Tradução_N de_PREP Magda_NPROP Lopes_NPROP ._END
 Capa_N de_PREP João_NPROP Baptista_NPROP da_NPROP Costa_NPROP Aguiar_NPROP ._END
 Ed._NPROP Ágora_NPROP (_PU C._NPROP P._NPROP
-62.564_N ,_PU São_NPROP Paulo_NPROP ,_PU Cep_N 01295-970_N )_PU ._END
+62.564_N ,_PU São Paulo_NPROP ,_PU Cep_N 01295-970_N )_PU ._END
 128_NUM págs_N ._END 9,2_NUM URVs_N
 Conquistas_NPROP E_NPROP Resistências_NPROP Do_NPROP Poder_NPROP ,_PU de_PREP Danielle_NPROP Forget_NPROP ._END
 Trad._N
@@ -572,11 +572,11 @@ Análise_N das_PREP+ART relações_N de_PREP poder_N estabelecidas_PCP pelas_PRE
 Marretas,_NPROP Molambudos_NPROP E_NPROP Rabelistas_NPROP ,_PU de_PREP Marcelo_NPROP Camurça_NPROP ._END
 316_NUM págs_N ._END 12,89_NUM URVs_N
 Análise_N do_PREP+ART coronelismo_N político_ADJ do_PREP+ART Nordeste_NPROP ,_PU visto_PCP a_PREP partir_PREP da_PREP+ART Revolta_NPROP de_NPROP 1914_NPROP ,_PU ocorrida_PCP em_PREP Juazeiro_NPROP (_PU Ceará_NPROP )_PU ._END
-A_NPROP Bola_NPROP No_NPROP Ar_NPROP -_NPROP O_NPROP Rádio_NPROP Esportivo_NPROP Em_NPROP São_NPROP Paulo_NPROP ,_PU de_PREP Edileuza_NPROP Soares_NPROP ._END
+A_NPROP Bola_NPROP No_NPROP Ar_NPROP -_NPROP O_NPROP Rádio_NPROP Esportivo_NPROP Em_NPROP São Paulo_NPROP ,_PU de_PREP Edileuza_NPROP Soares_NPROP ._END
 Summus_NPROP Editorial_NPROP (_PU r._NPROP Cardodo_NPROP de_NPROP Almeida_NPROP
-,_PU 1.287_NUM ,_PU São_NPROP Paulo_NPROP ,_PU Cep_N 05013-001_N ,_PU tel._N 011_N 872-3322_N )_PU ._END
+,_PU 1.287_NUM ,_PU São Paulo_NPROP ,_PU Cep_N 05013-001_N ,_PU tel._N 011_N 872-3322_N )_PU ._END
 120_NUM págs_N ._END 8,8_NUM URVs_N
-História_N da_PREP+ART narração_N de_PREP jogos_N de_PREP futebol_N em_PREP São_NPROP Paulo_NPROP desde_PREP a_ART década_N de_PREP 30_N até_PREP a_ART atualidade_N ,_PU com_PREP depoimentos_N de_PREP radialistas_N ._END
+História_N da_PREP+ART narração_N de_PREP jogos_N de_PREP futebol_N em_PREP São Paulo_NPROP desde_PREP a_ART década_N de_PREP 30_N até_PREP a_ART atualidade_N ,_PU com_PREP depoimentos_N de_PREP radialistas_N ._END
 Jogando_NPROP Na_NPROP Chuva_NPROP ,_PU de_PREP Edson_NPROP Yuki_NPROP ._END
 Editora_NPROP João_NPROP Scortecci_NPROP (_PU r._NPROP Deputado_NPROP Lacerda_NPROP Franco_NPROP
 011_N 210-1179_N e_KC 210-6501_N )_PU ._END
@@ -676,7 +676,7 @@ O_ART filme_N "_PU Alma_NPROP Corsária_NPROP "_PU realiza_V em_PREP vários_PRO
 "_PU Corsária_NPROP "_PU refere_V -se_PROPESS a_ART itinerância_N ,_PU peregrinação_N ,_PU vadiagem_N ,_PU viagem_N ._END
 Num_PREP+ART plano_N imediato_ADJ ,_PU existe_V uma_ART viagem_N no_PREP+ART tempo_N ._END
 Um_ART longo_ADJ flash-back_N na_PREP+ART vida_N de_PREP dois_NUM amigos_N ,_PU Rivaldo_NPROP Torres_NPROP e_KC Teodoro_NPROP Xavier_NPROP ,_PU a_PREP partir_PREP de_PREP um_ART livro_N de_PREP poemas_N à_PREP+ART maneira_N de_PREP memórias_N ,_PU "_PU Sentimento_NPROP Ocidental_NPROP "_PU ,_PU de_PREP autoria_N de_PREP ambos_PROSUB ._END
-Toda_PROADJ a_ART narrativa_N se_PROPESS desenvolve_V a_PREP partir_PREP do_PREP+ART lançamento_N do_PREP+ART livro_N ,_PU numa_PREP+ART pastelaria_N chinesa_ADJ no_PREP+ART centro_N de_PREP São_NPROP Paulo_NPROP ._END
+Toda_PROADJ a_ART narrativa_N se_PROPESS desenvolve_V a_PREP partir_PREP do_PREP+ART lançamento_N do_PREP+ART livro_N ,_PU numa_PREP+ART pastelaria_N chinesa_ADJ no_PREP+ART centro_N de_PREP São Paulo_NPROP ._END
 A_ART superfície_N das_PREP+ART imagens_N constitui_V ,_PU porém_KC ,_PU apenas_PDEN a_ART metade_N visível_ADJ da_PREP+ART obra_N ._END
 A_ART outra_PROADJ metade_N ,_PU tão_ADV ou_KC mais_ADV importante_ADJ ,_PU é_V o_ART som_N ._END
 Os_ART fatos_N narrados_PCP ,_PU de_PREP uma_ART autoconsciente_ADJ banalidade_N ,_PU não_ADV despertariam_V maior_ADJ interesse_N ,_PU não_ADV estivessem_V carregados_PCP de_PREP sentimentos_N intraduzíveis_ADJ por_PREP imagens_N ou_KC palavras_N ,_PU e_KC só_PDEN comunicáveis_ADJ pela_PREP+ART música_N ._END
@@ -687,7 +687,7 @@ No_PREP+PROSUB que_PRO-KS se_PROPESS refere_V ao_PREP+ART tempo_N ,_PU a_ART mú
 Tem_V um_ADV pouco_ADV do_PREP+ART "_PU kitsch_N "_PU dos_PREP+ART órgãos_N de_PREP baile_N de_PREP interior_N e_KC mistura_V ritmos_N como_PREP o_ART iê-iê-iê_N e_KC o_ART hully-gully_N dos_PREP+ART anos_N 60_N com_PREP o_ART bolero_N dos_PREP+ART anos_N 50_N ._END
 Para_PREP além_PREP da_PREP+ART constituição_N da_PREP+ART atmosfera_N ,_PU a_ART música_N tem_V ainda_ADV uma_ART função_N narrativa_ADJ ,_PU não_ADV à_PREP+ART maneira_N didática_ADJ dos_PREP+ART musicais_N hollywoodianos_ADJ ,_PU mas_KC indicando_V um_ART mergulho_N auto-reflexivo_ADJ do_PREP+ART personagem_N ,_PU que_PRO-KS possibilita_V uma_ART pausa_N na_PREP+ART ação_N e_KC um_ART alto_ADJ temporal_N ._END
 Determina_V ,_PU assim_ADV ,_PU a_ART própria_PROADJ estrutura_N do_PREP+ART filme_N ,_PU exercendo_V uma_ART função_N semelhante_ADJ à_PREP+PROSUB dos_PREP+ART famosos_ADJ "_PU planos-travesseiro_N "_PU dos_PREP+ART filmes_N de_PREP Ozu_NPROP (_PU objetos_N e_KC paisagens_N que_PRO-KS introduziam_V momentos_N de_PREP repouso_N entre_PREP as_ART cenas_N de_PREP ação_N )_PU ._END
-Por_PDEN exemplo_PDEN ,_PU esta_PROADJ passagem_N :_PU Rivaldo_NPROP ,_PU o_ART garoto_N pobre_ADJ e_KC bastardo_ADJ da_PREP+ART periferia_N de_PREP São_NPROP Paulo_NPROP ,_PU abandona_V a_ART escola_N ,_PU mudando_V -se_PROPESS para_PREP Iguape_NPROP para_PREP trabalhar_V ._END
+Por_PDEN exemplo_PDEN ,_PU esta_PROADJ passagem_N :_PU Rivaldo_NPROP ,_PU o_ART garoto_N pobre_ADJ e_KC bastardo_ADJ da_PREP+ART periferia_N de_PREP São Paulo_NPROP ,_PU abandona_V a_ART escola_N ,_PU mudando_V -se_PROPESS para_PREP Iguape_NPROP para_PREP trabalhar_V ._END
 Teodoro_NPROP ,_PU o_ART "_PU filhinho_N de_N papai_N "_PU ,_PU vai_V visitar_V -lo_PROPESS ._END
 Conversando_V num_PREP+ART banco_N de_PREP praça_N ,_PU Rivaldo_NPROP descobre_V que_KS o_ART amigo_N agora_ADV namora_V a_ART garota_N que_PRO-KS ele_PROPESS mesmo_PROADJ amava_V ._END
 Em_ADV seguida_ADV ,_PU sem_PREP cortes_N ,_PU afasta_V -se_PROPESS novamente_ADV ,_PU e_KC Rivaldo_NPROP encontra_V -se_PROPESS só_PDEN no_PREP+ART banco_N ._END
@@ -771,7 +771,7 @@ O_ART jornalista_N português_ADJ Victor_NPROP Mendanha_NPROP me_PROPESS conta_V
 Dona_NPROP Pulquéria_NPROP nunca_ADV pecou_V ._END
 Quando_KS morreu_V ,_PU sua_PROADJ alma_N estava_V tão_ADV leve_ADJ que_KS disparou_V como_PREP um_ART foguete_N para_PREP o_ART céu_N ._END
 Passou_V voando_V pelo_PREP+ART inferno_N ,_PU cruzou_V o_ART purgatório_N num_PREP+ART abrir_N e_KC fechar_N de_PREP olhos_N e_KC se_PROPESS aproximava_V do_PREP+ART paraíso_N à_PREP+ART velocidade_N da_PREP+ART luz_N ._END
-"_PU O_ART céu_N é_V aqui_ADV ,_PU dona_N Pulquéria_NPROP !_PU "_PU ,_PU ouviu_V São_NPROP Pedro_NPROP gritar_V ._END
+"_PU O_ART céu_N é_V aqui_ADV ,_PU dona_N Pulquéria_NPROP !_PU "_PU ,_PU ouviu_V São Pedro_NPROP gritar_V ._END
 "_PU Eu_PROPESS nunca_ADV pequei_V !_PU "_PU ,_PU berrou_V dona_N Pulquéria_NPROP ,_PU a_PREP uma_ART velocidade_N cada_PROADJ vez_N maior_ADJ ._END
 "_PU Diz_V pelo_PDEN menos_PDEN um_ART palavrão_N ,_PU dona_N Pulquéria_NPROP !_PU
 O_ART governo_N dos_PREP+ART EUA_NPROP abandonou_V a_ART idéia_N de_PREP fotografar_V o_ART asteróide_N Geographos_NPROP com_PREP a_ART sonda_N espacial_ADJ Clementine_NPROP ,_PU que_PRO-KS já_ADV tirou_V fotos_N da_PREP+ART Lua_NPROP ._END
@@ -785,7 +785,7 @@ Atualmente_ADV ,_PU o_ART país_N despeja_V o_ART lodo_N no_PREP+ART mar_N do_PR
 As_ART alternativas_N são_V incinerar_V -lo_PROPESS ,_PU usar_V -lo_PROPESS para_PREP encher_V buracos_N ou_KC como_PREP fertilizante_N ._END
 Equipe_N desenvolve_V método_N "_PU limpo_ADJ "_PU para_PREP queimar_V lixo_N
 Free-lance_N para_PREP a_ART Folha_NPROP
-Cientistas_N do_PREP+ART Instituto_NPROP de_NPROP Pesquisas_NPROP Tecnológicas_NPROP (_PU IPT_NPROP )_PU ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU desenvolveram_V pela_PREP+ART primeira_ADJ vez_N no_PREP+ART país_N uma_ART tecnologia_N que_PRO-KS é_V capaz_ADJ de_PREP reduzir_V a_ART emissão_N de_PREP poluentes_N durante_PREP a_ART queima_N de_PREP lixo_N hospitalar_ADJ ._END
+Cientistas_N do_PREP+ART Instituto_NPROP de_NPROP Pesquisas_NPROP Tecnológicas_NPROP (_PU IPT_NPROP )_PU ,_PU em_PREP São Paulo_NPROP ,_PU desenvolveram_V pela_PREP+ART primeira_ADJ vez_N no_PREP+ART país_N uma_ART tecnologia_N que_PRO-KS é_V capaz_ADJ de_PREP reduzir_V a_ART emissão_N de_PREP poluentes_N durante_PREP a_ART queima_N de_PREP lixo_N hospitalar_ADJ ._END
 O_ART método_N se_PROPESS baseia_V no_PREP+ART plasma_N térmico_ADJ ,_PU considerado_PCP por_PREP muitos_PROSUB "_PU o_ART quarto_ADJ estado_N da_PREP+ART matéria_N "_PU ._END
 O_ART plasma_N é_V uma_ART espécie_N de_PREP "_PU sopa_N "_PU gasosa_ADJ ,_PU formada_PCP de_PREP moléculas_N inteiras_ADJ e_KC partículas_N menores_ADJ arrancadas_PCP das_PREP+ART moléculas_N ,_PU como_PREP os_ART elétrons_N ,_PU por_PDEN exemplo_PDEN ._END
 Dentro_PREP do_PREP+ART aparelho_N desenvolvido_PCP ,_PU dois_NUM pólos_N elétricos_ADJ opostos_N são_V submetidos_PCP a_PREP uma_ART voltagem_N muito_ADV alta_ADJ que_PRO-KS gera_V uma_ART área_N carregada_PCP de_PREP energia_N ._END
@@ -863,11 +863,11 @@ As_ART ligações_N se_PROPESS rompem_V e_KC as_ART moléculas_N se_PROPESS espa
 molécula_N de_PREP hidrogênio_N
 Com_PREP quantidades_N mais_ADV elevadas_PCP de_PREP calor_N ,_PU passa_V -se_PROPESS a_PREP ter_V o_ART plasma_N ,_PU que_PRO-KS é_V uma_ART "_PU sopa_N de_PREP letrinhas_N "_PU com_PREP moléculas_N inteiras_ADJ e_KC partículas_N menores_ADJ que_PRO-KS foram_V arrancadas_PCP delas_PREP+PROPESS ,_PU como_PREP por_PDEN exemplo_PDEN ,_PU os_ART elétrons_N
 Brasil_NPROP entra_V em_PREP nova_ADJ astronomia_N
-Experimento_NPROP Microsul_NPROP ,_PU montado_PCP em_PREP São_NPROP Paulo_NPROP ,_PU vai_V poder_V detectar_V partículas_N originárias_ADJ de_PREP raios_N cósmicos_ADJ
+Experimento_NPROP Microsul_NPROP ,_PU montado_PCP em_PREP São Paulo_NPROP ,_PU vai_V poder_V detectar_V partículas_N originárias_ADJ de_PREP raios_N cósmicos_ADJ
 O_ART Brasil_NPROP entra_V em_PREP uma_ART nova_N era_V astronômica_ADJ com_PREP telescópios_N capazes_ADJ de_PREP detectar_V partículas_N que_PRO-KS chegam_V à_PREP+ART Terra_NPROP com_PREP raios_N cósmicos_ADJ ._END
-Um_PROSUB dos_PREP+ART experimentos_N pioneiros_ADJ ,_PU chamado_PCP Microsul_NPROP ,_PU deve_V estar_V funcionando_V em_PREP um_NUM ano_N no_PREP+ART IAG_NPROP (_PU Instituto_NPROP Astronômico_NPROP e_NPROP Geofísico_NPROP )_PU da_PREP+ART USP_NPROP (_PU Universidade_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU ._END
+Um_PROSUB dos_PREP+ART experimentos_N pioneiros_ADJ ,_PU chamado_PCP Microsul_NPROP ,_PU deve_V estar_V funcionando_V em_PREP um_NUM ano_N no_PREP+ART IAG_NPROP (_PU Instituto_NPROP Astronômico_NPROP e_NPROP Geofísico_NPROP )_PU da_PREP+ART USP_NPROP (_PU Universidade_NPROP de_NPROP São Paulo_NPROP )_PU ._END
 "_PU O_ART IAG_NPROP fica_V num_PREP+ART local_N elevado_PCP ,_PU livre_ADJ da_PREP+ART interferência_N de_PREP montanhas_N e_KC edifícios_N "_PU ,_PU diz_V à_PREP+ART Folha_NPROP Elly_NPROP Silva_NPROP ,_PU 66_NUM ,_PU do_PREP+ART CBPF_NPROP (_PU Centro_NPROP Brasileiro_NPROP de_NPROP Pesquisas_NPROP Físicas_NPROP )_PU ,_PU que_PRO-KS teve_V a_ART iniciativa_N do_PREP+ART experimento_N ._END
-Além_PREP do_PREP+ART CBPF_NPROP ,_PU no_PREP+ART Rio_NPROP ,_PU e_KC do_PREP+ART IAG_NPROP ,_PU em_PREP São_NPROP Paulo_NPROP ,_PU a_ART equipe_N responsável_ADJ tem_V pesquisadores_N do_PREP+ART Instituto_NPROP de_NPROP Física_NPROP da_PREP+ART USP_NPROP e_KC da_PREP+ART Universidade_NPROP Federal_NPROP Fluminense_NPROP ._END
+Além_PREP do_PREP+ART CBPF_NPROP ,_PU no_PREP+ART Rio_NPROP ,_PU e_KC do_PREP+ART IAG_NPROP ,_PU em_PREP São Paulo_NPROP ,_PU a_ART equipe_N responsável_ADJ tem_V pesquisadores_N do_PREP+ART Instituto_NPROP de_NPROP Física_NPROP da_PREP+ART USP_NPROP e_KC da_PREP+ART Universidade_NPROP Federal_NPROP Fluminense_NPROP ._END
 O_ART Microsul_NPROP vai_V detectar_V partículas_N elementares_ADJ conhecidas_PCP como_PREP múons_N ,_PU que_PRO-KS vêm_V do_PREP+ART espaço_N em_PREP raios_N cósmicos_ADJ (_PU emissões_N geradas_PCP em_PREP estrelas_N ,_PU por_PDEN exemplo_PDEN )_PU ._END
 O_ART experimento_N poderá_V "_PU ver_V "_PU múons_N que_PRO-KS atingem_V a_ART Terra_NPROP horizontalmente_ADV (_PU veja_V ilustração_N )_PU ._END
 A_ART atmosfera_N funciona_V como_PREP filtro_N que_PRO-KS só_PDEN deixa_V passar_V um_ART tipo_N de_PREP múon_N (_PU com_PREP alta_ADJ energia_N )_PU ._END
@@ -877,7 +877,7 @@ Cada_PROADJ face_N contém_V três_NUM planos_N justapostos_PCP ,_PU cada_PROADJ
 Os_ART registros_N fornecem_V as_ART coordenadas_N em_PREP que_PRO-KS o_ART múon_N cruzou_V os_ART seis_NUM planos_N ._END
 A_PREP partir_PREP deles_PREP+PROPESS ,_PU computadores_N podem_V calcular_V com_PREP precisão_N de_PREP até_PDEN um_NUM grau_N o_ART ponto_N do_PREP+ART céu_N que_PRO-KS deu_V origem_N ao_PREP+ART múon_N ._END
 "_PU Informações_N astronômicas_ADJ podem_V permitir_V relacionar_V os_ART múons_N a_PREP fontes_N de_PREP raios_N cósmicos_ADJ "_PU ,_PU disse_V ._END
-O_ART projeto_N recebeu_V US$_CUR 70_NUM mil_NUM da_PREP+ART Fapesp_NPROP (_PU Fundação_NPROP de_NPROP Amparo_NPROP à_NPROP Pesquisa_NPROP do_NPROP Estado_NPROP de_NPROP São_NPROP Paulo_NPROP )_PU ,_PU US$_CUR 30_NUM mil_NUM da_PREP+ART Finep_NPROP (_PU Financiadora_NPROP de_NPROP Estudos_NPROP e_NPROP Projetos_NPROP )_PU e_KC apoio_N do_PREP+ART CNPq_NPROP (_PU Conselho_NPROP Nacional_NPROP de_NPROP Pesquisas_NPROP )_PU ._END
+O_ART projeto_N recebeu_V US$_CUR 70_NUM mil_NUM da_PREP+ART Fapesp_NPROP (_PU Fundação_NPROP de_NPROP Amparo_NPROP à_NPROP Pesquisa_NPROP do_NPROP Estado_NPROP de_NPROP São Paulo_NPROP )_PU ,_PU US$_CUR 30_NUM mil_NUM da_PREP+ART Finep_NPROP (_PU Financiadora_NPROP de_NPROP Estudos_NPROP e_NPROP Projetos_NPROP )_PU e_KC apoio_N do_PREP+ART CNPq_NPROP (_PU Conselho_NPROP Nacional_NPROP de_NPROP Pesquisas_NPROP )_PU ._END
 O_ART instituto_N italiano_ADJ também_PDEN doou_V mais_PREP de_PREP US$_CUR 1_NUM milhão_N em_PREP equipamentos_N para_PREP detectores_N maiores_ADJ ._END
 Um_PROSUB deles_PREP+PROPESS será_V montado_PCP no_PREP+ART Instituto_NPROP Militar_NPROP de_NPROP Engenharia_NPROP ,_PU no_PREP+ART Rio_NPROP ,_PU ao_PREP+ART lado_N do_PREP+ART morro_N da_PREP+ART Babilônia_NPROP ._END
 O_ART morro_N será_V utilizado_PCP como_PREP filtro_N adicional_ADJ ,_PU que_PRO-KS só_PDEN múons_N com_PREP dez_NUM vezes_N mais_ADV energia_N que_KS no_PREP+ART Microsul_NPROP conseguem_V atravessar_V ._END
