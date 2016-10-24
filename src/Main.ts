@@ -19,7 +19,7 @@ CorporaCYKParserFactory.create().then((parser) => {
     DefaultHmmTaggerFactory.create().generateModel().then(tagger => {
         console.time("tagger");
 
-        let phrases = "Logo, ao comprar produtos derivados da madeira, procure por esse selo.";
+        let phrases = `Muitas matas são protegidas por leis ambientais.`;
         let tokens = tagger.tag(phrases.trim());
         let text = new Text(tokens);
 
