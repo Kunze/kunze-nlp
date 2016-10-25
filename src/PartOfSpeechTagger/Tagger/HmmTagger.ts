@@ -8,12 +8,14 @@ import TaggedToken = require("../../PartOfSpeechTagger/TaggedToken");
 import BlankSpaceProbabilityToken = require("../../PartOfSpeechTagger/BlankSpaceProbabilityToken");
 import Token = require("../../Token");
 import EmissionDatabaseFactory = require("../Factory/EmissionDatabaseFactory");
+import TransitionDatabaseFactory = require("../Factory/TransitionDatabaseFactory");
 
 class HmmTagger implements IPartOfSpeechTagger {
     private _sentence = new PhraseBreaking();
     private _tokenizer = new Tokenizer();
-    private _emissions = EmissionDatabaseFactory.create("unigram");
-    private _transitions = new TransitionDatabase();
+    private _emissions = EmissionDatabaseFactory.create("emission");
+    private _transitions = TransitionDatabaseFactory.create("transition");
+    //private _transitions = new TransitionDatabase();
     private OPEN_CLASS = ["ADJ", "ADV", "N", "NPROP", "PCP", "V"];
 
     constructor(private _corpora: Corpora) {

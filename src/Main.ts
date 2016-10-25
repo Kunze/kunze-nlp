@@ -16,7 +16,9 @@ import TaggedToken = require("./PartOfSpeechTagger/TaggedToken");
 
 let questionGenerator = DefaultQuestionGeneratorFactory.create();
 CorporaCYKParserFactory.create().then((parser) => {
+    console.time("generateModel")
     DefaultHmmTaggerFactory.create().generateModel().then(tagger => {
+        console.timeEnd("generateModel");
         console.time("tagger");
 
         let phrases = `Muitas matas são protegidas por leis ambientais.`;
