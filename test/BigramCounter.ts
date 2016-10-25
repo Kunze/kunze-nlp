@@ -1,5 +1,5 @@
 import assert = require("assert");
-import Counter = require("../src/PartOfSpeechTagger/Counters/Counter");
+import TransitionCounter = require("../src/PartOfSpeechTagger/Counters/TransitionCounter");
 import TaggedToken = require("../src/PartOfSpeechTagger/TaggedToken");
 
 describe("BigramCounter", () => {
@@ -7,7 +7,7 @@ describe("BigramCounter", () => {
         let firstTag = new TaggedToken("O", "ART");
         let secondTag = new TaggedToken("Murilo", "NPROP");
         let newSecondTag = new TaggedToken("Brasil", "N");        
-        let bigramCounter = new Counter(firstTag.getTag());
+        let bigramCounter = new TransitionCounter(firstTag.getTag());
         bigramCounter.add(secondTag);
         bigramCounter.add(newSecondTag);
         

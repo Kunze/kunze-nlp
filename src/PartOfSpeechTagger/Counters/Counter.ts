@@ -1,7 +1,7 @@
 import MatchTag = require("./MatchTag");
 import TaggedToken = require("../../PartOfSpeechTagger/TaggedToken");
 
-class Counter {
+abstract class Counter {
     private count: number = 0;
     public tags: MatchTag[] = [];
 
@@ -47,14 +47,6 @@ class Counter {
         }
         else {
             this.tags.push(new MatchTag(taggedToken.getTag(), taggedToken.getAttributes()));
-        }
-    }
-
-    public getProbability(secondTag: string) {
-        var transitionToSecondTag = this.getTag(secondTag);
-
-        if (transitionToSecondTag) {
-            return transitionToSecondTag.getCount() / this.getCount();
         }
     }
 }
