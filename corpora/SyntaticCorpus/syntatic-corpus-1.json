@@ -489,8 +489,6 @@
 
     {"text":"Proteção ambiental","tag":"NP","attributes":[],"parsedNodes":[{"text":"Proteção","tag":"N","attributes":[],"parsedNodes":[]},{"text":"ambiental","tag":"ADJ","attributes":[],"parsedNodes":[]}]},
 
-    {"text":"Gato bonito do Murilo","tag":"S","attributes":[],"parsedNodes":[{"text":"Gato bonito","tag":"NP","attributes":[],"parsedNodes":[{"text":"Gato","tag":"N","attributes":[],"parsedNodes":[]},{"text":"bonito","tag":"ADJ","attributes":[],"parsedNodes":[]}]},{"text":"do Murilo","tag":"PP","attributes":[],"parsedNodes":[{"text":"do","tag":"PREP","attributes":[],"parsedNodes":[]},{"text":"Murilo","tag":"NPROP","attributes":[],"parsedNodes":[]}]}]},
-
     {"text":"É proibido","tag":"VP","attributes":[],"parsedNodes":[{"text":"É","tag":"V","attributes":[],"parsedNodes":[]},{"text":"proibido","tag":"PCP","attributes":[],"parsedNodes":[]}]},
 
     {"text":"Futura comercialização.","tag":"NP","attributes":[],"parsedNodes":[{"text":"Futura","tag":"ADJ","attributes":[],"parsedNodes":[]},{"text":"comercialização","tag":"N","attributes":[],"parsedNodes":[]}]},

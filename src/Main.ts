@@ -21,7 +21,7 @@ CorporaCYKParserFactory.create().then((parser) => {
         console.timeEnd("generateModel");
         console.time("tagger");
 
-        let phrases = `Muitas matas são protegidas por leis ambientais.`;
+        let phrases = `O código florestal brasileiro apresenta muitas formas de conservar as florestas.`;
         let tokens = tagger.tag(phrases.trim());
         let text = new Text(tokens);
 
