@@ -34,7 +34,7 @@ class CYKParser implements IParser {
                     //múltiplico todas as combinações possiveis
                     for (let firstToken of first) {
                         for (let secondToken of second) {
-                            let parsedNodeCollection = new ParsedNodeCollection([firstToken, secondToken]);
+                            let parsedNodeCollection = new ParsedNodeCollection(firstToken, secondToken);
                             let nodeTag = "";
 
                             //<TODO> considerar o retorno de várias regras

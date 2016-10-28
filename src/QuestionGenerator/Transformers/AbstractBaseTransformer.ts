@@ -11,11 +11,9 @@ abstract class AbstractBaseTransformer implements IQuestionExtractor {
         for (let transform of this.extractors) {
             for (let simplifiedNode of this.getSimplifications(parsedNode)) {
                 let clone = simplifiedNode.clone();
-                let questionToken = transform(clone);
+                let question = transform(clone);
 
-                if (questionToken) {
-                    questions.push(questionToken.generate());
-                }
+                questions.push(question);
             }
         }
 

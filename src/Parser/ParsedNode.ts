@@ -16,6 +16,10 @@ class ParsedNode implements IString {
         return this.attributes;
     }
 
+    public hasttribute(attribute: string): boolean {
+        return this.attributes.indexOf(attribute) >= 0;
+    }
+
     public setNodeName(nodeName: string) {
         this.tag = nodeName;
     }
@@ -80,7 +84,7 @@ class ParsedNode implements IString {
     public findAll(tags: string): ParsedNode[] {
         let parsedNodes: ParsedNode[] = [];
         let findAll = (parent: ParsedNode) => {
-            if (parent.getFirstChildTagName() == tags) {
+            if (parent.getTag() == tags || parent.getFirstChildTagName() == tags) {
                 parsedNodes.push(parent);
             }
 
@@ -92,6 +96,17 @@ class ParsedNode implements IString {
         findAll(this);
 
         return parsedNodes;
+    }
+
+    public deleteTag(tag: string) {
+        for(let i =0; i< this.parsedNodes.length; i++) {
+            let node = this.parsedNodes[i];
+            if(node.getTag() == tag) {
+                this.parsedNodes.splice(i, 1);
+            }
+        }
+
+        this.regenerateText();
     }
 
     public hasTag(tag: string): boolean {

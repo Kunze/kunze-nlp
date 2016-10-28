@@ -12,8 +12,8 @@ module DefaultHmmTaggerFactory {
         let corpus: Corpus[] = [],
             corpusReader = new CorpusReader(),
             personCorpusReader = new EntityCorpusReader("NPROP", ["PERSON"]),
-            brazilianStatesCorpusReader = new EntityCorpusReader("NPROP", ["STATE"]),
-            brazilianCitiesCorpusReader = new EntityCorpusReader("NPROP", ["CITY"]),
+            brazilianStatesCorpusReader = new EntityCorpusReader("NPROP", ["STATE", "LOCAL"]),
+            brazilianCitiesCorpusReader = new EntityCorpusReader("NPROP", ["CITY", "LOCAL"]),
             jsonCorpusReader = new JSONCorpusReader();
 
         for (let index = 1; index <= 31; index++) {

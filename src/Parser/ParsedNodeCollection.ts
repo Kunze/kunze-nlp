@@ -2,7 +2,7 @@ import ProbabilityToken = require("../PartOfSpeechTagger/ProbabilityToken");
 import ParsedNode = require("./ParsedNode");
 
 class ParsedNodeCollection {
-    constructor(private parsedNodes: ParsedNode[]) {
+    constructor(private firstNode: ParsedNode, private secondNode: ParsedNode) {
 
     }
     //<TODO> parametro opcioanl para ignorar BLANK-SPACE
@@ -11,11 +11,7 @@ class ParsedNodeCollection {
     //        {name: "V", word: "gosta"}]]
     //e retorna: "NPROP V"
     public getTags(): string {
-        return this.parsedNodes.filter((parsedResult, index, array) => {
-            return !(parsedResult.isBlankSpace());
-        }).map((parsedResult, index, array) => {
-            return parsedResult.getTag();
-        }).join(" ");
+        return `${this.firstNode.getTag()} ${this.secondNode.getTag()}`;
     }
 
     //<TODO> parametro opcioanl para ignorar BLANK-SPACE
@@ -24,25 +20,20 @@ class ParsedNodeCollection {
     //        {name: "V", word: "gosta"}]]
     //e retorna: "Murilo gosta"
     public getText(): string {
-        return this.parsedNodes.filter((parsedResult, index, array) => {
-            return !(parsedResult.isBlankSpace());
-        }).map((parsedResult, index, array) => {
-            return parsedResult.getText();
-        }).join(" ");
+        return `${this.firstNode.getText()} ${this.secondNode.getText()}`;
     }
 
-    public getAttributes() {
-        return this.parsedNodes.reduce((initial: string[], parsedNode: ParsedNode) => {
-            for (let attribute of parsedNode.getAttributes()) {
-                initial.push(attribute);
-            }
+    public getAttributes() : string[] {
+        var attributes = [];
 
-            return initial;
-        }, []);
+        attributes = [].concat.apply(attributes, this.firstNode.getAttributes());
+        attributes = [].concat.apply(attributes, this.secondNode.getAttributes());
+
+        return attributes;
     }
 
     public getNodes(): ParsedNode[] {
-        return this.parsedNodes;
+        return [this.firstNode, this.secondNode];
     }
 }
 

@@ -23,7 +23,7 @@ class SubjectTransformer extends AbstractBaseTransformer {
         if (np.is(attribute)) {
             parsedNode.replaceTag(replaceText, "NP");
 
-            return new Question(parsedNode);
+            return new Question(parsedNode).generate();
         }
     }
 
@@ -40,7 +40,7 @@ class SubjectTransformer extends AbstractBaseTransformer {
             }
             parsedNode.replaceTag("Quem", "NP");
 
-            return new Question(parsedNode);
+            return new Question(parsedNode).generate();
         },
         (parsedNode: ParsedNode) => {
             let np = parsedNode.find("NP");
@@ -55,7 +55,7 @@ class SubjectTransformer extends AbstractBaseTransformer {
 
             parsedNode.replaceTag("O que", "NP");
 
-            return new Question(parsedNode);
+            return new Question(parsedNode).generate();
         },
         (parsedNode: ParsedNode) => {
             return this.transformTo(parsedNode, "PERSON", "Qual o nome da pessoa que");
@@ -76,7 +76,7 @@ class SubjectTransformer extends AbstractBaseTransformer {
             return this.transformTo(parsedNode, "CITY", "Qual cidade");
         },
         (parsedNode: ParsedNode) => {
-            return new Question(parsedNode);
+            return new Question(parsedNode).generate();
         }
     ];
 
