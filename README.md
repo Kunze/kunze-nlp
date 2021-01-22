@@ -1,5 +1,5 @@
 # kunze-automatic-question-generator
-This library have been made in typescript and nodejs. It will be used for gererating automatic questions from a text in portuguese (pt-br). It is currently a simple part of a speech tagger, but further features like parsing and question generation will be developed in the near future. This library works through a corpora (corpora/macmorpho-v3/train) and uses a probabilistic bigram to solve part of the speech tags, even for unknown words. Actually I am using a brazilian portuguese corpus named Macmorpho-v3 (http://nilc.icmc.usp.br/macmorpho)
+This library have been made in typescript and nodejs. It will be used for gererating automatic questions from a text in portuguese (pt-br). It is currently a simple part of a speech tagger, but further features like parsing and question generation will be developed in the near future. This library works through a corpora (corpora/macmorpho-v3/train) and uses a probabilistic bigram to solve part of the speech tags, even for unknown words. Currently I am using a brazilian portuguese corpus named Macmorpho-v3 (http://nilc.icmc.usp.br/macmorpho)
 
 Temporary tests: http://www.murilokunze.com.br
 
